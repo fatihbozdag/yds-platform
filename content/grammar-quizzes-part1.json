@@ -1,0 +1,1182 @@
+{
+  "tenses-review": {
+    "id": "tenses-review",
+    "title": "Tenses Review (Present/Past/Future)",
+    "description": "Temel zaman kiplerinin (şimdiki, geçmiş, gelecek zaman) kullanımını pekiştirin",
+    "category": "grammar",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "The company ------- its annual report next week, and investors ------- eagerly for the financial results.",
+        "options": [
+          "publishes / waited",
+          "will publish / are waiting",
+          "published / wait",
+          "has published / waited",
+          "is publishing / have waited"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk gelecek zaman belirten 'next week' ifadesiyle birlikte kullanılmalı ('will publish'). İkinci boşluk şu anda devam eden bir durumu ifade ediyor ve 'eagerly' zarfıyla birlikte present continuous gerektirir ('are waiting').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 2,
+        "text": "While researchers ------- the effects of climate change, they ------- several unexpected patterns in ocean temperatures.",
+        "options": [
+          "study / discover",
+          "were studying / discovered",
+          "studied / were discovering",
+          "have studied / discover",
+          "are studying / have discovered"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'While' bağlacı geçmişte devam eden bir eylemi gösterir (past continuous: 'were studying'). İkinci boşluk bu devam eden eylem sırasında gerçekleşen tek bir olayı ifade eder (simple past: 'discovered').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 3,
+        "text": "By the time the new regulations ------- into effect, most companies ------- already ------- their policies.",
+        "options": [
+          "come / will / adjust",
+          "came / had / adjusted",
+          "will come / have / adjusted",
+          "have come / will / adjust",
+          "are coming / had / adjusted"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'By the time' ifadesi geçmiş zamanda iki farklı olayın sırasını gösterir. Önce gerçekleşen olay past perfect ('had adjusted'), sonra gerçekleşen olay simple past ('came') ile ifade edilir.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 4,
+        "text": "The museum ------- a special exhibition on ancient civilizations, which ------- thousands of visitors each month.",
+        "options": [
+          "currently hosts / attracts",
+          "is currently hosting / attracts",
+          "currently hosted / attracted",
+          "has currently hosted / will attract",
+          "will currently host / is attracting"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk 'currently' kelimesiyle şu anda devam eden bir durumu ifade eder (present continuous: 'is currently hosting'). İkinci boşluk düzenli olarak tekrarlanan bir eylemi gösterir (simple present: 'attracts').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 5,
+        "text": "Scientists believe that renewable energy sources ------- fossil fuels within the next few decades as technology -------.",
+        "options": [
+          "replace / advances",
+          "will replace / advances",
+          "replaced / advanced",
+          "are replacing / will advance",
+          "have replaced / is advancing"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Within the next few decades' gelecek zaman göstergesi olduğu için ilk boşluk 'will replace' gerektirir. İkinci boşlukta 'as' bağlacından sonra present simple kullanılır (time clauses'da gelecek anlamı için present tense kullanılır).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 6,
+        "text": "The research team ------- data for three years before they ------- their groundbreaking discovery.",
+        "options": [
+          "collected / made",
+          "had been collecting / made",
+          "was collecting / had made",
+          "collects / will make",
+          "has collected / makes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk geçmişte belirli bir süre devam eden eylemi gösterir (past perfect continuous: 'had been collecting'). İkinci boşluk bu sürecin sonunda gerçekleşen tek bir olayı ifade eder (simple past: 'made').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 7,
+        "text": "The government ------- new environmental policies, and experts ------- that these measures ------- significant impact.",
+        "options": [
+          "implements / predict / will have",
+          "is implementing / predict / will have",
+          "implemented / predicted / have",
+          "has implemented / are predicting / had",
+          "will implement / have predicted / have had"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk şu anda süregelen bir süreci gösterir (present continuous: 'is implementing'). İkinci boşluk genel bir görüşü ifade eder (simple present: 'predict'). Üçüncü boşluk gelecekteki bir sonucu belirtir (will have).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 8,
+        "text": "When the alarm -------, most employees ------- in the building, but some ------- already ------- for lunch.",
+        "options": [
+          "rang / were / had / left",
+          "was ringing / were / have / left",
+          "rings / are / had / left",
+          "had rung / were / have / left",
+          "has rung / are / had / left"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Alarm çaldığında (simple past: 'rang') çalışanlar binadalardı (past continuous: 'were'). Bazıları daha önce çıkmıştı (past perfect: 'had left'). Geçmiş zamanda sıralı olaylar söz konusu.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 9,
+        "text": "Every morning, the professor ------- his lectures carefully, and by noon he ------- at least three classes.",
+        "options": [
+          "prepares / teaches",
+          "is preparing / has taught",
+          "prepares / has taught",
+          "prepared / taught",
+          "has prepared / is teaching"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Every morning' düzenli alışkanlık ifade eder (simple present: 'prepares'). 'By noon' belirli bir zamana kadar tamamlanmış eylemi gösterir (present perfect: 'has taught').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 10,
+        "text": "The software company ------- a major update next month, which ------- several innovative features.",
+        "options": [
+          "releases / includes",
+          "will release / will include",
+          "is releasing / includes",
+          "released / included",
+          "has released / is including"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Next month' gelecek zaman belirteci olduğu için her iki boşluk da future simple gerektirir ('will release', 'will include'). Planlanmış gelecek eylemler söz konusu.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 11,
+        "text": "As the economy -------, unemployment rates ------- and consumer confidence -------.",
+        "options": [
+          "grows / fall / rises",
+          "is growing / are falling / is rising",
+          "grew / fell / rose",
+          "has grown / have fallen / has risen",
+          "will grow / will fall / will rise"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'As' bağlacı genel bir durumu veya düzenli olarak tekrarlanan olayları ifade ediyorsa simple present kullanılır. Burada ekonomik bir ilişki/kural anlatıldığı için üç boşluk da simple present gerektirir.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 12,
+        "text": "The archaeologists ------- the site for weeks when they ------- the ancient artifacts that ------- the entire excavation.",
+        "options": [
+          "excavated / found / transformed",
+          "had been excavating / found / transformed",
+          "were excavating / had found / were transforming",
+          "have excavated / find / transform",
+          "excavate / will find / will transform"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk uzun süren bir eylemi gösterir (past perfect continuous: 'had been excavating'). İkinci boşluk bu süreç sırasında gerçekleşen olayı ifade eder (simple past: 'found'). Üçüncü boşluk sonuçta olan değişikliği anlatır (simple past: 'transformed').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 13,
+        "text": "Medical researchers ------- that the new treatment ------- promising results in clinical trials that ------- last year.",
+        "options": [
+          "announce / showed / began",
+          "are announcing / showed / began",
+          "announced / shows / had begun",
+          "have announced / shows / begin",
+          "will announce / will show / begins"
+        ],
+        "correctAnswer": 0,
+        "explanation": "İlk boşluk genel bir duyuruyu ifade eder (simple present: 'announce'). İkinci boşluk geçmiş zamanda elde edilen sonuçları gösterir (simple past: 'showed'). Üçüncü boşluk geçmişte başlayan eylemi belirtir (simple past: 'began').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 14,
+        "text": "By next summer, the construction team ------- the new bridge, and traffic ------- to flow across it.",
+        "options": [
+          "completes / begins",
+          "will complete / will begin",
+          "will have completed / will begin",
+          "has completed / begins",
+          "completed / began"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'By next summer' belirli bir gelecek zamanına kadar tamamlanacak eylemi gösterir (future perfect: 'will have completed'). İkinci boşluk bu tamamlanmadan sonra başlayacak eylemi ifade eder (future simple: 'will begin').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 15,
+        "text": "The documentary filmmaker ------- rare species in the Amazon rainforest while he ------- his latest project.",
+        "options": [
+          "discovers / films",
+          "discovered / was filming",
+          "was discovering / filmed",
+          "has discovered / films",
+          "will discover / is filming"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk geçmişte gerçekleşen tek bir keşfi ifade eder (simple past: 'discovered'). İkinci boşluk bu keşfin yapıldığı sırada devam eden eylemi gösterir (past continuous: 'was filming').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      }
+    ]
+  },
+  "perfect-tenses": {
+    "id": "perfect-tenses",
+    "title": "Perfect Tenses",
+    "description": "Present Perfect, Past Perfect ve Future Perfect zamanlarının kullanımını öğrenin",
+    "category": "grammar",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "The research institute ------- three major studies on climate change, and the results ------- quite alarming.",
+        "options": [
+          "completed / were",
+          "has completed / have been",
+          "completes / are",
+          "had completed / were",
+          "will complete / will be"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk geçmişte başlayıp şimdiye kadar tamamlanmış eylemi gösterir (present perfect: 'has completed'). İkinci boşluk bu çalışmaların sonuçlarının şimdiki durumunu ifade eder (present perfect: 'have been').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 2,
+        "text": "By the time the rescue team arrived, the survivors ------- without food or water for nearly five days.",
+        "options": [
+          "were / are",
+          "have been / are",
+          "had been / were",
+          "are / have been",
+          "will have been / will be"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'By the time' ifadesi geçmiş zamanda bir olaydan önce tamamlanmış sürekli durumu gösterir. Past perfect continuous kullanılmalı ('had been'). İkinci boşluk o andaki durumu ifade eder.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 3,
+        "text": "The company ------- significant improvements in customer satisfaction since the new management team ------- over.",
+        "options": [
+          "made / took",
+          "has made / took",
+          "makes / has taken",
+          "had made / had taken",
+          "will make / takes"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Since' kelimesi present perfect gerektirir (has made). İkinci boşluk bu sürecin başlangıç noktasını gösteren tek bir geçmiş olay olduğu için simple past kullanılır (took).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 4,
+        "text": "Scientists ------- the vaccine for months before they ------- the breakthrough that led to its success.",
+        "options": [
+          "developed / made",
+          "have developed / make",
+          "had been developing / made",
+          "were developing / have made",
+          "develop / will make"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk boşluk geçmişte uzun süre devam eden eylemi gösterir (past perfect continuous: 'had been developing'). İkinci boşluk bu sürecin sonunda gerçekleşen olayı ifade eder (simple past: 'made').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 5,
+        "text": "The author ------- five bestselling novels, and critics ------- her as one of the most talented writers of her generation.",
+        "options": [
+          "wrote / recognized",
+          "has written / have recognized",
+          "writes / recognize",
+          "had written / had recognized",
+          "will write / will recognize"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk yazarın kariyeri boyunca yazdığı romanları gösterir (present perfect: 'has written'). İkinci boşluk eleştirmenlerin şimdiye kadarki değerlendirmesini ifade eder (present perfect: 'have recognized').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 6,
+        "text": "By 2030, renewable energy sources ------- fossil fuels as the primary source of electricity in many countries.",
+        "options": [
+          "replace",
+          "will replace",
+          "have replaced",
+          "will have replaced",
+          "had replaced"
+        ],
+        "correctAnswer": 3,
+        "explanation": "'By 2030' belirli bir gelecek zamanına kadar tamamlanacak eylemi gösterir. Future perfect kullanılmalı ('will have replaced').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 7,
+        "text": "The archaeological team ------- the ancient city for three years, and they ------- numerous valuable artifacts.",
+        "options": [
+          "excavated / discovered",
+          "has been excavating / have discovered",
+          "excavates / discover",
+          "had excavated / had discovered",
+          "will excavate / will discover"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk üç yıldır devam eden eylemi gösterir (present perfect continuous: 'has been excavating'). İkinci boşluk bu süre zarfında gerçekleşen sonuçları ifade eder (present perfect: 'have discovered').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 8,
+        "text": "The patient's condition ------- dramatically since the doctors ------- the new treatment protocol.",
+        "options": [
+          "improved / introduced",
+          "has improved / introduced",
+          "improves / introduce",
+          "had improved / had introduced",
+          "will improve / will introduce"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Since' kelimesi present perfect gerektirir (has improved). İkinci boşluk bu iyileşmenin başlangıç noktasını gösteren tek bir geçmiş olay olduğu için simple past kullanılır (introduced).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 9,
+        "text": "The professor realized that most students ------- the fundamental concepts before they ------- the advanced course.",
+        "options": [
+          "didn't understand / enrolled",
+          "hadn't understood / enrolled",
+          "don't understand / enroll",
+          "haven't understood / have enrolled",
+          "won't understand / will enroll"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Profesörün fark ettiği şey, öğrencilerin ileri seviye derse kaydolmadan ÖNCE temel kavramları anlamamış olmalarıydı. Bu durum past perfect gerektirir (hadn't understood). İkinci boşluk sonraki olay için simple past kullanır (enrolled).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 10,
+        "text": "The technology sector ------- rapid transformation over the past decade, and this trend ------- to continue.",
+        "options": [
+          "experienced / is expected",
+          "has experienced / is expected",
+          "experiences / expects",
+          "had experienced / was expected",
+          "will experience / will be expected"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Over the past decade' ifadesi present perfect gerektirir (has experienced). İkinci boşluk şu anki beklentiyi ifade eder ve passive yapı kullanır (is expected).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 11,
+        "text": "By the time the new regulations take effect, most companies ------- their compliance procedures.",
+        "options": [
+          "update",
+          "will update",
+          "have updated",
+          "will have updated",
+          "had updated"
+        ],
+        "correctAnswer": 3,
+        "explanation": "'By the time' ifadesi gelecekte bir zamana kadar tamamlanacak eylemi gösterir. Future perfect kullanılmalı ('will have updated').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 12,
+        "text": "The space agency ------- multiple missions to Mars, but none ------- as ambitious as the one planned for next year.",
+        "options": [
+          "launched / was",
+          "has launched / has been",
+          "launches / is",
+          "had launched / had been",
+          "will launch / will be"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk uzay ajansının şimdiye kadar gerçekleştirdiği görevleri gösterir (present perfect: 'has launched'). İkinci boşluk bu görevlerin hiçbirinin şimdiye kadar olmadığını ifade eder (present perfect: 'has been').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 13,
+        "text": "The researchers ------- the experiment three times before they ------- consistent results.",
+        "options": [
+          "repeated / obtained",
+          "have repeated / obtain",
+          "had repeated / obtained",
+          "repeat / have obtained",
+          "will repeat / will obtain"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk boşluk tutarlı sonuçlar elde etmeden ÖNCE üç kez tekrarlanan deneyi gösterir (past perfect: 'had repeated'). İkinci boşluk sonraki olayı ifade eder (simple past: 'obtained').",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 14,
+        "text": "Environmental groups ------- against deforestation for decades, and their efforts ------- some positive changes.",
+        "options": [
+          "campaigned / produced",
+          "have been campaigning / have produced",
+          "campaign / produce",
+          "had campaigned / had produced",
+          "will campaign / will produce"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'For decades' süreklilik ifadesi present perfect continuous gerektirir (have been campaigning). İkinci boşluk bu çabaların şimdiye kadar ürettiği sonuçları gösterir (present perfect: 'have produced').",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 15,
+        "text": "The students ------- all the required reading materials by the time the professor ------- the final exam.",
+        "options": [
+          "completed / announced",
+          "will complete / announces",
+          "have completed / has announced",
+          "will have completed / announces",
+          "had completed / had announced"
+        ],
+        "correctAnswer": 3,
+        "explanation": "'By the time' ifadesi gelecekte bir zamana kadar tamamlanacak eylemi gösterir (future perfect: 'will have completed'). İkinci boşlukta time clause olduğu için present simple kullanılır (announces).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      }
+    ]
+  },
+  "conditionals": {
+    "id": "conditionals",
+    "title": "Conditionals",
+    "description": "Koşul cümlelerinin (Zero, First, Second, Third, Mixed Conditionals) kullanımını öğrenin",
+    "category": "grammar",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "If the research team ------- sufficient funding, they ------- the study next month.",
+        "options": [
+          "receives / will begin",
+          "received / would begin",
+          "had received / would have begun",
+          "will receive / begin",
+          "would receive / will begin"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu first conditional cümlesidir (gelecekte olması muhtemel bir durumu ifade eder). If clause'da present simple (receives), main clause'da will + verb (will begin) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 2,
+        "text": "If scientists ------- renewable energy sources decades ago, we ------- such severe environmental problems today.",
+        "options": [
+          "develop / don't face",
+          "developed / wouldn't face",
+          "had developed / wouldn't face",
+          "would develop / didn't face",
+          "will develop / won't face"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu mixed conditional cümlesidir (geçmişteki farklı bir durum, şimdiki farklı bir sonuç). If clause'da past perfect (had developed), main clause'da would + verb (wouldn't face) kullanılır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 3,
+        "text": "If water -------, it ------- into ice.",
+        "options": [
+          "freezes / turns",
+          "will freeze / will turn",
+          "froze / would turn",
+          "had frozen / would have turned",
+          "would freeze / turned"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu zero conditional cümlesidir (bilimsel gerçekleri ve genel doğruları ifade eder). Her iki clause'da da present simple kullanılır (freezes, turns).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 4,
+        "text": "The company ------- significant losses if the marketing campaign ------- unsuccessful.",
+        "options": [
+          "will suffer / is",
+          "would suffer / were",
+          "suffers / will be",
+          "would have suffered / had been",
+          "will have suffered / is"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu second conditional cümlesidir (şu anda veya gelecekte olası olmayan/hayali bir durumu ifade eder). Main clause'da would + verb (would suffer), if clause'da simple past (were) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 5,
+        "text": "If the ancient library of Alexandria -------, we ------- access to countless valuable historical documents today.",
+        "options": [
+          "doesn't burn down / have",
+          "didn't burn down / would have",
+          "hadn't burned down / would have",
+          "wouldn't burn down / had",
+          "won't burn down / will have"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu mixed conditional cümlesidir (geçmişteki farklı bir durum, şimdiki farklı bir sonuç). If clause'da past perfect negative (hadn't burned down), main clause'da would + verb (would have) kullanılır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 6,
+        "text": "If medical researchers ------- a cure for cancer, it ------- millions of lives worldwide.",
+        "options": [
+          "discover / will save",
+          "discovered / would save",
+          "had discovered / would have saved",
+          "will discover / saves",
+          "would discover / saved"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu second conditional cümlesidir (şu anda gerçekleşmesi pek olası olmayan bir durumu ifade eder). If clause'da simple past (discovered), main clause'da would + verb (would save) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 7,
+        "text": "If you ------- metal, it -------.",
+        "options": [
+          "heat / expands",
+          "will heat / will expand",
+          "heated / would expand",
+          "had heated / would have expanded",
+          "would heat / expanded"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu zero conditional cümlesidir (bilimsel gerçekleri ifade eder). Her iki clause'da da present simple kullanılır (heat, expands).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 8,
+        "text": "The archaeological team ------- the ancient artifacts if they ------- the excavation site earlier.",
+        "options": [
+          "will discover / explore",
+          "would discover / explored",
+          "would have discovered / had explored",
+          "discover / will explore",
+          "discovered / would explore"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu third conditional cümlesidir (geçmişte gerçekleşmemiş bir durumu ve onun sonucunu ifade eder). Main clause'da would have + past participle (would have discovered), if clause'da past perfect (had explored) kullanılır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 9,
+        "text": "If the government ------- stricter environmental regulations, pollution levels ------- significantly.",
+        "options": [
+          "implements / will decrease",
+          "implemented / would decrease",
+          "had implemented / would have decreased",
+          "will implement / decreases",
+          "would implement / decreased"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu first conditional cümlesidir (gelecekte olması muhtemel bir durumu ifade eder). If clause'da present simple (implements), main clause'da will + verb (will decrease) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 10,
+        "text": "If early humans ------- fire, civilization ------- in the same way.",
+        "options": [
+          "don't discover / doesn't develop",
+          "didn't discover / wouldn't develop",
+          "hadn't discovered / wouldn't have developed",
+          "won't discover / won't develop",
+          "wouldn't discover / didn't develop"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu third conditional cümlesidir (geçmişte gerçekleşmemiş bir durumu ve onun sonucunu ifade eder). If clause'da past perfect negative (hadn't discovered), main clause'da would have + past participle (wouldn't have developed) kullanılır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 11,
+        "text": "The pharmaceutical company ------- the new drug if clinical trials ------- positive results.",
+        "options": [
+          "will launch / show",
+          "would launch / showed",
+          "launches / will show",
+          "would have launched / had shown",
+          "will have launched / show"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu first conditional cümlesidir (gelecekte olması muhtemel bir durumu ifade eder). Main clause'da will + verb (will launch), if clause'da present simple (show) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 12,
+        "text": "If I ------- more time, I ------- participate in the research project.",
+        "options": [
+          "have / will",
+          "had / would",
+          "had had / would have",
+          "will have / will",
+          "would have / had"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Bu second conditional cümlesidir (şu anda gerçek olmayan bir durumu ifade eder). If clause'da simple past (had), main clause'da would + verb (would) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 13,
+        "text": "If dinosaurs ------- extinct, the course of evolution ------- completely different.",
+        "options": [
+          "don't become / is",
+          "didn't become / would be",
+          "hadn't become / would be",
+          "won't become / will be",
+          "wouldn't become / was"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu mixed conditional cümlesidir (geçmişteki farklı bir durum, şimdiki farklı bir sonuç). If clause'da past perfect negative (hadn't become), main clause'da would + verb (would be) kullanılır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 14,
+        "text": "When you ------- bacteria to antibiotics repeatedly, they ------- resistance.",
+        "options": [
+          "expose / develop",
+          "will expose / will develop",
+          "exposed / would develop",
+          "had exposed / would have developed",
+          "would expose / developed"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Bu zero conditional cümlesidir (bilimsel gerçekleri ifade eder). 'When' kullanımıyla her iki clause'da da present simple kullanılır (expose, develop).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 15,
+        "text": "The expedition ------- successful if the weather conditions ------- more favorable last month.",
+        "options": [
+          "will be / are",
+          "would be / were",
+          "would have been / had been",
+          "is / will be",
+          "was / would be"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Bu third conditional cümlesidir (geçmişte gerçekleşmemiş bir durumu ve onun sonucunu ifade eder). Main clause'da would have + past participle (would have been), if clause'da past perfect (had been) kullanılır. 'Last month' geçmiş zaman belirteci.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      }
+    ]
+  },
+  "passive-voice": {
+    "id": "passive-voice",
+    "title": "Passive Voice",
+    "description": "Edilgen çatı yapılarının farklı zaman kiplerinde kullanımını öğrenin",
+    "category": "grammar",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "The groundbreaking research ------- by a team of international scientists last year.",
+        "options": [
+          "conducts",
+          "conducted",
+          "was conducted",
+          "has conducted",
+          "is conducting"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Araştırma yapan değil, yapılan nesne olduğu için passive yapı kullanılır. 'Last year' geçmiş zaman belirteci olduğu için simple past passive (was conducted) gerekir.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 2,
+        "text": "New environmental policies ------- by the government, and stricter regulations ------- into effect next month.",
+        "options": [
+          "are introducing / will put",
+          "have been introduced / will be put",
+          "introduced / put",
+          "were introducing / are putting",
+          "introduce / are put"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk şimdiye kadar tanıtılmış politikaları gösterir (present perfect passive: have been introduced). İkinci boşluk gelecekte uygulanacak düzenlemeleri ifade eder (future simple passive: will be put).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 3,
+        "text": "The ancient manuscripts ------- carefully by conservators when they ------- damaged during the flood.",
+        "options": [
+          "were being restored / were",
+          "had been restored / had been",
+          "are being restored / are",
+          "have been restored / have been",
+          "will be restored / will be"
+        ],
+        "correctAnswer": 0,
+        "explanation": "İlk boşluk sel sırasında devam eden bir restorasyon sürecini gösterir (past continuous passive: were being restored). İkinci boşluk o sırada meydana gelen hasarı ifade eder (simple past passive: were).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 4,
+        "text": "Currently, the new vaccine ------- in clinical trials, and results ------- by the end of the year.",
+        "options": [
+          "tests / expect",
+          "is testing / are expecting",
+          "is being tested / are expected",
+          "has tested / have expected",
+          "was tested / were expected"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Currently' şu anda devam eden bir süreci gösterir (present continuous passive: is being tested). İkinci boşluk beklenen sonuçları ifade eder (present simple passive: are expected).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 5,
+        "text": "By the time the audit ------- next month, all financial records ------- thoroughly.",
+        "options": [
+          "completes / will review",
+          "will be completed / will have been reviewed",
+          "is completed / will have been reviewed",
+          "has completed / have been reviewed",
+          "completed / were reviewed"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk boşlukta time clause olduğu için present simple passive (is completed) kullanılır. İkinci boşluk denetim tamamlanmadan önce incelenmiş olacak kayıtları gösterir (future perfect passive: will have been reviewed).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 6,
+        "text": "The archaeological site ------- by researchers for over a decade, and numerous artifacts ------- since then.",
+        "options": [
+          "excavates / discover",
+          "has been excavated / discovered",
+          "has been being excavated / have been discovered",
+          "was excavated / were discovered",
+          "is excavated / are discovered"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'For over a decade' süreklilik ifade eder (present perfect continuous passive: has been being excavated). İkinci boşluk bu süre zarfında keşfedilen eserleri gösterir (present perfect passive: have been discovered).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 7,
+        "text": "The Nobel Prize in Literature ------- to outstanding authors every year.",
+        "options": [
+          "awards",
+          "awarded",
+          "is awarded",
+          "has awarded",
+          "was awarding"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Every year' düzenli tekrarlanan bir eylemi gösterir ve ödülü veren değil, ödülün verildiği kişiler önemli olduğu için present simple passive (is awarded) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 8,
+        "text": "The company's reputation ------- severely after the scandal -------, but it ------- gradually since then.",
+        "options": [
+          "damaged / exposed / restored",
+          "was damaged / was exposed / has been restored",
+          "has damaged / has exposed / restores",
+          "is damaged / is exposed / is restoring",
+          "had damaged / had exposed / would restore"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk iki boşluk geçmişte gerçekleşen olayları gösterir (simple past passive: was damaged, was exposed). Üçüncü boşluk o zamandan beri devam eden iyileşmeyi ifade eder (present perfect passive: has been restored).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 9,
+        "text": "The patient ------- by specialists when complications -------.",
+        "options": [
+          "examines / occur",
+          "was examining / occurred",
+          "was being examined / occurred",
+          "has examined / have occurred",
+          "examined / were occurring"
+        ],
+        "correctAnswer": 2,
+        "explanation": "İlk boşluk komplikasyonlar meydana geldiğinde devam eden muayeneyi gösterir (past continuous passive: was being examined). İkinci boşluk o sırada meydana gelen komplikasyonları ifade eder (simple past active: occurred).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 10,
+        "text": "Research shows that critical thinking skills ------- through systematic practice and education.",
+        "options": [
+          "develop",
+          "can develop",
+          "can be developed",
+          "are developing",
+          "have developed"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Beceriler geliştirilen şeyler olduğu için passive yapı kullanılır. 'Can' modal fiili olasılığı ifade eder (modal + be + past participle: can be developed).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 11,
+        "text": "The data ------- carefully before the final report ------- to the board of directors.",
+        "options": [
+          "analyzed / submitted",
+          "had been analyzed / was submitted",
+          "has analyzed / has submitted",
+          "was analyzing / was submitting",
+          "is analyzed / submits"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk rapor sunulmadan ÖNCE analiz edilen veriyi gösterir (past perfect passive: had been analyzed). İkinci boşluk sonraki olayı ifade eder (simple past passive: was submitted).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 12,
+        "text": "The new technology ------- to revolutionize the healthcare industry within the next decade.",
+        "options": [
+          "expects",
+          "is expecting",
+          "is expected",
+          "has expected",
+          "was expected"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Teknoloji beklenen değil, beklentilerin konusu olduğu için passive yapı kullanılır. Şu anki beklentiyi ifade eder (present simple passive: is expected).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 13,
+        "text": "Several proposals ------- by the committee before a final decision ------- next week.",
+        "options": [
+          "will consider / will make",
+          "will be considered / is made",
+          "are considering / makes",
+          "have considered / has made",
+          "consider / make"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk gelecekte değerlendirilecek önerileri gösterir (future simple passive: will be considered). İkinci boşlukta time clause olduğu için present simple passive (is made) kullanılır.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 14,
+        "text": "The experiment ------- multiple times to ensure accuracy before the results -------.",
+        "options": [
+          "repeated / published",
+          "had been repeated / were published",
+          "has repeated / have published",
+          "was repeating / were publishing",
+          "repeats / publish"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk sonuçlar yayınlanmadan ÖNCE tekrarlanan deneyi gösterir (past perfect passive: had been repeated). İkinci boşluk sonraki olayı ifade eder (simple past passive: were published).",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 15,
+        "text": "Important discoveries ------- often ------- by accident while scientists ------- other phenomena.",
+        "options": [
+          "make / study",
+          "are / made / are studying",
+          "have / made / have studied",
+          "were / made / were studying",
+          "will / make / will study"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk kısım genel bir gerçeği ifade eder (present simple passive: are made). İkinci boşluk bilim insanlarının aktif olarak yaptığı şeyi gösterir (present continuous active: are studying).",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      }
+    ]
+  },
+  "modal-verbs": {
+    "id": "modal-verbs",
+    "title": "Modal Verbs",
+    "description": "Yardımcı fiillerin (can, could, may, might, must, should, will, would) kullanımını öğrenin",
+    "category": "grammar",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "Scientists ------- a cure for the disease within the next decade if research funding continues.",
+        "options": [
+          "must find",
+          "should find",
+          "may find",
+          "can't find",
+          "needn't find"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'May' modal fiili gelecekte olası bir durumu ifade eder. Kesinlik yok ama ihtimal var anlamını verir. 'Must' kesinlik, 'should' beklenti, 'can't' imkansızlık ifade eder.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 2,
+        "text": "The report ------- by Friday, as the board meeting has been postponed.",
+        "options": [
+          "must be submitted",
+          "should have been submitted",
+          "needn't be submitted",
+          "can't be submitted",
+          "might submit"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Toplantı ertelendiği için raporu Cuma'ya kadar sunma zorunluluğu kalktı. 'Needn't' (need not) bir şeyin gerekli olmadığını ifade eder.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 3,
+        "text": "The ancient civilization ------- advanced knowledge of astronomy, given the precision of their astronomical observations.",
+        "options": [
+          "should have",
+          "must have had",
+          "might have",
+          "can't have had",
+          "needn't have had"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Geçmişte bir durumun neredeyse kesin olduğuna dair güçlü bir çıkarımı 'must have + past participle' ifade eder. Gözlemlerin hassasiyeti bu sonucu destekliyor.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 4,
+        "text": "Researchers ------- the data more carefully before publishing their findings. Now they have to retract the paper.",
+        "options": [
+          "should analyze",
+          "must analyze",
+          "should have analyzed",
+          "must have analyzed",
+          "might analyze"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Should have + past participle' geçmişte yapılmayan ama yapılması gereken bir eylemi ifade eder. Makalenin geri çekilmesi dikkatli analiz yapılmadığını gösteriyor.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 5,
+        "text": "Students ------- use electronic devices during the examination.",
+        "options": [
+          "might not",
+          "don't have to",
+          "mustn't",
+          "shouldn't have",
+          "needn't"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Mustn't' (must not) kesin yasağı ifade eder. Sınav sırasında elektronik cihaz kullanımı yasaktır. 'Don't have to' ve 'needn't' gereklilik olmadığını gösterir.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 6,
+        "text": "The company's profits ------- significantly if they had implemented the new strategy earlier.",
+        "options": [
+          "should increase",
+          "would increase",
+          "would have increased",
+          "must have increased",
+          "might increase"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Geçmişte gerçekleşmemiş bir durumun hipotetik sonucunu 'would have + past participle' ifade eder. Bu third conditional yapısıdır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 7,
+        "text": "The experiment ------- under controlled conditions to ensure accurate results.",
+        "options": [
+          "can conduct",
+          "should conduct",
+          "must be conducted",
+          "might conduct",
+          "would conduct"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deney yapan değil, yapılan nesne olduğu için passive yapı gerekir. 'Must be + past participle' zorunluluğu passive yapıda ifade eder.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 8,
+        "text": "You ------- taken an umbrella this morning; it's pouring rain now.",
+        "options": [
+          "should",
+          "must",
+          "should have",
+          "must have",
+          "might"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Should have + past participle' geçmişte yapılmayan ama yapılmasının iyi olacağı bir eylemi ifade eder. Şimdi yağmur yağıyor ve şemsiye almadınız.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 9,
+        "text": "The archaeological team ------- excavate the site further, but they ------- permission from the local authorities first.",
+        "options": [
+          "can / should obtain",
+          "would like to / must obtain",
+          "should / might obtain",
+          "must / can obtain",
+          "might / would obtain"
+        ],
+        "correctAnswer": 1,
+        "explanation": "İlk boşluk isteklerini ifade eder ('would like to'). İkinci boşluk zorunluluğu gösterir ('must obtain'). Yerel otoritelerden izin almak zorunludur.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 10,
+        "text": "The patient's symptoms ------- caused by a viral infection, but we need further tests to be certain.",
+        "options": [
+          "must be",
+          "can't be",
+          "could be",
+          "should have been",
+          "needn't be"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Could be' bir olasılığı ifade eder ama kesin değildir. 'We need further tests' ifadesi belirsizliği gösteriyor. 'Must be' kesinlik ifade eder.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 11,
+        "text": "The research proposal ------- more detailed methodology section according to the review committee's feedback.",
+        "options": [
+          "should include",
+          "must have included",
+          "should have included",
+          "might include",
+          "can't include"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Should have + past participle' geçmişte yapılması gereken ama yapılmayan bir eylemi ifade eder. Geri bildirim eksik bir bölüm olduğunu gösteriyor.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 12,
+        "text": "Einstein ------- extremely intelligent to develop the theory of relativity.",
+        "options": [
+          "should be",
+          "must have been",
+          "might be",
+          "can't have been",
+          "would be"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Must have been' geçmişteki bir durum hakkında güçlü bir çıkarımı ifade eder. Görelilik teorisini geliştirmek olağanüstü zeka gerektirir.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 13,
+        "text": "Participants ------- bring their own laptops, as the conference organizers will provide computers.",
+        "options": [
+          "mustn't",
+          "shouldn't",
+          "don't have to",
+          "can't",
+          "might not"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Don't have to' bir şeyin gerekli olmadığını ifade eder. Organizatörler bilgisayar sağladığı için katılımcıların kendi laptoplarını getirme zorunluluğu yok.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      },
+      {
+        "id": 14,
+        "text": "If the vaccine had been available earlier, many lives -------.",
+        "options": [
+          "can be saved",
+          "would save",
+          "could have been saved",
+          "should save",
+          "must have saved"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Geçmişte gerçekleşmemiş bir durumun hipotetik sonucunu passive yapıda 'could have been + past participle' ifade eder. Bu third conditional yapısıdır.",
+        "category": "grammar",
+        "difficulty": "advanced"
+      },
+      {
+        "id": 15,
+        "text": "The study ------- peer review before publication, as this is standard academic practice.",
+        "options": [
+          "should undergo",
+          "might undergo",
+          "must undergo",
+          "can undergo",
+          "would undergo"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Must' zorunluluğu ifade eder. 'Standard academic practice' ifadesi hakem değerlendirmesinin zorunlu olduğunu gösteriyor.",
+        "category": "grammar",
+        "difficulty": "intermediate"
+      }
+    ]
+  }
+}

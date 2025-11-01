@@ -1,0 +1,53 @@
+{
+  "yds-full-1": {
+    "id": "yds-full-1",
+    "title": "YDS Tam Boy Deneme Sınavı 1",
+    "description": "Gerçek YDS formatında 80 soruluk tam boy deneme sınavı - Tüm soru tipleri dahil",
+    "duration_minutes": 180,
+    "total_questions": 80,
+    "question_types": {
+      "vocabulary_grammar": 10,
+      "sentence_completion": 10,
+      "closest_meaning": 10,
+      "cloze_test": 10,
+      "irrelevant_sentence": 10,
+      "reading_comprehension": 30
+    },
+    "created_at": "2025-01-05T10:00:00Z",
+    "content_file": "/exams/yds-full-1.json"
+  },
+  "yds-full-2": {
+    "id": "yds-full-2",
+    "title": "YDS Tam Boy Deneme Sınavı 2",
+    "description": "Gerçek YDS formatında 80 soruluk tam boy deneme sınavı - Tüm soru tipleri dahil",
+    "duration_minutes": 180,
+    "total_questions": 80,
+    "question_types": {
+      "vocabulary_grammar": 10,
+      "sentence_completion": 10,
+      "closest_meaning": 10,
+      "cloze_test": 10,
+      "irrelevant_sentence": 10,
+      "reading_comprehension": 30
+    },
+    "created_at": "2025-01-05T11:00:00Z",
+    "content_file": "/exams/yds-full-2.json"
+  },
+  "yds-full-3": {
+    "id": "yds-full-3",
+    "title": "YDS Tam Boy Deneme Sınavı 3",
+    "description": "Gerçek YDS formatında 80 soruluk tam boy deneme sınavı - Tüm soru tipleri dahil",
+    "duration_minutes": 180,
+    "total_questions": 80,
+    "question_types": {
+      "vocabulary_grammar": 10,
+      "sentence_completion": 10,
+      "closest_meaning": 10,
+      "cloze_test": 10,
+      "irrelevant_sentence": 10,
+      "reading_comprehension": 30
+    },
+    "created_at": "2025-01-05T12:00:00Z",
+    "content_file": "/exams/yds-full-3.json"
+  }
+}

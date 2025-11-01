@@ -1,0 +1,342 @@
+{
+  "section": "5.2",
+  "title": "Bilgi Akışı ve Cümle Uzunluğu",
+  "topics": [
+    {
+      "id": "5.2.1",
+      "title": "Uzun Cümle Bölme, Yan Tümceleri Öne/Arkaya Alma",
+      "content": "İngilizce akademik metinler uzun, karmaşık cümleler içerebilir (25-40+ kelime) ve birden fazla yan cümle (subordinate clause) barındırabilir. Türkçe'ye çeviride bu cümlelerin doğrudan aktarılması okunabilirliği düşürür. Etkili çeviri stratejileri: cümle bölme, yan cümce sırasını değiştirme ve bilgi akışını Türkçe dilin doğasına uyarlama.\n\n**1. Uzun Cümleleri Bölme**: İngilizce'de tek cümle → Türkçe'de 2-3 cümle. Örnek: 'Although the methodology was sound and the sample representative, the researchers failed to account for a critical confounding variable, which undermines the validity of their conclusions' → Türkçe: 'Metodoloji sağlam ve örneklem temsili olmasına rağmen araştırmacılar kritik bir karıştırıcı değişkeni hesaba katmadı. Bu durum sonuçların geçerliliğini zayıflatıyor.' (Tek cümle yerine iki cümle, 'which' yan cümlesi ayrı cümle oldu).\n\n**2. Yan Tümce Sıralaması - Zaman/Neden Yan Cümleleri**: İngilizce'de sıralama esnek (before/after main clause), Türkçe'de genellikle yan cümle önce gelir. Örnek: 'Researchers collected extensive data before they analyzed the patterns' → 'Araştırmacılar örüntüleri analiz etmeden önce kapsamlı veri topladı' (yan cümle öne alındı). 'After the intervention, students showed improvement' → 'Müdahaleden sonra öğrenciler gelişme gösterdi' (Türkçe'de zaten öne geliyor).\n\n**3. İlgi Zamiri (Relative Clause) Yan Cümleleri**: İngilizce'de 'which/who/that' ile uzun yan cümleler → Türkçe'de kısıtlayıcı (restrictive) ise 'ki' veya sıfat-fiil, açıklayıcı (non-restrictive) ise ayrı cümle. Örnek: 'The study, which was conducted over three years, revealed significant trends' → 'Üç yıl boyunca yürütülen çalışma önemli eğilimleri ortaya koydu' (sıfat-fiil yapısı) veya 'Çalışma üç yıl boyunca yürütüldü. Önemli eğilimleri ortaya koydu' (ayrı cümleler).\n\n**4. Koşul Yan Cümleleri**: 'If' cümleleri Türkçe'de önce gelir. Örnek: 'The theory would be validated if future studies replicate the findings' → 'Gelecekteki çalışmalar bulguları tekrarlasaydı teori doğrulanırdı' (if-clause öne alındı).\n\n**5. Bağlaçlarla Bilgi Akışı**: İngilizce'de 'and' ile birleştirilmiş uzun cümleler → Türkçe'de ayrı cümleler veya farklı bağlaç. Örnek: 'The sample was small, and the attrition rate was high, and these factors limit generalizability' → 'Örneklem küçüktü. Ayrıca, ayrılma oranı yüksekti. Bu faktörler genellenebilirliği sınırlar.' (Üç ayrı cümle).\n\n**6. Nominal Yapılardan Fiil Yapısına**: İngilizce nominal style (isimleştirme) → Türkçe'de fiil yapısı daha doğal. 'The implementation of the intervention resulted in improvement' → 'Müdahale uygulandığında/uygulandıktan sonra gelişme görüldü' (implementation → uygulandı).\n\n**Stratejik Notlar**: (a) 25+ kelimelik İngilizce cümle → Türkçe'de 2-3 cümleye böl, (b) Yan cümleler genellikle ana cümleden önce gelir Türkçe'de (SOV yapısı), (c) 'Which' non-restrictive → ayrı cümle veya 'ki', (d) Bilgi akışı: bilinen → yeni (topic → comment), (e) Noktalama: Türkçe'de daha kısa cümleler, daha fazla nokta.",
+      "examples": [
+        "Long sentence split: 'Although numerous studies have investigated this phenomenon using various methodologies, a consensus has not yet emerged regarding its underlying mechanisms' → 'Pek çok çalışma bu fenomeni farklı metodolojiler kullanarak araştırmıştır. Ancak, temel mekanizmalarına dair henüz bir görüş birliği oluşmamıştır.'",
+        "Relative clause (restrictive): 'The participants who completed all sessions showed greater improvement' → 'Tüm oturumları tamamlayan katılımcılar daha fazla gelişme gösterdi.' (sıfat-fiil)",
+        "Relative clause (non-restrictive): 'The intervention, which lasted six months, proved effective' → 'Altı ay süren müdahale etkili oldu.' OR 'Müdahale altı ay sürdü. Etkili oldu.'",
+        "Time clause fronted: 'After analyzing the data thoroughly, researchers identified three key patterns' → 'Verileri kapsamlı şekilde analiz ettikten sonra araştırmacılar üç temel örüntü belirledi.'",
+        "Conditional fronted: 'If confounding variables had been controlled, the results would have been more valid' → 'Karıştırıcı değişkenler kontrol edilmiş olsaydı, sonuçlar daha geçerli olurdu.'",
+        "Nominalization → verb: 'The analysis of the data led to the discovery of novel patterns' → 'Veriler analiz edildiğinde yeni örüntüler keşfedildi.'",
+        "Multiple 'and' split: 'The study was rigorous, and the findings were significant, and they have important implications' → 'Çalışma titiz yapılmıştır. Bulgular önemlidir. Önemli çıkarımlara sahiptir.'",
+        "Causal clause fronted: 'Because the sample was not random, generalization is limited' → 'Örneklem rastgele olmadığı için genelleme sınırlıdır.'",
+        "Purpose clause: 'Researchers simplified procedures in order to reduce participant burden' → 'Katılımcı yükünü azaltmak için araştırmacılar prosedürleri basitleştirdi.'",
+        "Complex embedded: 'The theory that researchers proposed, which challenges existing paradigms, has gained support' → 'Araştırmacıların öne sürdüğü ve mevcut paradigmaları sorgulayan teori destek kazandı.' OR separate: 'Araştırmacılar bir teori öne sürdü. Bu teori mevcut paradigmaları sorguluyor. Destek kazandı.'",
+        "Participial phrase: 'Having analyzed the preliminary data, the team decided to expand the study' → 'Ön verileri analiz ettikten sonra ekip çalışmayı genişletmeye karar verdi.'",
+        "Passive long → active short: 'It was found by the researchers that cognitive load significantly affects performance' → 'Araştırmacılar bilişsel yükün performansı önemli ölçüde etkilediğini buldu.'",
+        "Appositive → separate: 'Dr. Smith, a leading expert in the field, argues that the theory is flawed' → 'Dr. Smith alanında önde gelen bir uzmandır. Teorinin kusurlu olduğunu öne sürüyor.'",
+        "Concession clause: 'Though the results were promising, further research is needed' → 'Sonuçlar umut verici olsa da daha fazla araştırma gereklidir.'",
+        "Result clause split: 'The intervention was implemented poorly, so that the expected benefits did not materialize' → 'Müdahale kötü uygulandı. Bu nedenle beklenen faydalar gerçekleşmedi.'"
+      ],
+      "exercises": [
+        {
+          "question": "Although the study was carefully designed and rigorously conducted, the small sample size limits the generalizability of the findings.\n\nBu cümlenin en iyi Türkçe çevirisi:",
+          "options": [
+            "Çalışma dikkatle tasarlanmış ve titizlikle yürütülmüş olsa da küçük örneklem büyüklüğü bulguların genellenebilirliğini sınırlar.",
+            "Çalışma dikkatle tasarlanmıştır ve titizlikle yürütülmüştür ama küçük örneklem büyüklüğü bulguların genellenebilirliğini sınırlamaktadır.",
+            "Çalışma dikkatle tasarlanmış ve titizlikle yürütülmüş olmasına rağmen, küçük örneklem büyüklüğü bulguların genellenebilirliğini sınırlar.",
+            "Çalışmanın dikkatlice tasarlanması ve titizlikle yürütülmesi küçük örneklem büyüklüğünün bulguların genellenebilirliğini sınırlamasını engellemedi.",
+            "Küçük örneklem büyüklüğü bulguların genellenebilirliğini sınırlar çünkü çalışma dikkatle tasarlanmış ve titizlikle yürütülmüştü."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Concession clause ('although') Türkçe'de -sA/-sA da ile başa alınmış, bilgi akışı korunmuş, okunabilir. B çok mekanik ve tekrarlayan 've', C de iyi ama A daha akıcı, D aşırı karmaşık nominalization, E neden-sonuç ilişkisi yanlış (concession değil)."
+        },
+        {
+          "question": "The researchers, who had been working on the project for over five years, published their findings in a leading journal.\n\nEn uygun Türkçe karşılık:",
+          "options": [
+            "Proje üzerinde beş yılı aşkın süredir çalışan araştırmacılar bulgularını önde gelen bir dergide yayımladı.",
+            "Araştırmacılar proje üzerinde beş yılı aşkın süredir çalışmışlardı ve bulgularını önde gelen bir dergide yayımladılar.",
+            "Araştırmacılar, proje üzerinde beş yılı aşkın süredir çalışmışlardı, bulgularını önde gelen bir dergide yayımladı.",
+            "Beş yılı aşkın süredir proje üzerinde çalışan araştırmacıların bulguları önde gelen bir dergide yayımlandı.",
+            "Bulgularını önde gelen bir dergide yayımlayan araştırmacılar proje üzerinde beş yılı aşkın süredir çalışıyordu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Non-restrictive relative clause ('who had been working') → sıfat-fiil yapısıyla ('çalışan') ana cümleyle birleştirilmiş, doğal Türkçe akış. B 've' ile ayrı cümle gibi (uygunsuz), C virgül kullanımı hatalı, D pasif yapı (gereksiz), E zaman uyumsuzluğu ('çalışıyordu' yerine 'çalışan' veya 'çalışmış')."
+        },
+        {
+          "question": "Because the data were collected using non-standardized instruments, the reliability of the measurements is questionable.\n\nTürkçe çeviri:",
+          "options": [
+            "Veriler standart olmayan araçlar kullanılarak toplandığı için ölçümlerin güvenirliği şüphelidir.",
+            "Ölçümlerin güvenirliği şüphelidir çünkü veriler standart olmayan araçlar kullanılarak toplandı.",
+            "Veriler standart olmayan araçlar kullanılarak toplandığında ölçümlerin güvenirliği şüpheli olur.",
+            "Standart olmayan araçlar kullanılarak verilerin toplanması ölçümlerin güvenirliğini şüpheli kılar.",
+            "Ölçümlerin güvenirliği şüphelidir ve veriler standart olmayan araçlar kullanılarak toplandı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Causal clause ('because') Türkçe'de yan cümle önce gelir, '-dığı için' bağlacı uygun, bilgi akışı neden → sonuç. B de doğru ama A daha Türkçe'ye özgü sıralama, C 'olur' genel gerçek gibi (spesifik durum değil), D nominalization aşırı (fiil yapısı daha iyi), E 've' ile sıralı eylem gibi (neden-sonuç ilişkisi zayıf)."
+        },
+        {
+          "question": "The intervention proved effective, which surprised many critics who had predicted its failure.\n\nBu cümlenin en iyi Türkçe karşılığı:",
+          "options": [
+            "Müdahale etkili oldu. Bu durum başarısızlığını öngören pek çok eleştirmeni şaşırttı.",
+            "Müdahale etkili oldu ki bu başarısızlığını öngören pek çok eleştirmeni şaşırttı.",
+            "Müdahale etkili oldu ve bu durum başarısızlığını öngören pek çok eleştirmeni şaşırttı.",
+            "Başarısızlığını öngören pek çok eleştirmenin şaşırmasına neden olan müdahale etkili oldu.",
+            "Müdahalenin etkili olması başarısızlığını öngören pek çok eleştirmeni şaşırttı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Non-restrictive 'which' → ayrı cümle olarak çevrilmiş ('Bu durum'), okunabilirlik maksimum. B 'ki' bağlacı da olası ama A daha açık, C 've' zayıf bağlantı (sonuç ilişkisi net değil), D cümle sıralaması karmaşık, E nominalization ('olması') gereksiz."
+        },
+        {
+          "question": "If researchers had controlled for socioeconomic status, the observed differences might have disappeared.\n\nTürkçe çeviri:",
+          "options": [
+            "Araştırmacılar sosyoekonomik durumu kontrol etmiş olsaydı, gözlemlenen farklılıklar ortadan kalkabilirdi.",
+            "Gözlemlenen farklılıklar ortadan kalkabilirdi eğer araştırmacılar sosyoekonomik durumu kontrol etmiş olsaydı.",
+            "Araştırmacıların sosyoekonomik durumu kontrol etmesi gözlemlenen farklılıkların ortadan kalkmasına yol açabilirdi.",
+            "Sosyoekonomik durum kontrol edilseydi gözlemlenen farklılıklar ortadan kalkar.",
+            "Gözlemlenen farklılıklar ortadan kalktı çünkü araştırmacılar sosyoekonomik durumu kontrol etti."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Past unreal conditional ('if... had, would have') → Türkçe'de koşul yan cümlesi önce ('-sA idi'), sonuç sonra ('-ebilir idi'), doğal sıralama. B İngilizce sıralaması (uygunsuz Türkçe'de), C nominalization gereksiz, D simple conditional (past unreal değil), E past simple (conditional yok, yanlış)."
+        },
+        {
+          "question": "The analysis of the qualitative data, which involved coding over 200 interview transcripts, revealed three major themes.\n\nEn uygun Türkçe karşılık:",
+          "options": [
+            "200'den fazla mülakat dökümünün kodlanmasını içeren nitel veri analizi üç ana tema ortaya koydu.",
+            "Nitel veri analizi 200'den fazla mülakat dökümünün kodlanmasını içerdi ve üç ana tema ortaya koydu.",
+            "Nitel veri analizi yapıldı, 200'den fazla mülakat dökümü kodlandı ve üç ana tema ortaya çıktı.",
+            "200'den fazla mülakat dökümü kodlanarak nitel veri analizi yapıldı. Üç ana tema ortaya çıktı.",
+            "Nitel veriler analiz edildi. Bu analiz 200'den fazla mülakat dökümünün kodlanmasını içerdi. Üç ana tema ortaya çıktı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Nominal yapı Türkçe'de sıfat-fiil ile doğal şekilde çevrilmiş ('kodlanmasını içeren'), tek cümle okunabilir. B 've' ile uzatılmış (gereksiz), C üç ayrı cümle (fazla bölünmüş), D iki cümle olası ama A daha bütünlüklü, E üç cümle aşırı bölünmüş."
+        },
+        {
+          "question": "Having reviewed the literature extensively, the researchers identified a significant gap in existing knowledge.\n\nTürkçe karşılık:",
+          "options": [
+            "Literatürü kapsamlı şekilde inceledikten sonra araştırmacılar mevcut bilgide önemli bir boşluk belirledi.",
+            "Araştırmacılar literatürü kapsamlı şekilde inceledi ve mevcut bilgide önemli bir boşluk belirledi.",
+            "Literatürün kapsamlı şekilde incelenmesi araştırmacıların mevcut bilgide önemli bir boşluk belirlemesine yol açtı.",
+            "Araştırmacıların literatürü kapsamlı şekilde incelemesi sonucunda mevcut bilgide önemli bir boşluk belirlendi.",
+            "Mevcut bilgide önemli bir boşluk belirlendi çünkü araştırmacılar literatürü kapsamlı şekilde incelemişti."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Participial phrase ('having reviewed') → '-dIktAn sonra' yapısıyla çevrilmiş, zamansal ilişki net, okunabilir. B 've' ile sıralı (zamansal sıra vurgusu zayıf), C nominalization aşırı, D pasif + nominalization gereksiz karmaşık, E neden-sonuç (temporal sequence değil)."
+        },
+        {
+          "question": "The study, conducted over a period of three years with 500 participants from diverse backgrounds, provides compelling evidence for the hypothesis.\n\nBu cümlenin en iyi Türkçe çevirisi:",
+          "options": [
+            "Farklı geçmişlerden 500 katılımcıyla üç yıl boyunca yürütülen çalışma hipotez için ikna edici kanıt sunuyor.",
+            "Çalışma üç yıl boyunca farklı geçmişlerden 500 katılımcıyla yürütüldü ve hipotez için ikna edici kanıt sunuyor.",
+            "Çalışma üç yıl sürdü. 500 katılımcı farklı geçmişlerden geldi. Hipotez için ikna edici kanıt sundu.",
+            "Hipotez için ikna edici kanıt sunan çalışma farklı geçmişlerden 500 katılımcıyla üç yıl boyunca yürütüldü.",
+            "Üç yıl boyunca yürütülen ve farklı geçmişlerden 500 katılımcıyı içeren çalışma hipotez için ikna edici kanıtlar sağlamaktadır."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Appositive/participial phrase sıfat-fiil yapısıyla ('yürütülen') başa alınmış, bilgi akışı korunmuş, tek cümle okunabilir. B 've' ile bölünmüş (uygunsuz), C aşırı bölünmüş üç cümle, D sıralama zayıf ('sundu' yerine 'sunan' daha iyi), E çok resmi '-maktadır' yapısı."
+        },
+        {
+          "question": "While some researchers argue for quantitative methods, others contend that qualitative approaches provide richer insights.\n\nTürkçe çeviri:",
+          "options": [
+            "Bazı araştırmacılar nicel yöntemleri savunurken diğerleri nitel yaklaşımların daha zengin içgörüler sağladığını öne sürüyor.",
+            "Bazı araştırmacılar nicel yöntemleri savunur ve diğerleri nitel yaklaşımların daha zengin içgörüler sağladığını öne sürer.",
+            "Bazı araştırmacılar nicel yöntemleri savunur ama diğerleri nitel yaklaşımların daha zengin içgörüler sağladığını öne sürer.",
+            "Nicel yöntemler bazı araştırmacılar tarafından savunulurken nitel yaklaşımlar diğerleri tarafından daha zengin içgörüler sağlıyor.",
+            "Bazı araştırmacılar nicel yöntemleri savunur. Diğerleri ise nitel yaklaşımların daha zengin içgörüler sağladığını öne sürer."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Contrast ('while') → '-Irken' bağlacıyla tek cümlede kontrast korunmuş, akıcı. B 've' contrast vermez (uygunsuz), C 'ama' olası ama '-Irken' daha zarif, D pasif ve yapay, E iki cümle (contrast bağlacısız, zayıf)."
+        },
+        {
+          "question": "The implementation of the new policy, which was met with considerable resistance from stakeholders, ultimately led to significant improvements in outcomes.\n\nEn uygun Türkçe karşılık:",
+          "options": [
+            "Paydaşlar tarafından önemli direnişle karşılanan yeni politikanın uygulanması sonuçta çıktılarda önemli iyileşmelere yol açtı.",
+            "Yeni politika uygulandı. Paydaşlar tarafından önemli direnişle karşılandı. Sonuçta çıktılarda önemli iyileşmelere yol açtı.",
+            "Yeni politikanın uygulanması paydaşlar tarafından önemli direnişle karşılandı ve sonuçta çıktılarda önemli iyileşmelere yol açtı.",
+            "Paydaşlar yeni politikayı önemli ölçüde direndi ama uygulanması sonuçta çıktılarda önemli iyileşmelere yol açtı.",
+            "Yeni politika uygulanınca paydaşlar direndiler ancak sonuçta çıktılarda önemli iyileşmeler görüldü."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Non-restrictive clause sıfat-fiil ile entegre ('karşılanan'), nominalization ('uygulanması') uygun, bilgi akışı korunmuş, okunabilir. B aşırı bölünmüş, C 've' ile bağlantı zayıf, D 'direndi' yanlış yapı (politikayı değil, politikaya), E basitleştirilmiş ama bilgi kaybı ('implementation' eksik)."
+        },
+        {
+          "question": "It is important to note that, despite the promising results, further validation is required before the intervention can be widely adopted.\n\nTürkçe karşılık:",
+          "options": [
+            "Umut verici sonuçlara rağmen müdahale yaygın olarak benimsenmeden önce daha fazla doğrulamanın gerekli olduğunu belirtmek önemlidir.",
+            "Belirtmek önemlidir ki umut verici sonuçlara rağmen müdahale yaygın olarak benimsenmeden önce daha fazla doğrulama gereklidir.",
+            "Umut verici sonuçlar var. Ancak, müdahale yaygın olarak benimsenmeden önce daha fazla doğrulama gereklidir. Bunu belirtmek önemlidir.",
+            "Müdahale yaygın olarak benimsenmeden önce daha fazla doğrulama gereklidir çünkü sonuçlar umut verici olsa da yeterli değildir.",
+            "Daha fazla doğrulamanın gerekli olduğu, umut verici sonuçlara rağmen müdahale yaygın olarak benimsenmeden önce belirtilmelidir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'It is important to note that' → 'belirtmek önemlidir', concession ('despite') → 'rağmen', bilgi akışı korunmuş. B 'belirtmek önemlidir ki' uygunsuz Türkçe, C aşırı bölünmüş, D neden-sonuç ('yeterli değil' eklemiş, metinde yok), E pasif + karmaşık yapı."
+        },
+        {
+          "question": "Given that the participants were volunteers, the findings may not generalize to populations where participation is mandatory.\n\nBu cümlenin en iyi Türkçe çevirisi:",
+          "options": [
+            "Katılımcılar gönüllü olduğu için bulgular katılımın zorunlu olduğu popülasyonlara genellenemeyebilir.",
+            "Katılımcıların gönüllü olması göz önüne alındığında bulgular katılımın zorunlu olduğu popülasyonlara genellenemeyebilir.",
+            "Bulgular katılımın zorunlu olduğu popülasyonlara genellenemeyebilir çünkü katılımcılar gönüllüydü.",
+            "Katılımcılar gönüllüdür. Bu nedenle bulgular katılımın zorunlu olduğu popülasyonlara genellenemeyebilir.",
+            "Katılımların gönüllü olması nedeniyle bulgular zorunlu katılım popülasyonlarına genelleme yapmayabilir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Given that' → '-dığı için' (neden yan cümlesi önde), akıcı ve doğal. B 'göz önüne alındığında' da doğru ama A daha kısa, C de doğru ama yan cümle arkada (A daha Türkçe'ye uygun), D iki cümle (gereksiz), E 'genelleme yapmayabilir' uygunsuz ifade."
+        }
+      ]
+    },
+    {
+      "id": "5.2.2",
+      "title": "Adlaştırma → Fiilleştirme Stratejileri",
+      "content": "İngilizce akademik yazı 'nominal style' (adlaştırma/nominalization) tercih eder: fiiller isim formuna dönüştürülür (analyze → analysis, implement → implementation). Türkçe'de ise fiil yapıları daha doğal ve okunabilirdir. YDS/YÖKDİL çevirilerinde İngilizce nominal yapıları Türkçe fiil yapısına dönüştürmek çeviri kalitesini artırır.\n\n**1. Basit Adlaştırma → Fiil**: İngilizce 'The implementation of the policy...' → Türkçe 'Politika uygulandığında/uygulanınca...' veya 'Politikanın uygulanması...' (her ikisi OK ama fiil daha akıcı). Örnek: 'The analysis of the data revealed...' → 'Veriler analiz edildiğinde... ortaya çıktı' (daha doğal) veya 'Verilerin analizi... ortaya koydu' (kabul edilebilir ama daha resmi).\n\n**2. Zincirleme Adlaştırma → Basitleştirme**: 'The investigation of the relationship between X and Y' → 'X ve Y arasındaki ilişkinin araştırılması' (doğru ama ağır) → 'X ile Y arasındaki ilişki araştırıldığında' (daha hafif). Örnek: 'The evaluation of the effectiveness of the intervention' → 'Müdahalenin etkililiğinin değerlendirilmesi' (çok katmanlı) → 'Müdahalenin ne kadar etkili olduğu değerlendirildiğinde' veya 'Müdahale ne kadar etkili değerlendirildi'.\n\n**3. Passive Nominalization → Active Verb**: 'The completion of the task by participants' → 'Katılımcılar görevi tamamladığında' veya 'Katılımcıların görevi tamamlaması'. Aktif fiil daha direkt. Örnek: 'The collection of data by researchers' → 'Araştırmacılar veri topladığında' (daha net).\n\n**4. Abstract Noun → Verb Clause**: 'The failure of the experiment...' → 'Deney başarısız olunca...' veya 'Deneyin başarısız olması...'. Örnek: 'The success of the intervention depends on...' → 'Müdahalenin başarısı... bağlıdır' (nominal OK) veya 'Müdahale başarılı olursa...' (fiil yapısı bağlama göre).\n\n**5. -ment/-tion Eki → Türkçe Fiil**: Development → gelişme (isim) ama 'the development of the theory' → 'teorinin gelişmesi' veya 'teori geliştirildikçe'. Establishment → kurma/kuruluş ama 'the establishment of guidelines' → 'kılavuzlar oluşturuldu' (aktif fiil daha iyi). Örnek: 'The implementation of reforms led to...' → 'Reformlar uygulandığında... yol açtı' (daha akıcı).\n\n**6. Gerund → Fiil**: 'Understanding the mechanism requires...' → 'Mekanizmayı anlamak... gerektirir' (gerund Türkçe'de de -mAk mastar ile). Ama 'The understanding of the mechanism' → 'Mekanizmanın anlaşılması' (nominal) veya 'Mekanizma anlaşıldığında' (fiil).\n\n**7. Türkçe'de Hangi Durumlarda Nominal Yapı Korunur?**: (a) Özne/nesne konumunda gerekli: 'Araştırmanın amacı...', 'Çalışmanın bulguları...'. (b) Teknik terimler: 'veri toplama', 'örneklem seçimi'. (c) Kısa ve net ifadeler: 'analiz sonuçları'. Ancak, uzun zincirleme nominalizasyonlar fiilleştirilmeli.\n\n**Stratejik Notlar**: (a) Uzun nominal chains → fiil yapısına çevir, (b) '-dığında, -ınca, -dIkçe' yapıları kullan, (c) Pasif nominalization → aktif fiil, (d) Abstract noun → verb clause (bağlama göre), (e) Okunabilirlik öncelik → fiil tercih et, (f) Teknik terimler → nominal kabul edilebilir.",
+      "examples": [
+        "Simple nominalization: 'The discovery of the pattern' → 'Örüntünün keşfi' (nominal OK) OR 'Örüntü keşfedildiğinde' (verb better)",
+        "Chain nominalization: 'The investigation of the causes of the phenomenon' → 'Fenomenin nedenlerinin araştırılması' (heavy) → 'Fenomenin nedenleri araştırıldığında' (lighter)",
+        "Passive nominal: 'The observation of the behavior by researchers' → 'Araştırmacılar davranışı gözlemlediğinde' (active verb)",
+        "Abstract noun → verb: 'The failure of the hypothesis' → 'Hipotez başarısız oldu' OR 'Hipotezin başarısız olması'",
+        "-ment/-tion: 'The improvement of test scores' → 'Test puanlarının iyileşmesi' OR 'Test puanları iyileşti'",
+        "Result nominalization: 'The intervention led to the reduction of symptoms' → 'Müdahale semptomların azalmasını sağladı' OR 'Müdahale semptomları azalttı' (direct verb)",
+        "Gerund preserved: 'Understanding complex systems requires training' → 'Karmaşık sistemleri anlamak eğitim gerektirir' (gerund → mastar)",
+        "Technical term kept: 'data collection procedures' → 'veri toplama prosedürleri' (nominal OK, standard term)",
+        "Long chain simplified: 'The evaluation of the effectiveness of the implementation of the policy' → 'Politika uygulamasının etkililiğinin değerlendirilmesi' (heavy) → 'Politikanın ne kadar etkili uygulandığı değerlendirildi' (simpler)",
+        "Nominalization + relative: 'The analysis that was conducted' → 'Yapılan analiz' (nominal + participle OK) OR 'Analiz yapıldığında' (verb)",
+        "Cause nominalization: 'The increase in temperature caused the melting of ice' → 'Sıcaklık artışı buzun erimesine neden oldu' (nominal OK) OR 'Sıcaklık arttığında buz eridi' (verb, more direct)",
+        "Process nominalization: 'The processing of information' → 'Bilginin işlenmesi' (nominal) OR 'Bilgi işlendiğinde' (verb)",
+        "Multiple nominals: 'The examination of the relationship between the variables' → 'Değişkenler arasındaki ilişkinin incelenmesi' OR 'Değişkenler arasındaki ilişki incelendi'",
+        "Result + effect: 'The application of pressure resulted in the deformation of the material' → 'Basınç uygulandığında malzeme deforme oldu' (verb chain clearer)",
+        "Agency removed → added: 'The collection of specimens' → 'Örneklerin toplanması' (agentless) → 'Araştırmacılar örnekleri topladı' (agent added, clearer)"
+      ],
+      "exercises": [
+        {
+          "question": "The implementation of the new curriculum led to significant improvements in student performance.\n\nBu cümlenin en iyi Türkçe çevirisi (fiilleştirme stratejisi ile):",
+          "options": [
+            "Yeni müfredat uygulandığında öğrenci performansında önemli iyileşmeler görüldü.",
+            "Yeni müfredatın uygulanması öğrenci performansında önemli iyileşmelere yol açtı.",
+            "Yeni müfredat uygulaması öğrenci performansının önemli ölçüde iyileşmesini sağladı.",
+            "Yeni müfredatın uygulaması öğrenci performansını önemli ölçüde iyileştirdi.",
+            "Öğrenci performansında önemli iyileşmeler yeni müfredatın uygulanması sayesinde oldu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Implementation' → 'uygulandığında' (fiil yapısı), 'improvements' → 'iyileşmeler görüldü' (fiil), en akıcı ve doğal Türkçe. B nominal korunmuş (doğru ama daha ağır), C 'uygulama' + 'iyileşmesini sağladı' karma (orta), D 'uygulaması' uygunsuz (uygulama veya uygulanması), E sıralama zayıf."
+        },
+        {
+          "question": "The analysis of the relationship between stress and cognitive performance revealed a negative correlation.\n\nFiilleştirme stratejisiyle en uygun Türkçe karşılık:",
+          "options": [
+            "Stres ile bilişsel performans arasındaki ilişki analiz edildiğinde olumsuz bir korelasyon ortaya çıktı.",
+            "Stres ve bilişsel performans arasındaki ilişkinin analizi olumsuz bir korelasyon ortaya koydu.",
+            "Stres ile bilişsel performans arasındaki ilişkinin analiz edilmesi olumsuz bir korelasyonu gösterdi.",
+            "Stresin bilişsel performansla ilişkisinin analizi olumsuz korelasyon göstermiştir.",
+            "Analiz sonucunda stres ve bilişsel performans arasında olumsuz korelasyon bulunmuştur."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Analysis of the relationship' → 'ilişki analiz edildiğinde' (çift nominalization → fiil), 'revealed' → 'ortaya çıktı', en akıcı. B nominal korunmuş (ağır), C 'analiz edilmesi' hâlâ nominal (orta), D zincirleme nominal (çok ağır), E 'bulunmuştur' pasif (agent eksik)."
+        },
+        {
+          "question": "The collection of data by trained researchers ensured accuracy and reliability.\n\nFiilleştirme ile en iyi çeviri:",
+          "options": [
+            "Eğitimli araştırmacıların veri toplaması doğruluk ve güvenirliği sağladı.",
+            "Eğitimli araştırmacılar veri topladığında doğruluk ve güvenirlik sağlandı.",
+            "Veri toplama eğitimli araştırmacılar tarafından yapıldı ve doğruluk-güvenirlik sağlandı.",
+            "Eğitimli araştırmacılar tarafından verilerin toplanması doğruluk ve güvenirliği garanti etti.",
+            "Veriler eğitimli araştırmacılar tarafından toplandığı için doğru ve güvenilirdi."
+          ],
+          "correct": 1,
+          "explanation": "B doğrudur: 'Collection... by researchers' → 'araştırmacılar... topladığında' (pasif nominal → aktif fiil), en direkt ve akıcı. A 'toplaması' nominal (doğru ama B daha iyi), C pasif kalıyor + 've' ile bölünmüş, D 'tarafından... toplanması' pasif nominal (ağır), E neden-sonuç ilişkisi değiştirmiş ('ensured' → 'sağladı' değil 'idi')."
+        },
+        {
+          "question": "The failure of the experiment to produce expected results prompted a re-evaluation of the hypothesis.\n\nFiilleştirme stratejisiyle Türkçe çeviri:",
+          "options": [
+            "Deney beklenen sonuçları üretemediğinde hipotezin yeniden değerlendirilmesi gerekti.",
+            "Deneyin beklenen sonuçları üretmede başarısız olması hipotezin yeniden değerlendirilmesine yol açtı.",
+            "Deney beklenen sonuçları üretemedi. Bu durum hipotezin yeniden değerlendirilmesini tetikledi.",
+            "Deneyin başarısızlığı hipotezi yeniden değerlendirmeyi gerektirdi.",
+            "Beklenen sonuçların üretilememesi hipotezin yeniden ele alınmasına neden oldu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Failure... to produce' → 'üretemediğinde' (abstract noun → fiil), 're-evaluation' → 'yeniden değerlendirilmesi gerekti' (outcome fiil ile), en doğal akış. B nominal korunmuş (ağır), C iki cümle (olası ama tek cümle daha bütünlüklü), D aşırı kısa (bilgi kaybı: 'expected results' eksik), E pasif nominal (ağır)."
+        },
+        {
+          "question": "The investigation of the causes of the decline in population revealed multiple contributing factors.\n\nFiilleştirme ile en uygun Türkçe karşılık:",
+          "options": [
+            "Popülasyon düşüşünün nedenleri araştırıldığında çok sayıda katkıda bulunan faktör ortaya çıktı.",
+            "Popülasyon düşüşünün nedenlerinin araştırılması çok sayıda katkıda bulunan faktörü ortaya koydu.",
+            "Popülasyondaki düşüşün nedenlerinin incelenmesi birden fazla katkı yapan faktörü gösterdi.",
+            "Araştırma popülasyon düşüşüne çok sayıda faktörün katkıda bulunduğunu ortaya çıkardı.",
+            "Neden araştırması yapıldığında popülasyon düşüşünde birçok faktörün etkili olduğu görüldü."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Investigation of the causes' → 'nedenler araştırıldığında' (zincirleme nominal → fiil), 'revealed' → 'ortaya çıktı', bilgi korunmuş, akıcı. B nominal zincirleme (ağır), C benzer B'ye (ağır), D basitleştirilmiş ama 'nedenler' detayı kaybolmuş, E 'neden araştırması' belirsiz."
+        },
+        {
+          "question": "The evaluation of the effectiveness of the intervention required extensive data analysis.\n\nBu cümlenin fiilleştirme stratejisiyle en iyi çevirisi:",
+          "options": [
+            "Müdahalenin ne kadar etkili olduğu değerlendirilirken kapsamlı veri analizi gerekti.",
+            "Müdahalenin etkililiğinin değerlendirilmesi kapsamlı veri analizini gerektirdi.",
+            "Müdahale etkililiği değerlendirildiğinde kapsamlı veri analizi yapılması gerekti.",
+            "Etkinlik değerlendirmesi için müdahalenin kapsamlı veri analizi yapılmalıydı.",
+            "Müdahalenin etkili olup olmadığını değerlendirmek kapsamlı veri analizi gerektirdi."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Evaluation of the effectiveness' → 'ne kadar etkili olduğu değerlendirilirken' (çift nominal → fiil + soru yan cümlesi), en doğal Türkçe. B nominal korunmuş (çok ağır), C orta (kısmen fiilleştirilmiş ama hâlâ nominal), D anlam kayması ('evaluation' ve 'analysis' karışmış), E mastar yapısı (olası ama A daha akıcı)."
+        },
+        {
+          "question": "The application of statistical methods to the data set produced unexpected insights.\n\nFiilleştirme ile Türkçe çeviri:",
+          "options": [
+            "İstatistiksel yöntemler veri setine uygulandığında beklenmedik içgörüler ortaya çıktı.",
+            "İstatistiksel yöntemlerin veri setine uygulanması beklenmedik içgörüler üretti.",
+            "Veri setine istatistiksel yöntemler uygulanınca beklenmeyen içgörüler elde edildi.",
+            "İstatistiksel yöntemlerin veri setine uygulaması beklenmedik sonuçlar verdi.",
+            "Veri setine istatistiksel uygulama yapılması beklenmedik görüşler sağladı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Application of methods to data' → 'yöntemler... uygulandığında' (nominal → pasif fiil), 'produced' → 'ortaya çıktı', akıcı ve doğal. B nominal (ağır), C de iyi ('uygulanınca' + 'elde edildi' kabul edilebilir) ama A biraz daha zarif, D 'uygulaması' hatalı (uygulama veya uygulanması), E 'istatistiksel uygulama' belirsiz terim."
+        },
+        {
+          "question": "The observation of changes in behavior over time suggested a developmental pattern.\n\nFiilleştirme stratejisiyle en uygun Türkçe karşılık:",
+          "options": [
+            "Davranıştaki değişimler zaman içinde gözlemlendiğinde gelişimsel bir örüntü öne çıktı.",
+            "Davranıştaki değişimlerin zaman içinde gözlemlenmesi gelişimsel bir örüntüye işaret etti.",
+            "Zaman içinde davranış değişimlerinin gözlemi gelişimsel örüntü önerdi.",
+            "Davranış değişimleri zamanla gözlenince gelişimsel bir model ortaya çıktı.",
+            "Gözlemler davranış değişimlerinin gelişimsel örüntü gösterdiğini ortaya koydu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Observation of changes' → 'değişimler... gözlemlendiğinde' (nominal → pasif fiil), 'suggested' → 'öne çıktı/önerdi', bilgi korunmuş, akıcı. B nominal (ağır), C 'gözlemi' nominal + 'önerdi' antropomorfik (observations don't suggest, data does), D 'zamanla' yerine 'zaman içinde' daha iyi (metindeki 'over time'), E basitleştirilmiş ama bilgi kaybı ('over time' eksik)."
+        },
+        {
+          "question": "The reduction of greenhouse gas emissions requires global cooperation and policy changes.\n\nFiilleştirme ile en iyi Türkçe çeviri:",
+          "options": [
+            "Sera gazı emisyonlarını azaltmak küresel işbirliği ve politika değişiklikleri gerektirir.",
+            "Sera gazı emisyonlarının azaltılması küresel işbirliği ve politika değişikliklerini gerektirir.",
+            "Sera gazları azaltılırken küresel işbirliği ve politika değişimleri yapılmalı.",
+            "Emisyon azaltımı global kooperasyon ve politika reformlarını gerekli kılar.",
+            "Sera gazı salımlarının düşürülmesi için küresel birlikte çalışma ve politika değişimi şart."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Reduction of emissions' → 'emisyonları azaltmak' (nominal → mastar/fiil), en doğal özne formu. B nominal korunmuş (kabul edilebilir ama A daha hafif), C 'azaltılırken' yanlış bağlam (simultaneity değil requirement), D 'azaltımı' nadir kullanım + 'global' yerine 'küresel', E 'salımların düşürülmesi' ağır + 'şart' yerine 'gerektirir' daha formal."
+        },
+        {
+          "question": "The establishment of clear guidelines facilitated the implementation of the program.\n\nBu cümlenin fiilleştirme stratejisiyle en iyi çevirisi:",
+          "options": [
+            "Açık kılavuzlar oluşturulduğunda programın uygulanması kolaylaştı.",
+            "Açık kılavuzların oluşturulması programın uygulanmasını kolaylaştırdı.",
+            "Net kurallar belirlenince program uygulaması daha kolay oldu.",
+            "Açık yönergelerin kurulması program uygulama sürecini kolaylaştırmıştır.",
+            "Kılavuzların netleştirilmesi sayesinde program uygulandı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Establishment' → 'oluşturulduğunda' (nominal → fiil), 'implementation' → 'uygulanması' (kısmen nominal ama özne konumunda OK), 'facilitated' → 'kolaylaştı', en akıcı. B çift nominal (ağır), C 'kurallar' vs. 'kılavuzlar' (guidelines ≠ rules), D 'kurulması' yanlış (establish ≠ kurmak burada), E anlam kayması ('uygulandı' değil 'uygulanması kolaylaştı')."
+        },
+        {
+          "question": "The comparison of the results across different studies indicated consistency in the findings.\n\nFiilleştirme ile Türkçe karşılık:",
+          "options": [
+            "Sonuçlar farklı çalışmalarda karşılaştırıldığında bulgularda tutarlılık görüldü.",
+            "Sonuçların farklı çalışmalarda karşılaştırılması bulgularda tutarlılığı gösterdi.",
+            "Farklı çalışmalar arasında sonuç karşılaştırması yapıldığında bulgular tutarlıydı.",
+            "Çalışmalar arası sonuç karşılaştırması bulgu tutarlılığına işaret etti.",
+            "Sonuçlar karşılaştırılınca farklı çalışmalarda bulgular tutarlı çıktı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Comparison of results across studies' → 'sonuçlar... karşılaştırıldığında' (nominal → pasif fiil), 'indicated consistency' → 'tutarlılık görüldü', tam bilgi, akıcı. B nominal (ağır), C 'yapıldığında' + 'tutarlıydı' olası ama 'görüldü' daha dinamik, D aşırı kısa nominal (ağır), E 'çıktı' informal + sıralama zayıf."
+        },
+        {
+          "question": "The utilization of advanced technology enabled more precise measurements.\n\nFiilleştirme stratejisiyle en uygun Türkçe çeviri:",
+          "options": [
+            "İleri teknoloji kullanıldığında daha hassas ölçümler mümkün oldu.",
+            "İleri teknolojinin kullanılması daha hassas ölçümleri mümkün kıldı.",
+            "Gelişmiş teknoloji kullanımı daha kesin ölçüm yapmayı sağladı.",
+            "İleri teknolojiden yararlanma daha doğru ölçümler yapılmasına olanak verdi.",
+            "Teknoloji kullanıldığı için ölçümler daha hassas yapıldı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Utilization of technology' → 'teknoloji kullanıldığında' (nominal → pasif fiil), 'enabled' → 'mümkün oldu', en doğal akış. B nominal (ağır), C 'kullanımı' nominal korunmuş (orta), D 'yararlanma' farklı nüans (utilize ≠ yararlanma tam olarak), E neden-sonuç ilişkisi değişmiş ('enabled' ≠ 'için')."
+        }
+      ]
+    }
+  ]
+}

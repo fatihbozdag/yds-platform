@@ -1,0 +1,336 @@
+{
+  "section": "2.9",
+  "title": "Fiilimsi Yapılar (Non-finite Verb Forms)",
+  "topics": [
+    {
+      "id": "2.9.1",
+      "title": "Gerund vs. Infinitive, Bare Infinitive",
+      "content": "YDS'de gerund (V-ing) ve infinitive (to V veya bare infinitive) kullanımı en karmaşık dilbilgisi konularından biridir çünkü hangi fiilden sonra hangisinin geleceğini ezberleme gerektirir. Temel kategoriler: (1) Sadece gerund alan fiiller: enjoy, avoid, consider, finish, mind, suggest, keep, practice (I enjoy reading). (2) Sadece infinitive alan fiiller: want, decide, plan, hope, expect, manage, agree, refuse (She wants to study). (3) Her ikisini de alan ama anlam değişmeyen: begin, start, continue, like, love, hate (He started working/to work). (4) Her ikisini de alan ama anlam değişen: remember, forget, stop, try, regret (I stopped smoking - bıraktım vs. I stopped to smoke - sigara içmek için durdum). Bare infinitive (to'suz) modal fiiller (can, must, should), let/make/have causative yapıları ve perception verbs (see, hear, watch) sonrasında kullanılır: 'I saw him leave'. YDS'de sık hatalar: 'avoid to do' (yanlış), 'avoid doing' (doğru); 'want doing' (yanlış), 'want to do' (doğru). Stratejiler: Ezber listeler kullanın; preposition + gerund (interested in doing); modal + bare infinitive; perception verbs + bare infinitive veya V-ing (anlam farkı var).",
+      "examples": [
+        "She enjoys teaching linguistics. (enjoy + gerund)",
+        "They decided to conduct a follow-up study. (decide + to-infinitive)",
+        "He avoided making eye contact. (avoid + gerund)",
+        "The committee agreed to fund the project. (agree + to-infinitive)",
+        "I remember submitting the manuscript. (remember + gerund: geçmişte yaptığımı hatırlıyorum)",
+        "Please remember to submit the manuscript. (remember + infinitive: unutma, yap)",
+        "She stopped to answer the phone. (durdu ve telefona cevap verdi)",
+        "She stopped answering the phone. (telefona cevap vermeyi bıraktı)",
+        "I saw him enter the building. (perception verb + bare infinitive)",
+        "We heard her giving a presentation. (perception verb + gerund, süreç vurgusu)",
+        "They made us revise the paper. (make + bare infinitive, causative)",
+        "He is interested in studying cognitive science. (preposition + gerund)"
+      ],
+      "exercises": [
+        {
+          "question": "The researchers avoided ---- premature conclusions from the initial data.",
+          "options": [
+            "to draw",
+            "draw",
+            "drawing",
+            "drew",
+            "drawn"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Avoid' fiili gerund (V-ing) alır. 'Avoiding drawing' doğru."
+        },
+        {
+          "question": "She decided ---- her dissertation topic after consulting with her advisor.",
+          "options": [
+            "changing",
+            "to change",
+            "change",
+            "changed",
+            "to changing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Decide' fiili to-infinitive alır. 'Decided to change' doğru."
+        },
+        {
+          "question": "I remember ---- that article in graduate school.",
+          "options": [
+            "to read",
+            "read",
+            "reading",
+            "to reading",
+            "having read"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Remember + gerund' = geçmişte yaptığımı hatırlıyorum. 'Remember reading' doğru."
+        },
+        {
+          "question": "Please remember ---- your references in APA format.",
+          "options": [
+            "citing",
+            "to cite",
+            "cite",
+            "cited",
+            "to citing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Remember + to-infinitive' = unutma, yap. 'Remember to cite' doğru."
+        },
+        {
+          "question": "The professor stopped ---- the question from the student.",
+          "options": [
+            "answering",
+            "to answer",
+            "answer",
+            "answered",
+            "to answering"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Stopped to answer' = durdu ve cevapladı (amaç). Bağlamda öğrencinin sorusuna cevap vermek için durdu. 'To answer' doğru."
+        },
+        {
+          "question": "They enjoy ---- at international conferences.",
+          "options": [
+            "to present",
+            "present",
+            "presenting",
+            "presented",
+            "to presenting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Enjoy' fiili gerund alır. 'Enjoy presenting' doğru."
+        },
+        {
+          "question": "The committee made the applicants ---- additional documentation.",
+          "options": [
+            "to submit",
+            "submit",
+            "submitting",
+            "submitted",
+            "to submitting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Make + nesne + bare infinitive' (causative). 'Made them submit' doğru."
+        },
+        {
+          "question": "I saw her ---- the laboratory late last night.",
+          "options": [
+            "to enter",
+            "enter",
+            "entering",
+            "entered",
+            "to entering"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'See + nesne + bare infinitive' (tam eylemi gördüm). 'Saw her enter' doğru. (C de doğru olabilir ama anlam farklı: girerken gördüm)"
+        },
+        {
+          "question": "She is interested in ---- computational linguistics.",
+          "options": [
+            "to study",
+            "study",
+            "studying",
+            "studied",
+            "to studying"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Preposition (in) sonrası gerund gelir. 'Interested in studying' doğru."
+        },
+        {
+          "question": "They managed ---- the project despite numerous obstacles.",
+          "options": [
+            "completing",
+            "to complete",
+            "complete",
+            "completed",
+            "to completing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Manage' fiili to-infinitive alır. 'Managed to complete' doğru."
+        },
+        {
+          "question": "The participants were asked ---- a consent form before the experiment.",
+          "options": [
+            "signing",
+            "to sign",
+            "sign",
+            "signed",
+            "to signing"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Ask someone to do something' yapısı. 'Asked to sign' doğru."
+        },
+        {
+          "question": "He tried ---- the error in the code but couldn't find it.",
+          "options": [
+            "finding",
+            "to find",
+            "find",
+            "found",
+            "to finding"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Try to do' = yapmaya çalışmak (çaba). 'Try doing' = denemek (deneme yanılma). Bağlamda 'to find' doğru."
+        }
+      ]
+    },
+    {
+      "id": "2.9.2",
+      "title": "Participle Chains, Absolute Constructions",
+      "content": "YDS'de participle chains (sıfat-fiil zincirleri) ve absolute constructions akademik metinlerde sıkça kullanılan gelişmiş yapılardır. Participle chains, cümleyi kısaltmak ve akıcılık kazandırmak için kullanılır: 'Having completed the analysis, she began writing the report' = 'After she completed the analysis, she began...'. Present participle (-ing) eşzamanlı veya devam eden eylemi; past participle (-ed) pasif veya tamamlanmış eylemi; perfect participle (having + past participle) daha önce tamamlanmış eylemi ifade eder. Absolute construction, özne değişikliğine izin veren daha bağımsız bir yapıdır: 'The experiment being complete, the team analyzed the results' (Deney tamamlandıktan sonra, ekip sonuçları analiz etti). Bu yapıda ana cümlenin öznesi (team) ile participle'ın mantıksal öznesi (experiment) farklıdır. YDS'de bu yapılar özellikle cümle birleştirme ve akademik paragraf tamamlama sorularında test edilir. Türk öğrencilerin yaygın hatası, özne uyumsuzluğudur: 'Walking down the street, the building appeared' (yanlış: bina yürümüyor) yerine 'Walking down the street, I saw the building' (doğru). Stratejiler: Participle'ın mantıksal öznesi ana cümlenin öznesiyle aynı olmalı; zaman ilişkisine dikkat (having done = öncesinde); absolute construction'da özne belirtilir.",
+      "examples": [
+        "Having analyzed the data, the researchers drew several conclusions. (perfect participle, önce analiz sonra sonuç)",
+        "Conducted over five years, the study provided valuable insights. (past participle, pasif, çalışma yapıldı)",
+        "Working collaboratively, the team completed the project ahead of schedule. (present participle, eşzamanlı)",
+        "The lecture being over, students left the hall. (absolute construction, özne farklı)",
+        "Knowing the risks, she decided to proceed with the experiment. (present participle, sebep)",
+        "Having been rejected once, the manuscript was revised extensively. (perfect participle passive)",
+        "The data collected, the analysis could begin. (absolute construction, veri toplandı)",
+        "Surprised by the results, the scientists repeated the experiment. (past participle, pasif, şaşırdılar)",
+        "Not having completed the literature review, he postponed writing. (negative perfect participle)",
+        "The hypothesis tested, the team prepared the final report. (absolute construction)",
+        "Being an expert in the field, she was invited to speak. (present participle, sebep)",
+        "All factors considered, the decision was justified. (absolute construction, tüm faktörler düşünüldüğünde)"
+      ],
+      "exercises": [
+        {
+          "question": "---- the experiment, the researchers published their findings in a peer-reviewed journal.",
+          "options": [
+            "Complete",
+            "Completed",
+            "Having completed",
+            "To complete",
+            "Completing"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Deney önce tamamlandı, sonra yayınladılar. Perfect participle 'having completed' öncelik ilişkisini gösterir. Doğru."
+        },
+        {
+          "question": "---- by numerous subsequent studies, the theory gained widespread acceptance.",
+          "options": [
+            "Confirming",
+            "Confirmed",
+            "Having confirmed",
+            "To confirm",
+            "Confirm"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teori doğrulandı (pasif). Past participle 'confirmed' doğru."
+        },
+        {
+          "question": "The meeting ----, participants left the conference room.",
+          "options": [
+            "ending",
+            "ended",
+            "being ended",
+            "having ended",
+            "to end"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Absolute construction: 'The meeting being ended' (toplantı sona erdiğinde). 'Being ended' pasif absolute yapı."
+        },
+        {
+          "question": "---- in the field for twenty years, she was considered an authority.",
+          "options": [
+            "Work",
+            "Worked",
+            "Having worked",
+            "To work",
+            "Working"
+          ],
+          "correctAnswer": 2,
+          "explanation": "20 yıl çalıştıktan sonra otorite sayıldı. Perfect participle 'having worked' öncelik ve süre gösterir. Doğru."
+        },
+        {
+          "question": "---- the risks involved, the committee approved the research proposal.",
+          "options": [
+            "Understand",
+            "Understood",
+            "Understanding",
+            "Having understood",
+            "To understand"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Riskleri anlayarak/bilerek onayladılar. Present participle 'understanding' sebep ilişkisi. Doğru."
+        },
+        {
+          "question": "The data ----, analysis revealed significant patterns.",
+          "options": [
+            "collecting",
+            "collected",
+            "having collected",
+            "to collect",
+            "collect"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Absolute construction: 'The data collected' (veriler toplandıktan sonra). Past participle 'collected' doğru."
+        },
+        {
+          "question": "---- by the unexpected results, the team conducted additional experiments.",
+          "options": [
+            "Surprise",
+            "Surprising",
+            "Surprised",
+            "Having surprised",
+            "To surprise"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ekip şaşırdı (pasif anlam: sonuçlar onları şaşırttı). Past participle 'surprised' doğru."
+        },
+        {
+          "question": "---- a comprehensive literature review, she identified a significant research gap.",
+          "options": [
+            "Conduct",
+            "Conducted",
+            "Conducting",
+            "Having conducted",
+            "To conduct"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Önce literatür taraması yaptı, sonra boşluğu tanımladı. Perfect participle 'having conducted' öncelik ilişkisi. Doğru."
+        },
+        {
+          "question": "All variables ----, the statistical model was finalized.",
+          "options": [
+            "identifying",
+            "identified",
+            "having identified",
+            "to identify",
+            "identify"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Absolute construction: 'All variables identified' (tüm değişkenler tanımlandıktan sonra). Past participle 'identified' doğru."
+        },
+        {
+          "question": "Not ---- the necessary funding, the project was postponed indefinitely.",
+          "options": [
+            "secure",
+            "secured",
+            "securing",
+            "having secured",
+            "to secure"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Fonlamayı sağlayamadıkları için (olumsuz perfect participle). 'Not having secured' doğru."
+        },
+        {
+          "question": "The hypothesis ----, researchers moved to the testing phase.",
+          "options": [
+            "formulating",
+            "formulated",
+            "having formulated",
+            "to formulate",
+            "formulate"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Absolute construction: 'The hypothesis formulated' (hipotez formüle edildikten sonra). Past participle 'formulated' doğru."
+        },
+        {
+          "question": "---- an expert in psycholinguistics, she was invited to review the manuscript.",
+          "options": [
+            "Be",
+            "Been",
+            "Being",
+            "Having been",
+            "To be"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Uzman olduğu için davet edildi. Present participle 'being' sebep ilişkisi. Doğru."
+        }
+      ]
+    }
+  ]
+}

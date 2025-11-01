@@ -1,0 +1,543 @@
+{
+  "section": "1.5",
+  "title": "Diyalog Tamamlama",
+  "subtopics": [
+    {
+      "id": "1.5.1",
+      "title": "Kayıt ve Nezaket: Resmi-Yarı Resmi-Gündelik",
+      "content": "YDS ve YÖKDİL diyalog tamamlama sorularında en kritik beceri, konuşma bağlamına uygun kayıt seviyesini (register) ve nezaket derecesini (level of formality) tespit etmektir. Akademik ve profesyonel bağlamlarda uygunsuz kayıt kullanımı yanlış cevap işaretidir.\n\n**Kayıt Seviyeleri (Registers):**\n\n1. **Resmi (Formal):**\n   - Bağlam: İş toplantıları, akademik konferanslar, resmi yazışmalar\n   - Özellikler:\n     * Tam cümleler, kasılma yok (I am, not I'm)\n     * Edilgen yapılar (It is recommended that...)\n     * Formal kelime seçimi (purchase not buy, commence not start)\n     * Kibarca dolaylı yapılar (Would you be able to...? / I was wondering if...)\n   - Örnek: \"I would appreciate it if you could forward the documents at your earliest convenience.\"\n\n2. **Yarı Resmi (Semi-formal):**\n   - Bağlam: Meslektaşlarla iş konuşması, öğretmen-öğrenci diyalogları\n   - Özellikler:\n     * Kasılmalar kabul edilebilir (I'm, you're)\n     * Nezaket korunur ama daha az dolaylı\n     * Modal yardımcılar (could, would) tercih edilir\n   - Örnek: \"Could you send me the report by Friday? I'd really appreciate it.\"\n\n3. **Gündelik (Informal/Casual):**\n   - Bağlam: Arkadaşlar arası, aile içi\n   - Özellikler:\n     * Kasılmalar yaygın (gonna, wanna, gotta)\n     * Phrasal verbs (hang out, check out)\n     * Slang ve idioms\n   - Örnek: \"Wanna grab some coffee later?\"\n\n**Nezaket Stratejileri (Politeness Strategies):**\n- **Doğrudan Rica (Direct):** \"Give me the report.\" (informal/rude)\n- **Modal ile Rica (Modal):** \"Can you give me the report?\" (neutral)\n- **Koşullu Modal (Conditional Modal):** \"Could you give me the report?\" (polite)\n- **Dolaylı (Indirect):** \"I was wondering if you might be able to provide the report.\" (very polite)\n\n**YDS/YÖKDİL Stratejisi:**\n- Konuşmacıların rollerini belirleyin (patron-çalışan, profesör-öğrenci, arkadaşlar)\n- Durumu değerlendirin (resmi toplantı, gündelik sohbet)\n- Önceki/sonraki repliklerin kayıt seviyesini inceleyin\n- Uyumsuz kayıt (çok formal veya çok casual) seçenekleri eleyip",
+      "examples": [
+        {
+          "context": "A: Good morning, Dr. Williams. I hope I'm not interrupting.\nB: __________\nA: I wanted to discuss the revisions to my thesis proposal.",
+          "correct": "Not at all, please come in. I have some time available now.",
+          "explanation": "Bağlam: öğrenci-profesör, resmi/akademik. Doğru cevap formal: 'Not at all' (kibarca ret), 'please come in' (davet), 'I have some time available' (formal phrasing). Kasılma yok, nazik ton."
+        },
+        {
+          "context": "A: Hey, are you free this weekend?\nB: __________\nA: Cool, maybe we could check out that new café downtown.",
+          "correct": "Yeah, I don't have any plans. Why, what's up?",
+          "explanation": "Bağlam: arkadaşlar arası, gündelik. Doğru cevap informal: 'Yeah', kasılma (don't), 'what's up' (casual expression). A'nın 'Hey' ve 'Cool' kullanımı da gündelik tonu işaret eder."
+        },
+        {
+          "context": "A: We need to finalize the budget proposal before the board meeting.\nB: __________\nA: That would be helpful. Please include the revised projections.",
+          "correct": "I can have the updated figures ready by tomorrow afternoon.",
+          "explanation": "Bağlam: meslektaşlar, iş ortamı, yarı resmi. Doğru cevap professional ama aşırı formal değil: kasılma var (can), ama professional kelime seçimi (updated figures, tomorrow afternoon). A'nın 'please' kullanımı nezaketi korur."
+        },
+        {
+          "context": "A: Excuse me, Professor Thompson. Would it be possible to schedule a makeup exam?\nB: __________\nA: I have a medical appointment that cannot be rescheduled.",
+          "correct": "I'll need to know the reason for your absence first. What is the situation?",
+          "explanation": "Bağlam: öğrenci-profesör, resmi. Doğru cevap formal ama kasılma kabul edilebilir (I'll): profesyonel ton, 'What is the situation?' dolaylı soru (daha formal than 'Why?'). A'nın 'Would it be possible' çok nazik yapısı formal bağlamı işaret eder."
+        },
+        {
+          "context": "A: I was wondering if you might be able to extend the submission deadline.\nB: __________\nA: I understand. Thank you for considering it.",
+          "correct": "I'm afraid that won't be possible. The deadline has already been extended once.",
+          "explanation": "Bağlam: formal rica. Doğru cevap nezaketle ret: 'I'm afraid' (polite refusal hedge), açıklama verir, ama firm (won't be possible). A'nın 'I was wondering if you might' çok nazik yapısı formal ton bekler."
+        },
+        {
+          "context": "A: Do you think you could give me a hand with this?\nB: __________\nA: Just need help moving these boxes to the storage room.",
+          "correct": "Sure, no problem. What do you need?",
+          "explanation": "Bağlam: meslektaşlar, yarı resmi/gündelik. A'nın 'give me a hand' informal idiom, 'could you' nazik ama casual. Doğru cevap: 'Sure, no problem' (friendly acceptance), 'What do you need?' (direct but polite)."
+        },
+        {
+          "context": "A: Good afternoon. I have an appointment with Mr. Richardson at 3 PM.\nB: __________\nA: Yes, it's Jennifer Collins.",
+          "correct": "Certainly. May I have your name, please?",
+          "explanation": "Bağlam: resmi, resepsiyon/ofis. Doğru cevap formal: 'Certainly' (formal acknowledgment), 'May I have' (very polite request form), 'please' (politeness marker). Kasılma yok, professional ton."
+        },
+        {
+          "context": "A: Sorry I'm late. Traffic was terrible.\nB: __________\nA: I'll make sure to leave earlier next time.",
+          "correct": "It happens. Just try to call if you're going to be delayed.",
+          "explanation": "Bağlam: yarı resmi, meslektaş/yönetici. Doğru cevap: 'It happens' (understanding but not overly formal), 'try to' (gentle suggestion), 'you're' (kasılma ok). Dengeli professional ton."
+        },
+        {
+          "context": "A: I appreciate your taking the time to meet with me today.\nB: __________\nA: I'd like to discuss potential collaboration opportunities.",
+          "correct": "You're quite welcome. I'm interested to hear your ideas.",
+          "explanation": "Bağlam: resmi iş toplantısı. A formal (appreciate, taking the time). Doğru cevap formal: 'You're quite welcome' (very polite response), 'I'm interested to hear' (professional but kasılma ok in modern formal speech)."
+        },
+        {
+          "context": "A: Wanna grab lunch together?\nB: __________\nA: How about that Thai place near campus?",
+          "correct": "Yeah, I'm starving! Where do you wanna go?",
+          "explanation": "Bağlam: arkadaşlar, çok gündelik. A'nın 'wanna' çok informal. Doğru cevap matching informality: 'Yeah', 'I'm starving!' (casual expression), 'wanna' (matching A's register). Formal/semi-formal cevap uyumsuz olur."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "A: Good morning. I'm calling to inquire about the position advertised on your website.\nB: __________\nA: Yes, I submitted my application last week.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, which job are you talking about?",
+            "Good morning. Have you already submitted an application?",
+            "Hey there! What job do you want?",
+            "Okay, so what's up with your application?",
+            "Morning! Did you send in your stuff already?"
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: iş başvurusu telefon görüşmesi, çok resmi. A formal (Good morning, inquire about, position advertised). B doğru: 'Good morning' (formal greeting), kasılma yok, 'Have you already' (polite question), 'submitted an application' (formal phrasing). Diğerleri çok informal (Yeah, Hey, what's up, stuff)."
+        },
+        {
+          "question": "A: Dr. Martinez, would it be possible to get an extension on the research paper?\nB: __________\nA: I've been dealing with some family issues that have affected my progress.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Sure thing! Just turn it in whenever you're ready.",
+            "Nah, the deadline's firm. You should've started earlier.",
+            "I'd need to understand the circumstances. What's the situation?",
+            "Whatever, just don't make it a habit, okay?",
+            "Yeah, no worries. Take your time with it."
+          ],
+          "correct": 2,
+          "explanation": "Bağlam: öğrenci-profesör, formal. A çok nazik (Dr. Martinez, would it be possible). C doğru: professional ton, kasılma kabul edilebilir (I'd), nazikçe açıklama ister ('understand the circumstances', 'What's the situation?'). A, D, E çok casual, B rude/unprofessional."
+        },
+        {
+          "question": "A: We should probably start thinking about the presentation for next week.\nB: __________\nA: Good idea. I'll book a conference room for tomorrow at 2.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, totally! Let's meet up and figure it out.",
+            "I concur. Shall we convene tomorrow to discuss the preparations?",
+            "Right. How about we get together tomorrow to plan it out?",
+            "For sure, dude. Wanna grab coffee and work on it?",
+            "Indeed. I propose we arrange a formal meeting forthwith."
+          ],
+          "correct": 2,
+          "explanation": "Bağlam: meslektaşlar, yarı resmi/professional casual. A professional ama relaxed ('should probably'). C doğru: 'Right' (acknowledgment), 'How about' (polite suggestion), 'get together' (professional casual), kasılma ok. B ve E çok formal, A ve D çok casual."
+        },
+        {
+          "question": "A: Excuse me, sir. I believe there may be an error in my bill.\nB: __________\nA: I was charged twice for the same item.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Oh yeah? What's the problem?",
+            "I apologize for the inconvenience. Let me review your charges.",
+            "Really? Show me what you're talking about.",
+            "Okay, what's wrong with it?",
+            "My bad! What did we mess up?"
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: müşteri-çalışan, formal customer service. A formal ve nazik (Excuse me sir, I believe there may be, error in my bill). B doğru: 'I apologize' (formal), 'inconvenience' (professional vocabulary), 'Let me review' (helpful, professional). Diğerleri casual veya professional değil."
+        },
+        {
+          "question": "A: Hey, did you finish watching that series I recommended?\nB: __________\nA: Right? The last episode was insane!\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Indeed, I have completed viewing it. It was quite satisfactory.",
+            "Yes, I finished it last night. It was really excellent.",
+            "Yeah, binged it all weekend! So good!",
+            "I have concluded my viewing. The narrative was compelling.",
+            "Affirmative. I found it most entertaining."
+          ],
+          "correct": 2,
+          "explanation": "Bağlam: arkadaşlar arası, çok gündelik. A informal (Hey, did you, that series). C doğru: 'Yeah' (casual), 'binged' (informal slang), 'all weekend' (casual time reference), 'So good!' (enthusiastic casual). A'nın 'insane!' kullanımı da çok casual tonu confirm eder. B, D, E çok formal, ton uyumsuz."
+        },
+        {
+          "question": "A: I was wondering if I might have a word with you regarding the project timeline.\nB: __________\nA: I wanted to discuss the possibility of adjusting some of the milestones.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Sure, what's on your mind?",
+            "Yeah, what do you wanna talk about?",
+            "Of course. What aspect would you like to address?",
+            "Okay, shoot. What's the issue?",
+            "No problem, dude. What's up?"
+          ],
+          "correct": 2,
+          "explanation": "Bağlam: professional, formal (I was wondering if I might, regarding, timeline). C doğru: 'Of course' (polite acceptance), 'What aspect' (formal noun), 'would you like to address' (very polite construction). A yarı resmi olabilir ama A'nın çok formal tonu B'nin de formal olmasını gerektirir. B, D, E çok casual."
+        },
+        {
+          "question": "A: Could you possibly cover my shift on Saturday? Something came up.\nB: __________\nA: Just Saturday evening, 5 to 10.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I suppose I could accommodate that request. What time precisely?",
+            "Yeah, I think I can manage. What time is it?",
+            "For sure! When do you need me there?",
+            "I shall endeavor to assist you. Please specify the hours.",
+            "Absolutely! Just let me know the exact timing."
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: meslektaşlar (shift work), yarı resmi. A polite but not overly formal ('Could you possibly', 'Something came up'). B doğru: 'Yeah' acceptable, 'I think I can manage' (helpful but not formal), kasılma ok. C biraz casual ama ok, A ve D çok formal (çalışma arkadaşları arası için), E formal ama acceptable."
+        },
+        {
+          "question": "A: I must express my sincere gratitude for your assistance with the conference preparations.\nB: __________\nA: Your contributions were invaluable to the event's success.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "No worries! Happy to help out anytime.",
+            "It was my pleasure. I'm glad I could contribute to the outcome.",
+            "Yeah, no problem! Glad it went well.",
+            "Sure thing! Let me know if you need help again.",
+            "Whatever, it was no big deal really."
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: çok formal, profesyonel (sincere gratitude, assistance, conference preparations). B doğru: 'It was my pleasure' (formal response to thanks), 'I'm glad I could contribute' (formal vocabulary), 'outcome' (professional word). A'nın 'invaluable', 'event's success' kullanımı çok formal tonu confirm eder. Diğerleri çok casual."
+        },
+        {
+          "question": "A: You coming to the study group tonight?\nB: __________\nA: Cool, see you at the library around 7.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I shall be in attendance at the designated time and location.",
+            "Yes, I plan to be there. What time were you thinking?",
+            "Yeah, I'll be there. What time?",
+            "Indeed, I intend to participate in the gathering.",
+            "Affirmative. Please advise the scheduled commencement time."
+          ],
+          "correct": 2,
+          "explanation": "Bağlam: öğrenciler arası, gündelik (You coming, tonight?, Cool, see you). C doğru: 'Yeah' (casual), kasılma (I'll), 'be there' (informal), 'What time?' (direct). A'nın 'Cool, see you' kullanımı casual tonu confirm eder. A, D, E aşırı formal, B semi-formal (kabul edilebilir ama C daha natural)."
+        },
+        {
+          "question": "A: Good evening. I have a reservation under the name Harrison.\nB: __________\nA: Certainly. It's for two people at 8 o'clock.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Cool! Let me look that up for you.",
+            "Good evening, sir. May I confirm the details with you?",
+            "Yeah, one sec. What time was it for?",
+            "Okay, gimme a second to check that.",
+            "Hey there! Let me see what I can find."
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: restoran rezervasyonu, formal customer service. A formal (Good evening, I have a reservation, under the name). B doğru: 'Good evening, sir' (formal greeting), 'May I confirm' (very polite), kasılma yok, professional. A'nın 'Certainly' ve formal tonu B'nin de formal olmasını gerektirir. Diğerleri çok casual."
+        }
+      ]
+    },
+    {
+      "id": "1.5.2",
+      "title": "Söylem Kalıpları: Öneri, Rica, Kabul-Reddetme",
+      "content": "YDS ve YÖKDİL diyalog sorularında belirli iletişimsel işlevler (communicative functions) için standart kalıplar kullanılır. Bu kalıpları tanımak ve bağlama uygun olanı seçmek kritiktir.\n\n**1. ÖNERİ (Suggestions):**\n\n*Öneri Yapma:*\n- Casual: \"How about...?\" / \"Why don't we...?\" / \"Let's...\"\n- Semi-formal: \"We could...\" / \"What if we...?\" / \"Perhaps we should...\"\n- Formal: \"I suggest that we...\" / \"Might I propose that...?\" / \"It would be advisable to...\"\n\n*Öneri Kabul:*\n- Casual: \"Sounds good!\" / \"Sure, let's do that.\" / \"Yeah, great idea!\"\n- Semi-formal: \"That sounds like a good idea.\" / \"I think that would work.\"\n- Formal: \"I agree with that proposal.\" / \"That seems appropriate.\"\n\n*Öneri Reddetme:*\n- Casual: \"I don't think so.\" / \"Nah, let's do something else.\"\n- Semi-formal: \"I'm not sure about that.\" / \"That might not be the best option.\"\n- Formal: \"I'm afraid that may not be feasible.\" / \"I have some reservations about that approach.\"\n\n**2. RİCA (Requests):**\n\n*Rica Yapma (doğrudanlıktan dolaylılığa):*\n- Direct: \"Give me...\" / \"Send me...\" (rude/imperative)\n- Neutral: \"Can you...?\" / \"Will you...?\"\n- Polite: \"Could you...?\" / \"Would you...?\"\n- Very polite: \"Would you mind...?\" / \"I was wondering if you could...?\"\n- Formal: \"Would it be possible to...?\" / \"I would appreciate it if you could...\"\n\n*Rica Kabul:*\n- Casual: \"Sure!\" / \"No problem.\" / \"Yeah, okay.\"\n- Semi-formal: \"Of course.\" / \"Certainly.\" / \"I'd be happy to.\"\n- Formal: \"I'd be pleased to assist.\" / \"Certainly, I can arrange that.\"\n\n*Rica Reddetme:*\n- Casual: \"Sorry, I can't.\" / \"I don't think I can.\"\n- Semi-formal: \"I'm afraid I can't...\" / \"Unfortunately, I won't be able to...\"\n- Formal: \"I regret that I'm unable to...\" / \"I'm afraid that won't be possible.\"\n\n**3. KABUL-RET (Acceptance-Refusal):**\n\n*Davet Kabul:*\n- \"I'd love to.\" / \"That would be great.\" / \"I'd be delighted.\"\n\n*Davet Reddetme (nazikçe):*\n- \"I'd love to, but...\" / \"I'm afraid I can't...\" / \"Unfortunately, I have...\"\n- Açıklama vermek nezaket artırır: \"I wish I could, but I have a prior commitment.\"\n\n**Strateji:**\n- İşlevi belirleyin (öneri mi, rica mı, davet mi?)\n- Kabul mi reddetme mi olduğunu tespit edin\n- Kayıt seviyesine uygun kalıbı seçin\n- Hedging (I'm afraid, unfortunately) nezaket gösterir",
+      "examples": [
+        {
+          "context": "A: How about grabbing dinner after work?\nB: __________\nA: Great! I know a nice Italian place nearby.",
+          "correct": "Sounds good to me! What time were you thinking?",
+          "explanation": "İşlev: gündelik öneri (How about). Doğru cevap: öneri kabul, casual ton ('Sounds good', matching informality), soru ekliyor (engaged response)."
+        },
+        {
+          "context": "A: Would you mind reviewing this draft before I submit it?\nB: __________\nA: Thank you so much. I really appreciate it.",
+          "correct": "Not at all. I'd be happy to take a look.",
+          "explanation": "İşlev: nazik rica (Would you mind). Doğru cevap: rica kabul, polite ('Not at all' = no I don't mind, 'I'd be happy to' = willing). A'nın 'appreciate' kullanımı formal/semi-formal bağlamı işaret eder."
+        },
+        {
+          "context": "A: I suggest we postpone the meeting until we have complete data.\nB: __________\nA: Excellent. I'll notify all participants of the change.",
+          "correct": "I agree. That would allow us to make more informed decisions.",
+          "explanation": "İşlev: formal öneri (I suggest). Doğru cevap: öneri kabul, formal/professional ('I agree', 'would allow', 'informed decisions' = professional vocabulary), gerekçe veriyor (strengthens agreement)."
+        },
+        {
+          "context": "A: Could you possibly send me the files by end of day?\nB: __________\nA: That's fine. Tomorrow morning works for me.",
+          "correct": "I'm afraid I won't be able to finish them until tomorrow. Would that be acceptable?",
+          "explanation": "İşlev: rica (Could you possibly = polite request). Doğru cevap: nazik ret, 'I'm afraid' (hedging), alternatif öneriyor (tomorrow), 'Would that be acceptable?' (polite counter-question). A kabul ediyor ('That's fine')."
+        },
+        {
+          "context": "A: What if we approached the problem from a different angle?\nB: __________\nA: Good point. Let's stick with the original plan.",
+          "correct": "I'm not sure that would be more effective than our current strategy.",
+          "explanation": "İşlev: öneri (What if we). Doğru cevap: öneri reddetme (politely skeptical), 'I'm not sure' (hedging, not direct rejection), gerekçe veriyor ('current strategy'). A kabul ediyor reddi ('Good point, let's stick')."
+        },
+        {
+          "context": "A: Why don't we split up the research tasks to save time?\nB: __________\nA: Perfect. I'll take the literature review, you handle the data analysis.",
+          "correct": "That's a great idea. It'll be much more efficient that way.",
+          "explanation": "İşlev: casual öneri (Why don't we). Doğru cevap: öneri kabul, enthusiastic ('That's a great idea'), gerekçe ('more efficient'), kasılma ok (It'll). A devam ediyor plan ile."
+        },
+        {
+          "context": "A: I was wondering if you might be able to cover my class next Tuesday.\nB: __________\nA: I completely understand. I'll find someone else.",
+          "correct": "I wish I could help, but I have a department meeting that afternoon.",
+          "explanation": "İşlev: çok nazik rica (I was wondering if you might). Doğru cevap: nazik ret, 'I wish I could' (shows willingness, softens refusal), açıklama veriyor (valid reason). A anlayışla karşılıyor."
+        },
+        {
+          "context": "A: Can you help me move these tables?\nB: __________\nA: Just to the other end of the room.",
+          "correct": "Sure, no problem. Where do they need to go?",
+          "explanation": "İşlev: basit rica (Can you). Doğru cevap: rica kabul, casual/semi-formal ('Sure, no problem'), soru ekliyor (helpful, engaged). Bağlam likely informal/workplace casual."
+        },
+        {
+          "context": "A: Would it be possible to reschedule our appointment?\nB: __________\nA: Wednesday at 10 would be perfect. Thank you.",
+          "correct": "Certainly. When would be more convenient for you?",
+          "explanation": "İşlev: formal rica (Would it be possible). Doğru cevap: rica kabul, formal ('Certainly'), alternatif soruyor ('When would be more convenient' = accommodating). Professional/customer service tone."
+        },
+        {
+          "context": "A: Let's just submit the report as it is and make corrections later if needed.\nB: __________\nA: You're right. I'll go through it one more time.",
+          "correct": "I'd rather we double-check it now to avoid potential issues.",
+          "explanation": "İşlev: öneri (Let's). Doğru cevap: öneri reddetme (politely disagreeing), 'I'd rather' (polite alternative preference), gerekçe veriyor ('avoid potential issues'). A kabul ediyor öneriyi ('You're right')."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "A: I suggest we implement the new software system immediately.\nB: __________\nA: That's a valid concern. We should probably run a pilot program first.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, sounds good! Let's just do it!",
+            "Nah, I don't think that's gonna work.",
+            "I have some reservations about proceeding without adequate testing.",
+            "Whatever you say, boss.",
+            "Cool idea, but maybe not right now."
+          ],
+          "correct": 2,
+          "explanation": "İşlev: formal öneri (I suggest) + ret bekleniyor (A'nın 'valid concern' ve pilot program). C doğru: formal öneri reddetme, 'I have some reservations' (professional skepticism), gerekçe ('without adequate testing'). A kabul (yanlış), B ve E casual (ton uyumsuz), D passive (not engaging)."
+        },
+        {
+          "question": "A: Could you possibly stay a bit late tonight to finish the presentation?\nB: __________\nA: No worries. I'll handle the rest.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, sure thing! I got nothing else to do.",
+            "I wish I could, but I have a family commitment I can't reschedule.",
+            "Nope, sorry. Got plans tonight.",
+            "I'm afraid I must decline your request.",
+            "Of course! I'd be delighted to remain!"
+          ],
+          "correct": 1,
+          "explanation": "İşlev: polite request (Could you possibly) + ret (A'nın 'No worries, I'll handle'). B doğru: polite refusal, 'I wish I could' (shows willingness, softens no), valid reason. A kabul (yanlış), C too casual/abrupt, D overly formal, E kabul (yanlış)."
+        },
+        {
+          "question": "A: Why don't we take a short break before continuing?\nB: __________\nA: Okay, let's take 15 minutes and then reconvene.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I concur. A brief respite would be most beneficial.",
+            "Good idea. I could use a few minutes to recharge.",
+            "Nah, let's just power through and get this done.",
+            "Whatever you want. I'm fine either way.",
+            "Sure! I'm totally exhausted anyway!"
+          ],
+          "correct": 1,
+          "explanation": "İşlev: casual öneri (Why don't we) + kabul (A devam ediyor). B doğru: öneri kabul, semi-formal/professional casual ('Good idea', 'could use', 'recharge'), appropriate tone. A çok formal, C ret (yanlış), D passive/uncommitted, E too casual/complaining."
+        },
+        {
+          "question": "A: Would you mind if I opened the window? It's quite warm in here.\nB: __________\nA: Thank you. The fresh air will help.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, go ahead. No big deal.",
+            "Not at all. Please do.",
+            "I guess that's okay.",
+            "Sure, whatever makes you comfortable.",
+            "Nah, it's cool with me."
+          ],
+          "correct": 1,
+          "explanation": "İşlev: polite request (Would you mind). B doğru: 'Not at all' (standard polite response to 'would you mind'), 'Please do' (encouragement). A'nın 'thank you' formal/polite ton işaret eder. A, D, E casual, C reluctant."
+        },
+        {
+          "question": "A: How about we split the costs for the project materials?\nB: __________\nA: Great! I'll keep track of the expenses and we can settle up later.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I propose we establish a formal accounting procedure.",
+            "That works for me. It's only fair since we're both contributing.",
+            "I suppose that arrangement is acceptable.",
+            "Yeah, whatever. I don't really care.",
+            "Nah, I'll just cover it all. Don't worry about it."
+          ],
+          "correct": 1,
+          "explanation": "İşlev: casual öneri (How about) + kabul (A'nın 'Great!'). B doğru: kabul ('That works for me'), gerekçe ('only fair'), engaged response. A çok formal, C reluctant, D dismissive/rude, E ret (counter-offer, A wouldn't say 'Great')."
+        },
+        {
+          "question": "A: I was wondering if you could possibly provide a reference letter for my graduate application.\nB: __________\nA: That would be wonderful. I really appreciate your support.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, sure! I can write something up for you.",
+            "I'd be happy to. You've been an excellent student.",
+            "Okay, I guess I could do that.",
+            "No problem, dude. I got you covered!",
+            "I shall compose a letter of recommendation forthwith."
+          ],
+          "correct": 1,
+          "explanation": "İşlev: very polite request (I was wondering if you could possibly) + kabul (A'nın 'wonderful, appreciate'). B doğru: formal kabul ('I'd be happy to'), compliment (appropriate for teacher-student), professional. A casual, C reluctant, D too casual, E overly formal/archaic."
+        },
+        {
+          "question": "A: What if we approached the client with a revised proposal?\nB: __________\nA: Fair enough. Let's wait to hear their feedback first.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Great idea! Let's do it right away!",
+            "I think we should wait to see their response to the original proposal first.",
+            "Nah, that's a waste of time.",
+            "I'm not convinced that would yield favorable results.",
+            "Whatever you think is best."
+          ],
+          "correct": 1,
+          "explanation": "İşlev: öneri (What if) + ret (A'nın 'Fair enough, let's wait'). B doğru: polite disagreement, 'I think we should' (alternative suggestion), reasonable explanation. A kabul (yanlış), C rude, D formal ama A'nın 'Fair enough' semi-formal tonu işaret eder (D ok but B better), E passive."
+        },
+        {
+          "question": "A: Can you send me that document today?\nB: __________\nA: That's fine. Just make it a priority tomorrow.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Absolutely! I'll send it right now!",
+            "I'm sorry, but I won't be able to get to it until tomorrow morning.",
+            "Yeah, I'll try to get around to it.",
+            "No can do. I'm way too busy today.",
+            "I regret to inform you that I am unable to fulfill that request today."
+          ],
+          "correct": 1,
+          "explanation": "İşlev: direct request (Can you) + ret (A'nın 'That's fine, tomorrow'). B doğru: polite refusal ('I'm sorry'), clear alternative ('tomorrow morning'), professional. A kabul (yanlış), C vague/uncommitted, D rude, E overly formal."
+        },
+        {
+          "question": "A: Let's order pizza for the team meeting.\nB: __________\nA: Oh, good point. I'll check with everyone about dietary restrictions.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Sounds perfect! I love pizza!",
+            "I'm not really in the mood for pizza.",
+            "That could work, but we should check if anyone has dietary restrictions first.",
+            "I would prefer we select a more nutritious option.",
+            "Nah, pizza's boring. Let's get something else."
+          ],
+          "correct": 2,
+          "explanation": "İşlev: casual öneri (Let's) + conditional acceptance with concern (A'nın 'good point, I'll check'). C doğru: qualified acceptance ('could work but'), practical concern ('dietary restrictions'), helpful. A full kabul (A wouldn't need to check), B, E ret, D formal (ton uyumsuz)."
+        },
+        {
+          "question": "A: Would it be possible to get the report by Friday instead of Thursday?\nB: __________\nA: Perfect. That gives me a bit more time to finalize everything.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yeah, no prob. Friday's cool.",
+            "I suppose I could accommodate that request.",
+            "Certainly. Friday will work fine.",
+            "Sure thing! Take all the time you need!",
+            "That extension is acceptable to me."
+          ],
+          "correct": 2,
+          "explanation": "İşlev: polite request (Would it be possible) + kabul (A'nın 'Perfect'). C doğru: formal/professional kabul ('Certainly'), confirmation ('Friday will work fine'), appropriate level of formality matching request. A ve D casual, B reluctant, E overly formal/stiff."
+        }
+      ]
+    },
+    {
+      "id": "1.5.3",
+      "title": "Eşleşen Komşu Çiftler: Soru-Cevap, Teklif-Kabul",
+      "content": "Konuşma analizi (conversation analysis) çalışmaları, diyaloglarda belirli komşu çiftlerin (adjacency pairs) birbirini takip ettiğini gösterir. YDS ve YÖKDİL'de bu yapıları tanımak doğru cevabı bulmayı kolaylaştırır.\n\n**Temel Komşu Çiftler (Adjacency Pairs):**\n\n1. **Soru - Cevap (Question - Answer):**\n   - Yes/No soruları → Yes/No + detay\n   - Wh- soruları → Bilgi cevabı\n   - Teyit soruları (tag questions) → Onay/ret\n   - Örnek: \"Where is the meeting?\" → \"In conference room B.\"\n\n2. **Teklif/Davet - Kabul/Ret (Offer/Invitation - Acceptance/Refusal):**\n   - Teklif: \"Would you like...?\" → \"Yes, I'd love to\" / \"No, thank you\"\n   - Davet: \"Are you free on Saturday?\" → \"Yes, what did you have in mind?\" / \"Sorry, I'm busy\"\n\n3. **Rica - Kabul/Ret (Request - Grant/Refuse):**\n   - Rica: \"Could you help me?\" → \"Of course\" / \"I'm afraid I can't\"\n\n4. **Selamlama - Selamlama (Greeting - Greeting):\n   - \"Good morning\" → \"Good morning\"\n   - \"How are you?\" → \"Fine, thanks. And you?\"\n\n5. **Özür - Kabul (Apology - Acceptance):**\n   - \"I'm sorry I'm late\" → \"That's okay\" / \"No worries\" / \"Don't worry about it\"\n\n6. **Teşekkür - Karşılık (Thanks - Acknowledgment):**\n   - \"Thank you\" → \"You're welcome\" / \"My pleasure\" / \"No problem\"\n\n7. **Şikayet - Özür/Açıklama (Complaint - Apology/Justification):**\n   - \"The service was slow\" → \"I apologize for the inconvenience\" / \"We've been short-staffed\"\n\n8. **Öneri - Kabul/Ret (Suggestion - Acceptance/Rejection):**\n   - \"How about we meet at 3?\" → \"That works for me\" / \"I'm busy then\"\n\n**Tercih Organizasyonu (Preference Organization):**\n- **Preferred response (tercih edilen):** Direkt, kısa (ör. kabul)\n  * \"Would you like coffee?\" → \"Yes, thanks!\" (preferred)\n- **Dispreferred response (tercih edilmeyen):** Dolaylı, hedging, açıklama (ör. ret)\n  * \"Would you like coffee?\" → \"I'm afraid I can't have caffeine...\" (dispreferred, longer)\n\n**Strateji:**\n- İlk repliğin işlevini belirleyin (soru, teklif, rica vb.)\n- Beklenen karşılık türünü tahmin edin (cevap, kabul/ret vb.)\n- Üçüncü repliği kontrol edin (ikinci repliğin doğru olup olmadığını confirm eder)\n- Preferred/dispreferred pattern'lere dikkat edin (ret genellikle daha uzun ve açıklamalı)",
+      "examples": [
+        {
+          "context": "A: What time does the seminar start?\nB: __________\nA: Thanks. I'll make sure to be there on time.",
+          "correct": "It begins at 2 PM in the main auditorium.",
+          "explanation": "Adjacency pair: Wh-question (What time) → Information answer. Doğru cevap specific bilgi verir (2 PM, location ekstra). A'nın 'Thanks' teşekkürü information alındığını confirm eder."
+        },
+        {
+          "context": "A: Would you like to join us for lunch?\nB: __________\nA: No problem. Maybe another time.",
+          "correct": "I'd love to, but I have a prior commitment. Thanks for the invitation.",
+          "explanation": "Adjacency pair: Invitation → Refusal (dispreferred). Doğru cevap: 'I'd love to' (softens refusal), 'but' (introduces excuse), açıklama veriyor, 'thanks' (maintains politeness). A'nın 'Maybe another time' kabul ediyor ret."
+        },
+        {
+          "context": "A: I'm terribly sorry about the confusion with the schedule.\nB: __________\nA: I appreciate your understanding.",
+          "correct": "Don't worry about it. These things happen.",
+          "explanation": "Adjacency pair: Apology → Acceptance. Doğru cevap: 'Don't worry' (reassurance), 'these things happen' (minimizes problem). A'nın 'appreciate your understanding' confirm eder forgiveness."
+        },
+        {
+          "context": "A: Could you possibly review this before the meeting?\nB: __________\nA: Perfect. I'll send it to you right away.",
+          "correct": "Of course. Just email it to me and I'll take a look.",
+          "explanation": "Adjacency pair: Request → Grant (preferred). Doğru cevap: 'Of course' (immediate acceptance, short = preferred), instruction veriyor (helpful). A'nın 'Perfect' kabul confirmation."
+        },
+        {
+          "context": "A: You've been so helpful with this project.\nB: __________\nA: Well, I really do appreciate it.",
+          "correct": "It's my pleasure. I'm happy I could contribute.",
+          "explanation": "Adjacency pair: Thanks/Compliment → Acknowledgment. Doğru cevap: 'It's my pleasure' (polite acknowledgment), 'happy I could contribute' (modest). A'nın 'I really do appreciate' teşekkürü reinforce eder."
+        },
+        {
+          "context": "A: The deadline seems unrealistic given the scope of work.\nB: __________\nA: That would help significantly. Thank you.",
+          "correct": "I understand your concern. Let me see if we can extend it by a few days.",
+          "explanation": "Adjacency pair: Complaint → Acknowledgment + Solution. Doğru cevap: 'I understand' (acknowledges complaint), solution öneriyor ('extend it'). A'nın 'That would help, thank you' solution acceptance."
+        },
+        {
+          "context": "A: How did the presentation go?\nB: __________\nA: That's great to hear. You must be relieved.",
+          "correct": "It went really well. The committee seemed impressed.",
+          "explanation": "Adjacency pair: Question (How) → Assessment answer. Doğru cevap: evaluation ('really well'), evidence ('committee impressed'). A'nın 'great to hear, relieved' positive assessment'ı confirm eder."
+        },
+        {
+          "context": "A: Would you be interested in collaborating on this research project?\nB: __________\nA: Excellent. I'll put together a proposal and share it with you.",
+          "correct": "Absolutely. That sounds like a fascinating opportunity.",
+          "explanation": "Adjacency pair: Invitation/Offer → Acceptance (preferred). Doğru cevap: 'Absolutely' (strong yes, short = preferred), 'fascinating opportunity' (enthusiasm). A'nın 'Excellent' ve action (proposal) acceptance confirm."
+        },
+        {
+          "context": "A: I apologize for any inconvenience this may have caused.\nB: __________\nA: Thank you for being so understanding.",
+          "correct": "No need to apologize. I completely understand the situation.",
+          "explanation": "Adjacency pair: Apology → Acceptance. Doğru cevap: 'No need to apologize' (minimizes problem), 'I completely understand' (empathy). A'nın 'understanding' teşekkürü acceptance confirm."
+        },
+        {
+          "context": "A: Can you believe how cold it is today?\nB: __________\nA: Right? I should have worn a heavier coat.",
+          "correct": "I know! It's freezing. I wasn't expecting this.",
+          "explanation": "Adjacency pair: Assessment/Exclamation → Agreement. Doğru cevap: 'I know!' (strong agreement), 'freezing' (reinforces assessment), personal comment. A'nın 'Right?' agreement confirm, shared experience."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "A: Where should we meet for the study session?\nB: __________\nA: Sounds good. I'll see you there at 6.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I'm not sure I can make it tonight.",
+            "How about the library on the second floor?",
+            "Yes, I think we should have a study session.",
+            "That's a great idea. I really need to review.",
+            "The session will be very productive."
+          ],
+          "correct": 1,
+          "explanation": "Adjacency pair: Wh-question (Where) → Location answer. B doğru: 'How about the library' (location + suggestion form), specific (second floor). A'nın 'Sounds good, see you there' location acceptance ve meetup confirm. A ret (wrong pair), C, D, E location vermez."
+        },
+        {
+          "question": "A: Thank you so much for helping me with the data analysis.\nB: __________\nA: I definitely will if I run into any more issues.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "You're welcome. Feel free to reach out if you need more help.",
+            "I haven't finished the analysis yet.",
+            "When do you need the results?",
+            "I appreciate your gratitude.",
+            "The data was very complex."
+          ],
+          "correct": 0,
+          "explanation": "Adjacency pair: Thanks → Acknowledgment. A doğru: 'You're welcome' (standard thanks response), 'feel free to reach out' (offer continued help). A'nın 'I definitely will' offer'ı kabul eder. B, C, E bağlam dışı, D awkward."
+        },
+        {
+          "question": "A: I'm afraid the report will be delayed by a couple of days.\nB: __________\nA: I really appreciate your flexibility on this.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "That's unacceptable. I need it immediately.",
+            "Why didn't you start earlier?",
+            "That should be fine. Just keep me updated on your progress.",
+            "When did you receive the assignment?",
+            "The report is very important."
+          ],
+          "correct": 2,
+          "explanation": "Adjacency pair: Apology/Bad news → Acceptance (preferred) or Complaint (dispreferred). A'nın 'appreciate your flexibility' flexibility'yi confirm eder, yani B acceptance olmalı. C doğru: 'should be fine' (acceptance), 'keep me updated' (reasonable request). A ve B rejection/complaint (A wouldn't thank), D, E bağlam dışı."
+        },
+        {
+          "question": "A: Would you care for something to drink?\nB: __________\nA: Coming right up.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yes, I'd love some water, please.",
+            "I already had breakfast this morning.",
+            "No, I don't care about drinks.",
+            "That's very kind of you to ask.",
+            "When will we be eating?"
+          ],
+          "correct": 0,
+          "explanation": "Adjacency pair: Offer → Acceptance. A doğru: 'Yes, I'd love' (polite acceptance), specific request (water), 'please' (polite). A'nın 'Coming right up' fulfilling request confirm eder acceptance. B, E bağlam dışı, C rude, D teşekkür ama accept etmez (A wouldn't say 'coming up')."
+        },
+        {
+          "question": "A: I'm really sorry I missed our appointment yesterday.\nB: __________\nA: I should have called to let you know. It won't happen again.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Excellent! I'm glad you could make it.",
+            "These things happen. Just try to give me notice next time.",
+            "Yes, I was waiting for you all afternoon.",
+            "I completely forgot about our meeting too.",
+            "The appointment was scheduled for 3 PM."
+          ],
+          "correct": 1,
+          "explanation": "Adjacency pair: Apology → Acceptance (with mild reproach). B doğru: 'These things happen' (forgiveness), 'just try to give notice' (gentle request for future). A'nın 'I should have called, won't happen again' acknowledge eder reproach. A wrong (missed it), C complaint only, D wrong (also forgot), E stating fact."
+        },
+        {
+          "question": "A: Are you planning to attend the conference next month?\nB: __________\nA: That's too bad. It should be really informative.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yes, I've already registered and booked my flight.",
+            "I'd like to, but I have a teaching commitment that weekend.",
+            "The conference will focus on emerging technologies.",
+            "Yes, it's next month in Chicago.",
+            "I think conferences are very valuable."
+          ],
+          "correct": 1,
+          "explanation": "Adjacency pair: Yes/No question → No + explanation (A'nın 'That's too bad' negative answer bekler). B doğru: 'I'd like to but' (softened refusal, dispreferred pattern), explanation (teaching). A positive (wrong), C, E doesn't answer question, D confirming not answering yes/no."
+        },
+        {
+          "question": "A: Could I borrow your notes from yesterday's lecture?\nB: __________\nA: Thanks! I'll return them tomorrow.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "I'm afraid I didn't attend the lecture yesterday either.",
+            "Sure, no problem. I'll bring them to class today.",
+            "The lecture was about cellular biology.",
+            "You should really attend all the lectures.",
+            "Why do you need the notes?"
+          ],
+          "correct": 1,
+          "explanation": "Adjacency pair: Request → Grant. A'nın 'Thanks! I'll return them' granting confirm eder. B doğru: 'Sure, no problem' (acceptance, short = preferred), plan (bring to class). A refusal (wrong), C-E doesn't grant request."
+        },
+        {
+          "question": "A: How was your weekend?\nB: __________\nA: That sounds wonderful. I'm glad you had a good time.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "It's Monday today.",
+            "What did you do?",
+            "It was great! I went hiking with some friends.",
+            "I plan to relax this weekend.",
+            "Weekends are too short."
+          ],
+          "correct": 2,
+          "explanation": "Adjacency pair: Question (How was) → Evaluation answer. C doğru: evaluation ('great'), specifics (hiking with friends). A'nın 'sounds wonderful, glad you had good time' positive evaluation'ı confirm eder. A, E off-topic, B counter-question (doesn't answer), D future (wrong time)."
+        },
+        {
+          "question": "A: I noticed an error in the calculations on page 5.\nB: __________\nA: No problem. We caught it before it became an issue.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "The calculations are on page 5.",
+            "Oh no, you're right. I apologize for the oversight. I'll correct it immediately.",
+            "I think the calculations are accurate.",
+            "Thank you for completing the report.",
+            "When did you finish reviewing it?"
+          ],
+          "correct": 1,
+          "explanation": "Adjacency pair: Complaint/Correction → Apology + Fix. B doğru: 'you're right' (acknowledgment), 'I apologize' (apology), 'I'll correct' (action). A'nın 'No problem, we caught it' acceptance of apology. A, E off-topic, C denial (A wouldn't say 'no problem'), D wrong pair."
+        },
+        {
+          "question": "A: Would you mind if I turned on the air conditioning?\nB: __________\nA: Great, thanks. It's quite warm in here.\n\nWhich response best completes the dialogue?",
+          "options": [
+            "Yes, I mind very much.",
+            "The air conditioning is broken.",
+            "Not at all. Go ahead.",
+            "I prefer natural ventilation.",
+            "It is rather warm today."
+          ],
+          "correct": 2,
+          "explanation": "Adjacency pair: Request (Would you mind) → Grant. A'nın 'Great, thanks' permission granted confirm eder. C doğru: 'Not at all' (standard 'would you mind' grant = no I don't mind), 'go ahead' (permission). A refusal (wrong), B reason can't (A wouldn't say 'great'), D, E doesn't grant permission."
+        }
+      ]
+    }
+  ]
+}

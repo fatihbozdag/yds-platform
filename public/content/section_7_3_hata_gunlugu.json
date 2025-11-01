@@ -1,0 +1,342 @@
+{
+  "section": "7.3",
+  "title": "Hata Günlüğü ve Geri Besleme",
+  "topics": [
+    {
+      "id": "7.3.1",
+      "title": "Hataları Konuya Değil 'Gerekçe Türüne' Göre Etiketleme",
+      "content": "Geleneksel hata analizi 'hangi konuda hata yaptım?' sorusuna odaklanır: kelime mi, gramer mi, okuma mı? Ancak daha etkili bir yaklaşım, hatanın altında yatan gerekçeyi (reasoning type) kategorize etmektir. Bu yöntem, tekrar eden düşünce hatalarını ve strateji eksikliklerini belirlemeyi sağlar.\n\n**Gerekçe Türü Kategorileri**:\n\n1. **Bilgi eksikliği**: Kelimeyi, kuralı, deyimi hiç bilmiyordunuz. Çözüm: O konuyu çalışın (flashcard, kural notu).\n\n2. **Acele okuma**: Soruyu veya parçayı dikkatsizce okudunuz, anahtar kelimeyi kaçırdınız. Çözüm: Yavaşlayın, anahtar kelimeleri işaretleyin.\n\n3. **Çeldirici tuzağı**: Doğru cevabı biliyordunuz ama çeldirici seçenek sizi kandırdı (örn: 'affect' yerine 'effect'). Çözüm: Çeldirici analizi çalışın, benzer kelimeleri karşılaştırın.\n\n4. **Mantık hatası**: Paragrafın mantığını yanlış yorumladınız (sebep-sonuç, karşıtlık vb.). Çözüm: Bağlaç ve söylem işaretlerini çalışın.\n\n5. **Zaman baskısı**: Doğru cevabı bulabilecek bilgiye sahipsiniz ama acele ettiğiniz için yanlış seçtiniz. Çözüm: Zaman yönetimi stratejisi geliştirin.\n\n6. **Aşırı düşünme**: İlk içgüdüsel cevabınız doğru idi ama çok düşünüp değiştirdiniz. Çözüm: İlk seçiminize güvenin, sadece açık bir mantık hatası görürseniz değiştirin.\n\n7. **Bağlam göz ardı**: Kelimeyi biliyorsunuz ama cümle bağlamına uygun olmayan anlamını seçtiniz. Çözüm: Tüm cümleyi okuyun, seçeneği cümle içinde test edin.\n\n8. **Gramer/sözdizimi karmaşası**: Cümle yapısını yanlış analiz ettiniz (özne-nesne, aktif-pasif vb.). Çözüm: Cümle analizi pratiği yapın.\n\n**Hata günlüğü formatı**:\n\nSoru No | Konu | Gerekçe Türü | Doğru Cevap | Benim Cevabım | Notlar\n--------|------|--------------|-------------|---------------|--------\n15 | Kelime | Çeldirici tuzağı | affect | effect | 'affect' fiil, 'effect' isim. Bunu ezberle!\n23 | Paragraf | Mantık hatası | However | Therefore | 'However' zıtlık, 'Therefore' sonuç. Bağlaç tablosunu gözden geçir.\n34 | Gramer | Acele okuma | has been | have been | Özne 'data' (plural), 'have' olmalı. Cümleyi dikkatle oku.\n\n**Fayda**: Bu yöntem, tekrar eden gerekçe türlerini gösterir. Eğer %30 hatanız 'acele okuma' ise, sorun kelime bilginiz değil, okuma hızınızdır. Eğer %40 hatanız 'çeldirici tuzağı' ise, benzer kelimeleri ayırt etme çalışması yapmalısınız.\n\n**Kişiselleştirilmiş çalışma planı**: Her gerekçe türü için spesifik çalışma stratejisi geliştirin. Örnek: 'Mantık hatası' %25 ise → Bağlaç listesi + paragraf tamamlama egzersizlerine odaklanın. 'Bilgi eksikliği' %40 ise → Kelime ve deyim çalışmasına ağırlık verin.",
+      "examples": [
+        "Hata örneği 1: 'The new policy will ---- the economy.' Benim cevabım: effect, Doğru: affect → Gerekçe: Çeldirici tuzağı (affect/effect karmaşası)",
+        "Hata örneği 2: '---- the rain, we went hiking.' Benim: Because of, Doğru: Despite → Gerekçe: Mantık hatası (zıtlık değil sebep düşündüm)",
+        "Hata örneği 3: 'The data ---- analyzed.' Benim: was, Doğru: were → Gerekçe: Acele okuma (data plural olduğunu görmedim)",
+        "Hata örneği 4: 'Researchers ---- to replicate findings.' Benim: tried, Doğru: attempted → Gerekçe: Bilgi eksikliği (akademik bağlamda 'attempted' daha uygun)",
+        "Hata örneği 5: Uzun paragraf sorusu → Gerekçe: Zaman baskısı (son 10 dakikada aceleyle okudum)",
+        "Analiz: 10 hatadan 4'ü 'acele okuma' → Strateji: Anahtar kelimeleri işaretleyerek yavaş oku.",
+        "Analiz: 10 hatadan 3'ü 'çeldirici tuzağı' → Strateji: Çeldirici analizi çalış, benzer kelime listesi yap.",
+        "Analiz: 10 hatadan 5'i 'bilgi eksikliği' → Strateji: Kelime çalışmasına daha fazla zaman ayır.",
+        "Günlük örneği: Deneme 1 → 8 hata: 3 acele okuma, 2 çeldirici, 2 bilgi eksikliği, 1 mantık hatası.",
+        "İyileşme takibi: Deneme 2'de 'acele okuma' hatası 3'ten 1'e düştü → Strateji işe yarıyor.",
+        "Kişiselleştirme: Benim zayıf yönüm 'mantık hataları' → Bağlaç ve söylem işaretlerini yoğun çalış.",
+        "Strateji değişimi: 'Aşırı düşünme' hatalarım artıyor → İlk içgüdüme daha fazla güven.",
+        "Hedef: Her gerekçe türünde %10'un altına inmek.",
+        "Önceliklendirme: En sık yaptığınız 2 gerekçe türüne odaklanın.",
+        "Gözden geçirme: Her deneme sonrası hata günlüğünü güncelleyin ve patern arayın."
+      ],
+      "exercises": [
+        {
+          "question": "Aşağıdaki hata hangi gerekçe türüne girer?\n\nSoru: 'The research ---- that motivation is crucial.'\nBenim cevabım: suggests, Doğru cevap: suggests\nAçıklama: Doğru biliyordum ama 'implies' ile karıştırıp değiştirdim.",
+          "options": {
+            "A": "Bilgi eksikliği",
+            "B": "Acele okuma",
+            "C": "Çeldirici tuzağı",
+            "D": "Aşırı düşünme",
+            "E": "Zaman baskısı"
+          },
+          "correct": "D",
+          "explanation": "İlk doğru cevabı buldunuz ama çok düşünüp değiştirdiniz. Bu 'aşırı düşünme' gerekçesidir."
+        },
+        {
+          "question": "Soru: '---- these limitations, the study provides valuable insights.'\nBenim cevabım: Because of, Doğru: Despite\n\nBu hata hangi kategoriye girer?",
+          "options": {
+            "A": "Bilgi eksikliği",
+            "B": "Mantık hatası",
+            "C": "Acele okuma",
+            "D": "Gramer karmaşası",
+            "E": "Çeldirici tuzağı"
+          },
+          "correct": "B",
+          "explanation": "'Despite' (rağmen - zıtlık) yerine 'Because of' (nedeniyle - sebep) seçmek mantık hatasıdır. Cümlenin mantığını yanlış yorumladınız."
+        },
+        {
+          "question": "Soru: 'The data ---- collected over three years.'\nBenim: was, Doğru: were\nAçıklama: 'data' kelimesinin plural olduğunu fark etmedim.\n\nGerekçe türü nedir?",
+          "options": {
+            "A": "Bilgi eksikliği",
+            "B": "Acele okuma",
+            "C": "Çeldirici tuzağı",
+            "D": "Zaman baskısı",
+            "E": "Aşırı düşünme"
+          },
+          "correct": "B",
+          "explanation": "'data' plural olduğunu biliyorsunuz ama dikkatsizce okuyunca 'was' seçtiniz. Bu 'acele okuma' hatasıdır."
+        },
+        {
+          "question": "Soru: 'The intervention proved highly ----.' (Seçenekler: efficient/effective)\nBenim: efficient, Doğru: effective\nAçıklama: İki kelimeyi karıştırdım.\n\nHangi gerekçe türü?",
+          "options": {
+            "A": "Bilgi eksikliği",
+            "B": "Çeldirici tuzağı",
+            "C": "Mantık hatası",
+            "D": "Bağlam göz ardı",
+            "E": "Gramer karmaşası"
+          },
+          "correct": "B",
+          "explanation": "'efficient' (verimli) vs 'effective' (etkili) benzer ama farklı kelimeler. Bu klasik 'çeldirici tuzağı'dır."
+        },
+        {
+          "question": "10 hata yaptınız: 5'i bilgi eksikliği, 3'ü acele okuma, 2'si mantık hatası.\n\nEn önce neye odaklanmalısınız?",
+          "options": {
+            "A": "Bağlaç çalışması",
+            "B": "Kelime ve deyim çalışması",
+            "C": "Okuma hızını artırma",
+            "D": "Paragraf tamamlama",
+            "E": "Gramer kuralları"
+          },
+          "correct": "B",
+          "explanation": "En sık hata 'bilgi eksikliği' (%50). Önce kelime ve deyim çalışmasına odaklanın. Sonra 'acele okuma' için yavaşlama stratejisi."
+        },
+        {
+          "question": "Deneme 1'de 6 'acele okuma' hatası, Deneme 2'de 2 'acele okuma' hatası yaptınız.\n\nBu ne anlama gelir?",
+          "options": {
+            "A": "Strateji işe yaramıyor",
+            "B": "Deneme 2 daha kolay idi",
+            "C": "Yavaş okuma stratejisi işe yarıyor",
+            "D": "Şans eseri düzeldi",
+            "E": "Acele okuma artık sorun değil"
+          },
+          "correct": "C",
+          "explanation": "6'dan 2'ye düşüş önemli bir iyileşme. Yavaş okuma ve anahtar kelime işaretleme stratejiniz işe yarıyor. Devam edin."
+        },
+        {
+          "question": "'Aşırı düşünme' hatalarınız artıyorsa, en iyi strateji nedir?",
+          "options": {
+            "A": "Daha fazla düşünün",
+            "B": "Hiç düşünmeyin, rastgele seçin",
+            "C": "İlk içgüdüsel seçiminize güvenin",
+            "D": "Her soruyu 5 dakika düşünün",
+            "E": "Tüm seçenekleri 10 kez okuyun"
+          },
+          "correct": "C",
+          "explanation": "'Aşırı düşünme' hatalarında genellikle ilk içgüdünüz doğrudur. Sadece açık bir mantık hatası görürseniz değiştirin."
+        },
+        {
+          "question": "Hata günlüğünüzde hangi bilgi ZORUNLU değildir?",
+          "options": {
+            "A": "Soru numarası",
+            "B": "Gerekçe türü",
+            "C": "Doğru cevap",
+            "D": "Benim cevabım",
+            "E": "Soruyu çözen sınıf arkadaşlarımın adları"
+          },
+          "correct": "E",
+          "explanation": "A, B, C, D hata analizinde kritik. E (başkalarının cevapları) gereksiz, kendi hatanızı analiz edin."
+        },
+        {
+          "question": "'Bağlam göz ardı' hatası ne anlama gelir?",
+          "options": {
+            "A": "Kelimeyi hiç bilmiyorsunuz",
+            "B": "Kelimeyi biliyorsunuz ama cümle bağlamına uygun olmayan anlamını seçtiniz",
+            "C": "Cümleyi çok hızlı okudunuz",
+            "D": "Gramer kuralını yanlış uyguladınız",
+            "E": "Çeldiriciye kandınız"
+          },
+          "correct": "B",
+          "explanation": "'Bağlam göz ardı': kelimeyi biliyorsunuz ama cümlenin genel anlamıyla uyuşmayan bir seçeneği seçtiniz. Tüm cümleyi okumalısınız."
+        },
+        {
+          "question": "Hata gerekçelerinizi kategorize etmenin ASIL faydası nedir?",
+          "options": {
+            "A": "Hataları saymak",
+            "B": "Tekrar eden düşünce hatalarını ve strateji eksikliklerini belirlemek",
+            "C": "Öğretmene göstermek",
+            "D": "Sınav puanını hesaplamak",
+            "E": "Arkadaşlarla karşılaştırmak"
+          },
+          "correct": "B",
+          "explanation": "Gerekçe kategorileme, tekrarlayan düşünce paternlerini ve zayıf stratejileri gösterir. Bu sayede kişiselleştirilmiş çalışma planı yapabilirsiniz."
+        },
+        {
+          "question": "'Zaman baskısı' gerekçesiyle yapılan hataları azaltmak için ne yapmalısınız?",
+          "options": {
+            "A": "Daha hızlı okuyun",
+            "B": "Zaman yönetimi stratejisi geliştirin (tur sistemi vb.)",
+            "C": "Tüm soruları atlayın",
+            "D": "Sadece kolay sorulara odaklanın",
+            "E": "Sınavı erken bitirin"
+          },
+          "correct": "B",
+          "explanation": "'Zaman baskısı' hatalarını azaltmak için zaman yönetimi stratejisi geliştirin: tur sistemi, önceliklendirme, hız kontrolü."
+        },
+        {
+          "question": "Hata günlüğünü ne sıklıkla güncellemelisiniz?",
+          "options": {
+            "A": "Sınavdan 1 hafta sonra",
+            "B": "Ayda bir",
+            "C": "Her deneme sınavı sonrası hemen",
+            "D": "Hiç güncellemeyin",
+            "E": "Sadece final sınavından önce"
+          },
+          "correct": "C",
+          "explanation": "Hata günlüğünü her deneme sonrası hemen güncelleyin. Taze bellekle hata gerekçelerini doğru belirleyebilirsiniz ve patern analizi yapabilirsiniz."
+        }
+      ]
+    },
+    {
+      "id": "7.3.2",
+      "title": "3 Tekrar Kuralı: Aynı Gerekçeyle Üçüncü Hata → Strateji Güncellemesi",
+      "content": "Hata analizi sadece ne yanlış yaptığınızı göstermekle kalmamalı, aynı zamanda ne zaman strateji değiştirmeniz gerektiğini de belirtmelidir. '3 Tekrar Kuralı', aynı gerekçeyle üçüncü kez hata yaptığınızda mevcut yaklaşımınızın işe yaramadığını ve yeni bir strateji denemeniz gerektiğini söyler.\n\n**3 Tekrar Kuralı Nedir?**\n\nAynı gerekçe türünde (örn: 'acele okuma', 'çeldirici tuzağı', 'mantık hatası') üçüncü kez hata yaptığınızda, bu bir patern işaretidir. Mevcut çalışma yönteminiz o sorunu çözmüyor demektir. Strateji değiştirmelisiniz.\n\n**Örnek 1 - Acele Okuma**:\n- Hata 1: Soru 12, 'data' kelimesini singular sandım → Gerekçe: Acele okuma\n- Hata 2: Soru 28, 'few' yerine 'a few' okudum → Gerekçe: Acele okuma\n- Hata 3: Soru 41, zıtlık bağlacını kaçırdım → Gerekçe: Acele okuma\n**ALARM! 3. tekrar → Strateji güncellemesi gerekli.**\n**Yeni strateji**: Anahtar kelimeleri işaretleyerek oku, her cümleyi iki kez gözden geçir, zaman tutma alıştırması yap (her soruya minimum 45 saniye).\n\n**Örnek 2 - Çeldirici Tuzağı**:\n- Hata 1: 'affect' vs 'effect' karıştırdım\n- Hata 2: 'imply' vs 'infer' karıştırdım\n- Hata 3: 'continuous' vs 'continual' karıştırdım\n**ALARM! 3. tekrar → Strateji güncellemesi.**\n**Yeni strateji**: Benzer kelime çiftleri listesi oluştur, her çift için örnek cümleler yaz, flashcard yap, her gün 10 çift tekrar et.\n\n**Örnek 3 - Mantık Hatası**:\n- Hata 1: Sebep yerine sonuç bağlacı seçtim\n- Hata 2: Zıtlık yerine benzerlik bağlacı seçtim\n- Hata 3: Koşul yerine zaman bağlacı seçtim\n**ALARM! 3. tekrar → Strateji güncellemesi.**\n**Yeni strateji**: Bağlaç kategorileri tablosu hazırla (sebep/sonuç/zıtlık/koşul), her paragraf tamamlama sorusunda bağlacı kategorize et, mantık akış diyagramı çiz.\n\n**Strateji Güncelleme Önerileri**:\n\n1. **Bilgi eksikliği** (3+ tekrar): Mevcut kelime çalışma yönteminiz yetersiz → Flashcard yerine context-based öğrenme (kelimeyi cümle içinde ezberle), daha fazla okuma yapın.\n\n2. **Acele okuma** (3+ tekrar): 'Yavaşla' demek yeterli değil → Fiziksel işaretleyici kullan (kalem/parmak), anahtar kelimeleri altını çiz, her soruya minimum süre koy.\n\n3. **Çeldirici tuzağı** (3+ tekrar): Benzer kelimeleri ayırt edemiyorsunuz → Karşılaştırmalı liste, venn diyagramı, örnek cümle ezberi.\n\n4. **Mantık hatası** (3+ tekrar): Bağlaç bilgisi yetersiz → Bağlaç kategorileri çalış, her paragrafta bağlaçları işaretle, mantık akış şeması çiz.\n\n5. **Aşırı düşünme** (3+ tekrar): İlk içgüdünüze güvenmiyorsunuz → İlk seçiminizi kaydedin, değiştirirseniz nedenini yazın, hangi durumlarda ilk cevap doğru olmuş analiz edin.\n\n**Takip ve Değerlendirme**:\n\nStrateji güncellemesinden sonra, sonraki 3 deneme sınavında aynı gerekçe türündeki hata sayısını izleyin. Eğer azalma varsa strateji işe yarıyor, devam edin. Eğer hala 3+ hata yapıyorsanız, başka bir strateji deneyin. Amaç: her gerekçe türünde sürekli iyileşme görmektir.",
+      "examples": [
+        "PATERN TESPİTİ: Deneme 1-2-3'te toplam 7 'acele okuma' hatası → 3 tekrar kuralı aktif, strateji güncellemesi gerekli.",
+        "YENI STRATEJİ: Acele okuma için → Anahtar kelimeleri işaretle, her cümleyi 2 kez oku, minimum 45 saniye/soru.",
+        "İYİLEŞME TAKİBİ: Yeni stratejiden sonra Deneme 4-5-6'da 'acele okuma' hatası 7'den 2'ye düştü → Strateji başarılı.",
+        "PATERN TESPİTİ: 3 farklı denemede 'affect/effect', 'imply/infer', 'continuous/continual' karıştırdım → Çeldirici tuzağı paterni.",
+        "YENI STRATEJİ: Benzer kelime çiftleri flashcard seti yap, her gün 10 çift tekrar et, örnek cümlelerle ezberle.",
+        "ALARM: Aynı gerekçeyle 3. hata → Mevcut yöntem işe yaramıyor, farklı yaklaşım dene.",
+        "MANTIK HATASI PATERNI: 3 kez bağlaç kategorisini yanlış seçtim → Bağlaç tablosu çalış, her bağlacı kategorize et.",
+        "STRATEJİ DEĞİŞİMİ: Kelime listesi ezberlemek yerine → Kelimeleri cümle içinde, context ile ezberle.",
+        "TEST: Yeni stratejiyi 3 deneme boyunca uygula, iyileşme var mı kontrol et.",
+        "BAŞARISIZ STRATEJİ: Eğer 3 denemede hala aynı gerekçede 3+ hata → Stratejiyi tekrar değiştir.",
+        "BAŞARILI STRATEJİ: Aynı gerekçede hata sayısı %50+ azaldı → Devam et, bu strateji sana uygun.",
+        "KİŞİSELLEŞTİRME: Farklı insanlar için farklı stratejiler işe yarar, kendi paternlerinizi tanıyın.",
+        "HEDEF: Her gerekçe türünde sürekli azalma trendi görmek.",
+        "UYARI: 3 tekrar kuralı sadece aynı gerekçe türü için. Farklı gerekçelerle yapılan hatalar sayılmaz.",
+        "ÖRNEKLENDİRME: Eğer 3 farklı nedenle (bilgi eksikliği, acele okuma, çeldirici) kelime hatası yapıyorsanız, bu 3 tekrar değil, 3 farklı sorundur."
+      ],
+      "exercises": [
+        {
+          "question": "3 denemede şu hataları yaptınız: 'affect/effect', 'imply/infer', 'continuous/continual'. Hangi gerekçe türü patern gösteriyor?",
+          "options": {
+            "A": "Bilgi eksikliği",
+            "B": "Çeldirici tuzağı",
+            "C": "Mantık hatası",
+            "D": "Acele okuma",
+            "E": "Zaman baskısı"
+          },
+          "correct": "B",
+          "explanation": "Üç farklı benzer kelime çifti karıştırması → 'Çeldirici tuzağı' patern. 3 tekrar kuralı aktif, strateji güncellemesi gerekli."
+        },
+        {
+          "question": "'Acele okuma' gerekçesiyle 3. hata yaptınız. Ne yapmalısınız?",
+          "options": {
+            "A": "Hiçbir şey, normal bir durum",
+            "B": "Strateji güncellemesi: anahtar kelimeleri işaretle, yavaş oku",
+            "C": "Daha hızlı okumaya çalış",
+            "D": "Okuma sorularını atla",
+            "E": "Rastgele işaretle"
+          },
+          "correct": "B",
+          "explanation": "3. tekrar = patern. Mevcut strateji işe yaramıyor. Yeni strateji dene: anahtar kelime işaretleme, yavaş okuma, minimum süre koyma."
+        },
+        {
+          "question": "Yeni stratejiyi uyguladıktan sonra ne yapmalısınız?",
+          "options": {
+            "A": "Hemen başka bir strateji deneyin",
+            "B": "3 deneme boyunca test edin, iyileşme olup olmadığını izleyin",
+            "C": "Unutun, yeni strateji gerekmez",
+            "D": "Sadece 1 denemede test edin",
+            "E": "Stratejiyi hiç test etmeyin"
+          },
+          "correct": "B",
+          "explanation": "Yeni stratejiyi en az 3 deneme boyunca uygulayın, aynı gerekçedeki hata sayısı azalıyor mu izleyin. Azalma varsa başarılı, yoksa başka strateji deneyin."
+        },
+        {
+          "question": "3 farklı gerekçeyle (bilgi eksikliği, acele okuma, zaman baskısı) 3 kelime hatası yaptınız. Bu '3 tekrar kuralı' aktif eder mi?",
+          "options": {
+            "A": "Evet, 3 kelime hatası yaptım",
+            "B": "Hayır, 3 farklı gerekçe = 3 farklı sorun, patern yok",
+            "C": "Evet, tüm kelime hataları sayılır",
+            "D": "Belirsiz",
+            "E": "Sadece ilk hata sayılır"
+          },
+          "correct": "B",
+          "explanation": "3 tekrar kuralı AYNI gerekçe türü için geçerlidir. Farklı gerekçelerle yapılan hatalar patern oluşturmaz. Her gerekçeyi ayrı takip edin."
+        },
+        {
+          "question": "'Mantık hatası' gerekçesiyle 3 hata yaptınız (sebep/sonuç, zıtlık, koşul bağlaçlarını karıştırdınız). Hangi yeni strateji uygun?",
+          "options": {
+            "A": "Daha fazla kelime ezberle",
+            "B": "Bağlaç kategorileri tablosu çalış, her bağlacı kategorize etmeyi öğren",
+            "C": "Hızlı okumayı bırak",
+            "D": "Gramer kurallarını tekrar et",
+            "E": "Hiçbir şey yapma"
+          },
+          "correct": "B",
+          "explanation": "Mantık hatası patern → Bağlaç bilgisi eksik. Yeni strateji: bağlaç kategorileri (sebep/sonuç/zıtlık/koşul) tablosu, her bağlacı kategorize etme pratiği."
+        },
+        {
+          "question": "Yeni stratejiden sonra 3 denemede aynı gerekçede hala 3+ hata yapıyorsunuz. Ne yapmalısınız?",
+          "options": {
+            "A": "Aynı stratejiyi devam ettirin",
+            "B": "Sınavı bırakın",
+            "C": "Başka bir strateji deneyin, bu işe yaramadı",
+            "D": "Hata yapmayı kabul edin",
+            "E": "Rastgele seçenekler işaretleyin"
+          },
+          "correct": "C",
+          "explanation": "Eğer yeni strateji 3 denemede iyileşme sağlamadıysa, işe yaramıyor demektir. Farklı bir strateji deneyin. Herkes için aynı strateji işe yaramaz."
+        },
+        {
+          "question": "Hangi durum '3 tekrar kuralı' için GEÇERSIZDIR?",
+          "options": {
+            "A": "Aynı gerekçeyle 3 hata",
+            "B": "Farklı gerekçelerle 3 hata",
+            "C": "Aynı gerekçeyle 5 hata",
+            "D": "Aynı gerekçeyle 10 hata",
+            "E": "B hariç hepsi geçerli"
+          },
+          "correct": "B",
+          "explanation": "Farklı gerekçelerle yapılan hatalar patern oluşturmaz, 3 tekrar kuralı için geçersizdir. Sadece aynı gerekçe türündeki tekrarlar sayılır."
+        },
+        {
+          "question": "'Bilgi eksikliği' gerekçesiyle 3+ hata yapıyorsunuz. Mevcut çalışma yönteminiz: kelime listesi ezberlemek. Hangi yeni strateji denemelisiniz?",
+          "options": {
+            "A": "Aynı listeyi daha fazla tekrar et",
+            "B": "Kelimeleri bağlam içinde (cümle ile) ezberle, daha fazla okuma yap",
+            "C": "Kelime çalışmayı bırak",
+            "D": "Sadece gramer çalış",
+            "E": "Rastgele kelimeler seç"
+          },
+          "correct": "B",
+          "explanation": "Mevcut yöntem (liste ezber) işe yaramıyor. Yeni strateji: context-based öğrenme (kelimeleri cümle içinde ezberle), daha fazla okuma yaparak kelime karşılaşma sıklığını artır."
+        },
+        {
+          "question": "'Aşırı düşünme' gerekçesiyle 3 hata yaptınız (ilk seçiminiz doğru idi ama değiştirdiniz). Hangi strateji uygun?",
+          "options": {
+            "A": "Daha fazla düşün",
+            "B": "Hiç düşünme",
+            "C": "İlk seçiminizi kaydedin, değiştirirseniz nedenini yazın, ilk cevap doğruluk oranını analiz edin",
+            "D": "Rastgele seç",
+            "E": "Her soruyu 5 dakika düşün"
+          },
+          "correct": "C",
+          "explanation": "'Aşırı düşünme' patern → İlk içgüdünüze güvenmeyi öğrenmelisiniz. Strateji: ilk seçimi kaydet, değiştirme nedenlerini analiz et, hangi durumlarda ilk cevap doğru olmuş belirle."
+        },
+        {
+          "question": "3 tekrar kuralının ASIL amacı nedir?",
+          "options": {
+            "A": "Hataları saymak",
+            "B": "Sizi kötü hissettirmek",
+            "C": "İşe yaramayan stratejileri tespit edip değiştirmek",
+            "D": "Arkadaşlarla karşılaştırmak",
+            "E": "Sınavdan vazgeçmek"
+          },
+          "correct": "C",
+          "explanation": "3 tekrar kuralının amacı: paternleri tespit etmek ve işe yaramayan stratejileri erken fark edip değiştirmek. Bu sayede sürekli iyileşme sağlanır."
+        },
+        {
+          "question": "Strateji güncellemesinden sonra 'acele okuma' hatalarınız 7'den 2'ye düştü. Ne yapmalısınız?",
+          "options": {
+            "A": "Stratejiyi değiştirin, daha fazla azaltın",
+            "B": "Bu stratejiyi devam ettirin, işe yarıyor",
+            "C": "Hiçbir şey yapmayın",
+            "D": "Rastgele yeni strateji deneyin",
+            "E": "Acele okumayı tamamen bırakın"
+          },
+          "correct": "B",
+          "explanation": "7'den 2'ye düşüş = %70+ iyileşme. Strateji açıkça işe yarıyor. Devam edin, alışkanlık haline getirin."
+        },
+        {
+          "question": "Hangi durum 3 tekrar kuralı için 'ALARM' durumudur?",
+          "options": {
+            "A": "Farklı konularda 3 hata",
+            "B": "Aynı gerekçeyle 2 hata",
+            "C": "Aynı gerekçeyle 3. hata",
+            "D": "Hiç hata yapmamak",
+            "E": "Sadece 1 hata"
+          },
+          "correct": "C",
+          "explanation": "Aynı gerekçeyle 3. hata = ALARM. Patern tespit edildi, mevcut strateji işe yaramıyor, değişim gerekli."
+        }
+      ]
+    }
+  ]
+}

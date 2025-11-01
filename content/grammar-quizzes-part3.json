@@ -1,0 +1,1022 @@
+{
+  "conjunctions": {
+    "id": "conjunctions",
+    "title": "Conjunctions (Bağlaçlar)",
+    "topic": "Conjunctions",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "questions": [
+      {
+        "id": "conj_1",
+        "text": "The project was completed on time ------- the team faced several unexpected challenges.",
+        "options": [
+          "although",
+          "because",
+          "so that",
+          "in case",
+          "provided that"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'although' (her ne kadar). İki zıt durum arasındaki karşıtlık ilişkisini gösterir: proje zamanında tamamlandı AMA takım zorluklarla karşılaştı. 'Because' (çünkü) sebep, 'so that' (böylece) amaç, 'in case' (durumunda) olasılık, 'provided that' (koşuluyla) koşul ifade eder."
+      },
+      {
+        "id": "conj_2",
+        "text": "------- the weather improves, we will have to cancel the outdoor event.",
+        "options": [
+          "Unless",
+          "Although",
+          "Because",
+          "While",
+          "As"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'Unless' (eğer -mezse). Olumsuz koşul ifade eder: hava düzelmezse etkinliği iptal edeceğiz. 'Although' karşıtlık, 'because' sebep, 'while' eşzamanlılık veya karşıtlık, 'as' sebep veya zaman ifade eder ancak bu bağlamda 'unless' en uygunudur."
+      },
+      {
+        "id": "conj_3",
+        "text": "She studied hard ------- she could pass the exam with a high score.",
+        "options": [
+          "in order to",
+          "so that",
+          "because",
+          "unless",
+          "whereas"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Doğru cevap 'so that' (böylece, amacıyla). Amaç cümleciklerinde kullanılır ve ardından özne+yardımcı fiil gelir. 'In order to' da amaç ifade eder ama ardından mastar gelir. 'Because' sebep, 'unless' olumsuz koşul, 'whereas' karşıtlık belirtir."
+      },
+      {
+        "id": "conj_4",
+        "text": "The company will expand its operations ------- it secures additional funding.",
+        "options": [
+          "as long as",
+          "even though",
+          "in spite of",
+          "as well as",
+          "due to"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'as long as' (olduğu sürece, koşuluyla). Koşul ifade eder: ek finansman sağlarsa genişleyecek. 'Even though' karşıtlık, 'in spite of' ve 'due to' preposition (ardından isim gelir), 'as well as' ekleme ifade eder."
+      },
+      {
+        "id": "conj_5",
+        "text": "------- he had little experience, he was hired for his potential and enthusiasm.",
+        "options": [
+          "Even though",
+          "Because",
+          "In order that",
+          "So that",
+          "Unless"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'Even though' (her ne kadar -sa bile). Güçlü karşıtlık ifade eder: az deneyimi vardı AMA potansiyeli için işe alındı. 'Because' sebep, 'in order that/so that' amaç, 'unless' olumsuz koşul belirtir."
+      },
+      {
+        "id": "conj_6",
+        "text": "Take an umbrella with you ------- it rains later.",
+        "options": [
+          "in case",
+          "so that",
+          "although",
+          "whereas",
+          "because"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'in case' (ihtimaline karşı, durumunda). Olası bir duruma karşı önlem alınmasını ifade eder: yağmur yağabilir diye şemsiye al. 'So that' amaç, 'although/whereas' karşıtlık, 'because' sebep ifade eder."
+      },
+      {
+        "id": "conj_7",
+        "text": "The experiment failed ------- the scientists followed all the proper procedures.",
+        "options": [
+          "even though",
+          "because",
+          "so that",
+          "as if",
+          "in order that"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'even though' (her ne kadar -sa bile). Karşıtlık ifade eder: prosedürleri takip ettiler AMA deney başarısız oldu. 'Because' sebep-sonuç mantığına ters düşer. 'So that/in order that' amaç, 'as if' benzetme ifade eder."
+      },
+      {
+        "id": "conj_8",
+        "text": "We need to leave now ------- we want to avoid the rush hour traffic.",
+        "options": [
+          "if",
+          "unless",
+          "although",
+          "in case",
+          "whereas"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'if' (eğer). Koşul ifade eder: trafikten kaçınmak istiyorsak şimdi çıkmalıyız. 'Unless' (eğer -mezse) olumsuz koşul, 'although' karşıtlık, 'in case' olasılık, 'whereas' karşılaştırma ifade eder."
+      },
+      {
+        "id": "conj_9",
+        "text": "------- being tired, she continued working on her thesis throughout the night.",
+        "options": [
+          "Despite",
+          "Although",
+          "Because",
+          "So that",
+          "Unless"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'Despite' (rağmen). Preposition olduğu için ardından isim/isim öbeği gelir ('being tired'). 'Although' da karşıtlık ifade eder ama conjunction'dır, ardından cümle gelir. 'Because' sebep, 'so that' amaç, 'unless' olumsuz koşul belirtir."
+      },
+      {
+        "id": "conj_10",
+        "text": "The medicine will be effective ------- you take it exactly as prescribed.",
+        "options": [
+          "provided that",
+          "even if",
+          "in spite of",
+          "as though",
+          "due to"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'provided that' (koşuluyla, şartıyla). Koşul ifade eder: reçete edildiği gibi alırsanız etkili olacak. 'Even if' (bile) karşıtlık, 'in spite of' ve 'due to' preposition, 'as though' benzetme ifade eder."
+      },
+      {
+        "id": "conj_11",
+        "text": "He speaks ------- he were an expert, but he actually knows very little about the subject.",
+        "options": [
+          "as if",
+          "in case",
+          "so that",
+          "provided that",
+          "whereas"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'as if' (sanki, gibi). Gerçeğe aykırı benzetme ifade eder: uzmanmış gibi konuşuyor (ama değil). Ardından genellikle subjunctive (were) kullanılır. 'In case' olasılık, 'so that' amaç, 'provided that' koşul, 'whereas' karşılaştırma ifade eder."
+      },
+      {
+        "id": "conj_12",
+        "text": "The restaurant was expensive, ------- the food was exceptional.",
+        "options": [
+          "but",
+          "so",
+          "because",
+          "unless",
+          "in order that"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'but' (ama, fakat). Zıt iki durumu bağlar: pahalıydı AMA yemek mükemmeldi. 'So' (bu yüzden) sonuç, 'because' sebep, 'unless' olumsuz koşul, 'in order that' amaç ifade eder."
+      },
+      {
+        "id": "conj_13",
+        "text": "------- the traffic was heavy, we arrived at the airport on time.",
+        "options": [
+          "Although",
+          "Because",
+          "So that",
+          "In order that",
+          "As"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'Although' (her ne kadar). Karşıtlık ifade eder: trafik yoğundu AMA zamanında vardık. 'Because/As' sebep ifade eder (mantık uygun değil). 'So that/In order that' amaç cümleciği başlatır."
+      },
+      {
+        "id": "conj_14",
+        "text": "You should back up your files regularly ------- losing important data.",
+        "options": [
+          "to avoid",
+          "in case of",
+          "so that",
+          "although",
+          "whereas"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'to avoid' (kaçınmak için). Amaç ifade eden infinitive yapısı. 'In case of' preposition (ardından isim gelir), 'so that' ardından cümle gerektirir, 'although/whereas' karşıtlık ifade eder."
+      },
+      {
+        "id": "conj_15",
+        "text": "The conference was postponed ------- several key speakers were unable to attend.",
+        "options": [
+          "because",
+          "although",
+          "unless",
+          "so that",
+          "in case"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'because' (çünkü). Sebep-sonuç ilişkisi ifade eder: konuşmacılar katılamadı, BU YÜZDEN konferans ertelendi. 'Although' karşıtlık, 'unless' olumsuz koşul, 'so that' amaç, 'in case' olasılık ifade eder."
+      }
+    ]
+  },
+  "subject-verb-agreement": {
+    "id": "subject-verb-agreement",
+    "title": "Subject-Verb Agreement (Özne-Yüklem Uyumu)",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "questions": [
+      {
+        "id": "sva_1",
+        "text": "Neither the students nor the teacher ------- aware of the schedule change.",
+        "options": [
+          "was",
+          "were",
+          "have been",
+          "are",
+          "been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'was'. 'Neither...nor' yapısında fiil, fiile en yakın özneyle uyumlu olur. 'Teacher' (tekil) fiile daha yakın olduğu için tekil fiil 'was' kullanılır. Bu kurala 'proximity rule' (yakınlık kuralı) denir."
+      },
+      {
+        "id": "sva_2",
+        "text": "The committee ------- reached a unanimous decision after hours of debate.",
+        "options": [
+          "has",
+          "have",
+          "are",
+          "were",
+          "been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'has'. Collective nouns (committee, team, family vb.) grup olarak tek bir birim gibi hareket ediyorsa tekil fiil alır. Burada komite bir bütün olarak karar verdi. İngilizcede genellikle tekil kullanım tercih edilir (İngiliz İngilizcesinde bazen çoğul da kullanılabilir)."
+      },
+      {
+        "id": "sva_3",
+        "text": "Every student and teacher ------- required to attend the safety training.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "be"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. 'Every/each' ile bağlanan özneler her zaman tekil fiil alır, çünkü 'every' her bir bireyi ayrı ayrı vurgular. 'Every student and every teacher' anlamındadır ve tekil kabul edilir."
+      },
+      {
+        "id": "sva_4",
+        "text": "A number of researchers ------- conducting experiments on this phenomenon.",
+        "options": [
+          "are",
+          "is",
+          "was",
+          "has been",
+          "were being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'are'. 'A number of' (birkaç, bir dizi) çoğul fiil alır çünkü vurgu çoğul isimde ('researchers'). DİKKAT: 'The number of' (sayısı) ise tekil fiil alır. A number of = several (çoğul), The number of = the total (tekil)."
+      },
+      {
+        "id": "sva_5",
+        "text": "Mathematics ------- one of the most challenging subjects for many students.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. '-ics' ile biten bilim dalları (mathematics, physics, economics, politics) tekil fiil alır. Bunlar çoğul görünümlü ama tekil anlamlıdır. DİKKAT: 'statistics' hem bilim dalı (tekil) hem de istatistik verileri (çoğul) anlamında kullanılabilir."
+      },
+      {
+        "id": "sva_6",
+        "text": "The data collected from the survey ------- valuable insights into consumer behavior.",
+        "options": [
+          "provide",
+          "provides",
+          "is providing",
+          "has provided",
+          "providing"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'provide'. 'Data' kelimesi Latince 'datum' kelimesinin çoğuludur. Akademik metinlerde genellikle çoğul kabul edilir ve çoğul fiil alır. Günlük dilde bazen tekil de kullanılır, ama YDS'de çoğul kullanımı tercih edilir."
+      },
+      {
+        "id": "sva_7",
+        "text": "Either the manager or his assistants ------- responsible for handling customer complaints.",
+        "options": [
+          "are",
+          "is",
+          "was",
+          "has been",
+          "be"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'are'. 'Either...or' yapısında fiil, kendisine en yakın özneyle uyumlu olur (proximity rule). 'Assistants' (çoğul) fiile daha yakın olduğu için çoğul fiil 'are' kullanılır."
+      },
+      {
+        "id": "sva_8",
+        "text": "The team of experts ------- analyzing the results of the clinical trial.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. Özne 'team' (tekil collective noun). 'Of experts' bir prepositional phrase olup özneyi değiştirmez. Fiil her zaman gerçek özneyle uyumlu olmalı, araya giren prepositional phrase'lere aldanmamalı."
+      },
+      {
+        "id": "sva_9",
+        "text": "Neither of the solutions ------- effective in addressing the problem.",
+        "options": [
+          "was",
+          "were",
+          "have been",
+          "are",
+          "being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'was'. 'Neither of' yapısı tekil fiil alır çünkü 'neither' (hiçbiri) tekil anlam taşır. 'Of the solutions' prepositional phrase olup özneyi değiştirmez. DİKKAT: 'None of' ise hem tekil hem çoğul fiil alabilir."
+      },
+      {
+        "id": "sva_10",
+        "text": "The number of applications received this year ------- significantly higher than last year.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. 'The number of' (sayısı) her zaman tekil fiil alır çünkü vurgu 'number' kelimesindedir. 'A number of' (birkaç) ise çoğul fiil alır. Bu önemli bir ayrımdır: THE number = tekil, A number = çoğul."
+      },
+      {
+        "id": "sva_11",
+        "text": "Everyone in the laboratory ------- required to wear protective equipment.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "be"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. Indefinite pronouns (everyone, everybody, someone, anyone, nobody, each, either, neither) her zaman tekil fiil alır. 'In the laboratory' prepositional phrase olup özneyi etkilemez."
+      },
+      {
+        "id": "sva_12",
+        "text": "The phenomena observed in the experiment ------- further investigation.",
+        "options": [
+          "require",
+          "requires",
+          "is requiring",
+          "has required",
+          "requiring"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'require'. 'Phenomena' kelimesi 'phenomenon' kelimesinin çoğuludur. Yunan kökenli bazı kelimeler düzensiz çoğul ekler: phenomenon/phenomena, criterion/criteria, analysis/analyses. Çoğul olduğu için çoğul fiil 'require' kullanılır."
+      },
+      {
+        "id": "sva_13",
+        "text": "One of the most important factors ------- the level of employee engagement.",
+        "options": [
+          "is",
+          "are",
+          "were",
+          "have been",
+          "being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'is'. 'One of' yapısında özne 'one' (tekil) olduğu için tekil fiil kullanılır. 'Of the most important factors' prepositional phrase olup özneyi değiştirmez. Fiil her zaman gerçek özne 'one' ile uyumlu olmalıdır."
+      },
+      {
+        "id": "sva_14",
+        "text": "There ------- several reasons why the project was delayed.",
+        "options": [
+          "are",
+          "is",
+          "was",
+          "has been",
+          "been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'are'. 'There is/are' yapısında fiil, 'there' kelimesinden sonra gelen gerçek özneyle uyumlu olur. Burada 'reasons' (çoğul) gerçek özne olduğu için çoğul fiil 'are' kullanılır. 'There' sadece bir placeholder'dır."
+      },
+      {
+        "id": "sva_15",
+        "text": "Each of the participants ------- given a certificate of completion.",
+        "options": [
+          "was",
+          "were",
+          "are",
+          "have been",
+          "being"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'was'. 'Each of' yapısı her zaman tekil fiil alır çünkü 'each' (her biri) tekil anlam taşır. 'Of the participants' prepositional phrase olup özneyi değiştirmez. Passive voice (was given) kullanılmış."
+      }
+    ]
+  },
+  "inversion": {
+    "id": "inversion",
+    "title": "Inversion (Devrik Cümle Yapısı)",
+    "topic": "Inversion",
+    "difficulty": "advanced",
+    "timeLimit": 20,
+    "questions": [
+      {
+        "id": "inv_1",
+        "text": "Rarely ------- such a comprehensive analysis of the economic situation.",
+        "options": [
+          "have we seen",
+          "we have seen",
+          "we saw",
+          "did we saw",
+          "we had seen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'have we seen'. Negative adverbs (rarely, seldom, never, hardly) cümle başında olduğunda inversion (devrik yapı) gerekir: yardımcı fiil + özne + asıl fiil. Normal cümle: 'We have rarely seen...' iken vurgu için inversion yapılır."
+      },
+      {
+        "id": "inv_2",
+        "text": "Not only ------- the deadline, but she also exceeded the quality expectations.",
+        "options": [
+          "did she meet",
+          "she met",
+          "she did meet",
+          "does she meet",
+          "she meets"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'did she meet'. 'Not only...but also' yapısında 'not only' cümle başındaysa ilk cümlede inversion olur. Simple past tense için 'did + özne + mastar' kullanılır. İkinci cümlede (but also...) normal sıralama korunur."
+      },
+      {
+        "id": "inv_3",
+        "text": "Under no circumstances ------- access to confidential patient information.",
+        "options": [
+          "should staff be given",
+          "staff should be given",
+          "should be staff given",
+          "staff be given should",
+          "be given staff should"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'should staff be given'. Negative expressions (under no circumstances, on no account, in no way) cümle başında inversion gerektirir: modal + özne + be + past participle. Passive voice (be given) kullanılmış."
+      },
+      {
+        "id": "inv_4",
+        "text": "Hardly ------- the meeting when the fire alarm went off.",
+        "options": [
+          "had we started",
+          "we had started",
+          "did we start",
+          "we started",
+          "have we started"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'had we started'. 'Hardly...when' (daha yeni...ki) yapısında 'hardly' cümle başında olduğunda inversion gerekir. Past perfect kullanılır çünkü 'hardly' ile başlayan eylem daha önce gerçekleşir."
+      },
+      {
+        "id": "inv_5",
+        "text": "Only after receiving approval ------- with the implementation of the project.",
+        "options": [
+          "can we proceed",
+          "we can proceed",
+          "we proceeded",
+          "did we proceed",
+          "we will proceed"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'can we proceed'. 'Only + time expression' cümle başında olduğunda inversion gerekir: yardımcı fiil/modal + özne + asıl fiil. 'Only after' (ancak -den sonra) zaman belirten bir ifadedir."
+      },
+      {
+        "id": "inv_6",
+        "text": "Never before ------- such a rapid advancement in artificial intelligence technology.",
+        "options": [
+          "have we witnessed",
+          "we have witnessed",
+          "we witnessed",
+          "did we witnessed",
+          "we had witnessed"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'have we witnessed'. 'Never before' (daha önce hiç) cümle başında inversion gerektirir. Present perfect kullanılır çünkü geçmişten günümüze olan tecrübe/durum ifade edilir. Vurgu ve dramatik etki için inversion yapılır."
+      },
+      {
+        "id": "inv_7",
+        "text": "Little ------- that their research would lead to such a groundbreaking discovery.",
+        "options": [
+          "did they know",
+          "they knew",
+          "they did know",
+          "have they known",
+          "they have known"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'did they know'. 'Little' (az, çok az) cümle başında negative anlam taşır ve inversion gerektirir. Simple past tense için 'did + özne + mastar' yapısı kullanılır."
+      },
+      {
+        "id": "inv_8",
+        "text": "No sooner ------- the announcement than applications began flooding in.",
+        "options": [
+          "had they made",
+          "they had made",
+          "did they make",
+          "they made",
+          "have they made"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'had they made'. 'No sooner...than' (daha yeni...ki) yapısında 'no sooner' ile başlayan cümlede inversion ve past perfect kullanılır. 'No sooner' cümle başında olduğu için 'had + özne + past participle' sıralaması gerekir."
+      },
+      {
+        "id": "inv_9",
+        "text": "At no time ------- the severity of the situation.",
+        "options": [
+          "did we underestimate",
+          "we underestimated",
+          "we did underestimate",
+          "have we underestimated",
+          "we underestimate"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'did we underestimate'. 'At no time' (hiçbir zaman) negative expression olup cümle başında inversion gerektirir. Simple past için 'did + özne + mastar' yapısı kullanılır."
+      },
+      {
+        "id": "inv_10",
+        "text": "Seldom ------- such dedication and commitment from a research team.",
+        "options": [
+          "do we see",
+          "we see",
+          "we saw",
+          "did we saw",
+          "we have seen"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'do we see'. 'Seldom' (nadiren) cümle başında inversion gerektirir. Present simple için 'do/does + özne + mastar' yapısı kullanılır. Genel bir durumdan bahsedildiği için present tense uygundur."
+      },
+      {
+        "id": "inv_11",
+        "text": "Only when the results were analyzed ------- the significance of the findings.",
+        "options": [
+          "did we understand",
+          "we understood",
+          "we did understand",
+          "have we understood",
+          "we understand"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'did we understand'. 'Only when' cümle başında olduğunda main clause'da inversion gerekir. Simple past için 'did + özne + mastar' yapısı kullanılır. Dikkat: 'when' cümleciğinde (were analyzed) normal sıralama korunur."
+      },
+      {
+        "id": "inv_12",
+        "text": "Not until the final report was submitted ------- the full extent of the problem.",
+        "options": [
+          "did they realize",
+          "they realized",
+          "they did realize",
+          "have they realized",
+          "they realize"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'did they realize'. 'Not until' (ancak -dığında) cümle başında main clause'da inversion gerektirir. Simple past için 'did + özne + mastar' yapısı kullanılır. 'Until' cümleciğinde normal sıralama korunur."
+      },
+      {
+        "id": "inv_13",
+        "text": "Should you require any further assistance, ------- to contact our support team.",
+        "options": [
+          "please feel free",
+          "you please feel free",
+          "feel you free please",
+          "you feel free please",
+          "feel please free you"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'please feel free'. Conditional type 1'de 'if' yerine inversion kullanılabilir: 'Should you...' = 'If you should...'. Main clause'da normal emir cümlesi sıralaması korunur. Formal/yazılı dilde tercih edilen bir yapıdır."
+      },
+      {
+        "id": "inv_14",
+        "text": "In no way ------- compromise the integrity of our research.",
+        "options": [
+          "can we",
+          "we can",
+          "we could",
+          "could we not",
+          "we cannot"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'can we'. 'In no way' (hiçbir şekilde) negative expression olup cümle başında inversion gerektirir: modal + özne + asıl fiil. 'Can' zaten negative anlam taşıyan 'in no way' ile kullanıldığı için olumsuz yapılmaz."
+      },
+      {
+        "id": "inv_15",
+        "text": "Only by implementing these measures ------- to prevent future incidents.",
+        "options": [
+          "will we be able",
+          "we will be able",
+          "we are able",
+          "are we able",
+          "we were able"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'will we be able'. 'Only by' cümle başında olduğunda inversion gerekir: yardımcı fiil/modal + özne + asıl fiil. Gelecek zaman ifade edildiği için 'will' kullanılır."
+      }
+    ]
+  },
+  "subjunctive-mood": {
+    "id": "subjunctive-mood",
+    "title": "Subjunctive Mood (Dilek-Şart Kipi)",
+    "topic": "Subjunctive Mood",
+    "difficulty": "advanced",
+    "timeLimit": 20,
+    "questions": [
+      {
+        "id": "subj_1",
+        "text": "The committee recommends that each department ------- its budget proposal by the end of the month.",
+        "options": [
+          "submit",
+          "submits",
+          "submitted",
+          "will submit",
+          "has submitted"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'submit' (base form/mastar). 'Recommend, suggest, insist, demand, require' gibi fiillerden sonra 'that' cümleciğinde subjunctive mood kullanılır: özne + base form (yalın fiil). '(should) submit' anlamındadır ama 'should' yazılmaz."
+      },
+      {
+        "id": "subj_2",
+        "text": "It is essential that the laboratory ------- kept at a constant temperature.",
+        "options": [
+          "be",
+          "is",
+          "was",
+          "will be",
+          "has been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'It is essential/important/necessary/vital/crucial that...' yapısında subjunctive kullanılır: özne + be/base form. Passive voice olduğu için 'be kept' kullanılır. Normal cümle 'is kept' olurken, subjunctive'de 'be kept' olur."
+      },
+      {
+        "id": "subj_3",
+        "text": "The professor insisted that all students ------- their assignments on time.",
+        "options": [
+          "hand in",
+          "hands in",
+          "handed in",
+          "will hand in",
+          "have handed in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'hand in' (base form). 'Insist' fiilinden sonra 'that' cümleciğinde subjunctive mood kullanılır. Özne 'all students' (çoğul) olsa da fiil her zaman base form'dadır, '-s' eki almaz."
+      },
+      {
+        "id": "subj_4",
+        "text": "If I ------- you, I would accept the job offer immediately.",
+        "options": [
+          "were",
+          "was",
+          "am",
+          "will be",
+          "have been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'were'. Conditional type 2 (gerçeğe aykırı durum) yapısında 'to be' fiili için tüm öznelerle 'were' kullanılır (subjunctive). 'If I was' günlük konuşmada kullanılsa da, formal/yazılı dilde ve YDS'de 'were' tercih edilir."
+      },
+      {
+        "id": "subj_5",
+        "text": "The board of directors demanded that the CEO ------- his resignation.",
+        "options": [
+          "submit",
+          "submits",
+          "submitted",
+          "will submit",
+          "had submitted"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'submit'. 'Demand' fiilinden sonra subjunctive kullanılır: özne + base form. Özne 'the CEO' (3. tekil şahıs) olsa da fiil base form'dadır, '-s' eki almaz. '(should) submit' anlamındadır."
+      },
+      {
+        "id": "subj_6",
+        "text": "It is important that every participant ------- aware of the safety regulations.",
+        "options": [
+          "be",
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'It is important that...' yapısında subjunctive kullanılır. 'To be' fiilinin subjunctive formu tüm öznelerle 'be'dir. Normal cümle 'is aware' olurken, subjunctive'de 'be aware' olur."
+      },
+      {
+        "id": "subj_7",
+        "text": "The doctor suggested that the patient ------- smoking and increase physical activity.",
+        "options": [
+          "stop",
+          "stops",
+          "stopped",
+          "will stop",
+          "has stopped"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'stop'. 'Suggest' fiilinden sonra subjunctive kullanılır: özne + base form. Özne 'the patient' (3. tekil şahıs) olsa da fiil '-s' eki almaz. '(should) stop' anlamındadır ama 'should' yazılmaz."
+      },
+      {
+        "id": "subj_8",
+        "text": "It is crucial that the research ------- conducted in accordance with ethical guidelines.",
+        "options": [
+          "be",
+          "is",
+          "was",
+          "will be",
+          "has been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'It is crucial that...' yapısında subjunctive kullanılır. Passive voice (be conducted) gerekir. Normal yapı 'is conducted' olurken, subjunctive'de 'be conducted' olur."
+      },
+      {
+        "id": "subj_9",
+        "text": "The policy requires that all employees ------- a background check.",
+        "options": [
+          "undergo",
+          "undergoes",
+          "underwent",
+          "will undergo",
+          "have undergone"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'undergo'. 'Require' fiilinden sonra subjunctive kullanılır: özne + base form. Özne 'all employees' (çoğul) olsa bile, subjunctive'de her zaman base form kullanılır."
+      },
+      {
+        "id": "subj_10",
+        "text": "I wish I ------- more time to complete the project.",
+        "options": [
+          "had",
+          "have",
+          "will have",
+          "would have",
+          "am having"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'had'. 'I wish' yapısında şimdiki zamana dair gerçeğe aykırı istek için past simple kullanılır (past subjunctive). 'I wish I had' = 'Keşke -sam/olsam' anlamındadır. Gerçekte zamanım yok ama keşke olsa diyorum."
+      },
+      {
+        "id": "subj_11",
+        "text": "The regulations stipulate that safety equipment ------- worn at all times in the laboratory.",
+        "options": [
+          "be",
+          "is",
+          "are",
+          "was",
+          "were"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'Stipulate' (şart koşmak) fiilinden sonra subjunctive kullanılır. Passive voice gerekir: 'be worn'. Özne 'equipment' (tekil) olsa da, subjunctive'de 'be' kullanılır."
+      },
+      {
+        "id": "subj_12",
+        "text": "If the experiment ------- successful, we would publish the results immediately.",
+        "options": [
+          "were",
+          "was",
+          "is",
+          "will be",
+          "has been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'were'. Conditional type 2 (gerçeğe aykırı/hipotez) yapısında 'to be' fiili için tüm öznelerle 'were' kullanılır (subjunctive). Özne 'experiment' (tekil) olsa da 'were' kullanılır, 'was' değil."
+      },
+      {
+        "id": "subj_13",
+        "text": "The contract specifies that payment ------- made within 30 days of receipt.",
+        "options": [
+          "be",
+          "is",
+          "was",
+          "will be",
+          "has been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'Specify' (belirtmek) fiilinden sonra subjunctive kullanılır. Passive voice (be made) gerekir. Normal yapı 'is made' olurken, subjunctive'de 'be made' olur."
+      },
+      {
+        "id": "subj_14",
+        "text": "It is imperative that confidential information ------- disclosed to unauthorized personnel.",
+        "options": [
+          "not be",
+          "is not",
+          "not is",
+          "will not be",
+          "has not been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'not be'. 'It is imperative that...' yapısında subjunctive kullanılır. Olumsuz yapı için 'not' subjunctive formdan önce gelir: 'not be', 'not go' vs. Passive voice olduğu için 'not be disclosed' kullanılır."
+      },
+      {
+        "id": "subj_15",
+        "text": "The supervisor requested that the report ------- revised before submission.",
+        "options": [
+          "be",
+          "is",
+          "was",
+          "will be",
+          "has been"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'be'. 'Request' fiilinden sonra subjunctive kullanılır. Passive voice (be revised) gerekir. '(should) be revised' anlamındadır ama 'should' yazılmaz. Özne 'the report' (tekil) olsa da 'be' kullanılır."
+      }
+    ]
+  },
+  "causative-verbs": {
+    "id": "causative-verbs",
+    "title": "Causative Verbs (Ettirgen Fiiller)",
+    "topic": "Causative Verbs",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "questions": [
+      {
+        "id": "caus_1",
+        "text": "We had our website ------- by a professional design team.",
+        "options": [
+          "redesigned",
+          "redesign",
+          "to redesign",
+          "redesigning",
+          "redesigns"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'redesigned' (past participle). 'Have something done' yapısı başkasına yaptırılan eylemi ifade eder (passive causative). Yapı: have + nesne + past participle. Websiteyi biz yapmadık, başkasına yaptırdık."
+      },
+      {
+        "id": "caus_2",
+        "text": "The professor made all students ------- the exam without using their notes.",
+        "options": [
+          "take",
+          "to take",
+          "taking",
+          "taken",
+          "took"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'take' (base form). 'Make someone do something' yapısı zorunluluk/mecburiyet ifade eder. Yapı: make + nesne + base form (mastar). DİKKAT: 'to' kullanılmaz. Öğrencileri sınava zorladı."
+      },
+      {
+        "id": "caus_3",
+        "text": "She had her assistant ------- all the documents before the meeting.",
+        "options": [
+          "prepare",
+          "to prepare",
+          "prepared",
+          "preparing",
+          "prepares"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'prepare' (base form). 'Have someone do something' yapısı birini bir şey yapmaya ikna etme/yönlendirme ifade eder (active causative). Yapı: have + kişi + base form. Asistanına dokümanları hazırlatmış."
+      },
+      {
+        "id": "caus_4",
+        "text": "The company gets its products ------- by an independent quality control team.",
+        "options": [
+          "inspected",
+          "inspect",
+          "to inspect",
+          "inspecting",
+          "inspects"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'inspected' (past participle). 'Get something done' yapısı 'have something done' ile benzer anlam taşır: başkasına yaptırma (passive causative). Yapı: get + nesne + past participle. Ürünleri başkasına denetlettiriyor."
+      },
+      {
+        "id": "caus_5",
+        "text": "The teacher let the students ------- early because they finished their work.",
+        "options": [
+          "leave",
+          "to leave",
+          "leaving",
+          "left",
+          "leaves"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'leave' (base form). 'Let someone do something' yapısı izin verme ifade eder. Yapı: let + nesne + base form. DİKKAT: 'to' kullanılmaz. Öğrencilerin erken çıkmasına izin verdi."
+      },
+      {
+        "id": "caus_6",
+        "text": "I need to get my car ------- before the road trip.",
+        "options": [
+          "serviced",
+          "service",
+          "to service",
+          "servicing",
+          "services"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'serviced' (past participle). 'Get something done' yapısı başkasına yaptırma ifade eder. Arabayı servise götürüp bakımını yaptıracağım (kendim yapmayacağım). Yapı: get + nesne + past participle."
+      },
+      {
+        "id": "caus_7",
+        "text": "The manager helped the new employees ------- to the company culture.",
+        "options": [
+          "adapt",
+          "to adapt",
+          "adapted",
+          "adapting",
+          "adapts"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'adapt' (base form). 'Help someone (to) do something' yapısında 'to' opsiyoneldir, her iki kullanım da doğrudur. Yardım etme ifade eder. 'Help + nesne + base form' veya 'help + nesne + to + base form' kullanılabilir."
+      },
+      {
+        "id": "caus_8",
+        "text": "They had their house ------- while they were on vacation.",
+        "options": [
+          "painted",
+          "paint",
+          "to paint",
+          "painting",
+          "paints"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'painted' (past participle). 'Have something done' yapısı: başkasına yaptırma (passive causative). Evi boyatmışlar (kendileri boyamamış). Yapı: have + nesne + past participle."
+      },
+      {
+        "id": "caus_9",
+        "text": "The coach got the team ------- harder for the championship.",
+        "options": [
+          "to train",
+          "train",
+          "trained",
+          "training",
+          "trains"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'to train' (to + base form). 'Get someone to do something' yapısı birini bir şey yapmaya ikna etme/zorla yönlendirme ifade eder. Yapı: get + kişi + to + base form. DİKKAT: 'get + kişi' için 'to' kullanılır, 'have + kişi' için kullanılmaz."
+      },
+      {
+        "id": "caus_10",
+        "text": "Please have the receptionist ------- me a copy of the report.",
+        "options": [
+          "send",
+          "to send",
+          "sent",
+          "sending",
+          "sends"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'send' (base form). 'Have someone do something' yapısı: birini bir şey yapmaya yönlendirme (active causative). Yapı: have + kişi + base form. Resepsiyoniste raporu göndermesini söylemek."
+      },
+      {
+        "id": "caus_11",
+        "text": "The dentist made me ------- for an hour before the procedure.",
+        "options": [
+          "wait",
+          "to wait",
+          "waiting",
+          "waited",
+          "waits"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'wait' (base form). 'Make someone do something' yapısı: zorunluluk/mecburiyet. Yapı: make + nesne + base form. DİKKAT: 'to' kullanılmaz. Diş hekimi beni bir saat bekletmek zorunda bıraktı."
+      },
+      {
+        "id": "caus_12",
+        "text": "We got all our equipment ------- before the expedition.",
+        "options": [
+          "checked",
+          "check",
+          "to check",
+          "checking",
+          "checks"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'checked' (past participle). 'Get something done' yapısı: başkasına yaptırma (passive causative). Ekipmanları kontrol ettirdik (kendimiz kontrol etmedik). Yapı: get + nesne + past participle."
+      },
+      {
+        "id": "caus_13",
+        "text": "The supervisor doesn't let employees ------- their mobile phones during working hours.",
+        "options": [
+          "use",
+          "to use",
+          "using",
+          "used",
+          "uses"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'use' (base form). 'Let someone do something' yapısı: izin verme/vermeme. Yapı: let + nesne + base form. DİKKAT: 'to' kullanılmaz. Çalışanların telefon kullanmasına izin vermiyor."
+      },
+      {
+        "id": "caus_14",
+        "text": "You should have your eyes ------- regularly if you work with computers.",
+        "options": [
+          "tested",
+          "test",
+          "to test",
+          "testing",
+          "tests"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'tested' (past participle). 'Have something done' yapısı: başkasına yaptırma. Gözlerini düzenli olarak test ettirmelisin (kendim test etmeyeceksin, doktora gideceksin). Yapı: have + nesne + past participle."
+      },
+      {
+        "id": "caus_15",
+        "text": "The principal got the parents ------- in the school's decision-making process.",
+        "options": [
+          "to participate",
+          "participate",
+          "participated",
+          "participating",
+          "participates"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Doğru cevap 'to participate' (to + base form). 'Get someone to do something' yapısı: ikna etme/yönlendirme. Müdür velileri karar sürecine katılmaya ikna etti. Yapı: get + kişi + to + base form. 'Get + kişi' için 'to' kullanılır."
+      }
+    ]
+  }
+}

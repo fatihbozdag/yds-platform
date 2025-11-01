@@ -1,0 +1,342 @@
+{
+  "section": "6.2",
+  "title": "YÖKDİL Fen Bilimleri",
+  "topics": [
+    {
+      "id": "6.2.1",
+      "title": "Tanım-Özellik-İşlev Cümleleri ve Deneysel Süreç Anlatımı",
+      "content": "YÖKDİL Fen Bilimleri sınavında bilimsel metinler tanım, özellik ve işlev açıklamaları ile deneysel süreç anlatımı üzerine kuruludur. Bu yapıları tanımak hem okuma hızını artırır hem de boşluk doldurma sorularında doğru gramer formunu seçmeyi kolaylaştırır.\n\n**Tanım cümleleri** genellikle 'is/are defined as', 'refers to', 'is known as', 'consists of', 'is characterized by' kalıplarıyla başlar. Örnek: 'Photosynthesis is defined as the process by which plants convert light energy into chemical energy.' Relative clause'lar sık kullanılır: 'Catalysts are substances that increase reaction rates without being consumed.'\n\n**Özellik cümleleri** öznenin niteliklerini listeler: 'X is characterized by...', 'X exhibits...', 'X possesses...', 'X displays...'. Örnek: 'Noble gases are characterized by their low reactivity and complete valence shells.' Sıfat kümeleri: 'highly reactive', 'thermally stable', 'electrically conductive', 'chemically inert'.\n\n**İşlev cümleleri** amacı belirtir: 'serves to', 'functions as', 'is responsible for', 'plays a role in', 'enables', 'facilitates'. Örnek: 'Ribosomes function as the sites of protein synthesis.' To-infinitive yapısı: 'The purpose of the mitochondria is to generate ATP.'\n\n**Deneysel süreç anlatımı** pasif yapı ağırlıklıdır: 'was measured', 'were collected', 'was analyzed', 'were subjected to'. Sıralama bağlaçları: 'First', 'Subsequently', 'Then', 'Finally'. Araç belirtme: 'using', 'by means of', 'via', 'through'. Örnek: 'Samples were collected from three sites and subsequently analyzed using gas chromatography.'\n\nKoşul ve sonuç ilişkileri: 'When heated, the compound decomposes.' (Temporal clause), 'If the pH is increased, the reaction rate decreases.' (Conditional). Sebep-sonuç: 'Due to thermal expansion, the volume increased.' Niceleme: 'significantly', 'markedly', 'slightly', 'negligibly'.\n\nKarşılaştırma yapıları: 'X is more reactive than Y', 'The higher the temperature, the faster the reaction', 'In contrast to X, Y exhibits...' Bu kalıpları tanımak paragraf tamamlama sorularında mantıksal akışı yakalamayı sağlar.",
+      "examples": [
+        "Enzymes are proteins that catalyze biochemical reactions. (Tanım + relative clause)",
+        "DNA is characterized by its double-helix structure. (Özellik)",
+        "The function of hemoglobin is to transport oxygen in the blood. (İşlev)",
+        "The specimens were collected from coastal areas and preserved in ethanol. (Deneysel süreç - pasif)",
+        "When exposed to UV radiation, the compound degrades rapidly. (Koşul)",
+        "Due to its high electronegativity, fluorine readily forms bonds. (Sebep-sonuç)",
+        "The reaction was carried out at elevated temperatures using a platinum catalyst. (Süreç + araç)",
+        "Data were analyzed using standard statistical methods. (Pasif + araç)",
+        "Carbohydrates serve to provide energy for cellular processes. (İşlev)",
+        "The solubility of the compound increases significantly with temperature. (Özellik değişimi)",
+        "Samples were subjected to centrifugation prior to analysis. (Süreç sıralaması)",
+        "In contrast to saturated fats, unsaturated fats contain double bonds. (Karşılaştırma)",
+        "The mitochondrion is known as the powerhouse of the cell. (Tanım - metafor)",
+        "Subsequently, the mixture was filtered and the residue was dried. (Sıralama)",
+        "If the concentration is doubled, the reaction rate increases by a factor of four. (Koşul-sonuç)"
+      ],
+      "exercises": [
+        {
+          "question": "Enzymes are biological catalysts ---- accelerate chemical reactions without being consumed in the process.",
+          "options": {
+            "A": "who",
+            "B": "which",
+            "C": "what",
+            "D": "whose",
+            "E": "where"
+          },
+          "correct": "B",
+          "explanation": "'which' nesneler (enzymes) için relative pronoun. Non-human entities için 'which' kullanılır."
+        },
+        {
+          "question": "The samples ---- from three different locations were analyzed for heavy metal content.",
+          "options": {
+            "A": "collecting",
+            "B": "collected",
+            "C": "to collect",
+            "D": "collect",
+            "E": "are collecting"
+          },
+          "correct": "B",
+          "explanation": "Past participle (collected) passive anlamda reduced relative clause: 'which were collected' kısaltması."
+        },
+        {
+          "question": "The primary function of chlorophyll is ---- light energy during photosynthesis.",
+          "options": {
+            "A": "absorb",
+            "B": "absorbing",
+            "C": "to absorb",
+            "D": "absorbed",
+            "E": "absorption"
+          },
+          "correct": "C",
+          "explanation": "'The function is to...' yapısı. İşlev cümlelerinde to-infinitive kullanılır."
+        },
+        {
+          "question": "---- heated above its melting point, the substance transitions from solid to liquid state.",
+          "options": {
+            "A": "While",
+            "B": "When",
+            "C": "Because",
+            "D": "Although",
+            "E": "Unless"
+          },
+          "correct": "B",
+          "explanation": "'When heated' = ısıtıldığında. Temporal clause, koşul-sonuç ilişkisi."
+        },
+        {
+          "question": "Noble gases are ---- by their complete valence electron shells.",
+          "options": {
+            "A": "characterized",
+            "B": "functioned",
+            "C": "defined",
+            "D": "referred",
+            "E": "consisted"
+          },
+          "correct": "A",
+          "explanation": "'are characterized by' = ile karakterize edilir. Özellik cümlesi kalıbı."
+        },
+        {
+          "question": "The experiment was conducted ---- a spectrophotometer at room temperature.",
+          "options": {
+            "A": "by",
+            "B": "with",
+            "C": "using",
+            "D": "through",
+            "E": "via"
+          },
+          "correct": "C",
+          "explanation": "'using' araç belirtir: spektrofotometre kullanılarak. Deneysel süreç anlatımında sık kullanılır."
+        },
+        {
+          "question": "----, the mixture was filtered and the precipitate was dried overnight.",
+          "options": {
+            "A": "Finally",
+            "B": "Subsequently",
+            "C": "Initially",
+            "D": "Previously",
+            "E": "Simultaneously"
+          },
+          "correct": "B",
+          "explanation": "'Subsequently' = sonrasında, ardından. Sıralı deneysel adımları bağlar."
+        },
+        {
+          "question": "Due ---- its high reactivity, sodium must be stored in mineral oil.",
+          "options": {
+            "A": "of",
+            "B": "to",
+            "C": "with",
+            "D": "from",
+            "E": "by"
+          },
+          "correct": "B",
+          "explanation": "'Due to' = nedeniyle. Sebep bildiren preposition."
+        },
+        {
+          "question": "The solubility of gases in liquids ---- significantly with increasing temperature.",
+          "options": {
+            "A": "reduces",
+            "B": "decreases",
+            "C": "minimizes",
+            "D": "lessens",
+            "E": "declines"
+          },
+          "correct": "B",
+          "explanation": "'decreases' bilimsel bağlamda en yaygın kullanım. Solubility + decrease kollokasyonu."
+        },
+        {
+          "question": "If the concentration of the reactant ----, the reaction rate will increase proportionally.",
+          "options": {
+            "A": "doubled",
+            "B": "will double",
+            "C": "is doubled",
+            "D": "has doubled",
+            "E": "had doubled"
+          },
+          "correct": "C",
+          "explanation": "Type 1 conditional, if-clause'da present tense (passive form: is doubled)."
+        },
+        {
+          "question": "Antibiotics function ---- inhibiting bacterial cell wall synthesis.",
+          "options": {
+            "A": "as",
+            "B": "by",
+            "C": "with",
+            "D": "through",
+            "E": "for"
+          },
+          "correct": "B",
+          "explanation": "'by -ing' = ile/yoluyla. İşlevin nasıl gerçekleştiğini belirtir."
+        },
+        {
+          "question": "The data obtained from the experiment ---- analyzed using regression analysis.",
+          "options": {
+            "A": "was",
+            "B": "were",
+            "C": "has",
+            "D": "is",
+            "E": "have"
+          },
+          "correct": "B",
+          "explanation": "'data' plural kabul edilir bilimsel İngilizcede, 'were' doğru. (datum = singular, data = plural)"
+        }
+      ]
+    },
+    {
+      "id": "6.2.2",
+      "title": "Nicel İfadeler: Increase/Decrease, Respectively, Approximately",
+      "content": "YÖKDİL Fen Bilimleri metinlerinde nicel değişimleri ve ölçümleri ifade eden kelimelerin doğru kullanımı kritiktir. Bu terimler genellikle grafik, tablo ve deneysel sonuçları aktarırken kullanılır.\n\n**Increase/Decrease fiilleri**: increase, decrease, rise, fall, grow, decline, escalate, diminish, surge, plummet. Zarf desteği: 'increase significantly/markedly/substantially/slightly/marginally'. Örnek: 'The temperature increased by 15 degrees.' Preposition: increase BY (miktar), increase TO (hedef değer), increase FROM...TO.\n\n**İsim formları**: an increase, a decrease, a rise, a fall, a growth, a decline. Sıfat formları: increasing, decreasing, increasing, decreasing. Örnek: 'There was a significant increase in cell proliferation.' 'An increasing trend was observed.'\n\n**Respectively**: iki veya daha fazla öğeyi sırayla eşleştirmek için kullanılır. 'The melting points of gold and silver are 1064°C and 962°C, respectively.' Dikkat: sıralama aynı olmalı (gold→1064, silver→962). Virgül kullanımı: respectively kelimesinden önce mutlaka virgül.\n\n**Approximately ve yaklaşıklık ifadeleri**: approximately, roughly, about, around, nearly, almost, close to. Örnek: 'The solution contained approximately 5% sodium chloride.' 'The reaction took nearly two hours to complete.' 'Roughly 80% of the sample exhibited the target phenotype.'\n\n**Oranlar ve faktörler**: 'X is twice/three times as large as Y', 'by a factor of two/three', 'a twofold/threefold increase'. Örnek: 'The reaction rate increased by a factor of ten.'\n\n**Karşılaştırmalı yapılar**: 'higher/lower than', 'more/less reactive than', 'the highest/lowest value'. Correlative: 'The higher the temperature, the faster the rate.' Örnek: 'The concentration in Group A was significantly higher than that in Group B.'\n\n**Range ifadeleri**: 'ranging from...to', 'between...and', 'from...to'. Örnek: 'Temperatures ranged from 25°C to 40°C.' 'The pH values were between 6.5 and 7.5.'\n\n**Trendler**: 'an upward/downward trend', 'a steady increase', 'a gradual decline', 'a sharp rise', 'a sudden drop'. Örnek: 'A steady increase in pressure was observed throughout the experiment.'",
+      "examples": [
+        "The concentration increased by 20% over the course of the experiment. (Increase + by)",
+        "Temperature and pressure were 300 K and 1 atm, respectively. (Respectively kullanımı)",
+        "Approximately 75% of the specimens showed the expected response. (Yaklaşıklık)",
+        "The reaction rate increased significantly with temperature. (Increase + zarf)",
+        "A twofold increase in enzyme activity was observed. (Faktör ifadesi)",
+        "The pH ranged from 5.5 to 7.0 during the fermentation process. (Range)",
+        "The solubility of oxygen in water decreases as temperature increases. (Decrease + correlation)",
+        "Group A exhibited values nearly twice as high as Group B. (Karşılaştırma + yaklaşıklık)",
+        "There was a sharp decline in cell viability after 48 hours. (Decline + niteleme)",
+        "The boiling points of methanol and ethanol are 65°C and 78°C, respectively. (Respectively)",
+        "Concentrations varied from approximately 10 to 50 mg/L. (Yaklaşıklık + range)",
+        "The response increased by a factor of five when the substrate concentration was doubled. (Factor)",
+        "Roughly 60% of the variance can be explained by temperature alone. (Yaklaşıklık)",
+        "A gradual increase in viscosity was noted with decreasing temperature. (Trend + correlation)",
+        "The higher the pressure, the greater the density of the gas. (Correlative comparison)"
+      ],
+      "exercises": [
+        {
+          "question": "The enzyme activity increased ---- 30% when the pH was adjusted to 7.4.",
+          "options": {
+            "A": "with",
+            "B": "by",
+            "C": "to",
+            "D": "at",
+            "E": "in"
+          },
+          "correct": "B",
+          "explanation": "'increase by' + miktar/yüzde. 30% artış miktarı."
+        },
+        {
+          "question": "The atomic masses of carbon and oxygen are 12 and 16, ----.",
+          "options": {
+            "A": "respectively",
+            "B": "respectfully",
+            "C": "respective",
+            "D": "respect",
+            "E": "respecting"
+          },
+          "correct": "A",
+          "explanation": "'respectively' sırayla eşleştirme: carbon→12, oxygen→16."
+        },
+        {
+          "question": "---- 85% of the trials resulted in successful crystallization.",
+          "options": {
+            "A": "Exact",
+            "B": "Precisely",
+            "C": "Approximately",
+            "D": "Certainly",
+            "E": "Definitely"
+          },
+          "correct": "C",
+          "explanation": "'Approximately' = yaklaşık. Bilimsel metinlerde tahmin/yaklaşıklık."
+        },
+        {
+          "question": "The temperature decreased ---- over the 12-hour cooling period.",
+          "options": {
+            "A": "abruptly",
+            "B": "suddenly",
+            "C": "sharply",
+            "D": "gradually",
+            "E": "immediately"
+          },
+          "correct": "D",
+          "explanation": "'gradually' = kademeli olarak. 12 saatlik süre yavaş değişimi ima eder."
+        },
+        {
+          "question": "The reaction rate increased ---- a factor of three when the catalyst was added.",
+          "options": {
+            "A": "with",
+            "B": "by",
+            "C": "in",
+            "D": "at",
+            "E": "to"
+          },
+          "correct": "B",
+          "explanation": "'by a factor of' = ...kat/faktöründe. Üç kat artış."
+        },
+        {
+          "question": "The concentration ---- from 10 mg/L to 50 mg/L during the first phase.",
+          "options": {
+            "A": "varied",
+            "B": "ranged",
+            "C": "increased",
+            "D": "A and B",
+            "E": "All correct"
+          },
+          "correct": "D",
+          "explanation": "Hem 'varied from...to' hem 'ranged from...to' doğru. 'increased' sadece artış için kullanılır, varyasyon aralığı için değil."
+        },
+        {
+          "question": "A ---- increase in pressure was observed throughout the compression phase.",
+          "options": {
+            "A": "stable",
+            "B": "steady",
+            "C": "constant",
+            "D": "unchanging",
+            "E": "static"
+          },
+          "correct": "B",
+          "explanation": "'steady increase' = istikrarlı artış. 'Constant' değişmeyen anlamına gelir, artış ile çelişir."
+        },
+        {
+          "question": "The boiling point of the solution was ---- 5°C higher than that of pure water.",
+          "options": {
+            "A": "exactly",
+            "B": "precisely",
+            "C": "approximately",
+            "D": "absolutely",
+            "E": "certainly"
+          },
+          "correct": "C",
+          "explanation": "'approximately' ölçümlerde yaklaşıklık belirtir. Bilimsel kesinlik nadiren mutlaktır."
+        },
+        {
+          "question": "The higher the substrate concentration, ---- the reaction rate.",
+          "options": {
+            "A": "faster",
+            "B": "the faster",
+            "C": "fastest",
+            "D": "fast",
+            "E": "more fast"
+          },
+          "correct": "B",
+          "explanation": "'The...the...' comparative yapısı: The + comparative, the + comparative."
+        },
+        {
+          "question": "The pH values of the solutions were measured at 6.2, 7.0, and 7.8, ----.",
+          "options": {
+            "A": "respectively",
+            "B": "respectfully",
+            "C": "each",
+            "D": "separately",
+            "E": "individually"
+          },
+          "correct": "A",
+          "explanation": "'respectively' üç değeri üç çözeltiye sırayla eşleştirir."
+        },
+        {
+          "question": "Cell proliferation ---- significantly when the growth medium was supplemented with serum.",
+          "options": {
+            "A": "reduced",
+            "B": "decreased",
+            "C": "increased",
+            "D": "minimized",
+            "E": "declined"
+          },
+          "correct": "C",
+          "explanation": "'increased' hücre çoğalmasının arttığını belirtir. Serum eklentisi büyümeyi destekler."
+        },
+        {
+          "question": "The concentration increased ---- 15 mg/L to 45 mg/L over a 24-hour period.",
+          "options": {
+            "A": "by",
+            "B": "from",
+            "C": "with",
+            "D": "at",
+            "E": "in"
+          },
+          "correct": "B",
+          "explanation": "'from...to' başlangıç ve bitiş değerleri arasında değişim."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "section": "8.1",
+  "title": "Bağlaç ve Söylem İşaretleri Mini-Kataloğu",
+  "topics": [
+    {
+      "id": "8.1.1",
+      "title": "Sebep Bağlaçları: because, since, as, owing to, due to",
+      "content": "Sebep bağlaçları neden-sonuç ilişkisinin 'neden' kısmını işaret eder. YDS/YÖKDİL'de bu bağlaçların doğru kullanımı ve birbirinden ayırt edilmesi kritiktir.\n\n**because**: En yaygın sebep bağlacı, yan cümle kurar. 'I stayed home because it was raining.' (Evde kaldım çünkü yağmur yağıyordu.) Because sonrası tam cümle (özne + fiil) gelir.\n\n**since**: 1) Sebep anlamı: 'Since he was tired, he went to bed early.' (Yorgun olduğundan erken yattı.) Genellikle cümle başında. 2) Zaman anlamı: 'I haven't seen him since 2010.' Bağlama dikkat!\n\n**as**: 1) Sebep: 'As it was getting dark, we decided to return.' (Hava kararıyordu, dönmeye karar verdik.) 2) Zaman (eşzamanlılık): 'As I was walking, I saw him.' 3) Karşılaştırma: 'as tall as'. Bağlam belirleyicidir.\n\n**owing to**: Preposition phrase, isim/isim cümleciği alır. 'Owing to bad weather, the flight was cancelled.' (Kötü hava koşulları nedeniyle uçuş iptal edildi.) Formal/yazılı dil.\n\n**due to**: 'Owing to' ile benzer, isim alır. 'The delay was due to technical problems.' (Gecikme teknik sorunlardan kaynaklandı.) Dikkat: 'due to' genellikle 'be' fiilinden sonra gelir.\n\n**Diğer sebep yapıları**: 'because of' (+ isim), 'on account of' (+ isim), 'for' (çok resmi/eski), 'given that' (+ cümle, göz önüne alındığında), 'in view of' (+ isim, göz önüne alındığında).\n\n**Ayırt etme**:\n- because, since, as + TAM CÜMLE (özne + fiil)\n- owing to, due to, because of, on account of + İSİM/İSİM CÜMLECİĞİ\n\n**YDS/YÖKDİL ipucu**: Boşluktan sonra tam cümle mi isim mi var kontrol edin. Tam cümle → because/since/as. İsim → owing to/due to/because of.",
+      "examples": [
+        "I stayed home BECAUSE it was raining. (sebep + tam cümle)",
+        "BECAUSE OF the rain, I stayed home. (sebep + isim)",
+        "SINCE he was ill, he missed the meeting. (sebep + tam cümle)",
+        "AS the study was underpowered, the results are inconclusive. (sebep + tam cümle)",
+        "OWING TO budget constraints, the project was postponed. (sebep + isim)",
+        "The cancellation was DUE TO technical difficulties. (sebep + isim)",
+        "Given that the sample size was small, caution is warranted. (sebep + tam cümle)",
+        "He failed the exam BECAUSE he didn't study. (sebep + tam cümle)",
+        "They succeeded OWING TO their hard work. (sebep + isim)",
+        "AS it was late, we decided to leave. (sebep + tam cümle)",
+        "The delay is DUE TO unforeseen circumstances. (sebep + isim)",
+        "SINCE the hypothesis was supported, further research is needed. (sebep + tam cümle)",
+        "ON ACCOUNT OF her expertise, she was chosen. (sebep + isim)",
+        "BECAUSE OF limited resources, the scope was reduced. (sebep + isim)",
+        "The findings are significant BECAUSE they challenge existing theories. (sebep + tam cümle)"
+      ],
+      "exercises": [
+        {
+          "question": "---- the weather was bad, the flight was delayed.",
+          "options": {
+            "A": "Due to",
+            "B": "Owing to",
+            "C": "Because",
+            "D": "Because of",
+            "E": "On account of"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('the weather was bad'). Because + tam cümle. Due to/owing to/because of + isim."
+        },
+        {
+          "question": "The experiment failed ---- equipment malfunction.",
+          "options": {
+            "A": "because",
+            "B": "since",
+            "C": "as",
+            "D": "due to",
+            "E": "given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('equipment malfunction'). Due to + isim. Because/since/as + tam cümle."
+        },
+        {
+          "question": "---- the sample size was limited, the findings should be interpreted with caution.",
+          "options": {
+            "A": "Owing to",
+            "B": "Due to",
+            "C": "Because of",
+            "D": "Since",
+            "E": "On account of"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('the sample size was limited'). Since + tam cümle (sebep anlamı)."
+        },
+        {
+          "question": "The delay was ---- technical problems.",
+          "options": {
+            "A": "because",
+            "B": "since",
+            "C": "as",
+            "D": "due to",
+            "E": "given that"
+          },
+          "correct": "D",
+          "explanation": "'was due to' yapısı + isim ('technical problems'). Due to isimden sonra kullanılır."
+        },
+        {
+          "question": "---- budget constraints, the project scope was reduced.",
+          "options": {
+            "A": "Because",
+            "B": "Since",
+            "C": "As",
+            "D": "Owing to",
+            "E": "Given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('budget constraints'). Owing to + isim."
+        },
+        {
+          "question": "He didn't attend ---- he was ill.",
+          "options": {
+            "A": "owing to",
+            "B": "due to",
+            "C": "because",
+            "D": "because of",
+            "E": "on account of"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('he was ill'). Because + tam cümle."
+        },
+        {
+          "question": "The study was terminated ---- lack of funding.",
+          "options": {
+            "A": "because",
+            "B": "since",
+            "C": "as",
+            "D": "because of",
+            "E": "given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('lack of funding'). Because of + isim."
+        },
+        {
+          "question": "---- it was raining heavily, the match was postponed.",
+          "options": {
+            "A": "Due to",
+            "B": "Owing to",
+            "C": "As",
+            "D": "Because of",
+            "E": "On account of"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('it was raining heavily'). As + tam cümle (sebep)."
+        },
+        {
+          "question": "The error occurred ---- a software bug.",
+          "options": {
+            "A": "because",
+            "B": "since",
+            "C": "as",
+            "D": "owing to",
+            "E": "given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('a software bug'). Owing to + isim."
+        },
+        {
+          "question": "Given ---- the complexity of the issue, more research is warranted.",
+          "options": {
+            "A": "that",
+            "B": "to",
+            "C": "of",
+            "D": "with",
+            "E": "by"
+          },
+          "correct": "A",
+          "explanation": "'Given that' + tam cümle yapısı. 'Given the complexity' de doğru olurdu (given + isim)."
+        },
+        {
+          "question": "The results are inconclusive ---- the small sample size.",
+          "options": {
+            "A": "because",
+            "B": "since",
+            "C": "as",
+            "D": "due to",
+            "E": "given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('the small sample size'). Due to + isim."
+        },
+        {
+          "question": "---- her extensive experience, she was appointed as the lead researcher.",
+          "options": {
+            "A": "Because",
+            "B": "Since",
+            "C": "As",
+            "D": "On account of",
+            "E": "Given that"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('her extensive experience'). On account of + isim (resmi)."
+        }
+      ]
+    },
+    {
+      "id": "8.1.2",
+      "title": "Zıtlık Bağlaçları: although, even though, whereas, while, despite, in spite of",
+      "content": "Zıtlık bağlaçları beklenmeyen veya karşıt bir durumu ifade eder. YDS/YÖKDİL'de bu bağlaçlar sıklıkla test edilir çünkü öğrenciler sıklıkla karıştırır.\n\n**although**: Yan cümle kurar, 'rağmen' anlamı. 'Although it was raining, we went out.' (Yağmur yağmasına rağmen dışarı çıktık.) Although + tam cümle.\n\n**even though**: 'although' ile aynı anlam, biraz daha vurgulu. 'Even though he studied hard, he failed.' (Çok çalışmasına rağmen başarısız oldu.) Even though + tam cümle.\n\n**though**: 'although' ile aynı, daha gayri resmi. Cümle sonunda da kullanılabilir: 'It was difficult, though.' (Zor idi, yine de.)\n\n**whereas**: Karşılaştırma + zıtlık. İki durumu karşılaştırır. 'X prefers tea, whereas Y prefers coffee.' (X çay tercih eder, oysa Y kahve tercih eder.) Whereas + tam cümle.\n\n**while**: 1) Zaman (eşzamanlılık): 'While I was reading, he arrived.' 2) Zıtlık/karşılaştırma: 'While some support the policy, others oppose it.' Bağlam belirler.\n\n**despite**: Preposition, isim alır. 'Despite the rain, we went out.' (Yağmura rağmen çıktık.) Despite + isim/isim cümleciği.\n\n**in spite of**: 'despite' ile aynı, isim alır. 'In spite of his efforts, he failed.' (Çabalarına rağmen başarısız oldu.) In spite of + isim.\n\n**Diğer zıtlık yapıları**: 'however' (ancak, bağımsız cümle), 'nevertheless' (yine de), 'nonetheless' (yine de), 'yet' (ama, yine de), 'but' (ama).\n\n**Ayırt etme**:\n- although, even though, whereas, while + TAM CÜMLE\n- despite, in spite of + İSİM/İSİM CÜMLECİĞİ\n\n**Virgül kullanımı**: Although/even though cümle başında ise, ana cümlede virgül kullanılır. 'Although it rained, we went out.' Cümle ortasında virgül gerekmez: 'We went out although it rained.'",
+      "examples": [
+        "ALTHOUGH it was expensive, we bought it. (zıtlık + tam cümle)",
+        "DESPITE the high cost, we bought it. (zıtlık + isim)",
+        "EVEN THOUGH he tried hard, he couldn't succeed. (zıtlık + tam cümle)",
+        "WHEREAS Group A improved, Group B declined. (karşılaştırma + tam cümle)",
+        "WHILE the method is effective, it is also costly. (zıtlık + tam cümle)",
+        "IN SPITE OF the difficulties, they persevered. (zıtlık + isim)",
+        "She passed the exam THOUGH she didn't study much. (zıtlık + tam cümle)",
+        "The results are significant, HOWEVER, further research is needed. (zıtlık, bağımsız cümle)",
+        "DESPITE limited resources, the project succeeded. (zıtlık + isim)",
+        "ALTHOUGH the findings are preliminary, they suggest a trend. (zıtlık + tam cümle)",
+        "He accepted the offer IN SPITE OF the low salary. (zıtlık + isim)",
+        "WHEREAS traditional methods focus on X, modern approaches emphasize Y. (karşılaştırma)",
+        "The hypothesis was rejected, NEVERTHELESS, the study provides valuable insights. (zıtlık)",
+        "EVEN THOUGH the sample was small, the effect was significant. (zıtlık + tam cümle)",
+        "DESPITE being expensive, the treatment is effective. (zıtlık + being + sıfat)"
+      ],
+      "exercises": [
+        {
+          "question": "---- the weather was terrible, they decided to go hiking.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Although",
+            "D": "However",
+            "E": "Nevertheless"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('the weather was terrible'). Although + tam cümle. Despite/in spite of + isim."
+        },
+        {
+          "question": "The study was completed ---- numerous obstacles.",
+          "options": {
+            "A": "although",
+            "B": "even though",
+            "C": "whereas",
+            "D": "despite",
+            "E": "while"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('numerous obstacles'). Despite + isim."
+        },
+        {
+          "question": "---- he worked hard, he didn't get promoted.",
+          "options": {
+            "A": "Despite",
+            "B": "In spite of",
+            "C": "Even though",
+            "D": "However",
+            "E": "Nevertheless"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('he worked hard'). Even though + tam cümle (vurgulu zıtlık)."
+        },
+        {
+          "question": "Group A showed improvement, ---- Group B showed decline.",
+          "options": {
+            "A": "despite",
+            "B": "in spite of",
+            "C": "although",
+            "D": "whereas",
+            "E": "however"
+          },
+          "correct": "D",
+          "explanation": "İki grubu karşılaştırma + zıtlık. Whereas + tam cümle. 'Group A iyileşti, oysa Group B kötüleşti.'"
+        },
+        {
+          "question": "---- the limitations, the findings are valuable.",
+          "options": {
+            "A": "Although",
+            "B": "Even though",
+            "C": "Whereas",
+            "D": "In spite of",
+            "E": "While"
+          },
+          "correct": "D",
+          "explanation": "Boşluktan sonra İSİM ('the limitations'). In spite of + isim."
+        },
+        {
+          "question": "The method is effective ---- it is time-consuming.",
+          "options": {
+            "A": "despite",
+            "B": "in spite of",
+            "C": "although",
+            "D": "however",
+            "E": "nevertheless"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra TAM CÜMLE ('it is time-consuming'). Although + tam cümle."
+        },
+        {
+          "question": "---- some researchers support the theory, others reject it.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "While",
+            "D": "However",
+            "E": "Nevertheless"
+          },
+          "correct": "C",
+          "explanation": "'While' karşılaştırma + zıtlık: bazı araştırmacılar destekler, diğerleri reddeder. While + tam cümle."
+        },
+        {
+          "question": "He failed ---- his best efforts.",
+          "options": {
+            "A": "although",
+            "B": "even though",
+            "C": "despite",
+            "D": "whereas",
+            "E": "while"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra İSİM ('his best efforts'). Despite + isim."
+        },
+        {
+          "question": "The hypothesis was rejected. ----, the data provide useful insights.",
+          "options": {
+            "A": "Despite",
+            "B": "Although",
+            "C": "Whereas",
+            "D": "However",
+            "E": "In spite of"
+          },
+          "correct": "D",
+          "explanation": "'However' bağımsız cümleleri bağlar (nokta + However + virgül). İki cümle arası zıtlık."
+        },
+        {
+          "question": "---- the high cost, the treatment is widely used.",
+          "options": {
+            "A": "Although",
+            "B": "Even though",
+            "C": "Despite",
+            "D": "Whereas",
+            "E": "While"
+          },
+          "correct": "C",
+          "explanation": "Boşluktan sonra İSİM ('the high cost'). Despite + isim."
+        },
+        {
+          "question": "---- being expensive, the device is popular.",
+          "options": {
+            "A": "Although",
+            "B": "Despite",
+            "C": "Whereas",
+            "D": "However",
+            "E": "Nevertheless"
+          },
+          "correct": "B",
+          "explanation": "'Despite + being + sıfat' yapısı. Despite being expensive = pahalı olmasına rağmen."
+        },
+        {
+          "question": "Traditional methods focus on quantity, ---- modern approaches emphasize quality.",
+          "options": {
+            "A": "despite",
+            "B": "although",
+            "C": "whereas",
+            "D": "however",
+            "E": "nevertheless"
+          },
+          "correct": "C",
+          "explanation": "Karşılaştırma: geleneksel X, modern Y. Whereas + tam cümle (karşılaştırma + zıtlık)."
+        }
+      ]
+    }
+  ]
+}

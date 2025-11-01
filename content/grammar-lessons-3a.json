@@ -1,0 +1,803 @@
+[
+  {
+    "id": 9,
+    "title": "Articles (a/an/the)",
+    "slug": "articles",
+    "level": "intermediate",
+    "estimatedTime": 25,
+    "description": "Master the correct usage of definite and indefinite articles in academic English contexts typical of YDS/YÖKDİL exams.",
+    "objectives": [
+      "Distinguish between indefinite articles (a/an) and definite article (the)",
+      "Recognize zero article contexts in academic writing",
+      "Apply article rules with countable and uncountable nouns",
+      "Use articles correctly with generic and specific references"
+    ],
+    "content": {
+      "introduction": "Articles are among the most frequently tested grammar points in YDS/YÖKDİL exams. While Turkish lacks articles, English uses them to indicate whether a noun is specific or general, countable or uncountable. Academic English has particular conventions for article usage that differ from everyday speech.",
+      "sections": [
+        {
+          "heading": "Indefinite Articles: A/An",
+          "content": "Use 'a' before consonant sounds and 'an' before vowel sounds. Remember: it's the sound, not the spelling that matters (a university, an hour).\n\n**Rules for A/An:**\n- With singular countable nouns mentioned for the first time: 'A researcher conducted a study.'\n- With professions or classifications: 'She is an academic.', 'This is a complex issue.'\n- In expressions of frequency: 'once a week', 'twice a month'\n- After 'such', 'what', 'quite': 'such a significant finding', 'what an interesting theory'\n\n**Common YDS/YÖKDİL Contexts:**\n- 'A number of studies have shown...' (= several)\n- 'An increasing/growing amount of research...'\n- 'A wide range of factors...'"
+        },
+        {
+          "heading": "Definite Article: The",
+          "content": "Use 'the' when both speaker and listener know which specific thing is being referred to.\n\n**Rules for The:**\n- With nouns mentioned before: 'A study was conducted. The study revealed...'\n- With unique things: 'the sun', 'the environment', 'the government'\n- With superlatives: 'the most important factor', 'the best approach'\n- With ordinal numbers: 'the first study', 'the third chapter'\n- With specific groups: 'the elderly', 'the unemployed', 'the poor'\n- Before certain proper nouns: 'the United States', 'the Netherlands', 'the Middle East'\n\n**Academic Writing Patterns:**\n- 'The results indicate that...'\n- 'The data suggest...'\n- 'The findings support...'\n- 'The majority of participants...'"
+        },
+        {
+          "heading": "Zero Article (No Article)",
+          "content": "Many contexts require no article at all—a common source of errors for Turkish learners.\n\n**Zero Article Rules:**\n- With plural countable nouns used generically: 'Students often struggle with...', 'Researchers have found...'\n- With uncountable nouns used generically: 'Research shows...', 'Education is essential...'\n- With most proper nouns: 'Turkey', 'Europe', 'Professor Smith'\n- With meals, sports, languages: 'after breakfast', 'play tennis', 'speak English'\n- With abstract nouns: 'life', 'death', 'freedom', 'knowledge'\n- With academic subjects: 'study mathematics', 'major in psychology'\n\n**Academic Contexts:**\n- 'Previous research has shown...' (research = uncountable, generic)\n- 'Evidence suggests...' (evidence = uncountable)\n- 'Analysis revealed...' (analysis as process, not specific)"
+        },
+        {
+          "heading": "Special Cases in Academic English",
+          "content": "**Countable vs. Uncountable Nouns:**\n- Research (uncountable): 'research shows', 'conduct research'\n- Study/Studies (countable): 'a study', 'several studies'\n- Information/Data (uncountable): 'the information', 'data suggest' (but 'datum' is singular)\n- Evidence (uncountable): 'strong evidence', 'the evidence'\n\n**Generic vs. Specific:**\n- Generic: 'The computer has revolutionized education.' (computers in general)\n- Generic: 'Computers have revolutionized education.' (same meaning, more common)\n- Specific: 'The computer in the lab needs repair.' (one specific computer)\n\n**Fixed Expressions:**\n- 'in the light of', 'on the other hand', 'in the long run'\n- 'at present', 'in fact', 'in general', 'in particular'\n- 'make progress' (no article), 'take part in' (no article)"
+        }
+      ],
+      "keyRules": [
+        "Use a/an with singular countable nouns mentioned for the first time",
+        "Use the when both speaker and listener know which specific item is meant",
+        "Use no article with plural/uncountable nouns used generically",
+        "Sound, not spelling, determines a vs. an (a university, an MBA)",
+        "Academic nouns like 'research', 'evidence', 'information' are uncountable"
+      ],
+      "commonErrors": [
+        {
+          "error": "*The life is precious.",
+          "correction": "Life is precious.",
+          "explanation": "Abstract nouns used generically take no article"
+        },
+        {
+          "error": "*Researches show that...",
+          "correction": "Research shows that...",
+          "explanation": "'Research' is uncountable; use singular verb"
+        },
+        {
+          "error": "*The most of students...",
+          "correction": "Most students... / The majority of students...",
+          "explanation": "'Most' alone takes no article; 'the majority of' needs 'the'"
+        },
+        {
+          "error": "*A evidence suggests...",
+          "correction": "Evidence suggests...",
+          "explanation": "'Evidence' is uncountable and cannot take 'a/an'"
+        },
+        {
+          "error": "*He is teacher.",
+          "correction": "He is a teacher.",
+          "explanation": "Professions require indefinite article with singular nouns"
+        }
+      ],
+      "examples": [
+        {
+          "sentence": "A comprehensive study conducted by researchers at the university revealed that the majority of participants preferred the new method.",
+          "explanation": "'A study' (first mention), 'the university' (specific one), 'the majority' (fixed phrase), 'the new method' (specific method mentioned before)"
+        },
+        {
+          "sentence": "Research in second language acquisition has shown that motivation plays a crucial role in the learning process.",
+          "explanation": "'Research' (uncountable, generic), 'motivation' (abstract, generic), 'the learning process' (specific process being discussed)"
+        },
+        {
+          "sentence": "The findings suggest that education should focus on developing critical thinking skills rather than memorization.",
+          "explanation": "'The findings' (specific findings from the study), 'education' (generic concept), 'skills' (plural, generic)"
+        }
+      ]
+    },
+    "practice": [
+      {
+        "id": "art-1",
+        "type": "multiple-choice",
+        "question": "------- increasing number of universities are now offering online courses, but ------- quality of these programs varies considerably across institutions.",
+        "options": [
+          "An / the",
+          "The / a",
+          "An / a",
+          "The / the",
+          "A / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'An increasing number' is a fixed expression using the indefinite article (before a vowel sound). 'The quality' is specific—referring to the quality of the online programs just mentioned. The pattern 'an increasing number of + plural noun' is extremely common in academic writing and YDS/YÖKDİL exams."
+      },
+      {
+        "id": "art-2",
+        "type": "multiple-choice",
+        "question": "------- research conducted over the past decade has demonstrated that ------- environment plays a more significant role in child development than was previously believed.",
+        "options": [
+          "The / an",
+          "A / the",
+          "The / the",
+          "--- / the",
+          "A / an"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'The research' is specific research (conducted over the past decade). 'The environment' is also specific and definite when referring to the general concept in this context. When 'research' is made specific by a modifier like 'conducted over the past decade', it takes 'the'. This is a sophisticated distinction tested at YDS/YÖKDİL level."
+      },
+      {
+        "id": "art-3",
+        "type": "multiple-choice",
+        "question": "According to recent studies, ------- majority of language learners benefit more from ------- communicative approach than from traditional grammar-focused instruction.",
+        "options": [
+          "the / a",
+          "a / the",
+          "the / the",
+          "a / a",
+          "--- / a"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'The majority' is a fixed expression requiring the definite article. 'A communicative approach' uses the indefinite article because it's one type of approach being introduced (though it's a known methodology, it's presented as one option among others). This tests knowledge of both fixed expressions and article use with classifications."
+      },
+      {
+        "id": "art-4",
+        "type": "multiple-choice",
+        "question": "While ------- technology has revolutionized how we access information, ------- ability to evaluate sources critically has become increasingly important.",
+        "options": [
+          "the / an",
+          "--- / the",
+          "the / the",
+          "a / the",
+          "--- / an"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Technology' is used generically (technology in general, not specific technology), so no article is needed. 'The ability' is made specific by the following infinitive phrase 'to evaluate sources critically', which defines which ability we're discussing. This tests the generic vs. specific distinction crucial for academic writing."
+      },
+      {
+        "id": "art-5",
+        "type": "multiple-choice",
+        "question": "In ------- light of these findings, it is clear that ------- further research is needed to understand the complex relationship between stress and academic performance.",
+        "options": [
+          "the / a",
+          "a / the",
+          "the / ---",
+          "--- / ---",
+          "the / the"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'In the light of' is a fixed expression requiring 'the'. 'Further research' is uncountable and used generically (referring to additional research in general, not specific research projects), so it takes no article. This tests both fixed expressions and the uncountable nature of 'research'."
+      },
+      {
+        "id": "art-6",
+        "type": "multiple-choice",
+        "question": "------- evidence from multiple studies suggests that ------- students who engage in regular physical activity demonstrate better concentration and higher academic achievement.",
+        "options": [
+          "The / the",
+          "An / the",
+          "--- / ---",
+          "The / ---",
+          "--- / the"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Evidence' is uncountable and used generically here, requiring no article. 'Students who engage...' is also generic (students in general who do this), not specific students, so no article is needed. This tests the important principle that plural countable nouns and uncountable nouns take no article when used generically."
+      },
+      {
+        "id": "art-7",
+        "type": "multiple-choice",
+        "question": "The professor assigned ------- extensive reading on cognitive development, and ------- reading took the students several weeks to complete.",
+        "options": [
+          "an / the",
+          "an / a",
+          "the / the",
+          "a / the",
+          "--- / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'An extensive reading' uses the indefinite article because this is the first mention—one reading assignment being introduced. 'The reading' uses the definite article because it refers back to the same reading assignment just mentioned. This tests the classic first mention/second mention pattern crucial for coherent writing."
+      },
+      {
+        "id": "art-8",
+        "type": "multiple-choice",
+        "question": "Despite ------- significant progress in medical science, ------- effective treatment for many diseases remains elusive.",
+        "options": [
+          "a / the",
+          "the / an",
+          "--- / an",
+          "the / the",
+          "a / an"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Progress' is uncountable and used generically, so no article is needed. 'An effective treatment' uses the indefinite article because we're referring to the existence of treatment in general (any effective treatment), not a specific treatment. This tests uncountable nouns and the use of indefinite articles with classifications."
+      }
+    ],
+    "quiz": {
+      "passingScore": 70,
+      "questions": [
+        {
+          "id": "art-quiz-1",
+          "question": "------- number of factors contribute to second language acquisition, but ------- most critical appears to be the learner's motivation and engagement.",
+          "options": [
+            "The / a",
+            "A / the",
+            "The / the",
+            "A / a",
+            "--- / the"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'A number of' is a fixed expression meaning 'several'. 'The most critical' requires 'the' before superlatives. Don't confuse 'a number of' (= several) with 'the number of' (= the quantity)."
+        },
+        {
+          "id": "art-quiz-2",
+          "question": "Although ------- data collected in the study were limited, ------- analysis revealed several important trends in consumer behavior.",
+          "options": [
+            "the / the",
+            "the / an",
+            "--- / the",
+            "a / the",
+            "the / a"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'The data' is specific (data from this study). 'The analysis' is also specific (the analysis of that data). Note: 'data' is technically plural, but both singular and plural verbs are accepted in modern usage."
+        },
+        {
+          "id": "art-quiz-3",
+          "question": "In recent years, ------- understanding of how the brain processes language has advanced considerably, leading to ------- more effective teaching methods.",
+          "options": [
+            "an / the",
+            "the / ---",
+            "an / ---",
+            "the / the",
+            "--- / ---"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'The understanding' is made specific by the following phrase 'of how the brain processes language'. 'More effective teaching methods' is plural and generic, so no article is needed. Comparative adjectives with plural nouns don't require articles when used generically."
+        },
+        {
+          "id": "art-quiz-4",
+          "question": "------- education plays a vital role in economic development, yet many countries still struggle to provide ------- quality education to all citizens.",
+          "options": [
+            "The / the",
+            "--- / ---",
+            "The / a",
+            "--- / a",
+            "An / the"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Education' is used generically (education in general), requiring no article. 'Quality education' is also generic (any education that is of good quality), not a specific program. Both abstract concepts used generically take no article."
+        },
+        {
+          "id": "art-quiz-5",
+          "question": "The study examined ------- relationship between sleep patterns and academic performance, and ------- results were surprising to many researchers.",
+          "options": [
+            "a / the",
+            "the / the",
+            "a / ---",
+            "the / a",
+            "--- / the"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'The relationship' is specific (the relationship being examined in this study). 'The results' refers back to the results of this specific study. Both are definite and specific to the context."
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "title": "Prepositions",
+    "slug": "prepositions",
+    "level": "intermediate",
+    "estimatedTime": 30,
+    "description": "Master the complex system of English prepositions essential for YDS/YÖKDİL success, including time, place, and abstract relationships.",
+    "objectives": [
+      "Use prepositions of time (at/on/in, during, for, since) accurately",
+      "Apply prepositions of place and movement correctly",
+      "Master prepositional phrases common in academic writing",
+      "Recognize and avoid Turkish-influenced preposition errors"
+    ],
+    "content": {
+      "introduction": "Prepositions are one of the most challenging aspects of English for Turkish learners, as Turkish uses postpositions (case suffixes) rather than prepositions. YDS/YÖKDİL exams extensively test prepositional knowledge, particularly in academic contexts. Many preposition choices are idiomatic and must be memorized as collocations.",
+      "sections": [
+        {
+          "heading": "Prepositions of Time",
+          "content": "**AT - Specific times:**\n- Clock times: at 9:00, at noon, at midnight, at sunrise\n- Specific points: at the moment, at present, at the time, at the beginning/end\n- Holidays (US): at Christmas, at Easter\n\n**ON - Days and dates:**\n- Days: on Monday, on weekends (US)/at weekends (UK), on weekdays\n- Dates: on May 15th, on the 1st of January\n- Special days: on New Year's Day, on my birthday, on that occasion\n\n**IN - Longer periods:**\n- Months/seasons: in May, in summer, in the fall\n- Years/centuries: in 2024, in the 21st century\n- Parts of day: in the morning/afternoon/evening (but: at night)\n- Future time: in two weeks, in a few minutes\n\n**Other Time Prepositions:**\n- DURING + noun: during the meeting, during the war, during the exam\n- FOR + duration: for three years, for a while, for the time being\n- SINCE + starting point: since 2020, since Monday, since childhood\n- BY + deadline: by Friday, by the end of the month\n- WITHIN + time limit: within a week, within the next few days\n- THROUGHOUT + entire period: throughout history, throughout the semester"
+        },
+        {
+          "heading": "Prepositions of Place and Movement",
+          "content": "**AT - Specific points/locations:**\n- at the door, at the station, at the top, at the bottom\n- at home, at work, at school, at university\n- at the beginning/end of (place or time)\n\n**ON - Surfaces and position:**\n- on the table, on the wall, on the floor, on the ceiling\n- on the left/right, on page 5, on the first floor\n- on the coast, on the border\n\n**IN - Enclosed spaces:**\n- in the room, in the building, in the box\n- in the city, in the country, in Turkey, in Europe\n- in the north/south/east/west\n\n**Movement Prepositions:**\n- TO (destination): go to school, move to Istanbul, send to\n- FROM (origin): come from Turkey, receive from, away from\n- INTO (entering): go into the room, translate into English\n- OUT OF (exiting): come out of the building, get out of trouble\n- THROUGH (via): through the tunnel, through the process\n- ACROSS (from side to side): across the street, across the country\n- ALONG (following a line): along the river, along the same lines\n- TOWARDS (direction): towards the future, move towards"
+        },
+        {
+          "heading": "Abstract and Academic Prepositions",
+          "content": "**Cause and Effect:**\n- BECAUSE OF / DUE TO / OWING TO: because of the weather, due to budget constraints\n- AS A RESULT OF: as a result of the study\n- ON ACCOUNT OF: on account of his illness\n\n**Manner and Method:**\n- BY + gerund (method): by studying, by implementing, by comparing\n- WITH: with difficulty, with ease, with care\n- IN: in this way, in a different manner, in detail\n\n**Topic and Reference:**\n- ABOUT/ON: research about/on climate change, article on linguistics\n- CONCERNING/REGARDING: concerning the issue, regarding your question\n- WITH RESPECT TO / WITH REGARD TO: with respect to the findings\n- IN TERMS OF: in terms of quality, in terms of results\n\n**Comparison and Relationship:**\n- COMPARED TO/WITH: compared to last year, compared with other studies\n- IN COMPARISON TO/WITH: in comparison to previous research\n- IN RELATION TO: in relation to the theory\n- BETWEEN: difference between A and B, relationship between variables\n- AMONG: among the participants, among other things\n\n**Academic Fixed Expressions:**\n- in accordance with, in addition to, in contrast to/with\n- in response to, in light of, in spite of, in the absence of\n- on the basis of, on behalf of, on the grounds of\n- with reference to, with the exception of, with a view to"
+        },
+        {
+          "heading": "Verb + Preposition Collocations",
+          "content": "**High-frequency Academic Collocations:**\n- DEPEND ON: success depends on effort\n- FOCUS ON: the study focuses on motivation\n- RESULT IN/FROM: this results in improvement / results from practice\n- LEAD TO: this leads to better outcomes\n- CONSIST OF: the study consists of three parts\n- CONTRIBUTE TO: factors contribute to success\n- ACCOUNT FOR: this accounts for the difference\n- COPE WITH: cope with stress, cope with difficulties\n- DEAL WITH: deal with problems, deal with the issue\n- REFER TO: refer to the previous chapter\n- RESPOND TO: respond to criticism, respond to questions\n- RELATE TO: relate to the topic, relate to experience\n\n**Common Errors for Turkish Learners:**\n- arrive AT a place (not *arrive to)\n- discuss something (not *discuss about)\n- marry someone (not *marry with)\n- enter a place (not *enter to/into)\n- reach a destination (not *reach to)\n- explain something (not *explain about)\n- emphasize something (not *emphasize on)"
+        }
+      ],
+      "keyRules": [
+        "AT for specific times/points, ON for days/dates, IN for longer periods",
+        "AT for points/locations, ON for surfaces, IN for enclosed spaces",
+        "BY + method/gerund, WITH + instrument/manner",
+        "Many verb + preposition combinations are fixed and must be memorized",
+        "Turkish postpositions don't map directly to English prepositions"
+      ],
+      "commonErrors": [
+        {
+          "error": "*in Monday, *in 5 o'clock, *on summer",
+          "correction": "on Monday, at 5 o'clock, in summer",
+          "explanation": "Time preposition rules: days=ON, clock times=AT, seasons=IN"
+        },
+        {
+          "error": "*arrive to the station, *reach to the goal",
+          "correction": "arrive at the station, reach the goal",
+          "explanation": "'Arrive' takes AT or IN; 'reach' is transitive (no preposition needed)"
+        },
+        {
+          "error": "*discuss about the problem, *marry with someone",
+          "correction": "discuss the problem, marry someone",
+          "explanation": "These verbs are transitive in English; no preposition needed"
+        },
+        {
+          "error": "*depend of, *focus at, *consist from",
+          "correction": "depend on, focus on, consist of",
+          "explanation": "Fixed verb + preposition collocations must be memorized"
+        },
+        {
+          "error": "*in the end of the street / *at the end of the movie",
+          "correction": "at the end of the street / at the end of the movie",
+          "explanation": "'At the end of' for both place and time; 'in the end' = finally"
+        }
+      ],
+      "examples": [
+        {
+          "sentence": "Research conducted at the university over the past decade has focused on the relationship between motivation and academic achievement in second language acquisition.",
+          "explanation": "AT (specific institution), OVER (duration), ON (topic), BETWEEN (relationship), IN (field)"
+        },
+        {
+          "sentence": "In response to the findings, the committee proposed several changes with regard to the assessment procedures, which would be implemented by the end of the semester.",
+          "explanation": "IN RESPONSE TO, WITH REGARD TO (academic fixed phrases), BY (deadline)"
+        },
+        {
+          "sentence": "The study, which consists of three phases, aims to account for the variations in performance among participants from different linguistic backgrounds.",
+          "explanation": "CONSIST OF (composition), ACCOUNT FOR (explanation), AMONG (within group), FROM (origin)"
+        }
+      ]
+    },
+    "practice": [
+      {
+        "id": "prep-1",
+        "type": "multiple-choice",
+        "question": "The research team has been working ------- this project ------- 2020, and they expect to publish their findings ------- the end of next year.",
+        "options": [
+          "on / since / by",
+          "at / from / in",
+          "on / from / at",
+          "in / since / by",
+          "at / since / in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Work ON a project' is the correct collocation. 'Since 2020' indicates a starting point continuing to now. 'By the end of' indicates a deadline. This tests three different types of preposition usage: verb collocation, time starting point, and deadline."
+      },
+      {
+        "id": "prep-2",
+        "type": "multiple-choice",
+        "question": "------- accordance ------- the new regulations, all students must submit their thesis proposals ------- March 15th.",
+        "options": [
+          "In / with / by",
+          "In / to / until",
+          "On / with / by",
+          "In / with / until",
+          "On / to / by"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'In accordance with' is a fixed academic phrase meaning 'following' or 'in agreement with'. 'By March 15th' indicates a deadline (submitted on or before that date). 'Until' would mean continuous action up to that point, which doesn't fit the context of a submission deadline."
+      },
+      {
+        "id": "prep-3",
+        "type": "multiple-choice",
+        "question": "The success of the educational program depends largely ------- the quality of teacher training and the level of parental involvement ------- the learning process.",
+        "options": [
+          "on / in",
+          "of / at",
+          "on / at",
+          "from / in",
+          "of / in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Depend on' is a fixed collocation. 'Involvement in' is the correct preposition showing participation in a process. Turkish learners often confuse this with 'depend of' due to L1 influence."
+      },
+      {
+        "id": "prep-4",
+        "type": "multiple-choice",
+        "question": "------- contrast ------- previous studies, our research focuses specifically ------- the cognitive aspects of language learning rather than the social factors.",
+        "options": [
+          "In / to / on",
+          "On / with / at",
+          "In / with / in",
+          "On / to / on",
+          "By / with / on"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'In contrast to' (or 'In contrast with') is a fixed academic phrase for showing differences. 'Focus on' is a fixed verb + preposition collocation. This tests knowledge of both academic phrases and verb collocations."
+      },
+      {
+        "id": "prep-5",
+        "type": "multiple-choice",
+        "question": "The study consists ------- three phases, each designed to account ------- different variables that may influence the results.",
+        "options": [
+          "of / for",
+          "from / of",
+          "of / of",
+          "in / for",
+          "from / for"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Consist of' means 'be composed of'. 'Account for' means 'explain' or 'take into consideration'. These are high-frequency academic collocations that must be memorized as fixed phrases."
+      },
+      {
+        "id": "prep-6",
+        "type": "multiple-choice",
+        "question": "The lecture ------- contemporary approaches ------- second language acquisition will be held ------- Room 305 ------- Monday morning.",
+        "options": [
+          "on / to / in / on",
+          "about / in / at / in",
+          "on / in / at / on",
+          "about / to / in / on",
+          "of / to / at / in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Lecture on' (topic), 'approaches to' (direction/relation), 'in Room 305' (enclosed space), 'on Monday morning' (specific day + part of day). Note: 'on Monday morning' combines the day preposition with the morning time reference."
+      },
+      {
+        "id": "prep-7",
+        "type": "multiple-choice",
+        "question": "------- light ------- recent developments in the field, the committee decided to revise the curriculum ------- a view ------- incorporating more practical applications.",
+        "options": [
+          "In / of / with / to",
+          "On / of / with / of",
+          "In / to / for / to",
+          "At / of / with / to",
+          "On / to / for / of"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'In (the) light of' means 'considering' or 'because of'. 'With a view to' means 'with the purpose/intention of'. Both are sophisticated academic expressions frequently tested in YDS/YÖKDİL exams."
+      },
+      {
+        "id": "prep-8",
+        "type": "multiple-choice",
+        "question": "The differences ------- the two methodologies are significant ------- terms ------- both theoretical foundations and practical applications.",
+        "options": [
+          "between / in / of",
+          "among / in / of",
+          "between / on / to",
+          "among / on / of",
+          "between / by / of"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Between' is used for two items; 'among' for three or more. 'In terms of' is a fixed phrase meaning 'with regard to' or 'concerning'. This tests the distinction between 'between' and 'among' as well as knowledge of academic fixed phrases."
+      }
+    ],
+    "quiz": {
+      "passingScore": 70,
+      "questions": [
+        {
+          "id": "prep-quiz-1",
+          "question": "The conference will take place ------- Istanbul ------- the first week of June, and registration must be completed ------- May 15th.",
+          "options": [
+            "in / in / by",
+            "at / in / until",
+            "in / on / by",
+            "at / on / until",
+            "in / at / by"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'In Istanbul' (city = enclosed space), 'in the first week' (period of time), 'by May 15th' (deadline). Don't confuse 'by' (deadline) with 'until' (continuous action up to)."
+        },
+        {
+          "id": "prep-quiz-2",
+          "question": "The researchers arrived ------- the conclusion that genetic factors contribute significantly ------- individual differences ------- language aptitude.",
+          "options": [
+            "at / to / in",
+            "to / to / in",
+            "at / for / at",
+            "to / for / in",
+            "at / with / at"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Arrive at a conclusion' (reach a conclusion), 'contribute to' (add to/help), 'differences in' (within a category). Note: 'arrive at' for conclusions but 'arrive in' for cities/countries."
+        },
+        {
+          "id": "prep-quiz-3",
+          "question": "------- response ------- the criticism, the authors published a detailed explanation ------- their methodology ------- the following issue of the journal.",
+          "options": [
+            "In / to / of / in",
+            "On / to / about / in",
+            "In / for / of / on",
+            "On / for / about / on",
+            "In / to / about / at"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'In response to' (reacting to), 'explanation of' (explaining something), 'in the following issue' (within the next issue). All are common academic collocations."
+        },
+        {
+          "id": "prep-quiz-4",
+          "question": "The study aims to examine the relationship ------- sleep quality and academic performance ------- university students ------- different cultural backgrounds.",
+          "options": [
+            "between / among / from",
+            "among / between / from",
+            "between / in / of",
+            "among / among / of",
+            "between / of / from"
+        ],
+          "correctAnswer": 0,
+          "explanation": "'Relationship between X and Y' (two variables), 'among university students' (within a group of more than two), 'from different backgrounds' (origin/source)."
+        },
+        {
+          "id": "prep-quiz-5",
+          "question": "------- the basis ------- the data collected, the researchers were able to identify several patterns ------- student performance ------- the course of the semester.",
+          "options": [
+            "On / of / in / over",
+            "In / of / at / during",
+            "On / for / in / during",
+            "In / for / at / over",
+            "At / of / in / throughout"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'On the basis of' (based on), 'patterns in performance' (within the performance data), 'over the course of' (throughout the duration). These academic phrases show sophisticated prepositional usage."
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "title": "Conjunctions",
+    "slug": "conjunctions",
+    "level": "intermediate",
+    "estimatedTime": 25,
+    "description": "Master coordinating, subordinating, and correlative conjunctions to create complex academic sentences typical of YDS/YÖKDİL exams.",
+    "objectives": [
+      "Use coordinating conjunctions (FANBOYS) correctly",
+      "Apply subordinating conjunctions for complex sentences",
+      "Recognize and use correlative conjunction pairs",
+      "Understand conjunctive adverbs for academic writing"
+    ],
+    "content": {
+      "introduction": "Conjunctions connect words, phrases, and clauses to create coherent and sophisticated sentences. YDS/YÖKDİL exams extensively test conjunction usage, particularly in creating logical relationships between ideas. Academic English relies heavily on subordinating conjunctions to express cause-effect, contrast, condition, and time relationships.",
+      "sections": [
+        {
+          "heading": "Coordinating Conjunctions (FANBOYS)",
+          "content": "Coordinating conjunctions connect grammatically equal elements (words, phrases, or independent clauses). Remember FANBOYS:\n\n**FOR** (reason/cause - formal):\n- 'The study was significant, for it challenged previous assumptions.'\n- Similar to 'because' but more formal and literary\n- Must connect two independent clauses with a comma\n\n**AND** (addition):\n- 'The researchers collected data and analyzed the results.'\n- 'The study was comprehensive, and the findings were significant.'\n\n**NOR** (negative addition):\n- 'He did not attend the lecture, nor did he submit the assignment.' (inverted word order)\n- 'Neither the teacher nor the students were satisfied.'\n\n**BUT** (contrast):\n- 'The method was complex but effective.'\n- 'The study had limitations, but the findings remain valuable.'\n\n**OR** (alternative):\n- 'Students can write a research paper or take a final exam.'\n- 'The results may be due to chance, or they may indicate a real pattern.'\n\n**YET** (contrast/despite):\n- 'The approach was innovative, yet the results were disappointing.'\n- Similar to 'but' but emphasizes unexpectedness\n\n**SO** (result/consequence):\n- 'The data were inconsistent, so the researchers repeated the experiment.'\n- Shows cause-effect relationship\n\n**Punctuation Rules:**\n- Use comma + conjunction between independent clauses: 'It rained, so we canceled the trip.'\n- No comma when connecting words or phrases: 'students and teachers'\n- Comma before conjunction only if both clauses could stand alone"
+        },
+        {
+          "heading": "Subordinating Conjunctions",
+          "content": "Subordinating conjunctions create dependent (subordinate) clauses that cannot stand alone. They show various logical relationships:\n\n**TIME:**\n- WHEN, WHENEVER: 'when the study was completed', 'whenever possible'\n- WHILE: 'while conducting the research' (simultaneous actions)\n- AS: 'as the temperature increased' (simultaneous)\n- BEFORE, AFTER: 'before analyzing', 'after collecting data'\n- SINCE: 'since the study began' (from that time)\n- UNTIL, TILL: 'until the results are published'\n- AS SOON AS, ONCE: 'as soon as the data arrive', 'once we finish'\n\n**CAUSE/REASON:**\n- BECAUSE: 'because the method was flawed' (most common, emphasizes reason)\n- SINCE: 'since the evidence is limited' (given that, less emphasis)\n- AS: 'as the deadline approached' (formal, less common)\n- SEEING THAT, GIVEN THAT: 'given that resources are limited'\n\n**CONTRAST/CONCESSION:**\n- ALTHOUGH, THOUGH: 'although the sample was small' (factual contrast)\n- EVEN THOUGH: 'even though they tried hard' (stronger emphasis)\n- WHEREAS, WHILE: 'whereas other studies found X, we found Y' (comparison)\n- IF: 'if conducted properly' (conditional)\n\n**CONDITION:**\n- IF: 'if the hypothesis is correct'\n- UNLESS: 'unless additional funding is secured' (if not)\n- PROVIDED (THAT), PROVIDING (THAT): 'provided that conditions are met'\n- AS LONG AS: 'as long as the method is consistent'\n- IN CASE: 'in case the experiment fails'\n\n**PURPOSE:**\n- SO THAT: 'so that future researchers can replicate' (in order that)\n- IN ORDER THAT: 'in order that bias be minimized' (formal)\n\n**RESULT:**\n- SO...THAT: 'so complex that few understood it'\n- SUCH...THAT: 'such a significant finding that it changed the field'\n\n**MANNER:**\n- AS, AS IF, AS THOUGH: 'as predicted', 'as if it were true'\n\n**Punctuation:**\n- Comma after subordinate clause when it comes first: 'Although it rained, we continued.'\n- No comma when subordinate clause follows: 'We continued although it rained.'\n- Exception: 'whereas' and 'while' (contrast) often take commas in both positions"
+        },
+        {
+          "heading": "Correlative Conjunctions",
+          "content": "Correlative conjunctions work in pairs to connect grammatically equal elements:\n\n**BOTH...AND** (inclusion of two):\n- 'Both the theory and the practice are important.'\n- 'The study examined both qualitative and quantitative data.'\n- Emphasizes inclusion of both elements\n\n**EITHER...OR** (choice between two):\n- 'Students must either submit a paper or take an exam.'\n- 'Either the method was flawed or the data were incorrect.'\n- Verb agrees with the closest subject: 'Either the teacher or the students are responsible.'\n\n**NEITHER...NOR** (exclusion of both):\n- 'Neither the results nor the methodology was satisfactory.' (singular verb with singular subjects)\n- 'Neither the teachers nor the administrators were informed.'\n- Verb agrees with the closest subject\n\n**NOT ONLY...BUT ALSO** (emphasis on second element):\n- 'The study not only confirmed the hypothesis but also revealed unexpected findings.'\n- 'Not only did the researchers collect data, but they also developed a new framework.'\n- Can invert first clause for emphasis: 'Not only did they fail...'\n\n**WHETHER...OR** (alternatives, often with uncertainty):\n- 'The question is whether the effect is real or merely coincidental.'\n- 'Whether we succeed or fail, we will learn from the experience.'\n\n**AS...AS / SO...AS** (equality in comparisons):\n- 'The new method is as effective as the traditional approach.'\n- 'not so difficult as we expected' (negative comparisons)\n\n**THE...THE** (proportional relationship):\n- 'The more students study, the better they perform.'\n- 'The higher the temperature, the faster the reaction.'\n\n**Parallelism Rule:**\nElements connected by correlative conjunctions must be grammatically parallel:\n- ✓ 'both innovative and practical' (both adjectives)\n- ✗ 'both innovative and with practicality' (adjective + prepositional phrase)\n- ✓ 'not only conducted experiments but also analyzed data' (both verb phrases)\n- ✗ 'not only conducting experiments but also data analysis' (gerund + noun)"
+        },
+        {
+          "heading": "Conjunctive Adverbs (Transitional Expressions)",
+          "content": "Conjunctive adverbs connect independent clauses and show logical relationships. They are not true conjunctions grammatically.\n\n**Addition/Similarity:**\n- MOREOVER, FURTHERMORE, IN ADDITION, ADDITIONALLY, ALSO, BESIDES\n- 'The study was comprehensive; moreover, it was well-designed.'\n\n**Contrast:**\n- HOWEVER, NEVERTHELESS, NONETHELESS, ON THE OTHER HAND, IN CONTRAST, CONVERSELY\n- 'The method was costly; however, it yielded reliable results.'\n\n**Result:**\n- THEREFORE, THUS, CONSEQUENTLY, ACCORDINGLY, HENCE, AS A RESULT\n- 'The data were inconsistent; therefore, the study was repeated.'\n\n**Example:**\n- FOR EXAMPLE, FOR INSTANCE, SPECIFICALLY, IN PARTICULAR\n- 'Several factors influence learning; for example, motivation plays a crucial role.'\n\n**Clarification:**\n- THAT IS, NAMELY, IN OTHER WORDS\n- 'The study was longitudinal; that is, it tracked participants over time.'\n\n**Sequence:**\n- FIRST, SECOND, THEN, NEXT, FINALLY, SUBSEQUENTLY\n- 'First, participants completed a survey; then, they were interviewed.'\n\n**Emphasis:**\n- INDEED, IN FACT, CERTAINLY, OBVIOUSLY, CLEARLY\n- 'The findings are significant; indeed, they challenge current theory.'\n\n**Punctuation:**\n- Semicolon before, comma after (between clauses): 'X; however, Y.'\n- Can start sentence: 'However, the results were surprising.'\n- Can interrupt sentence: 'The results, however, were surprising.'\n- NEVER use comma alone: ✗ 'X, however, Y.' (comma splice error)\n- Use semicolon or period: ✓ 'X; however, Y.' or 'X. However, Y.'"
+        }
+      ],
+      "keyRules": [
+        "FANBOYS connect equal elements; use comma before conjunction between independent clauses",
+        "Subordinating conjunctions create dependent clauses; comma after if clause comes first",
+        "Correlative conjunctions require parallel structure in connected elements",
+        "Conjunctive adverbs need semicolon before (or period), comma after",
+        "Verb agreement with correlative conjunctions follows the nearest subject"
+      ],
+      "commonErrors": [
+        {
+          "error": "*Although the method was effective, but it was costly.",
+          "correction": "Although the method was effective, it was costly. / The method was effective, but it was costly.",
+          "explanation": "Don't use 'although' and 'but' together; use one or the other"
+        },
+        {
+          "error": "*Because of the sample was small, the results were inconclusive.",
+          "correction": "Because the sample was small, the results were inconclusive. / Due to the small sample, the results were inconclusive.",
+          "explanation": "'Because' is a conjunction (+ clause); 'because of' is a preposition (+ noun phrase)"
+        },
+        {
+          "error": "*The study was comprehensive, however it had limitations.",
+          "correction": "The study was comprehensive; however, it had limitations.",
+          "explanation": "Conjunctive adverbs require semicolon (or period), not just comma"
+        },
+        {
+          "error": "*Neither the teacher nor the students was satisfied.",
+          "correction": "Neither the teacher nor the students were satisfied.",
+          "explanation": "With neither...nor, verb agrees with the nearest subject (students = plural)"
+        },
+        {
+          "error": "*The method is not only effective but also with low cost.",
+          "correction": "The method is not only effective but also economical.",
+          "explanation": "Correlative conjunctions require parallel structure (both adjectives)"
+        }
+      ],
+      "examples": [
+        {
+          "sentence": "Although previous research has focused primarily on cognitive factors, our study examines both cognitive and affective variables, for we believe that motivation plays an equally important role in language acquisition.",
+          "explanation": "ALTHOUGH (subordinating, contrast), BOTH...AND (correlative), FOR (coordinating, reason)"
+        },
+        {
+          "sentence": "The researchers not only collected extensive data but also developed a sophisticated analytical framework; moreover, they made all materials publicly available so that other scholars could replicate the study.",
+          "explanation": "NOT ONLY...BUT ALSO (correlative, emphasis), MOREOVER (conjunctive adverb, addition), SO THAT (subordinating, purpose)"
+        },
+        {
+          "sentence": "Neither the initial hypothesis nor the alternative explanations were supported by the evidence; however, the study revealed several unexpected patterns that warrant further investigation.",
+          "explanation": "NEITHER...NOR (correlative, exclusion), HOWEVER (conjunctive adverb, contrast), THAT (subordinating, introduces relative clause)"
+        }
+      ]
+    },
+    "practice": [
+      {
+        "id": "conj-1",
+        "type": "multiple-choice",
+        "question": "------- the initial results were promising, the researchers decided to expand the study ------- they could gather more comprehensive data.",
+        "options": [
+          "Although / so that",
+          "Because / in order to",
+          "Since / so that",
+          "While / for",
+          "When / so as"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Since' (because/given that) introduces the reason. 'So that' introduces purpose (followed by a clause with subject and verb). 'Although' would show contrast, which doesn't fit the logical flow. 'In order to' would need an infinitive, not a clause."
+      },
+      {
+        "id": "conj-2",
+        "type": "multiple-choice",
+        "question": "The new teaching method proved effective; -------, it required significantly less preparation time than traditional approaches.",
+        "options": [
+          "therefore",
+          "however",
+          "moreover",
+          "nevertheless",
+          "otherwise"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Moreover' adds additional positive information (effective AND less time). 'However/nevertheless' would show contrast. 'Therefore' would show result. 'Otherwise' shows alternative consequences. The semicolon + comma pattern confirms this is a conjunctive adverb."
+      },
+      {
+        "id": "conj-3",
+        "type": "multiple-choice",
+        "question": "------- the theory ------- the practical applications have been thoroughly validated by empirical research.",
+        "options": [
+          "Both / and",
+          "Either / or",
+          "Neither / nor",
+          "Not only / but also",
+          "Whether / or"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Both...and' indicates that two elements (theory AND applications) have been validated. The plural verb 'have been' confirms we're including both elements. 'Either...or' would suggest only one was validated. 'Not only...but also' would work grammatically but typically emphasizes the second element more."
+      },
+      {
+        "id": "conj-4",
+        "type": "multiple-choice",
+        "question": "Students must complete all assignments on time ------- they will not receive credit for the course.",
+        "options": [
+          "unless",
+          "or",
+          "provided that",
+          "even if",
+          "as long as"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Or' (otherwise) shows the alternative consequence if the condition isn't met. 'Unless' (if not) would require different phrasing: 'unless they complete assignments'. 'Provided that/as long as' show positive conditions. 'Even if' shows concession, not consequence."
+      },
+      {
+        "id": "conj-5",
+        "type": "multiple-choice",
+        "question": "The experiment was designed carefully, ------- the results were inconclusive ------- the small sample size.",
+        "options": [
+          "but / because of",
+          "yet / due to",
+          "however / because",
+          "so / owing to",
+          "and / thanks to"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Yet' (coordinating conjunction) shows contrast between careful design and inconclusive results. 'Due to' (preposition) is followed by a noun phrase 'the small sample size'. Note: 'because' is a conjunction and would need a clause, not a noun phrase."
+      },
+      {
+        "id": "conj-6",
+        "type": "multiple-choice",
+        "question": "------- conducting the research ------- analyzing the data requires considerable expertise and experience.",
+        "options": [
+          "Both / and",
+          "Either / or",
+          "Not only / but also",
+          "Neither / nor",
+          "Whether / or"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Both...and' connects two gerund phrases in parallel structure. The singular verb 'requires' might seem unexpected, but when 'both...and' joins two gerunds describing aspects of one overall process, singular verb is acceptable. However, 'require' (plural) would also be correct."
+      },
+      {
+        "id": "conj-7",
+        "type": "multiple-choice",
+        "question": "------- many studies have examined this phenomenon, few have investigated the underlying mechanisms; -------, more research is clearly needed.",
+        "options": [
+          "Although / therefore",
+          "While / however",
+          "Since / moreover",
+          "Because / nevertheless",
+          "When / thus"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Although' shows contrast (many studies BUT few investigated mechanisms). 'Therefore' (conjunctive adverb) shows the logical conclusion (few have investigated, SO more research needed). Note the semicolon before 'therefore' and comma after."
+      },
+      {
+        "id": "conj-8",
+        "type": "multiple-choice",
+        "question": "The study will proceed as planned ------- additional funding is secured ------- the original timeline may need to be extended.",
+        "options": [
+          "unless / or",
+          "provided that / and",
+          "even if / but",
+          "once / yet",
+          "while / so"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Unless' (if not) introduces a condition for proceeding as planned. 'Or' shows the alternative consequence if funding isn't secured. This tests understanding of negative conditions and alternatives."
+      }
+    ],
+    "quiz": {
+      "passingScore": 70,
+      "questions": [
+        {
+          "id": "conj-quiz-1",
+          "question": "------- the researchers had anticipated significant differences between groups, the analysis revealed no statistically meaningful variations; -------, they decided to revise their hypotheses.",
+          "options": [
+            "Although / consequently",
+            "Because / moreover",
+            "Since / however",
+            "While / nevertheless",
+            "When / therefore"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Although' shows contrast (anticipated differences BUT found none). 'Consequently/therefore' shows result (no differences found, SO they revised). This tests ability to recognize contrast followed by logical consequence."
+        },
+        {
+          "id": "conj-quiz-2",
+          "question": "------- students ------- teachers were satisfied with the new curriculum, ------- the administration decided to implement it across all departments.",
+          "options": [
+            "Both / and / so",
+            "Either / or / but",
+            "Not only / but also / yet",
+            "Neither / nor / therefore",
+            "Whether / or / so"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Both...and' shows that two groups (students AND teachers) were satisfied. 'So' shows the result (satisfaction led to implementation). The plural verb 'were' confirms both groups are included."
+        },
+        {
+          "id": "conj-quiz-3",
+          "question": "The methodology was rigorous and the data collection was systematic; -------, several limitations need to be acknowledged.",
+          "options": [
+            "moreover",
+            "therefore",
+            "nevertheless",
+            "consequently",
+            "similarly"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Nevertheless' (however/despite this) shows contrast: despite rigorous methodology and systematic collection, there are still limitations. 'Moreover' would add positive info. 'Therefore/consequently' would show result. 'Similarly' would show similarity."
+        },
+        {
+          "id": "conj-quiz-4",
+          "question": "Participants were asked to complete the survey ------- they felt comfortable doing so, ------- they could withdraw at any time without penalty.",
+          "options": [
+            "unless / or",
+          "if / and",
+            "when / or",
+            "while / but",
+            "once / yet"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'If' introduces the condition (complete survey when comfortable). 'And' adds additional information about their rights (could withdraw). Both clauses describe participant options/rights, so 'and' is appropriate for addition."
+        },
+        {
+          "id": "conj-quiz-5",
+          "question": "------- the sample size was relatively small, the findings were consistent with those of larger studies; -------, the results can be considered reliable.",
+          "options": [
+            "Although / therefore",
+            "Because / however",
+            "Since / moreover",
+            "When / nevertheless",
+            "While / otherwise"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Although' shows concession (small sample BUT consistent findings). 'Therefore' shows logical conclusion (consistent with larger studies, SO reliable). This tests understanding of concession followed by logical inference."
+        }
+      ]
+    }
+  }
+]

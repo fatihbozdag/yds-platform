@@ -1,0 +1,409 @@
+{
+  "subsection": "1.1",
+  "name": "Kelime ve Dilbilgisi",
+  "topics": [
+    {
+      "id": "1.1.1",
+      "name": "Context-based vocabulary (bağlama göre anlam)",
+      "content": "YDS'de kelime soruları, kelimelerin sözlükteki anlamlarından ziyade cümle içindeki bağlamsal kullanımlarını ölçer. Bir kelime birden fazla anlama gelebilir ve doğru anlamı belirlemek için cümlenin tamamını dikkatlice analiz etmek gerekir.\n\nTürk öğrencilerin en yaygın hatası, kelimenin bildiği ilk anlamını seçmektir. Örneğin, 'observe' kelimesi hem 'gözlemlemek' hem de 'uymak' (observe a rule) anlamına gelir. Bağlam olmadan doğru anlamı seçmek imkansızdır.\n\nYDS'de başarı için stratejiler:\n1. Cümlenin tamamını okuyun, sadece boşluğun etrafına bakmayın\n2. Her seçeneği boşluğa yerleştirerek mantıksal uyumu test edin\n3. Akademik metinlerde kelimeler genellikle formal anlamlarıyla kullanılır\n4. Eş anlamlı görünen kelimelerin nüans farklarına dikkat edin\n5. Cümlenin pozitif/negatif tonuna uygun kelimeyi seçin\n\nSınavda kelime soruları genellikle ilk 6 soru arasında yer alır ve doğru cevap için hem kelime bilgisi hem de okuduğunu anlama yeteneği gerektirir. Collocations (kelime öbekleri) ve idiomatic expressions (deyimsel ifadeler) de bu kategori altında test edilebilir.",
+      "examples": [
+        "The researcher's findings were so ---- that they challenged the fundamental assumptions of the entire field. (groundbreaking/traditional/minor/supportive/conventional)",
+        "Despite numerous attempts to ---- the complex economic situation, the government's policies failed to produce tangible results. (ignore/remedy/aggravate/observe/complicate)",
+        "The committee decided to ---- the decision until more data became available. (hasten/defer/finalize/reject/announce)",
+        "Her argument was ---- with solid evidence and logical reasoning. (undermined/contradicted/substantiated/questioned/dismissed)",
+        "The professor's lecture was so ---- that many students struggled to follow the main points. (lucid/coherent/obscure/systematic/organized)",
+        "The new policy aims to ---- the gap between theoretical knowledge and practical application. (widen/bridge/create/emphasize/overlook)",
+        "Scientists are working to ---- the exact cause of the phenomenon through controlled experiments. (obscure/confuse/ascertain/assume/ignore)"
+      ],
+      "exercises": [
+        {
+          "question": "The company's decision to ---- its operations to emerging markets proved to be highly profitable.\n(A) restrict\n(B) expand\n(C) terminate\n(D) overlook\n(E) minimize",
+          "answer": "B",
+          "explanation": "'Expand' (genişletmek) bağlamda mantıklıdır çünkü cümle karlılıktan bahsediyor. Yeni pazarlara açılmak genişleme anlamına gelir."
+        },
+        {
+          "question": "The archaeological evidence ---- the theory that ancient civilizations had advanced technological capabilities.\n(A) refutes\n(B) supports\n(C) ignores\n(D) questions\n(E) dismisses",
+          "answer": "B",
+          "explanation": "Cümlenin yapısından teorinin doğrulandığı anlaşılıyor. 'Supports' (destekler) doğru seçenektir."
+        },
+        {
+          "question": "The government's new legislation aims to ---- environmental protection with economic development.\n(A) separate\n(B) contrast\n(C) reconcile\n(D) oppose\n(E) distinguish",
+          "answer": "C",
+          "explanation": "'Reconcile' (uzlaştırmak) iki farklı hedefi dengede tutma çabasını ifade eder."
+        },
+        {
+          "question": "The patient's symptoms began to ---- after the administration of the new medication.\n(A) intensify\n(B) persist\n(C) emerge\n(D) subside\n(E) multiply",
+          "answer": "D",
+          "explanation": "İlaç sonrası belirtilerin azalması beklenir, bu nedenle 'subside' (azalmak) doğrudur."
+        },
+        {
+          "question": "The researcher's methodology was ---- by several experts in the field due to its innovative approach.\n(A) criticized\n(B) rejected\n(C) overlooked\n(D) commended\n(E) questioned",
+          "answer": "D",
+          "explanation": "'Innovative approach' (yenilikçi yaklaşım) pozitif bir ifadedir, dolayısıyla 'commended' (övüldü) uygun düşer."
+        },
+        {
+          "question": "The economic crisis ---- a significant decline in consumer spending across all sectors.\n(A) prevented\n(B) triggered\n(C) avoided\n(D) reduced\n(E) eliminated",
+          "answer": "B",
+          "explanation": "'Triggered' (tetikledi) krizin harcamalardaki düşüşe neden olduğunu gösterir."
+        },
+        {
+          "question": "The author's argument is ---- throughout the text, making it difficult for readers to grasp the main thesis.\n(A) coherent\n(B) ambiguous\n(C) explicit\n(D) systematic\n(E) straightforward",
+          "answer": "B",
+          "explanation": "Okuyucuların ana fikri anlamakta zorlanması, argümanın 'ambiguous' (belirsiz) olduğunu gösterir."
+        },
+        {
+          "question": "The study's findings ---- previous research on the topic, suggesting a need for further investigation.\n(A) confirm\n(B) duplicate\n(C) contradict\n(D) support\n(E) replicate",
+          "answer": "C",
+          "explanation": "Daha fazla araştırma ihtiyacı, bulgulardaki çelişkiyi ('contradict') ima eder."
+        }
+      ]
+    },
+    {
+      "id": "1.1.2",
+      "name": "Eşanlam/karşıt anlam, yakın anlam ayrımları",
+      "content": "YDS'de synonym (eş anlamlı), antonym (karşıt anlamlı) ve near-synonym (yakın anlamlı) kelimeler arasındaki ince farkları ayırt etmek kritik öneme sahiptir. İki kelime benzer anlama gelse bile, kullanım bağlamları, register düzeyleri ve konnotasyonları farklı olabilir.\n\nÖrneğin: 'difficult' ve 'challenging' kelimeleri yakın anlamlıdır ancak 'challenging' daha pozitif bir çağrışım taşır. 'Problem' ve 'issue' benzerdir ama 'issue' daha formal ve akademik metinlerde tercih edilir.\n\nTürk öğrenciler için zorluklar:\n- False friends: Türkçe ile İngilizce arasında benzer görünen ama farklı anlama gelen kelimeler\n- Register farklılıkları: Formal/informal kullanım ayrımları\n- Collocation patterns: Hangi kelimelerin birlikte kullanılabileceği\n\nStrategiler:\n1. Kelimenin register düzeyini (formal/informal) belirleyin\n2. Pozitif/negatif konnotasyona dikkat edin\n3. Collocation patterns'e bakın (örn: 'make a decision' ama 'take a risk')\n4. Her iki kelimenin de kullanıldığı örnek cümleler öğrenin\n5. Gradable (derecelendirilebilir) ve non-gradable adjectives arasındaki farkı bilin (örn: 'very tired' uygun ama 'very exhausted' değil)\n\nYDS'de bu tür sorular genellikle cloze test, cümle tamamlama veya eş anlamlı cümle bulma sorularında karşımıza çıkar.",
+      "examples": [
+        "Effect vs. Affect: The new policy will have a significant effect on employment rates. / The drought will affect agricultural production.",
+        "Accept vs. Except: I accept your apology. / Everyone except John attended the meeting.",
+        "Continuous vs. Continual: The continuous rain lasted for three days without stopping. / His continual interruptions made it hard to concentrate.",
+        "Economic vs. Economical: The country faces serious economic challenges. / Buying in bulk is more economical.",
+        "Compliment vs. Complement: She gave me a nice compliment on my presentation. / This wine complements the meal perfectly.",
+        "Principal vs. Principle: The principal reason for the delay was bad weather. / He refused to compromise his principles.",
+        "Stationary vs. Stationery: The car remained stationary at the traffic light. / We need to order more stationery for the office."
+      ],
+      "exercises": [
+        {
+          "question": "The teacher's ---- approach to education emphasizes critical thinking rather than rote memorization.\n(A) progressive\n(B) regressive\n(C) aggressive\n(D) passive\n(E) excessive",
+          "answer": "A",
+          "explanation": "Critical thinking vurgusu 'progressive' (ilerici) eğitim anlayışını gösterir. 'Regressive' tam tersi anlama gelir."
+        },
+        {
+          "question": "The patient showed ---- improvement after the surgery, which pleased the medical team.\n(A) negligible\n(B) marginal\n(C) substantial\n(D) minimal\n(E) trivial",
+          "answer": "C",
+          "explanation": "Medical team'in memnun olması büyük gelişmeyi gösterir. 'Substantial' (önemli) doğru seçenektir."
+        },
+        {
+          "question": "The CEO's decision to resign was both ---- and unexpected, shocking the entire organization.\n(A) gradual\n(B) abrupt\n(C) anticipated\n(D) delayed\n(E) planned",
+          "answer": "B",
+          "explanation": "'Unexpected' ile paralel olan 'abrupt' (ani) doğru cevaptır. 'Gradual' (kademeli) zıt anlam taşır."
+        },
+        {
+          "question": "Despite the ---- evidence against him, the defendant maintained his innocence.\n(A) weak\n(B) insufficient\n(C) questionable\n(D) overwhelming\n(E) doubtful",
+          "answer": "D",
+          "explanation": "'Despite' (rağmen) zıtlık gösterir. Güçlü kanıt anlamına 'overwhelming' uygun düşer."
+        },
+        {
+          "question": "The scientist's theory was ---- by numerous experiments conducted over several years.\n(A) disproven\n(B) validated\n(C) questioned\n(D) rejected\n(E) ignored",
+          "answer": "B",
+          "explanation": "Çok sayıda deney teorinin doğrulandığını gösterir. 'Validated' (doğrulandı) doğru seçenektir."
+        },
+        {
+          "question": "The company adopted a more ---- policy to reduce operational costs without compromising quality.\n(A) extravagant\n(B) wasteful\n(C) prudent\n(D) reckless\n(E) careless",
+          "answer": "C",
+          "explanation": "Maliyetleri düşürürken kaliteyi korumak 'prudent' (ihtiyatlı/akıllıca) yaklaşımı gerektirir."
+        },
+        {
+          "question": "The author's writing style is ---- and accessible, making complex topics easy to understand.\n(A) obscure\n(B) ambiguous\n(C) lucid\n(D) convoluted\n(E) opaque",
+          "answer": "C",
+          "explanation": "'Accessible' ve 'easy to understand' ifadeleri 'lucid' (açık, anlaşılır) ile uyumludur."
+        },
+        {
+          "question": "The government's ---- measures to control inflation have had limited success.\n(A) radical\n(B) moderate\n(C) extreme\n(D) severe\n(E) drastic",
+          "answer": "B",
+          "explanation": "'Limited success' (sınırlı başarı) orta dereceli önlemleri ima eder, dolayısıyla 'moderate' doğrudur."
+        }
+      ]
+    },
+    {
+      "id": "1.1.3",
+      "name": "Deyimsel kullanımlar, çok sözcüklü fiiller (phrasal verbs)",
+      "content": "Phrasal verbs (çok sözcüklü fiiller) ve idiomatic expressions (deyimsel ifadeler) YDS'nin en zorlu konularından biridir. Bir phrasal verb, bir fiil ile bir veya daha fazla particle (edat/zarf) kombinasyonundan oluşur ve genellikle literal anlamdan farklı bir anlam taşır.\n\nYDS'de en sık çıkan phrasal verb kategorileri:\n1. **Business/Academic context**: carry out (yürütmek), bring about (neden olmak), account for (açıklamak)\n2. **Research/Analysis**: look into (araştırmak), figure out (çözmek), come across (rastlamak)\n3. **Decision/Action**: put off (ertelemek), take on (üstlenmek), give up (vazgeçmek)\n4. **Change/Development**: turn into (dönüşmek), bring up (gündeme getirmek), phase out (kademeli olarak kaldırmak)\n\nTürk öğrenciler için zorluklar:\n- Aynı fiilin farklı preposition'larla tamamen farklı anlamlar taşıması (look at, look after, look into, look up to)\n- Separable ve inseparable phrasal verbs ayrımı\n- Literal ve idiomatic kullanım farkı (break down: arızalanmak vs. dağılmak)\n\nÖğrenme stratejileri:\n1. Phrasal verbs'leri kategorilere ayırarak öğrenin (work: work out, work on, work through)\n2. Örnek cümlelerde bağlamıyla birlikte öğrenin\n3. Formal eşdeğerlerini de bilin (put off = postpone, carry out = conduct)\n4. YDS'ye özgü akademik phrasal verbs listesi oluşturun\n5. Her phrasal verb için en az 2-3 örnek cümle yazın",
+      "examples": [
+        "CARRY OUT: The research team will carry out a comprehensive study on climate change. (conduct/perform)",
+        "ACCOUNT FOR: Natural disasters account for 15% of economic losses annually. (explain/constitute)",
+        "BRING ABOUT: Technological advances have brought about significant changes in communication. (cause/create)",
+        "LOOK INTO: The committee is looking into the allegations of misconduct. (investigate)",
+        "PHASE OUT: The government plans to phase out fossil fuel subsidies over the next decade. (gradually eliminate)",
+        "COME UP WITH: Scientists need to come up with innovative solutions to environmental problems. (devise/create)",
+        "PUT FORWARD: The opposition party put forward an alternative proposal for healthcare reform. (propose/suggest)",
+        "BREAK DOWN: The negotiation broke down due to disagreements over key terms. (fail/collapse)",
+        "TURN DOWN: The university turned down his application due to insufficient qualifications. (reject)",
+        "TAKE INTO ACCOUNT: Policy makers must take into account the social implications of economic decisions. (consider)"
+      ],
+      "exercises": [
+        {
+          "question": "The research project had to be ---- due to insufficient funding from the sponsoring agency.\n(A) carried out\n(B) put off\n(C) brought about\n(D) looked into\n(E) taken over",
+          "answer": "B",
+          "explanation": "'Put off' (ertelemek) yetersiz fon nedeniyle projenin ertelenmesini ifade eder."
+        },
+        {
+          "question": "Scientists are trying to ---- the exact cause of the sudden decline in bee populations.\n(A) figure out\n(B) give up\n(C) put off\n(D) turn down\n(E) bring up",
+          "answer": "A",
+          "explanation": "'Figure out' (çözmek/anlamaya çalışmak) nedeni bulmaya çalışmayı ifade eder."
+        },
+        {
+          "question": "The committee will ---- all available options before making a final decision on the proposal.\n(A) turn down\n(B) break down\n(C) look into\n(D) give up\n(E) put forward",
+          "answer": "C",
+          "explanation": "'Look into' (araştırmak/incelemek) seçeneklerin değerlendirilmesini gösterir."
+        },
+        {
+          "question": "The company decided to ---- the outdated production system and implement new technology.\n(A) carry on\n(B) phase out\n(C) bring about\n(D) take over\n(E) look after",
+          "answer": "B",
+          "explanation": "'Phase out' (kademeli olarak kaldırmak) eski sistemin kaldırılmasını ifade eder."
+        },
+        {
+          "question": "The new environmental regulations will ---- significant changes in industrial practices.\n(A) put off\n(B) turn down\n(C) bring about\n(D) look after\n(E) give up",
+          "answer": "C",
+          "explanation": "'Bring about' (neden olmak) düzenlemelerin değişime yol açmasını gösterir."
+        },
+        {
+          "question": "Researchers ---- an interesting correlation between sleep patterns and cognitive performance.\n(A) came across\n(B) turned into\n(C) broke down\n(D) put forward\n(E) took over",
+          "answer": "A",
+          "explanation": "'Came across' (rastlamak) beklenmedik bir bulguyu ifade eder."
+        },
+        {
+          "question": "The university's proposal to expand the campus was ---- by local residents due to environmental concerns.\n(A) carried out\n(B) brought about\n(C) turned down\n(D) looked into\n(E) accounted for",
+          "answer": "C",
+          "explanation": "'Turned down' (reddedilmek) teklifin kabul görmemesini ifade eder."
+        },
+        {
+          "question": "Economic factors ---- approximately 60% of the variation in consumer behavior patterns.\n(A) look into\n(B) account for\n(C) bring about\n(D) put off\n(E) turn down",
+          "answer": "B",
+          "explanation": "'Account for' (açıklamak/oluşturmak) yüzdelik oranı ifade eder."
+        }
+      ]
+    },
+    {
+      "id": "1.1.4",
+      "name": "Sözcük türü/biçimbirim: ad, sıfat, zarf, fiil uyumu",
+      "content": "YDS'de word formation (sözcük türetimi) ve part of speech (sözcük türü) soruları önemli yer tutar. Aynı kökten türetilen kelimelerin farklı formlarını (noun, verb, adjective, adverb) doğru bağlamda kullanabilmek gerekir.\n\nTemel sözcük türleri ve rolleri:\n1. **Noun (İsim)**: Özne, nesne veya tümleç olarak kullanılır (achievement, development, analysis)\n2. **Verb (Fiil)**: Eylemi ifade eder (achieve, develop, analyze)\n3. **Adjective (Sıfat)**: İsimleri niteler, genellikle noun'dan önce veya linking verb'den sonra gelir (achievable, developmental, analytical)\n4. **Adverb (Zarf)**: Fiilleri, sıfatları veya diğer zarfları niteler, genellikle -ly ile biter (achievably, analytically)\n\nSık karşılaşılan ekler:\n- Noun: -tion, -ment, -ness, -ity, -ance/-ence (education, development, happiness, complexity, importance)\n- Adjective: -ful, -less, -able/-ible, -ous, -ive (successful, hopeless, achievable, dangerous, productive)\n- Adverb: -ly (quickly, significantly, approximately)\n- Verb: -ize, -ify, -en (modernize, clarify, strengthen)\n\nStrategiler:\n1. Boşluktan önceki ve sonraki kelimelere bakarak hangi word class gerektiğini belirleyin\n2. Cümle yapısını analiz edin (özne-fiil-nesne)\n3. Articles (a/an/the), determiners (this/that), possessives (his/her) genellikle noun'lardan önce gelir\n4. Linking verbs (be, seem, become) sonrası adjective kullanılır\n5. Verb'lerden önce veya cümle sonunda genellikle adverb bulunur",
+      "examples": [
+        "ACHIEVE (verb) → ACHIEVEMENT (noun) → ACHIEVABLE (adj) → ACHIEVABLY (adv): His greatest achievement was winning the Nobel Prize.",
+        "SIGNIFY (verb) → SIGNIFICANCE (noun) → SIGNIFICANT (adj) → SIGNIFICANTLY (adv): This discovery has significant implications for medical research.",
+        "ANALYZE (verb) → ANALYSIS (noun) → ANALYTICAL (adj) → ANALYTICALLY (adv): The researcher conducted a thorough analysis of the data.",
+        "PRODUCE (verb) → PRODUCTION (noun) → PRODUCTIVE (adj) → PRODUCTIVELY (adv): The company increased its production capacity by 30%.",
+        "CREATE (verb) → CREATION (noun) → CREATIVE (adj) → CREATIVELY (adv): The artist's creative approach challenged traditional techniques.",
+        "COMPARE (verb) → COMPARISON (noun) → COMPARATIVE (adj) → COMPARATIVELY (adv): In comparison to last year, sales have increased.",
+        "RESPOND (verb) → RESPONSE (noun) → RESPONSIVE (adj) → RESPONSIVELY (adv): The government's response to the crisis was inadequate.",
+        "DEVELOP (verb) → DEVELOPMENT (noun) → DEVELOPMENTAL (adj): Technological developments have transformed modern society."
+      ],
+      "exercises": [
+        {
+          "question": "The research findings demonstrate a clear ---- between regular exercise and improved cognitive function.\n(A) correlate\n(B) correlation\n(C) correlative\n(D) correlatively\n(E) correlated",
+          "answer": "B",
+          "explanation": "Article 'a' ve adjective 'clear' sonrası noun gerekir: 'correlation' (ilişki)."
+        },
+        {
+          "question": "The professor's explanation was ---- detailed, making it easy for students to understand complex concepts.\n(A) exception\n(B) exceptional\n(C) exceptionally\n(D) except\n(E) exceptions",
+          "answer": "C",
+          "explanation": "Adjective 'detailed'ı nitelemek için adverb 'exceptionally' gerekir."
+        },
+        {
+          "question": "The government's economic policies have had a ---- impact on employment rates across the country.\n(A) significance\n(B) signify\n(C) significantly\n(D) significant\n(E) signifies",
+          "answer": "D",
+          "explanation": "Noun 'impact'tan önce adjective 'significant' kullanılır."
+        },
+        {
+          "question": "Scientists need to ---- the data more carefully before drawing any definitive conclusions.\n(A) analysis\n(B) analytical\n(C) analyze\n(D) analytically\n(E) analyzer",
+          "answer": "C",
+          "explanation": "'Need to' sonrası verb gerekir: 'analyze' (analiz etmek)."
+        },
+        {
+          "question": "The company's ---- to the market demands allowed it to maintain its competitive advantage.\n(A) adapt\n(B) adaptation\n(C) adaptable\n(D) adaptability\n(E) adapted",
+          "answer": "D",
+          "explanation": "Possessive 'company's' sonrası noun gerekir: 'adaptability' (uyum sağlama yeteneği)."
+        },
+        {
+          "question": "The study's methodology was ---- designed to minimize potential bias in data collection.\n(A) care\n(B) careful\n(C) carefully\n(D) carefulness\n(E) cares",
+          "answer": "C",
+          "explanation": "Verb 'designed'ı nitelemek için adverb 'carefully' kullanılır."
+        },
+        {
+          "question": "The researcher's ---- of the experimental results led to important discoveries in the field.\n(A) interpret\n(B) interpretation\n(C) interpretive\n(D) interpreted\n(E) interpreter",
+          "answer": "B",
+          "explanation": "Possessive 'researcher's' ve preposition 'of' arasında noun gerekir: 'interpretation'."
+        },
+        {
+          "question": "The new technology has ---- improved the efficiency of manufacturing processes.\n(A) drama\n(B) dramatic\n(C) dramatically\n(D) dramatize\n(E) dramatization",
+          "answer": "C",
+          "explanation": "Verb 'improved'ı nitelemek için adverb 'dramatically' gerekir."
+        }
+      ]
+    },
+    {
+      "id": "1.1.5",
+      "name": "Tense/Aspect uyumu, subject-verb agreement",
+      "content": "YDS'de tense (zaman) ve aspect (görünüş) uyumu ile subject-verb agreement (özne-yüklem uyumu) soruları düzenli olarak çıkar. Bu konular İngilizce dilbilgisinin temelidir ve akademik metinlerde doğru kullanım kritiktir.\n\n**Tense Uyumu Kuralları:**\n1. **Main clause past ise, subordinate clause da genellikle past olur**: She said that she was tired.\n2. **Universal truths için present tense kullanılır**: Scientists proved that water boils at 100°C.\n3. **Time expressions tense seçimini belirler**: by the time, when, before, after, since, for\n\n**Yaygın Tense Kullanımları:**\n- **Present Perfect**: Past'te başlayıp present'a devam eden veya present'ta sonucu olan eylemler (have/has + V3)\n- **Past Perfect**: Past'teki bir eylemden önce tamamlanmış eylem (had + V3)\n- **Future Perfect**: Gelecekteki bir zamandan önce tamamlanacak eylem (will have + V3)\n\n**Subject-Verb Agreement Kuralları:**\n1. Singular subject → singular verb / Plural subject → plural verb\n2. 'Each, every, either, neither' + singular verb\n3. 'A number of' → plural verb / 'The number of' → singular verb\n4. Collective nouns: team, committee, government → singular veya plural (British vs. American)\n5. Prepositional phrases subject'i değiştirmez: The results of the study are conclusive.\n\n**Türk Öğrenciler İçin Zorluklar:**\n- Türkçede subject-verb agreement yoktur\n- Perfect tenses Türkçede bulunmaz\n- Gerund vs. infinitive seçimi\n\nStrategiler:\n1. Subject'i bulun ve preposition'larla karıştırmayın\n2. Time markers'a dikkat edin (yet, already, just, recently, so far)\n3. Signal words öğrenin: since/for (present perfect), by the time (past perfect)\n4. Each tense'in temel kullanım alanlarını ezberleyin",
+      "examples": [
+        "PRESENT PERFECT: Researchers have discovered (NOT discovered) a new species in the Amazon rainforest. (past action with present relevance)",
+        "PAST PERFECT: By the time the paramedics arrived, the patient had already died. (earlier past action)",
+        "SUBJECT-VERB AGREEMENT: The committee has (NOT have) decided to postpone the meeting. (collective noun - singular)",
+        "SUBJECT-VERB AGREEMENT: Each of the students has (NOT have) submitted their assignments on time. (each = singular)",
+        "TENSE CONSISTENCY: The study showed that climate change is (NOT was) affecting global temperatures. (universal truth)",
+        "PRESENT PERFECT CONTINUOUS: Scientists have been studying this phenomenon for over a decade. (ongoing action)",
+        "FUTURE PERFECT: By 2030, carbon emissions will have increased by 50% if current trends continue. (completed future action)",
+        "SUBJECT-VERB AGREEMENT: A number of studies have (NOT has) confirmed these findings. (a number of = plural)"
+      ],
+      "exercises": [
+        {
+          "question": "By the time the research team ---- the analysis, several other studies on the same topic had already been published.\n(A) completes\n(B) completed\n(C) will complete\n(D) has completed\n(E) is completing",
+          "answer": "B",
+          "explanation": "'By the time' past perfect'le kullanılır, main clause past simple olur."
+        },
+        {
+          "question": "The number of students enrolling in STEM programs ---- significantly over the past five years.\n(A) have increased\n(B) has increased\n(C) increase\n(D) are increasing\n(E) were increasing",
+          "answer": "B",
+          "explanation": "'The number of' singular verb alır. Time marker 'over the past five years' present perfect gerektirir."
+        },
+        {
+          "question": "Each of the participants ---- required to complete a comprehensive questionnaire before the experiment.\n(A) are\n(B) were\n(C) have been\n(D) is\n(E) being",
+          "answer": "D",
+          "explanation": "'Each' her zaman singular verb alır: 'is required'."
+        },
+        {
+          "question": "Scientists ---- to find a cure for the disease for decades, but progress has been slow.\n(A) tried\n(B) have been trying\n(C) are trying\n(D) try\n(E) will try",
+          "answer": "B",
+          "explanation": "'For decades' ve 'has been slow' present perfect continuous gerektirir."
+        },
+        {
+          "question": "The committee ---- not yet reached a consensus on the proposed budget cuts.\n(A) have\n(B) has\n(C) are\n(D) were\n(E) been",
+          "answer": "B",
+          "explanation": "Collective noun 'committee' singular verb alır: 'has not reached'."
+        },
+        {
+          "question": "By next year, the university ---- over 500 international students from various countries.\n(A) admits\n(B) admitted\n(C) will have admitted\n(D) has admitted\n(E) is admitting",
+          "answer": "C",
+          "explanation": "'By next year' future perfect gerektirir: 'will have admitted'."
+        },
+        {
+          "question": "The data collected from the experiment ---- the researchers' initial hypothesis.\n(A) supports\n(B) support\n(C) is supporting\n(D) has supported\n(E) supporting",
+          "answer": "A",
+          "explanation": "'Data' bu cümlede singular olarak kullanılıyor (collective noun), 'supports' doğrudur."
+        },
+        {
+          "question": "Neither the professor nor his assistants ---- able to explain the unexpected results.\n(A) was\n(B) were\n(C) has been\n(D) is\n(E) being",
+          "answer": "B",
+          "explanation": "'Neither...nor' yapısında verb, ikinci noun'a göre belirlenir: 'assistants' plural → 'were'."
+        }
+      ]
+    },
+    {
+      "id": "1.1.6",
+      "name": "Edatlar ve kalıplaşmış prepositional yapılar",
+      "content": "Prepositions (edatlar) ve prepositional phrases (edat öbekleri) YDS'de en çok hata yapılan konulardan biridir. İngilizce'de edat kullanımı genellikle mantıksal değil,관습sal (conventional) kurallarla belirlenir, bu da Türk öğrenciler için zorluk yaratır.\n\n**Ana Edat Kategorileri:**\n\n1. **Time Prepositions**: in (ay/yıl/mevsim), on (gün/tarih), at (saat), by (deadline), during (süre boyunca), for (period), since (starting point)\n\n2. **Place Prepositions**: in (içinde/şehir/ülke), on (üzerinde/yüzey), at (nokta/konum), above/below, between/among\n\n3. **Dependent Prepositions** (belirli kelimelerle kullanılan edatlar):\n   - Adjective + preposition: interested in, famous for, capable of, responsible for\n   - Verb + preposition: depend on, result in, contribute to, comply with\n   - Noun + preposition: impact on, solution to, access to, approach to\n\n4. **Phrasal Prepositions**: in accordance with, with regard to, in terms of, on behalf of, in spite of, due to\n\n**Yaygın Hatalar:**\n- *Discuss about (✗) → discuss (✓)\n- *Depend from (✗) → depend on (✓)\n- *Different than (✗) → different from (✓)\n- *Married with (✗) → married to (✓)\n\n**Öğrenme Stratejileri:**\n1. Dependent prepositions'ı kelimeyle birlikte öğrenin (interested IN, not interested ON)\n2. Collocation listesi oluşturun (research ON a topic, research INTO causes)\n3. Türkçe çeviri yerine İngilizce örnek cümlelerle öğrenin\n4. Fixed expressions'ları tamamen ezberleyin (in advance, at risk, under pressure)\n5. YDS'de sık çıkan academic prepositions'a odaklanın",
+      "examples": [
+        "VERB + PREP: The study focuses on (NOT focuses in) the effects of social media on adolescent behavior.",
+        "ADJ + PREP: The new technology is capable of (NOT capable to) processing large amounts of data.",
+        "NOUN + PREP: Access to (NOT access of) quality education remains a challenge in developing countries.",
+        "TIME: The conference will take place in June, on the 15th, at 9:00 AM. (in/on/at distinction)",
+        "PHRASAL PREP: In accordance with (NOT according to in formal writing) university regulations, all students must attend orientation.",
+        "VERB + PREP: The economic crisis resulted in (NOT resulted to) widespread unemployment.",
+        "ADJ + PREP: The committee is responsible for (NOT responsible of) reviewing all applications.",
+        "FIXED EXPRESSION: The research was conducted under the supervision of (NOT under supervision from) a senior professor.",
+        "VERB + PREP: The findings contribute to (NOT contribute for) our understanding of climate change.",
+        "NOUN + PREP: There is growing concern about (NOT concern for/of) the rise in global temperatures."
+      ],
+      "exercises": [
+        {
+          "question": "The success of the project depends largely ---- the cooperation between different departments.\n(A) from\n(B) on\n(C) with\n(D) to\n(E) for",
+          "answer": "B",
+          "explanation": "'Depend on' doğru collocation'dır. 'Depend from' veya 'depend with' hatalıdır."
+        },
+        {
+          "question": "The new policy aims to provide equal access ---- healthcare services for all citizens.\n(A) of\n(B) for\n(C) to\n(D) with\n(E) in",
+          "answer": "C",
+          "explanation": "'Access to' standart collocation'dır. 'Access of' veya 'access for' yanlıştır."
+        },
+        {
+          "question": "---- recent studies, there is a strong correlation between sleep deprivation and cognitive decline.\n(A) According to\n(B) In accordance with\n(C) With regard to\n(D) In spite of\n(E) Due to",
+          "answer": "A",
+          "explanation": "'According to' kaynak belirtmek için kullanılır. 'In accordance with' kurallara uyum içindir."
+        },
+        {
+          "question": "The research team is capable ---- conducting complex statistical analyses using advanced software.\n(A) to\n(B) for\n(C) of\n(D) with\n(E) in",
+          "answer": "C",
+          "explanation": "'Capable of' doğru yapıdır. 'Capable to' yaygın bir hatadır."
+        },
+        {
+          "question": "The professor specializes ---- medieval European history and has published extensively on the topic.\n(A) on\n(B) in\n(C) at\n(D) for\n(E) with",
+          "answer": "B",
+          "explanation": "'Specialize in' alan belirtmek için kullanılır."
+        },
+        {
+          "question": "The company's approach ---- employee training has been recognized as a best practice in the industry.\n(A) of\n(B) for\n(C) to\n(D) with\n(E) in",
+          "answer": "C",
+          "explanation": "'Approach to' doğru collocation'dır."
+        },
+        {
+          "question": "The decline in biodiversity can be attributed ---- various factors including habitat destruction and climate change.\n(A) with\n(B) for\n(C) to\n(D) on\n(E) by",
+          "answer": "C",
+          "explanation": "'Be attributed to' neden belirtmek için kullanılır."
+        },
+        {
+          "question": "---- the circumstances, the team's performance was quite impressive and exceeded expectations.\n(A) In spite of\n(B) Due to\n(C) In terms of\n(D) With regard to\n(E) In accordance with",
+          "answer": "A",
+          "explanation": "Cümlenin mantığı zıtlık gösterir, 'in spite of' (rağmen) doğrudur."
+        }
+      ]
+    },
+    {
+      "id": "1.1.7",
+      "name": "Cümle içi tutarlılık: paralellik, uyum, zamir referansı",
+      "content": "Sentence coherence (cümle tutarlılığı) akademik yazımda ve YDS'de kritik öneme sahiptir. Parallelism (paralellik), consistency (uyum) ve pronoun reference (zamir referansı) cümle içindeki mantıksal akışı sağlar.\n\n**1. PARALLELISM (Paralellik):**\nEşit önemdeki yapılar aynı grammatical form'da olmalıdır.\n- Lists: The study examined social, economic, and political factors. (üç adjective)\n- Paired conjunctions: Either...or, neither...nor, not only...but also, both...and\n- Comparisons: She prefers reading to watching TV. (gerund + gerund)\n\n**Hatalı**: The professor is known for his intelligence, dedication, and being creative.\n**Doğru**: The professor is known for his intelligence, dedication, and creativity.\n\n**2. CONSISTENCY (Uyum):**\n- **Tense consistency**: Cümle boyunca aynı tense\n- **Number consistency**: Singular/plural uyumu\n- **Person consistency**: First, second, third person değişimi olmamalı\n\n**3. PRONOUN REFERENCE (Zamir Referansı):**\nZamirler (he, she, it, they, this, that) açık ve belirsiz olmayan bir antecedent'a (öncül) gönderme yapmalıdır.\n\n**Hatalı**: When students talk to teachers, they should be respectful. (they = students? teachers?)\n**Doğru**: When students talk to teachers, the students should be respectful.\n\n**YDS'de Sık Görülen Hatalar:**\n1. Mixed structures: *I enjoy to read and writing* (✗) → *I enjoy reading and writing* (✓)\n2. Unclear antecedents: This/that/it belirsiz kullanımı\n3. Faulty comparisons: *The economy of Turkey is larger than Greece* (✗) → *...than that of Greece* (✓)\n\n**Stratejiler:**\n1. Conjunction'ları (and, or, but) gördüğünüzde parallel yapı kontrol edin\n2. Her zamirin ne/kime referans verdiğini belirleyin\n3. Listed items aynı grammatical category'de mi kontrol edin\n4. Comparison'larda karşılaştırılan şeylerin aynı türde olduğundan emin olun",
+      "examples": [
+        "PARALLEL: The experiment involved collecting data, analyzing results, and drawing conclusions. (three gerunds)",
+        "NOT PARALLEL: The experiment involved collecting data, the analysis of results, and to draw conclusions. (mixed forms) ✗",
+        "PARALLEL: The policy aims not only to reduce costs but also to improve efficiency. (to + verb in both parts)",
+        "UNCLEAR PRONOUN: The professor met with the student, and he was concerned about the grades. (Who was concerned?) ✗",
+        "CLEAR PRONOUN: The professor met with the student, and the professor was concerned about the grades. ✓",
+        "FAULTY COMPARISON: The population of China is larger than Japan. (comparing population to country) ✗",
+        "CORRECT COMPARISON: The population of China is larger than that of Japan. ✓",
+        "PARALLEL: She is intelligent, hardworking, and creative. (three adjectives) ✓",
+        "CONSISTENCY: The researcher collected the data and analyzed them carefully. (data = plural in this context) ✓",
+        "PARALLEL: Either you accept the offer or you decline it immediately. (complete clause + complete clause) ✓"
+      ],
+      "exercises": [
+        {
+          "question": "The committee's responsibilities include reviewing applications, ---- interviews, and making final decisions.\n(A) to conduct\n(B) conducting\n(C) conduct\n(D) the conduction of\n(E) they conduct",
+          "answer": "B",
+          "explanation": "Parallel yapı gerekir: reviewing (gerund) + conducting (gerund) + making (gerund)."
+        },
+        {
+          "question": "The new curriculum emphasizes not only theoretical knowledge but also ---- skills.\n(A) to practice\n(B) practicing\n(C) practiced\n(D) practical\n(E) the practice of",
+          "answer": "D",
+          "explanation": "'Not only...but also' yapısında parallel form: theoretical (adj) + practical (adj)."
+        },
+        {
+          "question": "When the researchers presented their findings to the committee, ---- were impressed by the thoroughness of the study.\n(A) they\n(B) it\n(C) them\n(D) these\n(E) those",
+          "answer": "A",
+          "explanation": "'They' açıkça committee'ye referans verir (plural)."
+        },
+        {
+          "question": "The study examined the social, economic, and ---- factors affecting urban development.\n(A) politics\n(B) political\n(C) politically\n(D) politician\n(E) politicize",
+          "answer": "B",
+          "explanation": "Parallel yapı: social (adj) + economic (adj) + political (adj)."
+        },
+        {
+          "question": "The professor's teaching style is different from ---- of his colleagues in the department.\n(A) them\n(B) these\n(C) that\n(D) those\n(E) it",
+          "answer": "C",
+          "explanation": "'That' singular noun'u (style) temsil eder. Comparison için 'that of' kullanılır."
+        },
+        {
+          "question": "The company values employees who are dedicated, innovative, and ----.\n(A) work hard\n(B) hard workers\n(C) hardworking\n(D) they work hard\n(E) to work hard",
+          "answer": "C",
+          "explanation": "Parallel yapı: dedicated (adj) + innovative (adj) + hardworking (adj)."
+        },
+        {
+          "question": "The research methodology involved both collecting quantitative data and ---- qualitative interviews.\n(A) to conduct\n(B) conducting\n(C) the conduction of\n(D) conduct\n(E) conducted",
+          "answer": "B",
+          "explanation": "'Both...and' yapısında parallel: collecting (gerund) + conducting (gerund)."
+        },
+        {
+          "question": "The temperature in the laboratory must be controlled carefully because ---- can affect the experimental results.\n(A) they\n(B) these\n(C) it\n(D) them\n(E) those",
+          "answer": "C",
+          "explanation": "'It' singular noun 'temperature'a referans verir."
+        }
+      ]
+    }
+  ]
+}

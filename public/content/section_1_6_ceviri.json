@@ -1,0 +1,1080 @@
+{
+  "section": "1.6",
+  "title": "Çeviri (Turkish to English Translation)",
+  "subtopics": [
+    {
+      "id": "1.6.1",
+      "title": "Fiil Zamanı/Kip Örtüşmeleri",
+      "content": "YDS ve YÖKDİL çeviri sorularında en yaygın zorluk, Türkçe fiil zamanlarının İngilizce karşılıklarını doğru tespit etmektir. Türkçe'de tek bir zaman çekimi, bağlama göre İngilizce'de farklı zamanlara karşılık gelebilir.\n\n**Temel Zaman Eşleşmeleri:**\n\n1. **Geniş Zaman (-r/-ir):**\n   - Alışkanlık/Genel doğru: Present Simple\n     * \"Her gün koşar\" → \"He runs every day\"\n   - Gelecek (bağlama göre): Will/Going to\n     * \"Yarın gelirim\" → \"I will come tomorrow\"\n\n2. **Şimdiki Zaman (-ıyor):**\n   - Şu an devam eden: Present Continuous\n     * \"Kitap okuyorum\" → \"I am reading a book\"\n   - Yakın gelecek planı: Going to\n     * \"Yarın gidiyorum\" → \"I am going tomorrow\"\n\n3. **Geçmiş Zaman (-di/-miş):**\n   - -di (belirli geçmiş): Simple Past\n     * \"Dün gitti\" → \"He went yesterday\"\n   - -miş (belirsiz/öğrenilen geçmiş): Simple Past / Present Perfect\n     * \"Toplantıya gitmiş\" → \"He has gone to the meeting\" (hala orada)\n     * \"Toplantıya gitmiş\" → \"He went to the meeting\" (dönmüş, sadece bilgi)\n\n4. **Şimdiki Zamanın Hikayesi (-ıyordu):**\n   - Past Continuous\n   * \"Kitap okuyordu\" → \"He was reading a book\"\n\n5. **Geniş Zamanın Hikayesi (-rdı):**\n   - Used to / Would (tekrarlanan geçmiş)\n   * \"Her gün koşardı\" → \"He used to run every day\"\n\n**Kiplik Yapılar:**\n- **-meli/-malı (gereklilik):** should, must, have to\n  * \"Gitmeliyiz\" → \"We should/must go\"\n- **-ebilir/-abilir (olasılık):** may, might, can\n  * \"Gelebilir\" → \"He may/might come\"\n- **-ecek/-acak (gelecek):** will, going to\n  * \"Gelecek\" → \"He will come\"\n\n**Dikkat Edilmesi Gerekenler:**\n- Bağlam her şeydir: aynı Türkçe yapı farklı İngilizce zamanlara denk gelebilir\n- Zaman belirteçleri (dün, yarın, şimdi) önemli ipuçları verir\n- Aspect farkları (basit vs continuous, perfect vs simple) önemlidir\n- Modal nuances: 'should' (tavsiye) vs 'must' (zorunluluk) farkı",
+      "examples": [
+        {
+          "turkish": "Araştırmacılar bu konuda uzun yıllardır çalışıyorlar.",
+          "english": "Researchers have been working on this subject for many years.",
+          "explanation": "'Çalışıyorlar' şimdiki zaman ama 'uzun yıllardır' süreç belirteci → Present Perfect Continuous (geçmişte başlayıp şimdi devam eden). 'Have been working' doğru."
+        },
+        {
+          "turkish": "Yarın sabah erkenden yola çıkıyoruz.",
+          "english": "We are leaving early tomorrow morning.",
+          "explanation": "'Çıkıyoruz' şimdiki zaman ama 'yarın' gelecek zaman belirteci → Present Continuous for arranged future. 'Are leaving' doğru (kesin plan)."
+        },
+        {
+          "turkish": "Bu yöntem geçmişte sıkça kullanılırdı.",
+          "english": "This method used to be used frequently in the past. / This method was frequently used in the past.",
+          "explanation": "'Kullanılırdı' geniş zamanın hikayesi → 'used to' (artık kullanılmayan alışkanlık) veya 'was used' (edilgen simple past). Her ikisi de doğru ama 'used to' alışkanlık vurgusu yapar."
+        },
+        {
+          "turkish": "Raporu henüz tamamlamamış.",
+          "english": "He hasn't completed the report yet.",
+          "explanation": "'-miş' + 'henüz' (yet) → Present Perfect Negative. 'Hasn't completed' doğru (geçmişte başlayıp şimdiye etkisi olan durum, hala tamamlanmamış)."
+        },
+        {
+          "turkish": "Öğrenciler sınavlarına hazırlanıyorlardı.",
+          "english": "The students were preparing for their exams.",
+          "explanation": "'Hazırlanıyorlardı' şimdiki zamanın hikayesi → Past Continuous. 'Were preparing' doğru (geçmişte belli anda devam eden eylem)."
+        },
+        {
+          "turkish": "Bu sorunun çözümü için yeni yaklaşımlar geliştirilmelidir.",
+          "english": "New approaches must be developed for the solution of this problem.",
+          "explanation": "'-melidir' gereklilik + edilgen → 'must be developed' (passive modal). Formal bağlamda 'should' yerine 'must' daha güçlü zorunluluk."
+        },
+        {
+          "turkish": "Ekonomi son çeyrekte beklenmedik şekilde büyümüş.",
+          "english": "The economy has grown unexpectedly in the last quarter.",
+          "explanation": "'-miş' + 'son çeyrekte' (recent time) → Present Perfect. 'Has grown' doğru (yakın geçmiş, şimdiye etki var, haber tonu)."
+        },
+        {
+          "turkish": "Katılımcıların çoğu ankete olumlu yanıt vermişti.",
+          "english": "Most of the participants had responded positively to the survey.",
+          "explanation": "'-mişti' geçmiş zamanın rivayeti → Past Perfect. 'Had responded' doğru (başka geçmiş olaydan önce tamamlanmış eylem, reported speech tonu)."
+        },
+        {
+          "turkish": "Teknoloji gelişmeye devam edecek.",
+          "english": "Technology will continue to develop.",
+          "explanation": "'-ecek' gelecek zaman → 'will' + infinitive. 'Will continue to develop' doğru (basit gelecek öngörüsü)."
+        },
+        {
+          "turkish": "Su kaynarken moleküller hızla hareket eder.",
+          "english": "When water boils, molecules move rapidly.",
+          "explanation": "'Kaynarken' zaman zarfı + 'eder' geniş zaman → Present Simple both clauses (genel bilimsel gerçek). 'Boils' ve 'move' doğru (timeless truth)."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Bilim insanları iklim değişikliğinin etkilerini yıllardır araştırıyorlar.\n\nWhich is the best English translation?",
+          "options": [
+            "Scientists research the effects of climate change for years.",
+            "Scientists are researching the effects of climate change for years.",
+            "Scientists have been researching the effects of climate change for years.",
+            "Scientists researched the effects of climate change for years.",
+            "Scientists had been researching the effects of climate change for years."
+          ],
+          "correct": 2,
+          "explanation": "'Araştırıyorlar' şimdiki zaman + 'yıllardır' duration marker → Present Perfect Continuous. C doğru: 'have been researching' geçmişte başlayıp şimdi devam eden süreci ifade eder. 'For years' duration ile kullanılır."
+        },
+        {
+          "question": "Yarın öğleden sonra müdürle görüşeceğim.\n\nWhich is the best English translation?",
+          "options": [
+            "I will meet with the manager tomorrow afternoon.",
+            "I am meeting with the manager tomorrow afternoon.",
+            "I meet with the manager tomorrow afternoon.",
+            "I have met with the manager tomorrow afternoon.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'-eceğim' gelecek zaman + 'yarın' future marker → 'will meet' (simple future) veya 'am meeting' (arranged future). Her iki yapı da doğru: A intentional future, B fixed arrangement. YDS'de her ikisi de kabul edilir."
+        },
+        {
+          "question": "Öğrenciler dersin başında yoklama alındığında sınıftaydılar.\n\nWhich is the best English translation?",
+          "options": [
+            "Students are in the classroom when attendance is taken at the beginning of class.",
+            "Students were in the classroom when attendance was taken at the beginning of class.",
+            "Students had been in the classroom when attendance was taken at the beginning of class.",
+            "Students have been in the classroom when attendance is taken at the beginning of class.",
+            "Students will be in the classroom when attendance is taken at the beginning of class."
+          ],
+          "correct": 1,
+          "explanation": "'Alındığında...taydılar' past time reference in both clauses → Simple Past. B doğru: 'were...when...was taken'. Tek geçmiş olay, past perfect gerekmiyor (C yanlış). A, D, E wrong tense."
+        },
+        {
+          "question": "Bu ilaç yan etkilere neden olabilir.\n\nWhich is the best English translation?",
+          "options": [
+            "This medication should cause side effects.",
+            "This medication must cause side effects.",
+            "This medication may cause side effects.",
+            "This medication will cause side effects.",
+            "This medication can cause side effects."
+          ],
+          "correct": 2,
+          "explanation": "'-abilir' olasılık kiplik → 'may' (possibility). C doğru: warning/possibility anlamı. 'Can' (E) yetenek veya genel olasılık anlamına gelir ama medicine warnings'de 'may' tercih edilir. 'Should' tavsiye, 'must' kesinlik, 'will' kesin gelecek."
+        },
+        {
+          "question": "Proje henüz onaylanmamış.\n\nWhich is the best English translation?",
+          "options": [
+            "The project hasn't been approved yet.",
+            "The project wasn't approved yet.",
+            "The project isn't approved yet.",
+            "The project won't be approved yet.",
+            "The project hadn't been approved yet."
+          ],
+          "correct": 0,
+          "explanation": "'-mamış' + 'henüz' (yet) → Present Perfect Negative Passive. A doğru: 'hasn't been approved yet'. 'Yet' ile present perfect kullanılır (ongoing relevance). B simple past (yet ile uyumsuz), C present simple (state değil action), D future (wrong), E past perfect (bağlam yok)."
+        },
+        {
+          "question": "Toplantı sırasında önemli kararlar alınıyordu.\n\nWhich is the best English translation?",
+          "options": [
+            "Important decisions are being made during the meeting.",
+            "Important decisions were being made during the meeting.",
+            "Important decisions have been made during the meeting.",
+            "Important decisions had been made during the meeting.",
+            "Important decisions are made during the meeting."
+          ],
+          "correct": 1,
+          "explanation": "'Alınıyordu' şimdiki zamanın hikayesi edilgen → Past Continuous Passive. B doğru: 'were being made' geçmişte devam eden eylem (during the meeting = specific past time). A present (wrong), C-D perfect (wrong aspect), E simple (wrong aspect)."
+        },
+        {
+          "question": "Katılımcılar programın tüm aşamalarına katılmalıdır.\n\nWhich is the best English translation?",
+          "options": [
+            "Participants should attend all stages of the program.",
+            "Participants must attend all stages of the program.",
+            "Participants can attend all stages of the program.",
+            "Participants may attend all stages of the program.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'-malıdır' zorunluluk/gereklilik → 'should' (strong recommendation) veya 'must' (obligation). Bağlama göre her ikisi de olabilir. E doğru: YDS'de ikisi de kabul edilir. 'Must' daha güçlü (strict requirement), 'should' daha yumuşak (strong advice). C-D permission (yanlış)."
+        },
+        {
+          "question": "Yeni sistem geçen ay devreye sokulmuştu.\n\nWhich is the best English translation?",
+          "options": [
+            "The new system was put into operation last month.",
+            "The new system has been put into operation last month.",
+            "The new system had been put into operation last month.",
+            "The new system is put into operation last month.",
+            "The new system will be put into operation last month."
+          ],
+          "correct": 0,
+          "explanation": "'-muştu' geçmiş zamanın rivayeti + 'geçen ay' specific past time → Simple Past Passive. A doğru: 'was put' specific past time ile kullanılır. B yanlış: 'has been' + specific past time (last month) together kullanılmaz. C past perfect ama referans olayı yok. D-E wrong tense."
+        },
+        {
+          "question": "Sonuçlar beklenenden daha olumlu çıkmış.\n\nWhich is the best English translation?",
+          "options": [
+            "The results turned out more positive than expected.",
+            "The results have turned out more positive than expected.",
+            "The results had turned out more positive than expected.",
+            "The results are turning out more positive than expected.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'-miş' öğrenilen geçmiş → Simple Past ('turned out' - reporting past event) veya Present Perfect ('have turned out' - recent past with current relevance). Bağlama göre her ikisi de doğru. E correct: YDS'de ikisi de kabul edilebilir. A past report, B recent news with continuing relevance."
+        },
+        {
+          "question": "Su 100 derecede kaynar.\n\nWhich is the best English translation?",
+          "options": [
+            "Water boils at 100 degrees.",
+            "Water is boiling at 100 degrees.",
+            "Water boiled at 100 degrees.",
+            "Water will boil at 100 degrees.",
+            "Water has boiled at 100 degrees."
+          ],
+          "correct": 0,
+          "explanation": "'Kaynar' geniş zaman + scientific fact → Present Simple. A doğru: timeless truth, general scientific fact. B continuous (wrong for permanent truth), C past (wrong), D future (wrong), E perfect (wrong)."
+        }
+      ]
+    },
+    {
+      "id": "1.6.2",
+      "title": "Özne Düşüklüğü ve Adlaştırma",
+      "content": "Türkçe, özne düşürebilen bir dildir (pro-drop language). İngilizce'de ise özne her zaman gereklidir. YDS çevirilerinde bu farkı yönetmek ve gerektiğinde dummy subjects veya nominalization kullanmak kritiktir.\n\n**1. Özne Düşüklüğü:**\n\nTürkçe'de fiil çekimi özneden izler, özne genellikle atılır:\n- \"Yarın geliyorum\" → \"I am coming tomorrow\" (\"I\" eklenм eli)\n- \"Çok çalıştı\" → \"He/She worked hard\" (özne bağlamdan anlaşılır)\n\n**İngilizce'de özne seçenekleri:**\n- Specific subject: \"He\", \"They\", \"The researchers\"\n- Generic subject: \"People\", \"One\", \"We\" (genel ifadeler için)\n- Dummy subjects: \"It\", \"There\"\n- Passive voice: Özneyi atlama stratejisi\n\n**2. Dummy Subjects:**\n\n*It (hava, zaman, mesafe, impersonal statements):*\n- \"Yağmur yağıyor\" → \"It is raining\"\n- \"Geç oldu\" → \"It's late\"\n- \"Önemlidir ki...\" → \"It is important that...\"\n\n*There (varlık bildirme):*\n- \"Sorun var\" → \"There is a problem\"\n- \"Birçok neden vardı\" → \"There were many reasons\"\n\n**3. Adlaştırma (Nominalization):**\n\nTürkçe yan cümle yapılarını İngilizce'de isim yapısına dönüştürme:\n\n*Masdar kullanımı (-mak/-mek):*\n- \"Sigara içmek yasaktır\" → \"Smoking is prohibited\" (NOT: \"To smoke is prohibited\")\n- \"Egzersiz yapmak sağlıklıdır\" → \"Exercising is healthy\" / \"Exercise is healthy\"\n\n*Yan cümle → Noun phrase:*\n- \"Nüfusun artması sorun yaratıyor\" → \"Population growth is creating problems\" / \"The increase in population is creating problems\"\n- \"Teknolojinin gelişmesi\" → \"Technological development\" / \"The development of technology\"\n\n**4. Passive Voice Stratejisi:**\n\nÖzne belirsizse veya önemsizse passive kullan:\n- \"Bu yöntem sıkça kullanılır\" → \"This method is frequently used\" (\"People use\" yerine)\n- \"Rapor hazırlandı\" → \"The report was prepared\" (\"Someone prepared\" yerine)\n\n**Dikkat Edilmesi Gerekenler:**\n- To-infinitive subject formal ve az kullanılır; gerund tercih edilir\n- \"The fact that\" yapısı aşırı formal olabilir; nominalization daha iyi\n- Bağlam özneyı belirler: \"Geliyorum\" → I/We/They? (bağlamdan anla)",
+      "examples": [
+        {
+          "turkish": "Araştırma yapmanın önemi giderek artıyor.",
+          "english": "The importance of conducting research is increasing. / Research's importance is increasing.",
+          "explanation": "'Araştırma yapmanın' gerund + possessive noun structure → 'conducting research' veya noun 'research'. 'The importance of' nominalization. Özne yok, 'importance' özneleştirildi."
+        },
+        {
+          "turkish": "Sabah erkenden kalkmak sağlıklıdır.",
+          "english": "Waking up early in the morning is healthy. / Getting up early is healthy.",
+          "explanation": "'Kalkmak' infinitive → gerund subject 'waking up' / 'getting up'. 'It is healthy to wake up early' de doğru ama gerund daha natural. Özne yok, gerund phrase özne oldu."
+        },
+        {
+          "turkish": "Çok soğuk.",
+          "english": "It is very cold.",
+          "explanation": "Özne yok, hava durumu → dummy subject 'it'. 'Very cold' yeterli değil, özne gerekli. 'It is cold' standard weather expression."
+        },
+        {
+          "turkish": "Odada hiç kimse yoktu.",
+          "english": "There was nobody in the room. / There wasn't anybody in the room.",
+          "explanation": "Varlık bildirme, özne yok → 'there' + be. 'Nobody was in the room' de doğru ama 'there was' daha natural existence statement için."
+        },
+        {
+          "turkish": "Bu konuda çok şey söylenebilir.",
+          "english": "Much can be said on this subject. / A lot can be said on this subject.",
+          "explanation": "'Söylenebilir' edilgen ama özne yok → passive 'can be said', generic subject implied (by anyone). 'Much' uncountable subject. Özneyi atlamak için passive kullanıldı."
+        },
+        {
+          "turkish": "Nüfusun hızla artması çevre sorunlarına yol açıyor.",
+          "english": "The rapid increase in population is leading to environmental problems. / Rapid population growth is leading to environmental problems.",
+          "explanation": "'Nüfusun artması' yan cümle → nominalization 'the rapid increase in population' / 'population growth'. 'That the population is increasing' çok hantal, nominalization tercih edilir."
+        },
+        {
+          "turkish": "Bu kurala uymak zorunludur.",
+          "english": "It is mandatory to comply with this rule. / Compliance with this rule is mandatory.",
+          "explanation": "'Uymak' infinitive → 'to comply' (with dummy 'it') veya nominalization 'compliance'. Her iki yapı da formal ve akademik. 'Complying' da olabilir ama 'compliance' (noun) daha formal."
+        },
+        {
+          "turkish": "Geç kaldım, özür dilerim.",
+          "english": "I'm late, I apologize. / I'm sorry I'm late.",
+          "explanation": "'Kaldım' fiil, özne düşmüş → 'I' eklenмeli. 'Özür dilerim' de öznesiz → 'I apologize' / 'I'm sorry'. Her iki cümlede de özne restore edilмeli."
+        },
+        {
+          "turkish": "Daha fazla kanıt sunulmalıdır.",
+          "english": "More evidence must be presented. / More evidence should be provided.",
+          "explanation": "'Sunulmalıdır' edilgen ama özne yok (generic) → passive 'must be presented'. Özneyi belirsiz bırakmak için passive tercih edilir ('someone' eklemek gereksiz)."
+        },
+        {
+          "turkish": "İyi bir eğitim almanın değeri tartışılmazdır.",
+          "english": "The value of receiving a good education is indisputable. / Receiving a good education is invaluable.",
+          "explanation": "'Almanın' gerund + possessive → 'receiving a good education' / 'of receiving'. 'The value of' nominalization. Özne yok, nominalized subject yaratıldı."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Çok sıcak, klimayı açalım.\n\nWhich is the best English translation?",
+          "options": [
+            "Very hot, let's turn on the air conditioning.",
+            "It's very hot, let's turn on the air conditioning.",
+            "Is very hot, let's turn on the air conditioning.",
+            "Too hot, we turn on the air conditioning.",
+            "The weather very hot, let's turn on the air conditioning."
+          ],
+          "correct": 1,
+          "explanation": "'Çok sıcak' öznesiz hava durumu → dummy subject 'it' gerekli. B doğru: 'It's very hot' + suggestion 'let's turn on'. A, C, D özne eksik (incomplete sentence), E 'the weather' redundant with 'hot'."
+        },
+        {
+          "question": "Toplantıda önemli konular tartışıldı.\n\nWhich is the best English translation?",
+          "options": [
+            "In the meeting, they discussed important topics.",
+            "Important topics were discussed at the meeting.",
+            "The meeting discussed important topics.",
+            "Important topics discussed at the meeting.",
+            "At the meeting, discussing important topics."
+          ],
+          "correct": 1,
+          "explanation": "'Tartışıldı' edilgen, özne belirtilmemiş → passive voice. B doğru: 'were discussed' passive, özne atlanır (generic, kim tartıştı önemsiz). A 'they' eklemek gereksiz, C meeting cannot discuss (subject error), D-E incomplete sentence."
+        },
+        {
+          "question": "Birçok faktör vardı.\n\nWhich is the best English translation?",
+          "options": [
+            "Many factors existed.",
+            "There were many factors.",
+            "Many factors were.",
+            "Were many factors.",
+            "It was many factors."
+          ],
+          "correct": 1,
+          "explanation": "'Vardı' varlık bildirme, özne yok → 'there' + be. B doğru: 'There were' standard existence statement. A 'existed' doğru ama 'there were' daha natural, C-D incomplete, E 'it' yanlış dummy subject (varlık için 'there' kullanılır)."
+        },
+        {
+          "question": "Düzenli egzersiz yapmanın sağlığa faydaları çoktur.\n\nWhich is the best English translation?",
+          "options": [
+            "To exercise regularly has many health benefits.",
+            "Exercising regularly has many health benefits.",
+            "Regular exercise has many health benefits.",
+            "The benefits to health of exercising regularly are many.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Yapmanın' infinitive/gerund subject → B 'exercising regularly' (gerund phrase) veya C 'regular exercise' (noun phrase). Her ikisi de doğru. A 'to exercise' subject formal ve awkward, D word order awkward. E correct: B gerund, C noun, ikisi de natural."
+        },
+        {
+          "question": "Bu problemi çözmek zordur.\n\nWhich is the best English translation?",
+          "options": [
+            "To solve this problem is difficult.",
+            "Solving this problem is difficult.",
+            "It is difficult to solve this problem.",
+            "The solution of this problem is difficult.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Çözmek' infinitive subject → B 'solving' (gerund, natural) veya C 'it is difficult to solve' (dummy subject + to-infinitive, also natural). Her ikisi de doğru. A formal/archaic, D 'solution is difficult' anlam değişikliği. E correct."
+        },
+        {
+          "question": "Çalışıyorlar.\n\nWhich is the best English translation based on the context?",
+          "options": [
+            "Are working.",
+            "They are working.",
+            "Working.",
+            "Is working.",
+            "Works."
+          ],
+          "correct": 1,
+          "explanation": "'Çalışıyorlar' özne düşmüş (-lar suffix = they) → 'they' eklenмeli. B doğru: 'They are working' complete sentence. A özne eksik (not a complete sentence), C infinitive/gerund (no verb), D singular (wrong), E simple present (wrong tense)."
+        },
+        {
+          "question": "Teknolojinin hızla gelişmesi toplumsal değişimlere neden oluyor.\n\nWhich is the best English translation?",
+          "options": [
+            "That technology develops rapidly is causing social changes.",
+            "The rapid development of technology is causing social changes.",
+            "Technology's rapid development causes social changes.",
+            "The fact that technology is developing rapidly causes social changes.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Teknolojinin gelişmesi' yan cümle → nominalization: B 'the rapid development of technology' veya C 'technology's rapid development'. Her ikisi de doğru ve natural. A 'that-clause' subject awkward, D 'the fact that' redundant/formal. E correct."
+        },
+        {
+          "question": "Geciktiğim için özür dilerim.\n\nWhich is the best English translation?",
+          "options": [
+            "I apologize for being late.",
+            "Apologize for being late.",
+            "I'm sorry for my lateness.",
+            "For being late, I apologize.",
+            "Both A and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Özür dilerim' özne düşmüş → 'I' eklenмeli. A 'I apologize for being late' (gerund), C 'I'm sorry for my lateness' (noun). Her ikisi de doğru ve natural. B özne eksik, D word order awkward. E correct."
+        },
+        {
+          "question": "Bu konuda daha fazla araştırma yapılması gerekmektedir.\n\nWhich is the best English translation?",
+          "options": [
+            "That more research is done on this subject is necessary.",
+            "More research needs to be conducted on this subject.",
+            "It is necessary that more research be conducted on this subject.",
+            "Conducting more research on this subject is necessary.",
+            "Options B, C, and D are all correct."
+          ],
+          "correct": 4,
+          "explanation": "'Yapılması gerekmektedir' edilgen gereklilik → B 'needs to be conducted' (passive), C 'it is necessary that...be conducted' (dummy it + subjunctive), D 'conducting...is necessary' (gerund subject). B, C, D hepsi doğru ve natural. A 'that-clause' subject awkward. E correct."
+        },
+        {
+          "question": "Okula gidiyorum.\n\nWhich is the best English translation?",
+          "options": [
+            "Going to school.",
+            "I am going to school.",
+            "Am going to school.",
+            "Goes to school.",
+            "To school going."
+          ],
+          "correct": 1,
+          "explanation": "'Gidiyorum' özne düşmüş (first person singular implied) → 'I' eklenмeli. B doğru: 'I am going' complete sentence. A gerund (no subject, no verb), C özne eksik, D third person (wrong), E word order wrong."
+        }
+      ]
+    },
+    {
+      "id": "1.6.3",
+      "title": "Edatlı Yapılar ve Light-Verb Karşılıkları",
+      "content": "Türkçe'den İngilizce'ye çeviride edatlar (prepositions) ve light-verb kombinasyonları (karar vermek, tercih etmek vb.) özel dikkat gerektirir.\n\n**1. Edat Seçimi:**\n\nTürkçe durum ekleri İngilizce'de farklı edatlara karşılık gelir:\n\n*-de/-da (locative) → at, in, on:*\n- Zaman: \"Pazartesi'de\" → \"on Monday\" (NOT \"in Monday\")\n- Yer: \"Ofiste\" → \"at/in the office\"\n- Durum: \"Bu durumda\" → \"in this situation\"\n\n*-e/-a (dative) → to, for:*\n- Yön: \"Okula\" → \"to school\"\n- Amaç: \"Sağlığa zararlı\" → \"harmful to health\"\n- İsim tamamlayıcısı: \"İhtiyaç var\" → \"there is a need for\"\n\n*-den/-dan (ablative) → from, of, about:*\n- Kaynak: \"Evden\" → \"from home\"\n- Malzeme: \"Tahtadan\" → \"of/from wood\"\n- Konu: \"Bundan bahsetmek\" → \"talk about this\"\n\n*-ile (instrumental) → with, by:*\n- Araç: \"Kalemle\" → \"with a pen\"\n- Beraberlik: \"Arkadaşımla\" → \"with my friend\"\n\n**2. Light-Verb Kombinasyonları:**\n\nTürkçe light-verb (destek fiil) + isim yapıları İngilizce'de farklı şekillerde karşılanır:\n\n*Karar vermek → decide (NOT \"give decision\")*\n*Tercih etmek → prefer (NOT \"make preference\")*\n*Kabul etmek → accept, admit*\n*Red detmek → reject, refuse*\n*Söz vermek → promise*\n*Ricada bulunmak → request, ask*\n*İtiraz etmek → object (to)*\n*Şikayet etmek → complain (about)*\n*Katılmak → participate (in), join, attend*\n*Yararlanmak → benefit (from), use*\n\n**3. Dependent Prepositions:**\n\nBazı fiil/sıfat/isimler belirli edatlarla kullanılır:\n\n*Fiil + edat:*\n- \"...hakkında konuşmak\" → \"talk/speak about\"\n- \"...e inanmak\" → \"believe in\"\n- \"...den sorumlu olmak\" → \"be responsible for\"\n- \"...e odaklanmak\" → \"focus on\"\n\n*Sıfat + edat:*\n- \"...den farklı\" → \"different from\" (NOT \"different than\" in formal English)\n- \"...e benzer\" → \"similar to\"\n- \"...den bağımsız\" → \"independent of\"\n- \"...e bağlı\" → \"dependent on\"\n\n*İsim + edat:*\n- \"...e ilgi\" → \"interest in\"\n- \"...e ihtiyaç\" → \"need for\"\n- \"...e çözüm\" → \"solution to\" (NOT \"solution of\")\n- \"...e etki\" → \"effect on\"\n\n**Dikkat Edilmesi Gerekenler:**\n- Türkçe'deki edat İngilizce'deki edatla her zaman uyuşmaz\n- Light-verb yapılarını ezberlemek yerine, İngilizce'deki basit fiil karşılıklarını öğrenin\n- Dependent prepositions sabit kalıplardır, değiştirilemez",
+      "examples": [
+        {
+          "turkish": "Komite yeni bir karar verdi.",
+          "english": "The committee made a new decision. / The committee decided on a new approach.",
+          "explanation": "'Karar vermek' → 'make a decision' (noun phrase) veya 'decide' (simple verb). 'Give decision' YANLIŞ. Her iki yapı da doğru, 'decide' daha concise."
+        },
+        {
+          "turkish": "Bu konu hakkında çok şey söylenebilir.",
+          "english": "Much can be said about this subject.",
+          "explanation": "'Hakkında' → 'about' (NOT 'on' or 'over'). 'Say about' standard collocation. 'Söylenebilir' passive 'can be said'."
+        },
+        {
+          "turkish": "Öğrenciler sınava hazırlandılar.",
+          "english": "Students prepared for the exam.",
+          "explanation": "'Hazırlanmak' → 'prepare for' (NOT 'prepare to'). 'For' exam object, dependent preposition with 'prepare'."
+        },
+        {
+          "turkish": "Bu sorunun çözümü için çok çalıştık.",
+          "english": "We worked hard for the solution to this problem.",
+          "explanation": "'Sorunun çözümü' → 'solution to the problem' (NOT 'solution of'). 'To' standard preposition with 'solution'. 'İçin' → 'for' (purpose)."
+        },
+        {
+          "turkish": "Konferansa katıldık.",
+          "english": "We attended the conference. / We participated in the conference.",
+          "explanation": "'Katılmak' → 'attend' (direct object, no preposition) veya 'participate in' (with preposition). 'Join' da olabilir ama 'attend' conferences için standard."
+        },
+        {
+          "turkish": "Yeni teknolojiyle ilgileniyor.",
+          "english": "He is interested in new technology.",
+          "explanation": "'İlgilenmek' → 'be interested in' (NOT 'interested about/with'). 'In' dependent preposition with 'interested'."
+        },
+        {
+          "turkish": "Bu görüşe katılmıyorum.",
+          "english": "I don't agree with this opinion. / I disagree with this opinion.",
+          "explanation": "'Katılmak' (agreement sense) → 'agree with' (NOT 'agree to' for opinions). 'With' opinion/person, 'to' plan/proposal."
+        },
+        {
+          "turkish": "Projeye katkıda bulundular.",
+          "english": "They contributed to the project.",
+          "explanation": "'Katkıda bulunmak' → 'contribute to' (NOT 'contribute for/in'). 'To' dependent preposition with 'contribute'."
+        },
+        {
+          "turkish": "Bu durum sonuçlar üzerinde etkili oldu.",
+          "english": "This situation had an effect on the results. / This situation affected the results.",
+          "explanation": "'Üzerinde etkili olmak' → 'have an effect on' veya 'affect' (simple verb). 'On' dependent preposition with 'effect'. 'Affect' daha concise."
+        },
+        {
+          "turkish": "Pazartesi günü toplantıya gideceğim.",
+          "english": "I will go to the meeting on Monday.",
+          "explanation": "'Günü' → 'on' (day), 'toplantıya' → 'to the meeting'. 'On' days, 'in' months/years, 'at' specific times."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Yönetim bu konuda henüz bir karar vermedi.\n\nWhich is the best English translation?",
+          "options": [
+            "The management hasn't given a decision on this matter yet.",
+            "The management hasn't made a decision on this matter yet.",
+            "The management hasn't taken a decision on this matter yet.",
+            "The management hasn't decided this matter yet.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Karar vermek' → 'make a decision' (AmE) veya 'take a decision' (BrE). Her ikisi de doğru. 'Give a decision' YANLIŞ (Türkçe'den literal çeviri). D 'decided' da doğru ama 'on this matter' preposition eksik. E correct: B ve C kabul edilir."
+        },
+        {
+          "question": "Araştırmacılar bu probleme farklı bir çözüm önerdi.\n\nWhich is the best English translation?",
+          "options": [
+            "Researchers proposed a different solution of this problem.",
+            "Researchers proposed a different solution for this problem.",
+            "Researchers proposed a different solution to this problem.",
+            "Researchers proposed a different solution about this problem.",
+            "Both B and C are correct."
+          ],
+          "correct": 2,
+          "explanation": "'Çözüm' → 'solution to' (NOT 'solution of/for/about'). C doğru: 'solution to the problem' standard collocation. A, B, D wrong preposition. 'For' purpose için kullanılır ama 'solution for' non-standard."
+        },
+        {
+          "question": "Öğrenciler seminere katıldı.\n\nWhich is the best English translation?",
+          "options": [
+            "Students participated the seminar.",
+            "Students joined to the seminar.",
+            "Students attended the seminar.",
+            "Students took part the seminar.",
+            "Students assisted to the seminar."
+          ],
+          "correct": 2,
+          "explanation": "'Katılmak' → 'attend' (direct object, no preposition). C doğru. A 'participate in' (preposition eksik), B 'join' (direct object, 'to' gereksiz), D 'take part in' (preposition eksik), E 'assist at/with' (meaning farklı)."
+        },
+        {
+          "question": "Bu yöntem diğerlerinden farklıdır.\n\nWhich is the best English translation?",
+          "options": [
+            "This method is different than the others.",
+            "This method is different from the others.",
+            "This method is different with the others.",
+            "This method is different to the others.",
+            "This method is different of the others."
+          ],
+          "correct": 1,
+          "explanation": "'Farklı' → 'different from' (formal/standard). B doğru. A 'different than' AmE informal, C, D, E wrong prepositions. YDS formal English bekler, 'from' preferred."
+        },
+        {
+          "question": "Toplantı Salı günü saat 3'te başlayacak.\n\nWhich is the best English translation?",
+          "options": [
+            "The meeting will start on Tuesday in 3 o'clock.",
+            "The meeting will start in Tuesday at 3 o'clock.",
+            "The meeting will start on Tuesday at 3 o'clock.",
+            "The meeting will start at Tuesday on 3 o'clock.",
+            "The meeting will start Tuesday 3 o'clock."
+          ],
+          "correct": 2,
+          "explanation": "Time prepositions: 'on' + day, 'at' + specific time. C doğru: 'on Tuesday at 3 o'clock'. A 'in 3 o'clock' wrong ('in' months/years), B 'in Tuesday' wrong, D 'at Tuesday on 3' wrong, E prepositions eksik."
+        },
+        {
+          "question": "Vatandaşlar hükümetin kararını protesto etti.\n\nWhich is the best English translation?",
+          "options": [
+            "Citizens protested the government's decision.",
+            "Citizens protested against the government's decision.",
+            "Citizens made a protest of the government's decision.",
+            "Citizens gave a protest to the government's decision.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Protesto etmek' → 'protest' (direct object) veya 'protest against' (with preposition). A ve B her ikisi de doğru. 'Protest sth' (transitive) veya 'protest against sth' (intransitive + prep). C 'make/stage a protest', D 'give a protest' YANLIŞ. E correct."
+        },
+        {
+          "question": "Öğrenci ders materyallerinden yararlandı.\n\nWhich is the best English translation?",
+          "options": [
+            "The student benefited from the course materials.",
+            "The student took advantage from the course materials.",
+            "The student used the course materials.",
+            "The student profited the course materials.",
+            "Both A and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Yararlanmak' → 'benefit from' veya 'use'. A ve C her ikisi de doğru. B 'take advantage of' ('from' wrong), D 'profit from' (preposition eksik). E correct."
+        },
+        {
+          "question": "Bu proje enerji tasarrufuna odaklanıyor.\n\nWhich is the best English translation?",
+          "options": [
+            "This project focuses on energy conservation.",
+            "This project focuses to energy conservation.",
+            "This project focuses in energy conservation.",
+            "This project is focused about energy conservation.",
+            "This project concentrates for energy conservation."
+          ],
+          "correct": 0,
+          "explanation": "'Odaklanmak' → 'focus on' (NOT 'focus to/in'). A doğru: 'focuses on' standard collocation. B, C wrong prepositions, D 'about' wrong, E 'concentrate on' doğru ama 'for' wrong."
+        },
+        {
+          "question": "Sonuçlar beklentilerimizle uyumlu değil.\n\nWhich is the best English translation?",
+          "options": [
+            "The results are not consistent with our expectations.",
+            "The results are not consistent to our expectations.",
+            "The results don't consist with our expectations.",
+            "The results are not compatible to our expectations.",
+            "The results don't comply with our expectations."
+          ],
+          "correct": 0,
+          "explanation": "'Uyumlu olmak' → 'be consistent with' (NOT 'consistent to'). A doğru. B wrong preposition, C 'consist of' (meaning farklı), D 'compatible with' ('to' wrong), E 'comply with' rules için (meaning farklı)."
+        },
+        {
+          "question": "Müdür yeni politikaya itiraz etti.\n\nWhich is the best English translation?",
+          "options": [
+            "The manager objected the new policy.",
+            "The manager objected to the new policy.",
+            "The manager objected against the new policy.",
+            "The manager made objection the new policy.",
+            "The manager rejected the new policy."
+          ],
+          "correct": 1,
+          "explanation": "'İtiraz etmek' → 'object to' (NOT 'object' direct, NOT 'object against'). B doğru: 'objected to' standard. A preposition eksik, C 'against' wrong, D 'make an objection to' ('an' ve 'to' eksik), E 'reject' farklı meaning (refuse vs. disagree)."
+        }
+      ]
+    },
+    {
+      "id": "1.6.4",
+      "title": "Belirtililik-Belirsizlik ve Artikel Kullanımı",
+      "content": "Türkçe'de artikel sistemi yoktur. İngilizce'de ise 'a/an' (indefinite) ve 'the' (definite) artikelleri kritik anlam farkları yaratır. YDS çevirilerinde doğru artikel seçimi önemlidir.\n\n**1. Definite Article: THE**\n\n*Kullanım durumları:*\n- **Specific/belirli referans:** Daha önce bahsedilen veya bağlamdan belli\n  * \"Bir kitap aldım. Kitap çok ilginç\" → \"I bought a book. The book is very interesting\"\n- **Unique entities:** Dünyada/bağlamda tek olan\n  * \"Güneş doğudan doğar\" → \"The sun rises in the east\"\n- **Superlatives:** En üstünlük\n  * \"En iyi çözüm\" → \"The best solution\"\n- **Musical instruments (genel):** \"Piyano çalıyor\" → \"He plays the piano\"\n- **Ordinal numbers:** \"İlk deneme\" → \"The first attempt\"\n- **Adjective as noun:** \"Zenginler\" → \"The rich\", \"Yaşlılar\" → \"The elderly\"\n\n**2. Indefinite Article: A/AN**\n\n*Kullanım durumları:*\n- **First mention/ilk bahsetme:** \"Bir öğrenci geldi\" → \"A student came\"\n- **Classificatory/sınıflandırma:** \"O bir doktor\" → \"He is a doctor\"\n- **Non-specific:** \"Bir çözüm bulmalıyız\" → \"We must find a solution\" (herhangi bir)\n- **One of many:** \"Bir yöntem\" → \"A method\" (birçok yöntemden biri)\n\n**3. Zero Article (Ø) - Artikel yok**\n\n*Kullanım durumları:*\n- **Plural generics:** \"Öğrenciler çalışıyor\" → \"Students are studying\" (genel, tüm öğrenciler)\n- **Uncountable generics:** \"Su önemlidir\" → \"Water is important\" (genel, tüm su)\n- **Abstract concepts:** \"Bilim ilerliyor\" → \"Science is advancing\"\n- **Proper nouns:** \"Türkiye\" → \"Turkey\" (but: \"the USA\", \"the UK\")\n- **Meals:** \"Kahvaltı yaptık\" → \"We had breakfast\"\n- **Languages:** \"İngilizce konuşuyor\" → \"He speaks English\"\n- **Academic subjects:** \"Matematik zordur\" → \"Mathematics is difficult\"\n\n**4. Türkçe'den İngilizce'ye Sorunlu Alanlar:**\n\n*\"Bir\" her zaman \"a/an\" değildir:*\n- \"Bir soru sormak istiyorum\" → \"I want to ask a question\" (indefinite)\n- \"Bir gün\" → \"One day\" (specific day) veya \"A day\" (any day)\n\n*Generic statements:*\n- \"İnsan sosyal bir varlıktır\" → \"Humans are social beings\" (zero article, plural)\n  VEYA \"The human being is a social creature\" (the + singular = generic)\n  VEYA \"A human is a social being\" (a + singular = generic)\n\n**5. Common Mistakes:**\n- \"Life is beautiful\" (NOT \"The life\")\n- \"I love music\" (NOT \"I love the music\")\n- \"He is a teacher\" (NOT \"He is teacher\")\n- \"The education is important\" → \"Education is important\" (abstract, no article)\n\n**Strateji:**\n- Specific mi generic mi? → specific ise 'the', generic ise often zero\n- İlk bahis mi tekrar mı? → ilk 'a', tekrar 'the'\n- Countable singular mi? → Artikel zorunlu ('a' veya 'the')\n- Abstract/uncountable/plural generic mi? → Genellikle zero article",
+      "examples": [
+        {
+          "turkish": "Bilim insanları yeni bir keşif yaptı.",
+          "english": "Scientists made a new discovery. / The scientists made a new discovery.",
+          "explanation": "'Bilim insanları' generic → zero article 'scientists' (genel olarak) VEYA specific group → 'the scientists' (belli grup). 'Bir keşif' first mention, non-specific → 'a discovery'."
+        },
+        {
+          "turkish": "Eğitim her toplum için önemlidir.",
+          "english": "Education is important for every society.",
+          "explanation": "'Eğitim' abstract concept, generic → zero article. 'Education' (NOT 'The education'). 'Her toplum' → 'every society' (zero article with 'every')."
+        },
+        {
+          "turkish": "En iyi çözüm daha fazla araştırma yapmaktır.",
+          "english": "The best solution is to conduct more research.",
+          "explanation": "'En iyi' superlative → 'the' zorunlu. 'The best solution'. 'Araştırma' uncountable generic → zero article 'research'."
+        },
+        {
+          "turkish": "Bir öğrenci soru sordu. Öğrenci çok ilgiliydi.",
+          "english": "A student asked a question. The student was very interested.",
+          "explanation": "'Bir öğrenci' first mention → 'a student'. 'Öğrenci' (ikinci bahis, artık specific) → 'the student'."
+        },
+        {
+          "turkish": "Güneş doğudan doğar.",
+          "english": "The sun rises in the east.",
+          "explanation": "'Güneş' unique entity → 'the sun'. 'Doğu' direction (unique in context) → 'the east'."
+        },
+        {
+          "turkish": "İnsanlar sosyal varlıklardır.",
+          "english": "Humans are social beings. / People are social beings.",
+          "explanation": "'İnsanlar' generic plural → zero article. 'Humans'/'People' (NOT 'The humans'). Generic statement."
+        },
+        {
+          "turkish": "Bir doktor olarak bunu tavsiye etmiyorum.",
+          "english": "As a doctor, I don't recommend this.",
+          "explanation": "'Bir doktor' classificatory (profession) → 'a doctor' (NOT 'as doctor'). Profession statements require 'a/an'."
+        },
+        {
+          "turkish": "Müzik hayatımın önemli bir parçasıdır.",
+          "english": "Music is an important part of my life.",
+          "explanation": "'Müzik' abstract/uncountable, generic → zero article. 'Music' (NOT 'The music'). 'Bir parçası' → 'a part' (one of many possible parts)."
+        },
+        {
+          "turkish": "Öğrenciler kütüphanede çalışıyor.",
+          "english": "The students are studying in the library. / Students are studying in the library.",
+          "explanation": "'Öğrenciler' → 'the students' (specific group known from context) VEYA 'students' (generic, öğrenciler genel olarak). 'Kütüphanede' → 'the library' (specific, belli kütüphane)."
+        },
+        {
+          "turkish": "Teknoloji hızla gelişiyor.",
+          "english": "Technology is developing rapidly.",
+          "explanation": "'Teknoloji' abstract concept, generic → zero article. 'Technology' (NOT 'The technology'). Generic statement about technology in general."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Bir bilim adamı önemli bir buluş yaptı.\n\nWhich is the best English translation?",
+          "options": [
+            "Scientist made important discovery.",
+            "A scientist made an important discovery.",
+            "The scientist made the important discovery.",
+            "A scientist made important discovery.",
+            "Scientist made an important discovery."
+          ],
+          "correct": 1,
+          "explanation": "'Bir bilim adamı' first mention, non-specific → 'a scientist'. 'Bir buluş' first mention → 'an important discovery' ('an' before vowel sound). B doğru. A, D, E artikel eksik, C 'the' wrong (not previously mentioned)."
+        },
+        {
+          "question": "Eğitim toplumların gelişmesi için gereklidir.\n\nWhich is the best English translation?",
+          "options": [
+            "The education is necessary for the development of societies.",
+            "Education is necessary for the development of the societies.",
+            "Education is necessary for the development of societies.",
+            "The education is necessary for development of the societies.",
+            "An education is necessary for development of societies."
+          ],
+          "correct": 2,
+          "explanation": "'Eğitim' abstract, generic → zero article. 'Toplumların' generic plural → zero article 'societies'. C doğru: 'Education...societies' both zero article. A 'the education' wrong, B 'the societies' wrong (generic), D both wrong, E 'an education' wrong (uncountable in this sense)."
+        },
+        {
+          "question": "En etkili yöntem deneysel araştırmadır.\n\nWhich is the best English translation?",
+          "options": [
+            "Most effective method is experimental research.",
+            "The most effective method is experimental research.",
+            "A most effective method is the experimental research.",
+            "The most effective method is the experimental research.",
+            "Most effective method is the experimental research."
+          ],
+          "correct": 1,
+          "explanation": "'En etkili' superlative → 'the' zorunlu. 'The most effective method'. 'Deneysel araştırma' generic → zero article 'experimental research'. B doğru. A, E 'the' eksik, C 'a most' wrong (superlative ile 'the'), D 'the experimental research' wrong (generic concept)."
+        },
+        {
+          "question": "Bir öğretmen geldi. Öğretmen yeni müfredatı açıkladı.\n\nWhich is the best English translation?",
+          "options": [
+            "A teacher came. A teacher explained the new curriculum.",
+            "A teacher came. The teacher explained the new curriculum.",
+            "The teacher came. The teacher explained a new curriculum.",
+            "Teacher came. Teacher explained new curriculum.",
+            "A teacher came. The teacher explained a new curriculum."
+          ],
+          "correct": 1,
+          "explanation": "'Bir öğretmen' first mention → 'a teacher'. 'Öğretmen' (ikinci, artık specific) → 'the teacher'. 'Yeni müfredat' specific → 'the new curriculum'. B doğru: 'a...the...the'. A second 'a' wrong, C first 'the' wrong, D artikels eksik, E 'a curriculum' wrong (specific)."
+        },
+        {
+          "question": "İnsanlar doğayı korumalıdır.\n\nWhich is the best English translation?",
+          "options": [
+            "The people should protect the nature.",
+            "People should protect nature.",
+            "The people should protect nature.",
+            "People should protect the nature.",
+            "A people should protect a nature."
+          ],
+          "correct": 1,
+          "explanation": "'İnsanlar' generic plural → zero article 'people'. 'Doğa' abstract/generic → zero article 'nature'. B doğru: both zero articles. A 'the people' wrong (generic), 'the nature' wrong, C 'the people' wrong, D 'the nature' wrong, E 'a people/a nature' wrong."
+        },
+        {
+          "question": "Güneş batıda batar.\n\nWhich is the best English translation?",
+          "options": [
+            "Sun sets in west.",
+            "The sun sets in the west.",
+            "A sun sets in a west.",
+            "Sun sets in the west.",
+            "The sun sets in west."
+          ],
+          "correct": 1,
+          "explanation": "'Güneş' unique entity → 'the sun'. 'Batı' direction (unique) → 'the west'. B doğru: 'The sun...the west'. A artikels eksik, C 'a' wrong (unique entities), D, E one artikel eksik."
+        },
+        {
+          "question": "Matematik zor bir derstir.\n\nWhich is the best English translation?",
+          "options": [
+            "The mathematics is a difficult subject.",
+            "Mathematics is a difficult subject.",
+            "A mathematics is difficult subject.",
+            "Mathematics is the difficult subject.",
+            "The mathematics is difficult subject."
+          ],
+          "correct": 1,
+          "explanation": "'Matematik' academic subject → zero article 'mathematics'. 'Bir ders' classificatory → 'a subject'. B doğru. A 'the mathematics' wrong (subject name), C 'a mathematics' wrong, D 'the difficult subject' wrong (classificatory needs 'a'), E both wrong."
+        },
+        {
+          "question": "Müdür toplantıya katıldı.\n\nWhich is the best English translation (assuming context makes the manager known)?",
+          "options": [
+            "Manager attended meeting.",
+            "The manager attended the meeting.",
+            "A manager attended a meeting.",
+            "Manager attended the meeting.",
+            "The manager attended meeting."
+          ],
+          "correct": 1,
+          "explanation": "Bağlam: 'müdür' ve 'toplantı' her ikisi de specific/known → 'the' for both. B doğru: 'The manager...the meeting'. A artikels eksik, C 'a' wrong (specific entities), D, E one artikel eksik."
+        },
+        {
+          "question": "Bir çözüm bulmamız gerekiyor.\n\nWhich is the best English translation?",
+          "options": [
+            "We need to find solution.",
+            "We need to find the solution.",
+            "We need to find a solution.",
+            "We need to find solutions.",
+            "We need find a solution."
+          ],
+          "correct": 2,
+          "explanation": "'Bir çözüm' indefinite, non-specific (any solution) → 'a solution'. C doğru. A artikel eksik, B 'the' wrong (not specific), D plural changes meaning, E 'to' eksik (need to)."
+        },
+        {
+          "question": "Zenginler fakirlere yardım etmelidir.\n\nWhich is the best English translation?",
+          "options": [
+            "Rich should help poor.",
+            "The rich should help the poor.",
+            "Rich people should help poor people.",
+            "The rich people should help the poor people.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Zenginler/fakirler' adjective as collective noun → 'the rich/the poor' VEYA explicit 'rich people/poor people' (zero artikel, generic plural). B ve C her ikisi de doğru. E correct. A artikels eksik, D 'the people' wrong (generic)."
+        }
+      ]
+    },
+    {
+      "id": "1.6.5",
+      "title": "Sözdizimsel Sıkışıklık ve Bilgi Akışı",
+      "content": "Türkçe ve İngilizce'nin sözdizimi (syntax) farklıdır. Türkçe SOV (Subject-Object-Verb), İngilizce SVO (Subject-Verb-Object) dil yapısına sahiptir. Ayrıca bilgi akışı (information flow) ve vurgu (emphasis) stratejileri farklıdır. YDS çevirilerinde doğal İngilizce kelime sırası ve bilgi yapısı kritiktir.\n\n**1. Temel Kelime Sırası:**\n\n*Türkçe SOV:*\n\"Öğrenciler kitabı okudular\" (S-O-V)\n\n*İngilizce SVO:*\n\"Students read the book\" (S-V-O)\n\n**Dönüştürme:**\nFiil nesnesinden sonra gelir. Türkçe'deki nesne-fiil sırasını tersine çevirin.\n\n**2. Bilgi Yapısı: Given-New (Eski-Yeni Bilgi):**\n\nİngilizce'de bilgi akışı: **Given (eski/bilinen) → New (yeni/önemli)**\n\n*Topic (konu) - Comment (yorum) yapısı:*\n- Topic (genellikle özne): Bilinen, daha önce bahsedilen\n- Comment (genellikle yüklem): Yeni bilgi, önemli mesaj\n\n*Örnek:*\n- \"The researchers conducted a study\" (researchers = given, study = new)\n- \"A study was conducted by the researchers\" (study topic, researchers = less important)\n\n**3. Vurgu ve Odak (Emphasis and Focus):**\n\n*Cümle sonu vurgusu:*\nİngilizce'de en önemli/yeni bilgi genellikle cümle sonundadır (end-focus).\n\n*Türkçe:*\n\"Bu kitabı DÜN okudum\" (vurgu 'dün'de)\n\n*İngilizce:*\n\"I read this book YESTERDAY\" (önemli bilgi sonda)\n\n*Cleft sentences (bölünmüş cümleler) vurgu için:*\n- \"It was YESTERDAY that I read this book\" ('yesterday' vurgusu)\n- \"What I read yesterday was THIS BOOK\" ('this book' vurgusu)\n\n**4. Sözdizimsel Sıkışıklık (Syntactic Compression):**\n\n*Türkçe relative clauses (yan cümleler) uzun ve önden gelir:*\n\"Dün okuduğum kitap\" → \"The book that I read yesterday\"\n\nTürkçe: sıfat tamlaması önden (Modifier + Noun)\nİngilizce: relative clause sonradan (Noun + Relative Clause)\n\n*Uzun Türkçe sıfat tamlamalarını çözme:*\n\"Üniversitenin geçen yıl yayınladığı rapor\"\n→ \"The report that the university published last year\"\n→ \"The report published by the university last year\" (reduced relative)\n\n**5. Adverbial Placement (Zarf/Belirteç Yerleştirme):**\n\n*Türkçe: zarf fiilin hemen önünde*\n\"Öğrenciler hızla çalışıyorlar\"\n\n*İngilizce: zarf yeri değişken*\n- \"Students are working quickly\" (manner adverb, fiilin sonunda)\n- \"Students quickly finished the task\" (frequency/manner, fiil önünde)\n- \"Quickly, students finished the task\" (vurgu için başta, less common)\n\n*Time/frequency adverbs:*\n- \"Always\", \"never\", \"often\": Be fiilinden sonra, main verb önünde\n  * \"He is always late\" / \"He always arrives late\"\n- Specific time: Genellikle cümle sonu veya başında\n  * \"I will meet you tomorrow\" / \"Tomorrow, I will meet you\"\n\n**6. Passive Voice Bilgi Yönetimi:**\n\nEdiligen yapı topic-comment dengesini değiştirir:\n- Active: \"Researchers conducted the study\" (researchers = topic)\n- Passive: \"The study was conducted by researchers\" (study = topic)\n\nTürkçe çeviride ne vurgulanmalı? → O'nu topic yapın (genellikle özne).\n\n**Strateji:**\n- Türkçe nesneyi bulun, İngilizce'de fiilden sonraya taşıyın (SOV → SVO)\n- Topic belirleme: Ne biliniyor? Onu öne al. Yeni bilgiyi arkaya al.\n- Uzun Türkçe sıfat tamlamalarını relative clause'a çevir\n- Zarf yerleştirme: manner sonunda, frequency fiil önünde\n- Vurgu için cleft sentences veya passive voice kullanabilirsiniz",
+      "examples": [
+        {
+          "turkish": "Araştırmacılar deneyioldukça dikkatli bir şekilde yürüttüler.",
+          "english": "The researchers conducted the experiment very carefully. / The researchers very carefully conducted the experiment.",
+          "explanation": "SOV → SVO: 'deneyi yürüttüler' → 'conducted the experiment'. Zarf 'carefully' genellikle cümle sonu (manner adverb). İkinci versiyon 'very carefully' fiil önünde (vurgu için) de doğru ama daha az yaygın."
+        },
+        {
+          "turkish": "Dün okuduğum makale çok ilginçti.",
+          "english": "The article that I read yesterday was very interesting. / The article I read yesterday was very interesting.",
+          "explanation": "Türkçe sıfat tamlaması 'dün okuduğum' → İngilizce relative clause 'that I read yesterday' (noun'dan sonra). 'That' opsiyonel (object relative). 'Very interesting' cümle sonu (new info)."
+        },
+        {
+          "turkish": "Bu sonuçlar beklentilerimizi aştı.",
+          "english": "These results exceeded our expectations.",
+          "explanation": "SOV → SVO: 'beklentilerimizi aştı' → 'exceeded our expectations'. Basit SVO yapısı. 'These results' topic (given), 'exceeded expectations' comment (new info)."
+        },
+        {
+          "turkish": "Hükümetin geçen yıl açıkladığı politika eleştirildi.",
+          "english": "The policy that the government announced last year was criticized. / The policy announced by the government last year was criticized.",
+          "explanation": "Uzun sıfat tamlaması 'hükümetin geçen yıl açıkladığı' → relative clause 'that the government announced last year' VEYA reduced relative 'announced by the government last year'. 'Was criticized' passive (edilgen), subject 'policy' topic."
+        },
+        {
+          "turkish": "Öğrenciler her zaman derse zamanında gelirler.",
+          "english": "Students always arrive at class on time.",
+          "explanation": "'Her zaman' frequency adverb → main verb önünde 'always arrive' (NOT 'arrive always'). 'On time' cümle sonu. Frequency adverbs: always, never, often, usually → verb önünde."
+        },
+        {
+          "turkish": "Raporu yarın tamamlayacağım.",
+          "english": "I will complete the report tomorrow. / I will finish the report tomorrow.",
+          "explanation": "SOV → SVO: 'raporu tamamlayacağım' → 'will complete the report'. 'Tomorrow' time adverb, cümle sonu (veya başında 'Tomorrow, I will...' vurgu için). New info 'tomorrow' sonda."
+        },
+        {
+          "turkish": "Bu konuyu araştırmacılar uzun yıllardır tartışıyorlar.",
+          "english": "Researchers have been debating this issue for many years. / This issue has been debated by researchers for many years.",
+          "explanation": "SOV → SVO: 'bu konuyu...tartışıyorlar' → 'have been debating this issue'. İkinci versiyon passive, 'this issue' topic (vurgu konuda ise). Duration 'for many years' cümle sonu."
+        },
+        {
+          "turkish": "Proje başarıyla tamamlandı.",
+          "english": "The project was successfully completed. / The project was completed successfully.",
+          "explanation": "Edilgen yapı. Zarf 'successfully' → manner adverb, genellikle cümle sonu ('completed successfully') ama fiil önünde de ok ('successfully completed'). İki versiyon da doğru, küçük vurgu farkı."
+        },
+        {
+          "turkish": "Teknolojinin hızla geliştiği bir çağda yaşıyoruz.",
+          "english": "We live in an era in which technology is developing rapidly. / We live in an era of rapid technological development.",
+          "explanation": "Sıfat tamlaması 'teknolojinin hızla geliştiği' → relative clause 'in which technology is developing rapidly' VEYA noun phrase 'of rapid technological development' (nominalization). İkincisi daha kompakt, akademik."
+        },
+        {
+          "turkish": "Bu yöntem DÜN geliştirildi.",
+          "english": "This method was developed YESTERDAY. / It was YESTERDAY that this method was developed.",
+          "explanation": "'Dün' vurgulu → cümle sonu (end-focus) 'YESTERDAY' VEYA cleft sentence 'It was YESTERDAY that...' (daha güçlü vurgu). İkinci versiyon vurguyu 'yesterday'e taşır."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Öğrenciler projeyi dün tamamladılar.\n\nWhich is the best English translation with natural word order?",
+          "options": [
+            "Students the project yesterday completed.",
+            "Students completed the project yesterday.",
+            "Yesterday students the project completed.",
+            "The project students yesterday completed.",
+            "Completed students the project yesterday."
+          ],
+          "correct": 1,
+          "explanation": "SOV → SVO: 'projeyi tamamladılar' → 'completed the project'. Time adverb 'yesterday' cümle sonu (natural). B doğru: S-V-O-Time. A, C, D, E wrong word order."
+        },
+        {
+          "question": "Geçen ay yayınlanan rapor önemli bulgular içeriyordu.\n\nWhich is the best English translation?",
+          "options": [
+            "The report publishing last month contained important findings.",
+            "The report that was published last month contained important findings.",
+            "The report published last month contained important findings.",
+            "Last month publishing report contained important findings.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "Sıfat tamlaması 'geçen ay yayınlanan' → relative clause B 'that was published' VEYA reduced relative C 'published'. Her ikisi de doğru. E correct. A 'publishing' wrong (should be passive), D word order wrong."
+        },
+        {
+          "question": "Araştırmacılar bu yöntemi sıklıkla kullanırlar.\n\nWhich is the best English translation with proper adverb placement?",
+          "options": [
+            "Researchers use this method frequently.",
+            "Researchers frequently use this method.",
+            "Frequently researchers use this method.",
+            "Researchers use frequently this method.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Sıklıkla' frequency adverb → main verb önünde B 'frequently use' VEYA cümle sonu A 'use...frequently'. Her ikisi de doğru. E correct. C başta awkward (emphasis only), D 'use frequently this' wrong (adverb nesneyi bölemez)."
+        },
+        {
+          "question": "Sonuçlar beklentilerimizi aştı.\n\nWhich is the best English translation emphasizing the results?",
+          "options": [
+            "Our expectations the results exceeded.",
+            "The results exceeded our expectations.",
+            "Exceeded our expectations the results.",
+            "Our expectations were exceeded by the results.",
+            "The results our expectations exceeded."
+          ],
+          "correct": 1,
+          "explanation": "SOV → SVO: 'beklentilerimizi aştı' → 'exceeded our expectations'. 'Results' topic (emphasized), active voice. B doğru: S-V-O natural order. D passive (de-emphasizes results), A, C, E wrong word order."
+        },
+        {
+          "question": "Bu kitabı yarın okuyacağım.\n\nWhich translation emphasizes 'tomorrow' (when)?",
+          "options": [
+            "I will read this book tomorrow.",
+            "Tomorrow, I will read this book.",
+            "It is tomorrow that I will read this book.",
+            "This book I will read tomorrow.",
+            "Both B and C are correct for emphasis."
+          ],
+          "correct": 4,
+          "explanation": "'Yarın' vurgu → fronting B 'Tomorrow, I will' VEYA cleft C 'It is tomorrow that'. Her iki stratejik de vurguyu 'tomorrow'e taşır. E correct. A neutral (vurgu yok), D topic shift (book emphasis)."
+        },
+        {
+          "question": "Öğrenciler her zaman soruları dikkatlice cevaplarlar.\n\nWhich is the best English translation with proper adverb placement?",
+          "options": [
+            "Students always answer questions carefully.",
+            "Students answer always questions carefully.",
+            "Always students answer questions carefully.",
+            "Students answer questions always carefully.",
+            "Students carefully always answer questions."
+          ],
+          "correct": 0,
+          "explanation": "'Her zaman' frequency adverb → main verb önünde 'always answer' (NOT 'answer always'). 'Dikkatlice' manner adverb → cümle sonu 'carefully'. A doğru: always + verb, manner sonda. B, D 'always' wrong position, C başta awkward, E 'carefully always' wrong order."
+        },
+        {
+          "question": "Üniversitenin geçen yıl kurduğu merkez araştırmalara katkı sağlıyor.\n\nWhich is the best English translation?",
+          "options": [
+            "The center that the university established last year is contributing to research.",
+            "The center established by the university last year is contributing to research.",
+            "The university's center established last year contributes to research.",
+            "Last year the university's established center contributes to research.",
+            "Options A, B, and C are all correct."
+          ],
+          "correct": 4,
+          "explanation": "Uzun sıfat tamlaması → A relative clause 'that the university established', B reduced relative 'established by', C possessive + reduced 'university's center established'. A, B, C hepsi doğru ve natural. E correct. D word order awkward."
+        },
+        {
+          "question": "Rapor henüz tamamlanmadı.\n\nWhich is the best English translation?",
+          "options": [
+            "The report yet hasn't been completed.",
+            "The report hasn't yet been completed.",
+            "The report hasn't been completed yet.",
+            "Yet the report hasn't been completed.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Henüz' with negative → 'yet'. Position: mid-sentence B 'hasn't yet been' VEYA end-sentence C 'hasn't been...yet'. Her ikisi de doğru. E correct. A 'yet hasn't' wrong order, D başta awkward."
+        },
+        {
+          "question": "Bu sorun ARAŞTIRMACILAR tarafından çözüldü. (vurgu 'araştırmacılar'da)\n\nWhich translation emphasizes 'researchers'?",
+          "options": [
+            "This problem was solved by researchers.",
+            "Researchers solved this problem.",
+            "It was researchers who solved this problem.",
+            "This problem researchers solved.",
+            "Both B and C are correct for emphasis."
+          ],
+          "correct": 4,
+          "explanation": "'Araştırmacılar' vurgu → active voice B 'Researchers solved' (subject position = emphasis) VEYA cleft C 'It was researchers who'. Her ikisi de 'researchers' vurgular. E correct. A passive (de-emphasizes researchers), D wrong word order."
+        },
+        {
+          "question": "Teknolojinin hızla gelişmesi ekonomik büyümeyi destekliyor.\n\nWhich is the best English translation using nominalization?",
+          "options": [
+            "That technology is developing rapidly supports economic growth.",
+            "The rapid development of technology supports economic growth.",
+            "Technology developing rapidly supports economic growth.",
+            "The fact that technology develops rapidly is supporting economic growth.",
+            "Rapid technological development supports economic growth."
+          ],
+          "correct": 4,
+          "explanation": "'Teknolojinin hızla gelişmesi' → nominalization E 'rapid technological development' (most concise) VEYA B 'the rapid development of technology'. Her ikisi de doğru ama E daha kompakt ve akademik. A 'that-clause' subject awkward, C 'developing' needs article/relative structure, D 'the fact that' redundant."
+        }
+      ]
+    },
+    {
+      "id": "1.6.6",
+      "title": "Terminoloji: Genel Akademik Kelime Dağarcığı",
+      "content": "YDS ve YÖKDİL çevirilerinde akademik terminoloji ve formal kelime seçimi kritiktir. Türkçe günlük kelimeler yerine İngilizce akademik karşılıklarını kullanmak, çeviri kalitesini artırır.\n\n**1. Academic Word List (AWL) - Akademik Kelime Listesi:**\n\nAkademik metinlerde sık kullanılan kelimeleri ezberleyin:\n- **Analyse** (analiz etmek), **approach** (yaklaşım), **assess** (değerlendirmek)\n- **Concept** (kavram), **consist** (oluşmak), **constitute** (oluşturmak)\n- **Data** (veri), **define** (tanımlamak), **demonstrate** (göstermek)\n- **Evident** (açık), **factor** (faktör), **function** (işlev)\n- **Hypothesis** (hipotez), **identify** (belirlemek), **indicate** (göstermek)\n- **Method** (yöntem), **occur** (meydana gelmek), **percent** (yüzde)\n- **Principle** (ilke), **process** (süreç), **require** (gerektirmek)\n- **Research** (araştırma), **significant** (önemli), **theory** (kuram)\n\n**2. Formal vs. Informal Kelime Seçimi:**\n\n*Günlük → Akademik:*\n- \"Yapmak\" → **conduct** (research), **perform** (experiment), **carry out** (study)\n- \"Göstermek\" → **demonstrate**, **illustrate**, **indicate**, **reveal**\n- \"Söylemek\" → **state**, **argue**, **claim**, **assert**, **contend**\n- \"Çok\" → **significant**, **considerable**, **substantial**, **numerous**\n- \"Az\" → **limited**, **minimal**, **scarce**, **insufficient**\n- \"Artmak\" → **increase**, **rise**, **grow**, **expand**, **escalate**\n- \"Azalmak\" → **decrease**, **decline**, **diminish**, **reduce**\n- \"Kullanmak\" → **utilize**, **employ**, **apply**, **implement**\n- \"Sonuç\" → **outcome**, **result**, **consequence**, **implication**\n- \"Başlamak\" → **commence**, **initiate**, **undertake**\n\n**3. Hedging Language (Temkinli İfadeler):**\n\nAkademik yazıda kesin iddialardan kaçınmak için:\n- **May/might/could** (olabilir): \"This may indicate...\"\n- **Appear/seem** (görünüyor): \"The results appear to suggest...\"\n- **Suggest/indicate** (önermek/göstermek): \"Data suggest that...\"\n- **Probably/possibly/perhaps** (muhtemelen): \"This is probably due to...\"\n- **Tend to** (eğiliminde): \"Students tend to perform better...\"\n- **It is likely that** (muhtemeldir ki): \"It is likely that further research...\"\n\n**4. Boosting Language (Güçlendirme):**\n\nİddiayı kuvvetlendirmek için:\n- **Clearly/obviously/undoubtedly** (açıkça): \"This clearly demonstrates...\"\n- **Definitely/certainly** (kesinlikle): \"The results certainly confirm...\"\n- **Significant/considerable** (önemli): \"A significant increase...\"\n- **Strongly** (güçlü bir şekilde): \"Data strongly support...\"\n\n**5. Reporting Verbs (Aktarım Fiilleri):**\n\nKaynak gösterirken:\n- **Neutral:** state, describe, report, note, mention\n- **Tentative:** suggest, propose, hypothesize, speculate\n- **Strong:** argue, claim, assert, contend, maintain\n- **Critical:** critique, challenge, question, dispute\n- **Supportive:** demonstrate, prove, confirm, verify, validate\n\n**6. Transition Words (Geçiş Sözcükleri):**\n\n*Ekleme:* moreover, furthermore, in addition, additionally, besides\n*Karşıtlık:* however, nevertheless, nonetheless, conversely, in contrast\n*Sebep-sonuç:* therefore, thus, consequently, as a result, hence\n*Örnek:* for instance, for example, such as, namely\n*Açıklama:* in other words, that is, specifically, particularly\n\n**7. Yaygın Türkçe-İngilizce Terminoloji Hataları:**\n\n*Yanlış:*\n- \"Make research\" → **Doğru: conduct/carry out research**\n- \"Do an experiment\" → **Doğru: perform/conduct an experiment**\n- \"Give importance\" → **Doğru: attach/place importance**\n- \"Take decision\" → **Doğru (AmE): make a decision / (BrE): take a decision**\n- \"Put emphasis\" → **Doğru: place/put emphasis** (both ok)\n\n**Strateji:**\n- Günlük kelimeleri formal akademik karşılıklarla değiştirin\n- AWL kelimelerini ezberleyin ve çeviride kullanın\n- Hedging ve boosting language ile academic tone sağlayın\n- Phrasal verb'lerden kaçının, Latince kökenli formal fiilleri tercih edin",
+      "examples": [
+        {
+          "turkish": "Araştırmacılar bu yöntemi kullandılar.",
+          "english": "Researchers employed this method. / Researchers utilized this approach.",
+          "explanation": "'Kullanmak' → academic: **employ**, **utilize** (NOT just 'use', too simple for academic context). 'Yöntem' → **method** veya **approach**."
+        },
+        {
+          "turkish": "Sonuçlar önemli bir artış gösteriyor.",
+          "english": "The results indicate a significant increase. / The results demonstrate a considerable rise.",
+          "explanation": "'Göstermek' → **indicate**, **demonstrate**, **show**, **reveal**. 'Önemli' → **significant**, **considerable**, **substantial** (NOT just 'important'). 'Artış' → **increase**, **rise**, **growth**."
+        },
+        {
+          "turkish": "Bu yöntemin bazı sınırlamaları var.",
+          "english": "This method has certain limitations. / This approach possesses some constraints.",
+          "explanation": "'Bazı' → **certain**, **some**. 'Sınırlamalar' → **limitations**, **constraints**, **restrictions**. 'Var' → **has**, **possesses** (formal)."
+        },
+        {
+          "turkish": "Bu bulgu muhtemelen iklim değişikliğinden kaynaklanıyor.",
+          "english": "This finding probably results from climate change. / This finding is likely attributable to climate change.",
+          "explanation": "'Muhtemelen' hedging → **probably**, **likely**, **possibly**. 'Kaynaklanmak' → **result from**, **stem from**, **be attributable to**, **arise from**."
+        },
+        {
+          "turkish": "Smith (2020) bu konuyu detaylı olarak ele aldı.",
+          "english": "Smith (2020) examined this topic in detail. / Smith (2020) addressed this issue comprehensively.",
+          "explanation": "'Ele almak' → **examine**, **address**, **investigate**, **explore**. 'Detaylı olarak' → **in detail**, **comprehensively**, **thoroughly**, **extensively**."
+        },
+        {
+          "turkish": "Veriler açıkça gösteriyor ki bu yaklaşım etkilidir.",
+          "english": "The data clearly demonstrate that this approach is effective. / Evidence clearly indicates the effectiveness of this approach.",
+          "explanation": "'Veriler' → **data** (plural in academic writing, though often used as singular in casual English). 'Açıkça gösteriyor' boosting → **clearly demonstrate**, **clearly indicate**. 'Etkili' → **effective**, **efficacious**."
+        },
+        {
+          "turkish": "Bu çalışma önemli sonuçlar ortaya koyuyor.",
+          "english": "This study reveals significant findings. / This research presents important implications.",
+          "explanation": "'Ortaya koymak' → **reveal**, **present**, **yield**, **produce**. 'Sonuçlar' → **findings**, **results**, **outcomes**, **implications** (bağlama göre)."
+        },
+        {
+          "turkish": "Katılımcılar rastgele seçildi.",
+          "english": "Participants were selected randomly. / Participants were chosen at random.",
+          "explanation": "'Rastgele seçilmek' → **be selected randomly**, **be chosen at random**, **be randomly assigned**. Passive voice academic metinlerde yaygın."
+        },
+        {
+          "turkish": "Bu teori geniş kabul görmüştür.",
+          "english": "This theory has gained wide acceptance. / This theory has been widely accepted.",
+          "explanation": "'Kabul görmek' → **gain acceptance**, **be accepted**. 'Geniş' → **wide**, **widespread**, **broad**. Present perfect (has gained/been accepted) genel geçerliliği vurgular."
+        },
+        {
+          "turkish": "İleride daha fazla araştırma yapılmalıdır.",
+          "english": "Further research is required. / Additional investigation is warranted.",
+          "explanation": "'İleride daha fazla' → **further**, **additional**, **future**. 'Yapılmalıdır' → **is required**, **is needed**, **is warranted**, **is necessary**. Passive voice (academic tone)."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Bilim insanları bu sorunu çözmek için yeni bir yöntem geliştirdiler.\n\nWhich is the best academic English translation?",
+          "options": [
+            "Scientists made a new way to solve this problem.",
+            "Scientists developed a novel method to address this issue.",
+            "Scientists found a new method for solving this problem.",
+            "Scientists created a new way to fix this problem.",
+            "Scientists came up with a new method to solve this problem."
+          ],
+          "correct": 1,
+          "explanation": "'Geliştirmek' → **develop** (NOT 'make'). 'Yeni' academic → **novel**, **innovative**. 'Sorun' → **issue**, **problem**. 'Çözmek' formal → **address**, **resolve**, **tackle**. B most academic: 'developed', 'novel', 'address', 'issue'. A-E informal ('made a way', 'fix', 'came up with')."
+        },
+        {
+          "question": "Sonuçlar hipotezi desteklemektedir.\n\nWhich is the best academic English translation?",
+          "options": [
+            "The results help the hypothesis.",
+            "The results support the hypothesis.",
+            "The results back up the hypothesis.",
+            "The results are in favor of the hypothesis.",
+            "The results stand behind the hypothesis."
+          ],
+          "correct": 1,
+          "explanation": "'Desteklemek' academic → **support**, **corroborate**, **confirm**, **validate**. B doğru: 'support' standard academic verb. A 'help' informal, C 'back up' phrasal verb (informal), D, E awkward/non-standard."
+        },
+        {
+          "question": "Bu bulgular iklim değişikliğinin etkilerini açıkça göstermektedir.\n\nWhich is the best academic English translation?",
+          "options": [
+            "These findings clearly show the effects of climate change.",
+            "These findings clearly demonstrate the impacts of climate change.",
+            "These findings make it clear that climate change has effects.",
+            "These findings obviously display climate change effects.",
+            "These findings prove without doubt the effects of climate change."
+          ],
+          "correct": 1,
+          "explanation": "'Bulgular' → **findings**. 'Açıkça göstermek' boosting → **clearly demonstrate**, **clearly indicate**. 'Etkiler' → **impacts**, **effects**. B most academic: 'demonstrate', 'impacts'. A ok but 'show' less formal, C wordy, D 'display' wrong verb, E 'prove without doubt' too strong (scientific claims need hedging)."
+        },
+        {
+          "question": "Araştırmacılar verileri dikkatli bir şekilde analiz ettiler.\n\nWhich is the best academic English translation?",
+          "options": [
+            "Researchers looked at the data carefully.",
+            "Researchers analyzed the data with care.",
+            "Researchers meticulously analyzed the data.",
+            "Researchers checked the data carefully.",
+            "Researchers went through the data carefully."
+          ],
+          "correct": 2,
+          "explanation": "'Analiz etmek' → **analyze** (NOT 'look at', 'check', 'go through'). 'Dikkatli bir şekilde' → **meticulously**, **carefully**, **thoroughly**, **rigorously**. C most academic: 'meticulously analyzed'. A-E informal verbs."
+        },
+        {
+          "question": "Bu yaklaşım muhtemelen daha etkili olacaktır.\n\nWhich is the best academic English translation with appropriate hedging?",
+          "options": [
+            "This approach will definitely be more effective.",
+            "This approach is probably more effective.",
+            "This approach is likely to be more effective.",
+            "This approach might possibly be more effective.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Muhtemelen' hedging → **probably**, **likely**. B 'is probably' ve C 'is likely to be' her ikisi de appropriate hedging. E correct. A 'definitely' no hedging (too strong), D 'might possibly' redundant (double hedging)."
+        },
+        {
+          "question": "Bu çalışmanın bazı sınırlamaları bulunmaktadır.\n\nWhich is the best academic English translation?",
+          "options": [
+            "This study has some limits.",
+            "This study has certain limitations.",
+            "This research possesses some constraints.",
+            "This study comes with some limitations.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Sınırlamalar' → **limitations**, **constraints**. 'Bazı' → **certain**, **some**. B 'has certain limitations' ve C 'possesses some constraints' her ikisi de academic. E correct. A 'limits' less formal than 'limitations', D 'comes with' informal."
+        },
+        {
+          "question": "Katılımcılar rastgele gruplara ayrıldı.\n\nWhich is the best academic English translation?",
+          "options": [
+            "Participants were randomly assigned to groups.",
+            "Participants were put into groups randomly.",
+            "Participants were divided randomly into groups.",
+            "Participants got split up randomly into groups.",
+            "Participants were separated into groups at random."
+          ],
+          "correct": 0,
+          "explanation": "'Rastgele gruplara ayrılmak' academic → **be randomly assigned to groups** (standard research methodology phrase). A doğru. B 'put into' informal, C ok but less standard, D 'got split up' very informal, E 'separated' wrong verb (assign is standard)."
+        },
+        {
+          "question": "Jones (2019) bu görüşe katılmamaktadır.\n\nWhich is the best academic English translation?",
+          "options": [
+            "Jones (2019) doesn't agree with this view.",
+            "Jones (2019) disputes this view.",
+            "Jones (2019) challenges this perspective.",
+            "Jones (2019) takes issue with this viewpoint.",
+            "Options B, C, and D are all correct."
+          ],
+          "correct": 4,
+          "explanation": "'Katılmamak' (disagreement) academic reporting → **dispute**, **challenge**, **question**, **take issue with**, **contest**. B, C, D hepsi academic reporting verbs. E correct. A 'doesn't agree' too informal."
+        },
+        {
+          "question": "Daha fazla araştırma yapılması gerekmektedir.\n\nWhich is the best academic English translation?",
+          "options": [
+            "More research needs to be done.",
+            "Further research is required.",
+            "Additional investigation is warranted.",
+            "We need to do more research.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Daha fazla' → **further**, **additional**. 'Yapılması gerekmektedir' → **is required**, **is warranted**, **is needed**, **is necessary**. B ve C most formal: passive voice, academic vocabulary. E correct. A ok but less formal, D 'we need to do' too informal (active voice, casual)."
+        },
+        {
+          "question": "Bu yöntem son yıllarda yaygın olarak kullanılmaktadır.\n\nWhich is the best academic English translation?",
+          "options": [
+            "This method is being used a lot in recent years.",
+            "This method has been widely employed in recent years.",
+            "This approach has been extensively utilized in recent years.",
+            "People use this method widely in recent years.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Kullanılmak' → **be employed**, **be utilized**, **be applied**. 'Yaygın olarak' → **widely**, **extensively**, **commonly**. 'Son yıllarda' + present perfect → **has been**. B ve C both academic: passive, formal verbs, present perfect. E correct. A 'a lot' informal, D active 'people use' informal."
+        }
+      ]
+    }
+  ]
+}

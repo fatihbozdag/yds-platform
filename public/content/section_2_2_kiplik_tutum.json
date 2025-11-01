@@ -1,0 +1,501 @@
+{
+  "section": "2.2",
+  "title": "Kiplik ve Tutum (Modality)",
+  "topics": [
+    {
+      "id": "2.2.1",
+      "title": "Olasılık, Zorunluluk, Çıkarım: must/may/might/can't have V-ed",
+      "content": "Modal fiiller (modal verbs) İngilizcede konuşmacının tutumunu, kesinlik derecesini, zorunluluğu veya olasılığı ifade eder. YDS'de özellikle geçmiş modal yapılar (modal + have + V3) kritik öneme sahiptir çünkü geçmiş hakkında çıkarım yapmayı test eder. 'Must have done' yüksek olasılık/kesin çıkarım ifade eder: 'He must have forgotten the meeting' (toplantıyı unutmuş olmalı - %90-95 eminim). 'May/might have done' daha düşük olasılık gösterir: 'She may have left already' (belki çoktan gitmiştir - %50 olasılık). 'Can't/couldn't have done' olumsuz kesin çıkarım: 'They can't have finished so quickly' (bu kadar çabuk bitirmiş olamazlar - imkansız). 'Should/ought to have done' geçmişte yapılması gerekirken yapılmayan eylem için pişmanlık/eleştiri: 'You should have studied harder' (daha çok çalışmalıydın). Türk öğrencilerin yaygın hatası, bu modal yapıları Türkçe '-mış/-miş' eki gibi kullanmak veya 'maybe + simple past' yapısıyla karıştırmaktır. YDS'de akademik metinlerde bilimsel çıkarımlar bu yapılarla ifade edilir: 'The data suggests that the climate must have changed dramatically'. Strateji: Cümledeki kesinlik derecesini (evidence, certainty clues) belirleyin. Kesin kanıt varsa 'must have', belirsizlik varsa 'may/might have', imkansızlık varsa 'can't have' kullanın.",
+      "examples": [
+        "The researchers must have overlooked this variable, as it wasn't included in the analysis. (Yüksek olasılık - kesin çıkarım)",
+        "YANLIŞ: The researchers maybe overlooked this variable. ('maybe' modal değil, auxiliary gerekli)",
+        "She may have submitted the report yesterday, but I'm not certain. (Düşük-orta olasılık - belirsizlik)",
+        "He might have forgotten to save the file. (Daha düşük olasılık, spekülasyon)",
+        "They can't have completed the experiment in such a short time. (Olumsuz kesin çıkarım - imkansız)",
+        "YANLIŞ: They can't complete the experiment. (Simple present modal geçmiş çıkarımı yapmaz)",
+        "You should have checked the data before presenting it. (Geçmişte yapılmayan eylem için eleştiri/pişmanlık)",
+        "The species could have survived if the habitat hadn't been destroyed. (Karşı olgusal - gerçekleşmeyen olasılık)",
+        "The results couldn't have been more surprising. (Olumsuz yapıda olumlu anlam: çok şaşırtıcıydı)",
+        "Scientists may not have discovered all the contributing factors yet. (Belirsizlik + olumsuz)",
+        "The patient must have been experiencing symptoms for weeks before diagnosis. (Kesin çıkarım + continuous)",
+        "YANLIŞ: The patient must be experiencing symptoms. (Geçmiş bağlamda 'must have been' gerekli)"
+      ],
+      "exercises": [
+        {
+          "question": "The ancient civilization ---- this advanced technology, given the archaeological evidence we have found.",
+          "options": [
+            "should develop",
+            "must have developed",
+            "may develop",
+            "can't develop",
+            "might develop"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Must have developed' kesin çıkarım ifade eder: Arkeolojik kanıtlar göz önüne alındığında, eski uygarlığın bu teknolojiyi geliştirmiş olması gerekir (yüksek olasılık). 'Given the evidence' ipucu kesin çıkarım gerektirir. A, C, E şıkları present tense olduğu için geçmiş bağlamla uyumsuz. D şıkkı simple present modal, geçmiş çıkarımı yapmaz."
+        },
+        {
+          "question": "Researchers suggest that the species ---- extinct long before humans arrived in the region.",
+          "options": [
+            "must go",
+            "may have gone",
+            "should go",
+            "can go",
+            "will have gone"
+          ],
+          "correct_answer": 1,
+          "explanation": "'May have gone' belirsiz çıkarım ifade eder: Türün bölgeye insanlar gelmeden önce yok olmuş olabileceğini gösterir. 'Suggest' ipucu olasılık/spekülasyon gösterir, kesin çıkarım değil. A, C, D şıkları simple modal olduğu için geçmiş bağlamla uyumsuz. E şıkkı future perfect geçmiş bağlamda yanlış."
+        },
+        {
+          "question": "You ---- the equipment more carefully before starting the experiment.",
+          "options": [
+            "should check",
+            "must check",
+            "should have checked",
+            "must have checked",
+            "can check"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Should have checked' geçmişte yapılması gerekirken yapılmayan eylem için eleştiri/pişmanlık ifade eder. 'Before starting' geçmiş bağlamı gösterir. A, B, E şıkları simple modal olduğu için geçmiş eleştiri yapmaz. D şıkkı 'must have checked' kesin çıkarım yapar ama burada eleştiri/tavsiye gerekli."
+        },
+        {
+          "question": "The patient ---- the medication as prescribed, because the symptoms have worsened.",
+          "options": [
+            "can't have taken",
+            "must take",
+            "should take",
+            "may have taken",
+            "will take"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Can't have taken' olumsuz kesin çıkarım: Semptomlar kötüleştiğine göre, hastanın ilacı reçete edildiği gibi almış olması imkansız. 'Because' sebep-sonuç ilişkisi kesin çıkarım gerektirir. B, C, E şıkları simple modal gelecek/şimdiki tavsiye yapar, geçmiş çıkarımı değil. D şıkkı 'may have taken' belirsizlik gösterir ama bağlam kesin çıkarım gerektirir."
+        },
+        {
+          "question": "The committee ---- the proposal yet, as we haven't received any feedback.",
+          "options": [
+            "can't have reviewed",
+            "must review",
+            "should review",
+            "will have reviewed",
+            "may review"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Can't have reviewed' olumsuz kesin çıkarım: Henüz geri bildirim almadığımıza göre, komitenin öneriyi incelemiş olması imkansız. 'Yet' ve 'as we haven't received' ipuçları kesin olumsuz çıkarım gerektirir. B, C, E şıkları simple modal geçmiş çıkarımı yapmaz. D şıkkı future perfect bu bağlamda yanlış."
+        },
+        {
+          "question": "The experiment ---- different results if the temperature had been controlled properly.",
+          "options": [
+            "might produce",
+            "might have produced",
+            "should produce",
+            "must produce",
+            "can produce"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Might have produced' karşı olgusal (counterfactual) olasılık: Sıcaklık kontrol edilseydi, deney farklı sonuçlar üretebilirdi (ama üretmedi). 'If...had been' past perfect conditional yapısı 'might/could have' gerektirir. A, C, D, E şıkları simple modal olduğu için karşı olgusal yapıyla uyumsuz."
+        },
+        {
+          "question": "The data ---- incorrectly, as the conclusions don't match the original findings.",
+          "options": [
+            "must be interpreted",
+            "should interpret",
+            "must have been interpreted",
+            "may interpret",
+            "will have been interpreted"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Must have been interpreted' kesin çıkarım + passive: Sonuçlar orijinal bulgularla eşleşmediğine göre, veriler yanlış yorumlanmış olmalı. 'As' sebep-sonuç ilişkisi kesin çıkarım gerektirir. A şıkkı simple modal passive geçmiş bağlamla uyumsuz. B ve D şıkları active yapı ama passive gerekli. E şıkkı future perfect bu bağlamda yanlış."
+        },
+        {
+          "question": "She ---- about the deadline, since she submitted the application on time.",
+          "options": [
+            "must know",
+            "should know",
+            "must have known",
+            "can't have known",
+            "may know"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Must have known' kesin çıkarım: Başvuruyu zamanında gönderdiğine göre, son tarihi biliyor olmalı. 'Since' sebep-sonuç ilişkisi kesin çıkarım gerektirir. A, B, E şıkları simple modal geçmiş bağlamla uyumsuz. D şıkkı 'can't have known' olumsuz çıkarım ama bağlam olumlu çıkarım gerektirir."
+        },
+        {
+          "question": "The researchers ---- all possible variables, as some unexpected results emerged.",
+          "options": [
+            "can't have considered",
+            "must consider",
+            "should consider",
+            "will have considered",
+            "may consider"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Can't have considered' olumsuz kesin çıkarım: Beklenmedik sonuçlar ortaya çıktığına göre, araştırmacıların tüm değişkenleri düşünmüş olması imkansız. 'As' sebep-sonuç ilişkisi kesin olumsuz çıkarım gerektirir. B, C, E şıkları simple modal geçmiş çıkarımı yapmaz. D şıkkı future perfect bu bağlamda yanlış."
+        },
+        {
+          "question": "The ancient builders ---- sophisticated tools to construct such precise structures.",
+          "options": [
+            "may use",
+            "must have used",
+            "should use",
+            "can use",
+            "will have used"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Must have used' kesin çıkarım: Bu kadar hassas yapılar inşa etmek için, eski inşaatçıların gelişmiş araçlar kullanmış olması gerekir. Bağlam (yapıların hassaslığı) kesin çıkarım gerektirir. A, C, D şıkları simple modal geçmiş bağlamla uyumsuz. E şıkkı future perfect tarihsel bağlamda yanlış."
+        },
+        {
+          "question": "You ---- me about the changes in the protocol earlier.",
+          "options": [
+            "should tell",
+            "must tell",
+            "should have told",
+            "must have told",
+            "can tell"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Should have told' geçmişte yapılması gerekirken yapılmayan eylem için eleştiri: Protokoldeki değişiklikleri bana daha önce söylemeliydin. 'Earlier' geçmiş bağlamı gösterir. A, B, E şıkları simple modal geçmiş eleştiri yapmaz. D şıkkı 'must have told' kesin çıkarım yapar ama burada eleştiri/pişmanlık gerekli."
+        },
+        {
+          "question": "The species ---- adapted to the new environment, given how rapidly the population increased.",
+          "options": [
+            "can adapt",
+            "may adapt",
+            "must have adapted",
+            "should adapt",
+            "will adapt"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Must have adapted' kesin çıkarım: Popülasyonun hızla artmasını göz önüne alırsak, türün yeni çevreye uyum sağlamış olması gerekir. 'Given' ipucu kesin çıkarım gerektirir. A, B, D, E şıkları simple modal geçmiş bağlamla uyumsuz."
+        }
+      ]
+    },
+    {
+      "id": "2.2.2",
+      "title": "Öneri-Eleştiri: should/ought to/had better, would rather",
+      "content": "YDS'de modal fiillerin öneri, tavsiye ve eleştiri ifade eden kullanımları sıkça test edilir. 'Should' ve 'ought to' benzer anlam taşır ve tavsiye/beklenti ifade eder: 'You should see a doctor' veya 'You ought to see a doctor'. Ancak 'ought to' biraz daha formel ve daha az yaygındır. 'Had better' daha güçlü uyarı/öneri ifade eder ve genellikle olumsuz sonuç ima eder: 'You had better leave now, or you'll miss the train'. 'Would rather' tercih ifade eder: 'I would rather stay home than go out' (dışarı çıkmaktansa evde kalmayı tercih ederim). Geçmiş formları eleştiri/pişmanlık için kullanılır: 'should have done', 'ought to have done' (yapılması gerekirken yapılmayan eylem). Türk öğrenciler 'had better' ile 'better' arasında karışıklık yaşar: 'It's better to...' başka bir yapıdır. Ayrıca 'would rather + bare infinitive' yapısını unuturlar: 'would rather to go' değil, 'would rather go'. YDS'de akademik bağlamda bu yapılar sıklıkla önerilerde kullanılır: 'Researchers should consider alternative explanations' veya 'Future studies ought to examine this phenomenon more closely'. Strateji: Cümlenin tonunu belirleyin - tavsiye mi, güçlü uyarı mı, tercih mi, yoksa geçmiş eleştiri mi? Buna göre doğru modal seçin.",
+      "examples": [
+        "Researchers should replicate the study to confirm the findings. (Tavsiye - bilimsel öneri)",
+        "You ought to submit the manuscript before the deadline. (Tavsiye - biraz daha formel)",
+        "YANLIŞ: You ought submit the manuscript. ('to' eksik)",
+        "The committee had better review the proposal carefully, or they will face criticism. (Güçlü uyarı + olumsuz sonuç)",
+        "YANLIŞ: The committee better review the proposal. ('had' eksik)",
+        "I would rather conduct a qualitative study than a quantitative one. (Tercih ifadesi)",
+        "YANLIŞ: I would rather to conduct a study. ('to' eklenmemeli)",
+        "You should have consulted the literature before designing the study. (Geçmiş eleştiri - yapılmayan eylem)",
+        "The researchers ought to have controlled for confounding variables. (Geçmiş eleştiri - formel)",
+        "We had better not ignore these warning signs. (Olumsuz uyarı)",
+        "Would you rather analyze the data yourself or hire a statistician? (Tercih sorusu)",
+        "The team should have been more cautious in their conclusions. (Geçmiş eleştiri + continuous)"
+      ],
+      "exercises": [
+        {
+          "question": "The researchers ---- the sample size before drawing such broad conclusions.",
+          "options": [
+            "should increase",
+            "should have increased",
+            "had better increase",
+            "would rather increase",
+            "ought increase"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Should have increased' geçmişte yapılması gerekirken yapılmayan eylem için eleştiri: Geniş sonuçlar çıkarmadan önce örneklem boyutunu artırmalıydılar. 'Before drawing' geçmiş bağlamı gösterir. A şıkkı simple modal gelecek/şimdiki tavsiye yapar. C şıkkı güçlü uyarı ama geçmiş bağlamla uyumsuz. D şıkkı tercih ifadesi, eleştiri değil. E şıkkı 'to' eksik."
+        },
+        {
+          "question": "You ---- start the experiment soon, or the funding period will expire.",
+          "options": [
+            "should",
+            "ought to",
+            "had better",
+            "would rather",
+            "must have"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Had better' güçlü uyarı ifade eder ve olumsuz sonuç ima eder: 'Deneyi yakında başlasan iyi olur, yoksa fonlama süresi dolacak.' 'Or' bağlacı olumsuz sonuç gösterir. A ve B şıkları tavsiye yapar ama uyarı tonu zayıf. D şıkkı tercih ifadesi, uyarı değil. E şıkkı geçmiş çıkarımı yapar, uyarı değil."
+        },
+        {
+          "question": "I ---- attend the conference in person than participate online.",
+          "options": [
+            "had better",
+            "should",
+            "would rather",
+            "ought to",
+            "must"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Would rather...than' tercih ifade eder: Online katılmaktansa konferansa bizzat katılmayı tercih ederim. 'Than' ipucu 'would rather' gerektirir. A şıkkı uyarı, B ve D şıkları tavsiye, E şıkkı zorunluluk - hepsi tercih ifade etmez."
+        },
+        {
+          "question": "The committee ---- the ethical implications more thoroughly before approving the study.",
+          "options": [
+            "should consider",
+            "ought to have considered",
+            "had better consider",
+            "would rather consider",
+            "must consider"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Ought to have considered' geçmiş eleştiri: Çalışmayı onaylamadan önce etik sonuçları daha kapsamlı değerlendirmeliydi. 'Before approving' geçmiş bağlamı gösterir. A şıkkı simple modal gelecek tavsiye. C şıkkı güçlü uyarı ama geçmiş bağlamla uyumsuz. D şıkkı tercih, E şıkkı zorunluluk - ikisi de geçmiş eleştiri yapmaz."
+        },
+        {
+          "question": "You ---- submit the application by Friday, or you will miss the opportunity.",
+          "options": [
+            "should",
+            "would rather",
+            "ought to",
+            "had better",
+            "should have"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Had better' güçlü uyarı: Başvuruyu Cuma'ya kadar göndersen iyi olur, yoksa fırsatı kaçırırsın. 'Or you will miss' olumsuz sonuç 'had better' gerektirir. A ve C şıkları tavsiye ama uyarı tonu zayıf. B şıkkı tercih, D şıkkı past modal ama cümle gelecek bağlamlı."
+        },
+        {
+          "question": "The team ---- the preliminary results before publishing them.",
+          "options": [
+            "should have verified",
+            "should verify",
+            "had better verify",
+            "would rather verify",
+            "ought verify"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Should have verified' geçmiş eleştiri: Ön sonuçları yayınlamadan önce doğrulamalıydılar. 'Before publishing' geçmiş bağlamı gösterir. B ve C şıkları simple modal gelecek/şimdiki tavsiye. D şıkkı tercih, E şıkkı 'to' eksik."
+        },
+        {
+          "question": "Future studies ---- explore this phenomenon from a different perspective.",
+          "options": [
+            "should have explored",
+            "had better explore",
+            "would rather explore",
+            "ought to explore",
+            "must have explored"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Ought to explore' gelecekteki araştırmalar için formel tavsiye: Gelecek çalışmalar bu olguyu farklı bir perspektiften incelemelidir. 'Future studies' gelecek bağlamı gösterir. A şıkkı geçmiş modal gelecekle uyumsuz. B şıkkı uyarı tonu akademik bağlamda aşırı. C şıkkı tercih, E şıkkı geçmiş çıkarım - ikisi de uygun değil."
+        },
+        {
+          "question": "I ---- revise the manuscript myself than hire an editor.",
+          "options": [
+            "should",
+            "ought to",
+            "had better",
+            "would rather",
+            "must"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Would rather...than' tercih: Editör tutmaktansa makaleyi kendim gözden geçirmeyi tercih ederim. 'Than' ipucu 'would rather' gerektirir. A, B, E şıkları tavsiye/zorunluluk, C şıkkı uyarı - hepsi tercih ifade etmez."
+        },
+        {
+          "question": "The patient ---- follow the treatment protocol more consistently for better outcomes.",
+          "options": [
+            "should",
+            "would rather",
+            "should have",
+            "had better have",
+            "must have"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Should' tavsiye: Hasta daha iyi sonuçlar için tedavi protokolünü daha tutarlı takip etmelidir. Gelecek/şimdiki tavsiye için simple modal yeterli. B şıkkı tercih, C şıkkı geçmiş modal ama cümle gelecek bağlamlı, D şıkkı yanlış form, E şıkkı geçmiş çıkarım."
+        },
+        {
+          "question": "Scientists ---- consider alternative hypotheses before reaching a conclusion.",
+          "options": [
+            "had better",
+            "would rather",
+            "ought to",
+            "should have",
+            "must have"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Ought to' formel tavsiye: Bilim insanları sonuca varmadan önce alternatif hipotezleri değerlendirmelidir. Akademik bağlamda 'ought to' uygun. A şıkkı uyarı tonu aşırı güçlü, B şıkkı tercih, D şıkkı geçmiş modal ama cümle genel öneri, E şıkkı geçmiş çıkarım."
+        },
+        {
+          "question": "You ---- leave now if you want to catch the last train.",
+          "options": [
+            "should",
+            "would rather",
+            "ought to",
+            "had better",
+            "should have"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Had better' güçlü uyarı: Son trene yetişmek istiyorsan şimdi gitsene iyi olur. 'If you want' koşulu olumsuz sonuç ima eder. A ve C şıkları tavsiye ama uyarı tonu zayıf. B şıkkı tercih, E şıkkı geçmiş modal ama cümle gelecek bağlamlı."
+        },
+        {
+          "question": "The study ---- included a control group for more reliable results.",
+          "options": [
+            "should",
+            "ought to have",
+            "had better",
+            "would rather",
+            "must"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Ought to have included' geçmiş eleştiri: Çalışma daha güvenilir sonuçlar için kontrol grubu içermeliydi. Geçmişte yapılmayan eylem için eleştiri. A, C, E şıkları simple modal gelecek/şimdiki bağlamda kullanılır. D şıkkı tercih ifadesi, eleştiri değil."
+        }
+      ]
+    },
+    {
+      "id": "2.2.3",
+      "title": "Karşı Olgusal Yorumlar ve Edimsel Değer",
+      "content": "Karşı olgusal (counterfactual) yapılar gerçekte gerçekleşmemiş durumları ifade eder ve modal fiillerle kullanılır. 'Could have done', 'might have done', 'would have done' geçmişte farklı olabilecek ama olmayan durumları anlatır: 'The project could have succeeded if we had received funding' (fon alsaydık proje başarılı olabilirdi - ama almadık ve başarılı olmadı). YDS'de bu yapılar özellikle bilimsel hipotezler, alternatif senaryolar ve araştırma sonuçlarını tartışırken kullanılır. 'Edimsel değer' (pragmatic function) modal fiilin cümledeki iletişimsel amacını ifade eder: kibarlık ('Could you help me?'), izin isteme ('May I leave early?'), olasılık ('It might rain'), zorunluluk ('You must attend'), öneri ('You should rest'), vs. Türk öğrenciler modal fiilin birden fazla anlamı olabileceğini göz ardı eder. Örneğin 'must' hem zorunluluk ('You must submit') hem de kesin çıkarım ('She must be tired') ifade edebilir. Bağlam hangi anlamı belirlerse o doğrudur. YDS'de soru cümlede bir modal fiil verilir ve bağlama göre hangi edimsel değeri taşıdığı sorulur. Strateji: Modal fiilin tüm olası anlamlarını bilin (zorunluluk, olasılık, izin, öneri, çıkarım) ve cümle bağlamından hangisinin kastedildiğini belirleyin. Karşı olgusal yapılarda 'if + past perfect, would/could/might have + V3' kalıbını hatırlayın.",
+      "examples": [
+        "The species could have survived if the habitat had been preserved. (Karşı olgusal - gerçekleşmedi)",
+        "YANLIŞ: The species could survive if the habitat was preserved. (Karşı olgusal için 'could have' + past perfect gerekir)",
+        "She might have won the award if she had submitted her work earlier. (Karşı olgusal olasılık)",
+        "Could you please review my manuscript? (Kibarlık - rica)",
+        "May I use your laboratory equipment? (İzin isteme - formel)",
+        "You must attend the seminar tomorrow. (Zorunluluk)",
+        "She must be exhausted after working all night. (Kesin çıkarım - zorunluluk değil)",
+        "The experiment would have yielded different results under controlled conditions. (Karşı olgusal kesinlik)",
+        "He might leave early today. (Şimdiki/gelecek olasılık - karşı olgusal değil)",
+        "You should take a break. (Tavsiye)",
+        "The data might have been collected incorrectly. (Geçmiş olasılık/çıkarım)",
+        "If we had known about the limitations, we would have used a different approach. (Karşı olgusal - geçmişte farklı yapılabilecek)"
+      ],
+      "exercises": [
+        {
+          "question": "The research outcome ---- significantly different if the sample size ---- larger.",
+          "options": [
+            "could be / was",
+            "could have been / had been",
+            "can be / is",
+            "should be / was",
+            "might be / is"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Could have been...had been' karşı olgusal yapı: Örneklem daha büyük olsaydı, sonuç önemli ölçüde farklı olabilirdi (ama olmadı). 'If + past perfect (had been), modal + have + V3 (could have been)' kombinasyonu gerekir. A, C, D, E şıkları simple modal kullanarak karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "In the sentence 'Students must submit their assignments by Friday', the modal 'must' expresses ----.",
+          "options": [
+            "possibility",
+            "permission",
+            "obligation",
+            "deduction",
+            "advice"
+          ],
+          "correct_answer": 2,
+          "explanation": "Bu cümlede 'must' zorunluluk (obligation) ifade eder: Öğrenciler ödevlerini Cuma'ya kadar göndermek ZORUNDADIR. Emir/kural ifadesi. 'Must' kesin çıkarım (deduction) da yapabilir ama o bağlamda 'She must be tired' gibi kullanılır. A, B, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "The patient ---- recovered more quickly if the diagnosis ---- made earlier.",
+          "options": [
+            "might / was",
+            "might have / had been",
+            "may / is",
+            "should / was",
+            "will / is"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Might have recovered...had been made' karşı olgusal olasılık: Teşhis daha erken konulsaydı, hasta daha hızlı iyileşebilirdi (ama olmadı). 'If + past perfect passive, might have + V3' gerekir. A, C, D, E şıkları karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "---- you explain the procedure again? I didn't quite understand it.",
+          "options": [
+            "Must",
+            "Should",
+            "Could",
+            "May",
+            "Might"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Could' kibarlık/rica ifade eder: Prosedürü tekrar açıklar mısınız? 'Could you...?' kibar istek kalıbıdır. 'Can you' de kullanılır ama 'could' daha kibar. A şıkkı 'must' zorunluluk/çıkarım yapar, rica değil. B şıkkı 'should' öneri, D şıkkı 'may' izin (formel), E şıkkı 'might' olasılık - hepsi rica için uygun değil."
+        },
+        {
+          "question": "In 'The experiment must have been conducted under sterile conditions', 'must have been' indicates ----.",
+          "options": [
+            "past obligation",
+            "future possibility",
+            "strong deduction about the past",
+            "permission",
+            "advice"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Must have been' geçmiş hakkında kesin çıkarım (strong deduction): Deney steril koşullarda yapılmış olmalı. Kanıta dayalı güçlü tahmin. A şıkkı past obligation 'had to' ile ifade edilir. B, D, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "The findings ---- different if the researchers ---- a qualitative approach.",
+          "options": [
+            "would be / used",
+            "would have been / had used",
+            "will be / use",
+            "can be / use",
+            "should be / used"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Would have been...had used' karşı olgusal kesinlik: Araştırmacılar nitel yaklaşım kullansalardı, bulgular farklı olurdu (ama kullanmadılar). 'If + past perfect, would have + V3' yapısı gerekir. A, C, D, E şıkları karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "---- I borrow your notes from the lecture? I was absent yesterday.",
+          "options": [
+            "Should",
+            "Must",
+            "May",
+            "Would",
+            "Ought"
+          ],
+          "correct_answer": 2,
+          "explanation": "'May' izin isteme ifade eder (formel): Ders notlarınızı ödünç alabilir miyim? 'May I...?' kibar izin kalıbıdır. 'Can I' de kullanılır ama 'may' daha formel. A şıkkı öneri, B şıkkı zorunluluk, D şıkkı geçmiş alışkanlık/kibar istek (ama 'may' daha standart), E şıkkı 'ought to' tavsiye - hepsi izin isteme için uygun değil."
+        },
+        {
+          "question": "The treatment ---- successful if the patient ---- the prescribed dosage.",
+          "options": [
+            "might be / follows",
+            "might have been / had followed",
+            "may be / will follow",
+            "should be / followed",
+            "can be / follows"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Might have been...had followed' karşı olgusal olasılık: Hasta reçete edilen dozu takip etseydi, tedavi başarılı olabilirdi (ama takip etmedi). 'If + past perfect, might have + V3' gerekir. A, C, D, E şıkları karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "In 'You should see a doctor', the modal 'should' expresses ----.",
+          "options": [
+            "obligation",
+            "advice",
+            "possibility",
+            "permission",
+            "deduction"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Should' bu cümlede tavsiye (advice) ifade eder: Doktora görünsen iyi olur. 'Should' zorunluluk değil, öneri yapar. A şıkkı obligation 'must' ile daha güçlü ifade edilir. C, D, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "The species ---- if conservationists ---- protective measures earlier.",
+          "options": [
+            "would survive / took",
+            "would have survived / had taken",
+            "will survive / take",
+            "should survive / took",
+            "can survive / take"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Would have survived...had taken' karşı olgusal kesinlik: Korumacılar önlemleri daha erken alsalardı, tür hayatta kalırdı (ama almadılar). 'If + past perfect, would have + V3' yapısı gerekir. A, C, D, E şıkları karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "In 'She must be tired after the long journey', 'must' indicates ----.",
+          "options": [
+            "obligation",
+            "permission",
+            "logical deduction",
+            "advice",
+            "possibility"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Must' bu cümlede mantıksal çıkarım (logical deduction) ifade eder: Uzun yolculuktan sonra yorgun olmalı (mantıksal tahmin). Zorunluluk değil, güçlü ihtimal. A şıkkı obligation emir cümlelerinde kullanılır. B, D, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "We ---- the error if we ---- the data more carefully.",
+          "options": [
+            "could avoid / checked",
+            "could have avoided / had checked",
+            "can avoid / check",
+            "should avoid / checked",
+            "will avoid / check"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Could have avoided...had checked' karşı olgusal olasılık: Veriyi daha dikkatli kontrol etseydik, hatayı önleyebilirdik (ama önleyemedik). 'If + past perfect, could have + V3' gerekir. A, C, D, E şıkları karşı olgusal yapı oluşturmaz."
+        }
+      ]
+    }
+  ]
+}

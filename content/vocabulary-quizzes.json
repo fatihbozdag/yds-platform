@@ -1,0 +1,2213 @@
+{
+  "quizzes": [
+    {
+      "id": "vocab_quiz_1",
+      "title": "Academic Vocabulary: University, Research & Education",
+      "description": "Test your knowledge of essential academic vocabulary commonly found in YDS exams",
+      "difficulty": "intermediate",
+      "topic": "academic_vocabulary",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "av_q1",
+          "type": "synonym",
+          "question": "The researcher's findings were ________ by subsequent studies in the field.",
+          "question_stem": "Which word best completes the sentence?",
+          "options": [
+            "corroborated",
+            "contradicted",
+            "fabricated",
+            "neglected",
+            "dismissed"
+          ],
+          "correct_answer": 0,
+          "explanation": "Corroborated means confirmed or supported by evidence. The phrase 'subsequent studies' suggests additional support. Contradicted would mean the opposite, while the other options don't fit the context of validation."
+        },
+        {
+          "id": "av_q2",
+          "type": "context_usage",
+          "question": "The university's curriculum has been ________ to include more interdisciplinary courses.",
+          "options": [
+            "revised",
+            "declined",
+            "postponed",
+            "rejected",
+            "avoided"
+          ],
+          "correct_answer": 0,
+          "explanation": "Revised means modified or updated. When curricula are changed to include new courses, they are revised. The other options don't logically fit the context of curriculum development."
+        },
+        {
+          "id": "av_q3",
+          "type": "antonym",
+          "question": "The professor's explanation was so ________ that even beginners could understand the complex theory.\n\nWhich word is the OPPOSITE of what the blank needs?",
+          "options": [
+            "lucid",
+            "obscure",
+            "clear",
+            "straightforward",
+            "comprehensible"
+          ],
+          "correct_answer": 1,
+          "explanation": "The sentence requires a word meaning 'clear.' Obscure is the opposite - it means unclear or difficult to understand. All other options are synonyms of what's needed."
+        },
+        {
+          "id": "av_q4",
+          "type": "collocation",
+          "question": "The study aims to ________ light on the mechanisms underlying cognitive development.",
+          "options": [
+            "shed",
+            "throw",
+            "cast",
+            "pour",
+            "spread"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'shed light on,' meaning to clarify or explain something. While 'throw' and 'cast' can be used with 'light' in some contexts, 'shed light on' is the standard academic expression."
+        },
+        {
+          "id": "av_q5",
+          "type": "synonym",
+          "question": "The committee must ________ the implications of the proposed policy changes.",
+          "options": [
+            "scrutinize",
+            "ignore",
+            "simplify",
+            "celebrate",
+            "postpone"
+          ],
+          "correct_answer": 0,
+          "explanation": "Scrutinize means to examine carefully and critically. Committees typically scrutinize policy implications before making decisions. The other options don't convey the careful examination required."
+        },
+        {
+          "id": "av_q6",
+          "type": "context_usage",
+          "question": "The research methodology was criticized for lacking ________ and reproducibility.",
+          "options": [
+            "rigor",
+            "funding",
+            "participants",
+            "approval",
+            "duration"
+          ],
+          "correct_answer": 0,
+          "explanation": "Rigor means thoroughness and accuracy in methodology. It pairs naturally with reproducibility as two key requirements of valid research. The other options don't represent methodological qualities."
+        },
+        {
+          "id": "av_q7",
+          "type": "collocation",
+          "question": "The findings ________ support to the hypothesis that was proposed earlier.",
+          "options": [
+            "lend",
+            "borrow",
+            "give",
+            "make",
+            "take"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'lend support to,' meaning to provide evidence for something. This is a fixed academic expression. While 'give support' exists, 'lend support' is more formal and preferred in academic writing."
+        },
+        {
+          "id": "av_q8",
+          "type": "synonym",
+          "question": "The scholar's argument was based on ________ evidence from multiple sources.",
+          "options": [
+            "empirical",
+            "imaginary",
+            "theoretical",
+            "disputed",
+            "rejected"
+          ],
+          "correct_answer": 0,
+          "explanation": "Empirical means based on observation and experience rather than theory. When evidence comes from multiple sources, it's typically empirical data. Theoretical would refer to ideas rather than evidence."
+        },
+        {
+          "id": "av_q9",
+          "type": "context_usage",
+          "question": "The dean emphasized the need for ________ standards across all academic departments.",
+          "options": [
+            "uniform",
+            "varied",
+            "relaxed",
+            "optional",
+            "temporary"
+          ],
+          "correct_answer": 0,
+          "explanation": "Uniform means consistent or the same throughout. Administrators typically want uniform (standardized) standards across departments. Varied would mean the opposite of what's needed."
+        },
+        {
+          "id": "av_q10",
+          "type": "collocation",
+          "question": "The university has made significant ________ in improving student retention rates.",
+          "options": [
+            "strides",
+            "walks",
+            "runs",
+            "jumps",
+            "steps"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'make strides,' meaning to make significant progress. While 'make steps' exists, 'make strides' implies larger, more significant progress."
+        },
+        {
+          "id": "av_q11",
+          "type": "synonym",
+          "question": "The peer review process helps to ________ the quality of published research.",
+          "options": [
+            "ensure",
+            "question",
+            "reduce",
+            "eliminate",
+            "confuse"
+          ],
+          "correct_answer": 0,
+          "explanation": "Ensure means to make certain or guarantee. Peer review is designed to ensure (guarantee) research quality. The other options don't fit the positive purpose of peer review."
+        },
+        {
+          "id": "av_q12",
+          "type": "context_usage",
+          "question": "Graduate students are expected to demonstrate ________ thinking in their dissertations.",
+          "options": [
+            "critical",
+            "simple",
+            "casual",
+            "passive",
+            "reluctant"
+          ],
+          "correct_answer": 0,
+          "explanation": "Critical thinking means analytical and evaluative thinking. This is a fundamental requirement for graduate-level work. Simple or casual thinking would be inappropriate for dissertations."
+        },
+        {
+          "id": "av_q13",
+          "type": "collocation",
+          "question": "The researcher applied for a grant to ________ the investigation further.",
+          "options": [
+            "pursue",
+            "chase",
+            "follow",
+            "hunt",
+            "track"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'pursue an investigation,' meaning to continue or carry out research. While 'follow' can work in some contexts, 'pursue' is more formal and standard in academic contexts."
+        },
+        {
+          "id": "av_q14",
+          "type": "synonym",
+          "question": "The study's results were deemed ________ and ready for publication.",
+          "options": [
+            "conclusive",
+            "preliminary",
+            "doubtful",
+            "incomplete",
+            "contradictory"
+          ],
+          "correct_answer": 0,
+          "explanation": "Conclusive means decisive or definitive. Results ready for publication are typically conclusive. Preliminary would mean early-stage results not yet ready for publication."
+        },
+        {
+          "id": "av_q15",
+          "type": "context_usage",
+          "question": "The professor's lecture ________ the fundamental principles of the theory.",
+          "options": [
+            "elucidated",
+            "obscured",
+            "complicated",
+            "dismissed",
+            "avoided"
+          ],
+          "correct_answer": 0,
+          "explanation": "Elucidated means clarified or explained. Professors elucidate (make clear) principles in lectures. Obscured would mean the opposite - to make unclear."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_2",
+      "title": "Scientific Terms: Biology, Chemistry & Physics",
+      "description": "Master scientific vocabulary essential for YDS science passages",
+      "difficulty": "intermediate",
+      "topic": "scientific_terms",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "st_q1",
+          "type": "context_usage",
+          "question": "The scientist observed that the solution became ________ when heated above 60 degrees Celsius.",
+          "options": [
+            "volatile",
+            "stable",
+            "dormant",
+            "inert",
+            "passive"
+          ],
+          "correct_answer": 0,
+          "explanation": "Volatile means easily evaporated at normal temperatures; when heated, solutions become volatile. Stable would mean the opposite - resistant to change. Inert means chemically inactive."
+        },
+        {
+          "id": "st_q2",
+          "type": "synonym",
+          "question": "The genetic mutation was transmitted to ________ generations.",
+          "options": [
+            "subsequent",
+            "previous",
+            "ancient",
+            "original",
+            "initial"
+          ],
+          "correct_answer": 0,
+          "explanation": "Subsequent means following or coming after. Genetic mutations are passed to subsequent (following) generations. Previous would mean earlier generations that came before."
+        },
+        {
+          "id": "st_q3",
+          "type": "collocation",
+          "question": "Researchers are attempting to ________ the extinct species using preserved DNA.",
+          "options": [
+            "resurrect",
+            "eliminate",
+            "classify",
+            "observe",
+            "measure"
+          ],
+          "correct_answer": 0,
+          "explanation": "Resurrect means to bring back to life or restore. In the context of extinct species and DNA, resurrect is the appropriate scientific term. Classify would mean to categorize, not restore."
+        },
+        {
+          "id": "st_q4",
+          "type": "context_usage",
+          "question": "The enzyme acts as a ________ to speed up the chemical reaction without being consumed.",
+          "options": [
+            "catalyst",
+            "product",
+            "reactant",
+            "inhibitor",
+            "residue"
+          ],
+          "correct_answer": 0,
+          "explanation": "A catalyst is a substance that increases reaction rates without being consumed. This is the precise scientific definition. An inhibitor would slow reactions down, the opposite function."
+        },
+        {
+          "id": "st_q5",
+          "type": "synonym",
+          "question": "The experiment required ________ measurements to ensure accurate results.",
+          "options": [
+            "precise",
+            "rough",
+            "estimated",
+            "approximate",
+            "casual"
+          ],
+          "correct_answer": 0,
+          "explanation": "Precise means exact and accurate. Scientific experiments require precise (exact) measurements. Approximate or estimated would mean the opposite - not exact."
+        },
+        {
+          "id": "st_q6",
+          "type": "collocation",
+          "question": "The organism has evolved remarkable adaptations to ________ extreme environmental conditions.",
+          "options": [
+            "withstand",
+            "avoid",
+            "create",
+            "destroy",
+            "ignore"
+          ],
+          "correct_answer": 0,
+          "explanation": "Withstand means to resist or endure. Organisms withstand (resist) extreme conditions through adaptations. Avoid would mean staying away from rather than resisting."
+        },
+        {
+          "id": "st_q7",
+          "type": "context_usage",
+          "question": "The cell membrane is ________, allowing some substances to pass through while blocking others.",
+          "options": [
+            "permeable",
+            "solid",
+            "opaque",
+            "rigid",
+            "frozen"
+          ],
+          "correct_answer": 0,
+          "explanation": "Permeable means allowing substances to pass through. Selective permeability is a key property of cell membranes. Solid or rigid would not allow passage of substances."
+        },
+        {
+          "id": "st_q8",
+          "type": "synonym",
+          "question": "The physicist developed a model to explain the ________ behavior of subatomic particles.",
+          "options": [
+            "erratic",
+            "predictable",
+            "regular",
+            "uniform",
+            "constant"
+          ],
+          "correct_answer": 0,
+          "explanation": "Erratic means unpredictable or irregular. Subatomic particles often exhibit erratic behavior that requires special models to explain. Predictable would mean the opposite."
+        },
+        {
+          "id": "st_q9",
+          "type": "collocation",
+          "question": "The bacteria developed ________ to the antibiotic after prolonged exposure.",
+          "options": [
+            "resistance",
+            "weakness",
+            "sensitivity",
+            "attraction",
+            "indifference"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'develop resistance to,' meaning to become immune or unaffected by something. Bacteria develop resistance (immunity) to antibiotics. Sensitivity would mean the opposite."
+        },
+        {
+          "id": "st_q10",
+          "type": "context_usage",
+          "question": "The chemical compound exhibited ________ properties, making it useful in multiple applications.",
+          "options": [
+            "versatile",
+            "limited",
+            "singular",
+            "weak",
+            "toxic"
+          ],
+          "correct_answer": 0,
+          "explanation": "Versatile means adaptable to many uses. Compounds useful in multiple applications are versatile. Limited or singular would mean the opposite - restricted use."
+        },
+        {
+          "id": "st_q11",
+          "type": "synonym",
+          "question": "The ecosystem maintained its equilibrium despite ________ changes in temperature.",
+          "options": [
+            "fluctuating",
+            "stable",
+            "constant",
+            "fixed",
+            "permanent"
+          ],
+          "correct_answer": 0,
+          "explanation": "Fluctuating means varying or changing irregularly. Temperature fluctuations (variations) test ecosystem stability. Stable or constant would mean not changing."
+        },
+        {
+          "id": "st_q12",
+          "type": "collocation",
+          "question": "Scientists must ________ rigorous protocols when conducting experiments with hazardous materials.",
+          "options": [
+            "adhere to",
+            "ignore",
+            "create",
+            "abandon",
+            "question"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'adhere to protocols,' meaning to follow or stick to procedures. Scientists must adhere to (follow) safety protocols. Ignore or abandon would be dangerous."
+        },
+        {
+          "id": "st_q13",
+          "type": "context_usage",
+          "question": "The specimen was kept in a ________ environment to prevent contamination.",
+          "options": [
+            "sterile",
+            "dirty",
+            "polluted",
+            "crowded",
+            "open"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sterile means free from bacteria or contaminants. Specimens are kept sterile (uncontaminated) for accurate research. Polluted or dirty would mean contaminated."
+        },
+        {
+          "id": "st_q14",
+          "type": "synonym",
+          "question": "The theory attempts to ________ seemingly unrelated phenomena under one framework.",
+          "options": [
+            "unify",
+            "separate",
+            "divide",
+            "distinguish",
+            "isolate"
+          ],
+          "correct_answer": 0,
+          "explanation": "Unify means to bring together into one. Theories unify (bring together) phenomena under one framework. Separate or divide would mean the opposite."
+        },
+        {
+          "id": "st_q15",
+          "type": "collocation",
+          "question": "The DNA molecule possesses the ability to ________ itself during cell division.",
+          "options": [
+            "replicate",
+            "destroy",
+            "eliminate",
+            "reduce",
+            "consume"
+          ],
+          "correct_answer": 0,
+          "explanation": "Replicate means to make an exact copy. DNA replicates (copies itself) during cell division. This is the precise biological term for this process."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_3",
+      "title": "Technology & Computing",
+      "description": "Essential technology vocabulary for YDS exam success",
+      "difficulty": "intermediate",
+      "topic": "technology_computing",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "tc_q1",
+          "type": "context_usage",
+          "question": "The new software ________ seamlessly with existing systems, requiring no modifications.",
+          "options": [
+            "integrates",
+            "conflicts",
+            "separates",
+            "distances",
+            "isolates"
+          ],
+          "correct_answer": 0,
+          "explanation": "Integrates means to combine or incorporate. Software that works well with existing systems integrates seamlessly. Conflicts would mean incompatibility, the opposite of what's described."
+        },
+        {
+          "id": "tc_q2",
+          "type": "synonym",
+          "question": "The company invested heavily in ________ computing to reduce infrastructure costs.",
+          "options": [
+            "cloud",
+            "ground",
+            "local",
+            "personal",
+            "manual"
+          ],
+          "correct_answer": 0,
+          "explanation": "Cloud computing refers to internet-based computing services. Companies invest in cloud computing to reduce infrastructure costs. Local or personal computing would require more infrastructure."
+        },
+        {
+          "id": "tc_q3",
+          "type": "collocation",
+          "question": "Developers must ________ security measures to protect user data from breaches.",
+          "options": [
+            "implement",
+            "ignore",
+            "remove",
+            "destroy",
+            "avoid"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'implement security measures,' meaning to put security systems into practice. Developers implement (put into effect) security to protect data."
+        },
+        {
+          "id": "tc_q4",
+          "type": "context_usage",
+          "question": "The algorithm's efficiency was ________ after optimizing the code.",
+          "options": [
+            "enhanced",
+            "reduced",
+            "eliminated",
+            "questioned",
+            "prevented"
+          ],
+          "correct_answer": 0,
+          "explanation": "Enhanced means improved or increased. Optimizing code enhances (improves) algorithm efficiency. Reduced would mean decreased efficiency, the opposite of optimization's goal."
+        },
+        {
+          "id": "tc_q5",
+          "type": "synonym",
+          "question": "The interface was designed to be ________, allowing users to navigate easily.",
+          "options": [
+            "intuitive",
+            "complex",
+            "confusing",
+            "hidden",
+            "obscure"
+          ],
+          "correct_answer": 0,
+          "explanation": "Intuitive means easy to use and understand without instruction. User-friendly interfaces are intuitive. Complex or confusing would be the opposite of easy navigation."
+        },
+        {
+          "id": "tc_q6",
+          "type": "collocation",
+          "question": "The system experienced a complete ________ during peak usage hours.",
+          "options": [
+            "breakdown",
+            "improvement",
+            "enhancement",
+            "upgrade",
+            "success"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'system breakdown,' meaning a complete failure. Systems experience breakdowns (failures) during overload. Improvement or enhancement would be positive outcomes."
+        },
+        {
+          "id": "tc_q7",
+          "type": "context_usage",
+          "question": "Encryption helps to ________ sensitive information from unauthorized access.",
+          "options": [
+            "safeguard",
+            "expose",
+            "reveal",
+            "broadcast",
+            "share"
+          ],
+          "correct_answer": 0,
+          "explanation": "Safeguard means to protect or secure. Encryption safeguards (protects) sensitive data. Expose or reveal would mean making information accessible, the opposite of encryption's purpose."
+        },
+        {
+          "id": "tc_q8",
+          "type": "synonym",
+          "question": "The network infrastructure was ________ to handle increased data traffic.",
+          "options": [
+            "scaled",
+            "reduced",
+            "limited",
+            "restricted",
+            "blocked"
+          ],
+          "correct_answer": 0,
+          "explanation": "Scaled means expanded or increased in capacity. Infrastructure is scaled (expanded) to handle more traffic. Reduced or limited would mean decreased capacity."
+        },
+        {
+          "id": "tc_q9",
+          "type": "collocation",
+          "question": "IT professionals must regularly ________ software patches to maintain system security.",
+          "options": [
+            "deploy",
+            "reject",
+            "delete",
+            "ignore",
+            "hide"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'deploy patches,' meaning to install or distribute updates. IT professionals deploy (install) patches for security. Reject or ignore would leave systems vulnerable."
+        },
+        {
+          "id": "tc_q10",
+          "type": "context_usage",
+          "question": "The application's ________ allows it to run on multiple operating systems.",
+          "options": [
+            "compatibility",
+            "limitation",
+            "restriction",
+            "exclusivity",
+            "isolation"
+          ],
+          "correct_answer": 0,
+          "explanation": "Compatibility means the ability to work with different systems. Applications that run on multiple OS have compatibility. Restriction or limitation would mean the opposite."
+        },
+        {
+          "id": "tc_q11",
+          "type": "synonym",
+          "question": "Developers used artificial intelligence to ________ repetitive tasks.",
+          "options": [
+            "automate",
+            "complicate",
+            "manual",
+            "prevent",
+            "slow"
+          ],
+          "correct_answer": 0,
+          "explanation": "Automate means to make a process operate automatically. AI is used to automate (make automatic) repetitive tasks. Manual would mean requiring human intervention."
+        },
+        {
+          "id": "tc_q12",
+          "type": "collocation",
+          "question": "The company decided to ________ its legacy systems with modern technology.",
+          "options": [
+            "replace",
+            "maintain",
+            "preserve",
+            "keep",
+            "retain"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation with 'legacy systems' and 'modern technology' is 'replace,' meaning to substitute. Companies replace (substitute) old systems with new. Maintain or preserve would mean keeping the old systems."
+        },
+        {
+          "id": "tc_q13",
+          "type": "context_usage",
+          "question": "The database was ________ to improve query performance and reduce latency.",
+          "options": [
+            "optimized",
+            "neglected",
+            "damaged",
+            "corrupted",
+            "abandoned"
+          ],
+          "correct_answer": 0,
+          "explanation": "Optimized means made as effective as possible. Databases are optimized (improved) to enhance performance. Neglected or damaged would reduce performance."
+        },
+        {
+          "id": "tc_q14",
+          "type": "synonym",
+          "question": "The platform offers ________ storage capacity that expands with user needs.",
+          "options": [
+            "scalable",
+            "fixed",
+            "limited",
+            "static",
+            "rigid"
+          ],
+          "correct_answer": 0,
+          "explanation": "Scalable means able to grow or expand. Storage that expands with needs is scalable. Fixed, static, or rigid would mean unchangeable capacity."
+        },
+        {
+          "id": "tc_q15",
+          "type": "collocation",
+          "question": "Cybersecurity experts work to ________ potential threats before they cause damage.",
+          "options": [
+            "identify",
+            "create",
+            "encourage",
+            "promote",
+            "spread"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'identify threats,' meaning to detect or recognize dangers. Experts identify (detect) threats to prevent damage. Create or promote would mean causing threats."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_4",
+      "title": "Environment & Sustainability",
+      "description": "Environmental vocabulary for YDS reading comprehension",
+      "difficulty": "intermediate",
+      "topic": "environment_sustainability",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "es_q1",
+          "type": "context_usage",
+          "question": "Deforestation has led to the ________ of numerous species in the Amazon rainforest.",
+          "options": [
+            "extinction",
+            "proliferation",
+            "growth",
+            "expansion",
+            "increase"
+          ],
+          "correct_answer": 0,
+          "explanation": "Extinction means the complete disappearance of a species. Deforestation causes extinction of species. Proliferation or growth would mean increase, the opposite of what deforestation causes."
+        },
+        {
+          "id": "es_q2",
+          "type": "synonym",
+          "question": "The country has committed to reducing its carbon ________ by 50% by 2030.",
+          "options": [
+            "emissions",
+            "absorption",
+            "consumption",
+            "production",
+            "collection"
+          ],
+          "correct_answer": 0,
+          "explanation": "Emissions are substances released into the atmosphere. Carbon emissions specifically refer to CO2 released. While consumption relates to carbon, emissions is the specific term for atmospheric release."
+        },
+        {
+          "id": "es_q3",
+          "type": "collocation",
+          "question": "Conservation efforts aim to ________ endangered habitats from human encroachment.",
+          "options": [
+            "preserve",
+            "destroy",
+            "eliminate",
+            "damage",
+            "pollute"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'preserve habitats,' meaning to protect and maintain. Conservation efforts preserve (protect) habitats. Destroy or eliminate would be opposite to conservation goals."
+        },
+        {
+          "id": "es_q4",
+          "type": "context_usage",
+          "question": "Solar and wind power are considered ________ energy sources because they don't deplete natural resources.",
+          "options": [
+            "renewable",
+            "limited",
+            "finite",
+            "exhaustible",
+            "temporary"
+          ],
+          "correct_answer": 0,
+          "explanation": "Renewable means capable of being replenished naturally. Solar and wind are renewable (constantly replenished) energy sources. Finite or exhaustible would mean limited resources."
+        },
+        {
+          "id": "es_q5",
+          "type": "synonym",
+          "question": "The accumulation of plastic waste has become a major environmental ________ worldwide.",
+          "options": [
+            "hazard",
+            "benefit",
+            "advantage",
+            "asset",
+            "resource"
+          ],
+          "correct_answer": 0,
+          "explanation": "Hazard means danger or risk. Plastic waste accumulation is a hazard (danger) to the environment. Benefit or advantage would be positive, not applicable to pollution."
+        },
+        {
+          "id": "es_q6",
+          "type": "collocation",
+          "question": "Urban planners are working to ________ green spaces within city developments.",
+          "options": [
+            "incorporate",
+            "remove",
+            "eliminate",
+            "destroy",
+            "avoid"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'incorporate green spaces,' meaning to include or integrate. Planners incorporate (include) green spaces in cities. Remove or eliminate would be destructive actions."
+        },
+        {
+          "id": "es_q7",
+          "type": "context_usage",
+          "question": "Industrial activities have significantly ________ local water sources with chemical pollutants.",
+          "options": [
+            "contaminated",
+            "purified",
+            "cleaned",
+            "filtered",
+            "protected"
+          ],
+          "correct_answer": 0,
+          "explanation": "Contaminated means polluted or made impure. Industrial chemicals contaminate (pollute) water. Purified or cleaned would mean the opposite - making water pure."
+        },
+        {
+          "id": "es_q8",
+          "type": "synonym",
+          "question": "The ecosystem demonstrated remarkable ________ after recovering from the oil spill.",
+          "options": [
+            "resilience",
+            "fragility",
+            "weakness",
+            "vulnerability",
+            "delicacy"
+          ],
+          "correct_answer": 0,
+          "explanation": "Resilience means ability to recover quickly. Ecosystems that recover show resilience (recovery ability). Fragility or weakness would mean inability to recover."
+        },
+        {
+          "id": "es_q9",
+          "type": "collocation",
+          "question": "Governments must ________ strict regulations to control industrial pollution.",
+          "options": [
+            "enforce",
+            "ignore",
+            "violate",
+            "break",
+            "dismiss"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'enforce regulations,' meaning to ensure compliance. Governments enforce (ensure compliance with) pollution regulations. Ignore or violate would mean not following regulations."
+        },
+        {
+          "id": "es_q10",
+          "type": "context_usage",
+          "question": "Climate change poses an ________ threat to coastal communities worldwide.",
+          "options": [
+            "imminent",
+            "distant",
+            "unlikely",
+            "impossible",
+            "negligible"
+          ],
+          "correct_answer": 0,
+          "explanation": "Imminent means about to happen or immediate. Climate change is an imminent (immediate) threat to coasts. Distant or unlikely would downplay the urgency."
+        },
+        {
+          "id": "es_q11",
+          "type": "synonym",
+          "question": "The organization promotes ________ practices that balance economic and environmental needs.",
+          "options": [
+            "sustainable",
+            "wasteful",
+            "destructive",
+            "harmful",
+            "damaging"
+          ],
+          "correct_answer": 0,
+          "explanation": "Sustainable means able to be maintained without depleting resources. Practices balancing economy and environment are sustainable. Wasteful or destructive would be environmentally harmful."
+        },
+        {
+          "id": "es_q12",
+          "type": "collocation",
+          "question": "Scientists warn that we must ________ measures to combat global warming immediately.",
+          "options": [
+            "take",
+            "avoid",
+            "postpone",
+            "delay",
+            "refuse"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'take measures,' meaning to implement actions. We must take (implement) measures against warming. Avoid or postpone would mean inaction."
+        },
+        {
+          "id": "es_q13",
+          "type": "context_usage",
+          "question": "Wildlife corridors help maintain ________ by allowing species to move between fragmented habitats.",
+          "options": [
+            "biodiversity",
+            "uniformity",
+            "similarity",
+            "monotony",
+            "sameness"
+          ],
+          "correct_answer": 0,
+          "explanation": "Biodiversity means variety of life forms. Corridors maintain biodiversity (variety of species) by connecting habitats. Uniformity or similarity would mean lack of diversity."
+        },
+        {
+          "id": "es_q14",
+          "type": "synonym",
+          "question": "Excessive water consumption has led to the ________ of underground aquifers.",
+          "options": [
+            "depletion",
+            "replenishment",
+            "restoration",
+            "expansion",
+            "growth"
+          ],
+          "correct_answer": 0,
+          "explanation": "Depletion means reduction or exhaustion. Excessive use causes depletion (exhaustion) of aquifers. Replenishment or restoration would mean refilling."
+        },
+        {
+          "id": "es_q15",
+          "type": "collocation",
+          "question": "The treaty requires nations to ________ their commitments to reducing greenhouse gases.",
+          "options": [
+            "honor",
+            "break",
+            "violate",
+            "ignore",
+            "abandon"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'honor commitments,' meaning to fulfill promises. Nations must honor (fulfill) their environmental commitments. Break or violate would mean failing to meet obligations."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_5",
+      "title": "Health & Medicine",
+      "description": "Medical vocabulary commonly appearing in YDS exams",
+      "difficulty": "intermediate",
+      "topic": "health_medicine",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "hm_q1",
+          "type": "context_usage",
+          "question": "The vaccine proved highly ________ in preventing the spread of the disease.",
+          "options": [
+            "efficacious",
+            "harmful",
+            "useless",
+            "dangerous",
+            "ineffective"
+          ],
+          "correct_answer": 0,
+          "explanation": "Efficacious means effective in producing the desired result. Vaccines that prevent disease are efficacious (effective). Ineffective or useless would mean not working."
+        },
+        {
+          "id": "hm_q2",
+          "type": "synonym",
+          "question": "Early detection significantly improves the ________ for cancer patients.",
+          "options": [
+            "prognosis",
+            "diagnosis",
+            "symptom",
+            "treatment",
+            "prevention"
+          ],
+          "correct_answer": 0,
+          "explanation": "Prognosis means prediction of disease outcome. Early detection improves prognosis (predicted outcome). Diagnosis is identification of disease, not outcome prediction."
+        },
+        {
+          "id": "hm_q3",
+          "type": "collocation",
+          "question": "Doctors must ________ informed consent from patients before performing surgery.",
+          "options": [
+            "obtain",
+            "avoid",
+            "refuse",
+            "reject",
+            "deny"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'obtain consent,' meaning to get permission. Doctors must obtain (get) consent before procedures. Refuse or deny would be unethical."
+        },
+        {
+          "id": "hm_q4",
+          "type": "context_usage",
+          "question": "The patient showed ________ symptoms including fever, cough, and fatigue.",
+          "options": [
+            "acute",
+            "mild",
+            "absent",
+            "missing",
+            "nonexistent"
+          ],
+          "correct_answer": 0,
+          "explanation": "Acute means severe or intense. Multiple serious symptoms are acute (severe). Mild would mean less serious, while absent would mean no symptoms."
+        },
+        {
+          "id": "hm_q5",
+          "type": "synonym",
+          "question": "Antibiotics are ineffective against ________ infections such as the common cold.",
+          "options": [
+            "viral",
+            "bacterial",
+            "fungal",
+            "parasitic",
+            "chemical"
+          ],
+          "correct_answer": 0,
+          "explanation": "Viral means caused by viruses. Antibiotics don't work on viral (virus-caused) infections like colds. Bacterial infections are what antibiotics treat."
+        },
+        {
+          "id": "hm_q6",
+          "type": "collocation",
+          "question": "The medication may ________ side effects including dizziness and nausea.",
+          "options": [
+            "cause",
+            "prevent",
+            "eliminate",
+            "avoid",
+            "cure"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'cause side effects,' meaning to produce unwanted effects. Medications can cause (produce) side effects. Prevent or eliminate would mean stopping side effects."
+        },
+        {
+          "id": "hm_q7",
+          "type": "context_usage",
+          "question": "Maintaining a balanced diet is ________ for optimal health and disease prevention.",
+          "options": [
+            "imperative",
+            "optional",
+            "unnecessary",
+            "harmful",
+            "dangerous"
+          ],
+          "correct_answer": 0,
+          "explanation": "Imperative means absolutely necessary. A balanced diet is imperative (absolutely necessary) for health. Optional would mean not necessary, unnecessary would mean not needed."
+        },
+        {
+          "id": "hm_q8",
+          "type": "synonym",
+          "question": "The disease remained ________ for years before symptoms appeared.",
+          "options": [
+            "dormant",
+            "active",
+            "aggressive",
+            "obvious",
+            "visible"
+          ],
+          "correct_answer": 0,
+          "explanation": "Dormant means inactive or hidden. Diseases without symptoms are dormant (inactive). Active or aggressive would mean showing symptoms."
+        },
+        {
+          "id": "hm_q9",
+          "type": "collocation",
+          "question": "Healthcare workers must ________ strict hygiene protocols to prevent infection transmission.",
+          "options": [
+            "follow",
+            "ignore",
+            "violate",
+            "break",
+            "dismiss"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'follow protocols,' meaning to adhere to procedures. Workers must follow (adhere to) hygiene protocols. Ignore or violate would be dangerous."
+        },
+        {
+          "id": "hm_q10",
+          "type": "context_usage",
+          "question": "The surgeon performed a ________ procedure to remove the damaged tissue.",
+          "options": [
+            "delicate",
+            "careless",
+            "rough",
+            "casual",
+            "simple"
+          ],
+          "correct_answer": 0,
+          "explanation": "Delicate means requiring careful handling. Surgical procedures are delicate (requiring precision). Careless or rough would be inappropriate for surgery."
+        },
+        {
+          "id": "hm_q11",
+          "type": "synonym",
+          "question": "The hospital implemented new measures to reduce ________ infections among patients.",
+          "options": [
+            "nosocomial",
+            "community",
+            "domestic",
+            "external",
+            "outdoor"
+          ],
+          "correct_answer": 0,
+          "explanation": "Nosocomial means hospital-acquired. Infections caught in hospitals are nosocomial. Community infections are acquired outside hospitals."
+        },
+        {
+          "id": "hm_q12",
+          "type": "collocation",
+          "question": "Regular exercise can ________ the risk of cardiovascular disease significantly.",
+          "options": [
+            "reduce",
+            "increase",
+            "guarantee",
+            "cause",
+            "create"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'reduce risk,' meaning to decrease the likelihood. Exercise reduces (decreases) disease risk. Increase would mean raising risk."
+        },
+        {
+          "id": "hm_q13",
+          "type": "context_usage",
+          "question": "The patient's condition ________ rapidly after receiving the appropriate treatment.",
+          "options": [
+            "improved",
+            "worsened",
+            "deteriorated",
+            "declined",
+            "weakened"
+          ],
+          "correct_answer": 0,
+          "explanation": "Improved means became better. Appropriate treatment causes conditions to improve (get better). Worsened or deteriorated would mean became worse."
+        },
+        {
+          "id": "hm_q14",
+          "type": "synonym",
+          "question": "The physician prescribed medication to ________ the patient's chronic pain.",
+          "options": [
+            "alleviate",
+            "intensify",
+            "worsen",
+            "increase",
+            "aggravate"
+          ],
+          "correct_answer": 0,
+          "explanation": "Alleviate means to reduce or relieve. Medication alleviates (relieves) pain. Intensify or worsen would mean to make pain worse."
+        },
+        {
+          "id": "hm_q15",
+          "type": "collocation",
+          "question": "Medical researchers are working to ________ a cure for this rare genetic disorder.",
+          "options": [
+            "develop",
+            "prevent",
+            "avoid",
+            "ignore",
+            "hide"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'develop a cure,' meaning to create treatment. Researchers develop (create) cures for diseases. Prevent or avoid don't collocate with 'cure.'"
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_6",
+      "title": "Business & Economics",
+      "description": "Business vocabulary essential for YDS success",
+      "difficulty": "intermediate",
+      "topic": "business_economics",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "be_q1",
+          "type": "context_usage",
+          "question": "The company's profits ________ significantly after implementing cost-cutting measures.",
+          "options": [
+            "surged",
+            "plummeted",
+            "declined",
+            "decreased",
+            "fell"
+          ],
+          "correct_answer": 0,
+          "explanation": "Surged means increased sharply. Cost-cutting typically causes profits to surge (increase sharply). Plummeted or declined would mean decreased."
+        },
+        {
+          "id": "be_q2",
+          "type": "synonym",
+          "question": "The merger will create ________ between the two companies, reducing operational costs.",
+          "options": [
+            "synergy",
+            "conflict",
+            "competition",
+            "rivalry",
+            "opposition"
+          ],
+          "correct_answer": 0,
+          "explanation": "Synergy means combined power greater than individual parts. Mergers create synergy (combined efficiency) to reduce costs. Competition or rivalry would mean the opposite."
+        },
+        {
+          "id": "be_q3",
+          "type": "collocation",
+          "question": "Investors are concerned about the company's ability to ________ debt obligations.",
+          "options": [
+            "meet",
+            "avoid",
+            "ignore",
+            "refuse",
+            "reject"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'meet obligations,' meaning to fulfill responsibilities. Companies must meet (fulfill) debt payments. Avoid or ignore would mean defaulting."
+        },
+        {
+          "id": "be_q4",
+          "type": "context_usage",
+          "question": "The central bank decided to ________ interest rates to stimulate economic growth.",
+          "options": [
+            "lower",
+            "raise",
+            "maintain",
+            "freeze",
+            "fix"
+          ],
+          "correct_answer": 0,
+          "explanation": "Lower means to reduce. Banks lower (reduce) interest rates to stimulate growth. Raising rates would slow economic growth."
+        },
+        {
+          "id": "be_q5",
+          "type": "synonym",
+          "question": "The startup secured substantial ________ from venture capital firms.",
+          "options": [
+            "funding",
+            "debt",
+            "losses",
+            "expenses",
+            "costs"
+          ],
+          "correct_answer": 0,
+          "explanation": "Funding means financial support or capital. Startups secure funding (financial support) from investors. Debt implies obligation to repay, not investment."
+        },
+        {
+          "id": "be_q6",
+          "type": "collocation",
+          "question": "The board of directors will ________ a decision on the proposed expansion next month.",
+          "options": [
+            "make",
+            "avoid",
+            "postpone",
+            "delay",
+            "cancel"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'make a decision,' meaning to decide. Boards make (reach) decisions on proposals. Avoid or postpone would mean not deciding."
+        },
+        {
+          "id": "be_q7",
+          "type": "context_usage",
+          "question": "Market demand for the product proved to be highly ________, changing with seasonal trends.",
+          "options": [
+            "volatile",
+            "stable",
+            "constant",
+            "fixed",
+            "permanent"
+          ],
+          "correct_answer": 0,
+          "explanation": "Volatile means changing unpredictably. Demand that changes with seasons is volatile (unstable). Stable or constant would mean unchanging."
+        },
+        {
+          "id": "be_q8",
+          "type": "synonym",
+          "question": "The company aims to ________ its market share through aggressive marketing campaigns.",
+          "options": [
+            "expand",
+            "reduce",
+            "minimize",
+            "decrease",
+            "limit"
+          ],
+          "correct_answer": 0,
+          "explanation": "Expand means to increase or grow. Companies use marketing to expand (increase) market share. Reduce or minimize would mean decreasing share."
+        },
+        {
+          "id": "be_q9",
+          "type": "collocation",
+          "question": "The CEO announced plans to ________ a new product line targeting young consumers.",
+          "options": [
+            "launch",
+            "cancel",
+            "abandon",
+            "destroy",
+            "eliminate"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'launch a product,' meaning to introduce to market. Companies launch (introduce) new products. Cancel or abandon would mean stopping plans."
+        },
+        {
+          "id": "be_q10",
+          "type": "context_usage",
+          "question": "The economic downturn had a ________ impact on small businesses across the region.",
+          "options": [
+            "devastating",
+            "positive",
+            "beneficial",
+            "helpful",
+            "advantageous"
+          ],
+          "correct_answer": 0,
+          "explanation": "Devastating means highly destructive. Economic downturns have devastating (highly damaging) effects on businesses. Positive or beneficial would be contradictory."
+        },
+        {
+          "id": "be_q11",
+          "type": "synonym",
+          "question": "Companies must remain ________ to survive in today's rapidly changing market.",
+          "options": [
+            "agile",
+            "rigid",
+            "inflexible",
+            "stubborn",
+            "fixed"
+          ],
+          "correct_answer": 0,
+          "explanation": "Agile means able to move and adapt quickly. Companies need agility (adaptability) to survive change. Rigid or inflexible would mean unable to adapt."
+        },
+        {
+          "id": "be_q12",
+          "type": "collocation",
+          "question": "The firm plans to ________ a hostile takeover bid from its competitor.",
+          "options": [
+            "resist",
+            "welcome",
+            "accept",
+            "embrace",
+            "support"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'resist a takeover,' meaning to oppose acquisition. Firms resist (oppose) hostile takeovers. Welcome or accept would mean agreeing."
+        },
+        {
+          "id": "be_q13",
+          "type": "context_usage",
+          "question": "The company's quarterly earnings exceeded analysts' ________ by a wide margin.",
+          "options": [
+            "projections",
+            "fears",
+            "worries",
+            "concerns",
+            "doubts"
+          ],
+          "correct_answer": 0,
+          "explanation": "Projections means forecasts or predictions. Earnings are compared to projections (forecasts). Fears or worries don't represent numerical forecasts."
+        },
+        {
+          "id": "be_q14",
+          "type": "synonym",
+          "question": "The new regulations will ________ stricter compliance requirements on financial institutions.",
+          "options": [
+            "impose",
+            "remove",
+            "eliminate",
+            "cancel",
+            "delete"
+          ],
+          "correct_answer": 0,
+          "explanation": "Impose means to establish or enforce. Regulations impose (establish) requirements. Remove or eliminate would mean ending requirements."
+        },
+        {
+          "id": "be_q15",
+          "type": "collocation",
+          "question": "The company decided to ________ its resources on core business operations.",
+          "options": [
+            "concentrate",
+            "scatter",
+            "disperse",
+            "spread",
+            "divide"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'concentrate resources,' meaning to focus assets. Companies concentrate (focus) resources on priorities. Scatter or disperse would mean spreading resources thin."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_7",
+      "title": "Social Sciences: Psychology & Sociology",
+      "description": "Social science vocabulary for YDS reading passages",
+      "difficulty": "intermediate",
+      "topic": "social_sciences",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "ss_q1",
+          "type": "context_usage",
+          "question": "Cultural norms significantly ________ individual behavior within society.",
+          "options": [
+            "influence",
+            "ignore",
+            "prevent",
+            "eliminate",
+            "destroy"
+          ],
+          "correct_answer": 0,
+          "explanation": "Influence means to affect or shape. Cultural norms influence (affect) behavior in societies. Ignore or prevent would mean having no effect."
+        },
+        {
+          "id": "ss_q2",
+          "type": "synonym",
+          "question": "The study examined the ________ between socioeconomic status and educational achievement.",
+          "options": [
+            "correlation",
+            "separation",
+            "division",
+            "difference",
+            "independence"
+          ],
+          "correct_answer": 0,
+          "explanation": "Correlation means relationship or connection between variables. Studies examine correlations (relationships) between factors. Separation would mean no relationship."
+        },
+        {
+          "id": "ss_q3",
+          "type": "collocation",
+          "question": "Researchers aim to ________ light on the psychological mechanisms underlying prejudice.",
+          "options": [
+            "shed",
+            "hide",
+            "cover",
+            "block",
+            "prevent"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'shed light on,' meaning to clarify or explain. Researchers shed (cast) light on mechanisms. Hide or cover would mean obscuring."
+        },
+        {
+          "id": "ss_q4",
+          "type": "context_usage",
+          "question": "The theory suggests that personality traits are ________ rather than acquired through experience.",
+          "options": [
+            "innate",
+            "learned",
+            "taught",
+            "trained",
+            "educated"
+          ],
+          "correct_answer": 0,
+          "explanation": "Innate means inborn or natural. Traits that aren't acquired are innate (inborn). Learned or taught would mean acquired through experience."
+        },
+        {
+          "id": "ss_q5",
+          "type": "synonym",
+          "question": "Social isolation can have ________ effects on mental health and well-being.",
+          "options": [
+            "detrimental",
+            "beneficial",
+            "positive",
+            "helpful",
+            "advantageous"
+          ],
+          "correct_answer": 0,
+          "explanation": "Detrimental means harmful or damaging. Isolation has detrimental (harmful) effects on health. Beneficial or positive would mean helpful effects."
+        },
+        {
+          "id": "ss_q6",
+          "type": "collocation",
+          "question": "The psychologist worked to ________ trust with clients during therapy sessions.",
+          "options": [
+            "establish",
+            "destroy",
+            "break",
+            "damage",
+            "ruin"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'establish trust,' meaning to build confidence. Therapists establish (build) trust with clients. Destroy or break would be counterproductive."
+        },
+        {
+          "id": "ss_q7",
+          "type": "context_usage",
+          "question": "Group dynamics can either ________ or hinder collective problem-solving efforts.",
+          "options": [
+            "facilitate",
+            "prevent",
+            "block",
+            "stop",
+            "obstruct"
+          ],
+          "correct_answer": 0,
+          "explanation": "Facilitate means to make easier. Good dynamics facilitate (make easier) problem-solving. Prevent or block would mean hindering, not helping."
+        },
+        {
+          "id": "ss_q8",
+          "type": "synonym",
+          "question": "The researcher developed a framework to analyze the ________ nature of social interactions.",
+          "options": [
+            "dynamic",
+            "static",
+            "fixed",
+            "rigid",
+            "unchanging"
+          ],
+          "correct_answer": 0,
+          "explanation": "Dynamic means constantly changing or active. Social interactions are dynamic (changing). Static or fixed would mean unchanging."
+        },
+        {
+          "id": "ss_q9",
+          "type": "collocation",
+          "question": "Sociologists study how individuals ________ to social roles and expectations.",
+          "options": [
+            "conform",
+            "resist",
+            "oppose",
+            "reject",
+            "refuse"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'conform to roles,' meaning to comply with expectations. People conform (comply with) social roles. Resist or oppose would mean not following norms."
+        },
+        {
+          "id": "ss_q10",
+          "type": "context_usage",
+          "question": "Cognitive biases can ________ judgment and lead to irrational decision-making.",
+          "options": [
+            "distort",
+            "improve",
+            "enhance",
+            "clarify",
+            "perfect"
+          ],
+          "correct_answer": 0,
+          "explanation": "Distort means to misrepresent or alter. Biases distort (misrepresent) judgment negatively. Improve or enhance would be positive effects."
+        },
+        {
+          "id": "ss_q11",
+          "type": "synonym",
+          "question": "The study focused on the ________ development of moral reasoning in children.",
+          "options": [
+            "gradual",
+            "sudden",
+            "immediate",
+            "instant",
+            "abrupt"
+          ],
+          "correct_answer": 0,
+          "explanation": "Gradual means happening slowly over time. Developmental processes are gradual (slow and progressive). Sudden or immediate would mean happening quickly."
+        },
+        {
+          "id": "ss_q12",
+          "type": "collocation",
+          "question": "Cultural differences can ________ rise to misunderstandings in cross-cultural communication.",
+          "options": [
+            "give",
+            "prevent",
+            "stop",
+            "avoid",
+            "eliminate"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'give rise to,' meaning to cause or lead to. Differences give rise to (cause) misunderstandings. Prevent or stop would mean avoiding misunderstandings."
+        },
+        {
+          "id": "ss_q13",
+          "type": "context_usage",
+          "question": "The research examined how media representation can ________ public perception of social issues.",
+          "options": [
+            "shape",
+            "ignore",
+            "avoid",
+            "neglect",
+            "dismiss"
+          ],
+          "correct_answer": 0,
+          "explanation": "Shape means to influence or form. Media shapes (influences) public perception. Ignore or neglect would mean having no influence."
+        },
+        {
+          "id": "ss_q14",
+          "type": "synonym",
+          "question": "Peer pressure can ________ adolescents to engage in risky behaviors.",
+          "options": [
+            "compel",
+            "discourage",
+            "prevent",
+            "stop",
+            "protect"
+          ],
+          "correct_answer": 0,
+          "explanation": "Compel means to force or pressure. Peer pressure compels (forces) behavior changes. Discourage or prevent would mean stopping behaviors."
+        },
+        {
+          "id": "ss_q15",
+          "type": "collocation",
+          "question": "The sociologist conducted research to ________ the impact of urbanization on community bonds.",
+          "options": [
+            "assess",
+            "ignore",
+            "avoid",
+            "dismiss",
+            "neglect"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'assess the impact,' meaning to evaluate effects. Researchers assess (evaluate) impacts. Ignore or dismiss would mean not studying."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_8",
+      "title": "Arts & Culture",
+      "description": "Cultural and artistic vocabulary for YDS passages",
+      "difficulty": "intermediate",
+      "topic": "arts_culture",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "ac_q1",
+          "type": "context_usage",
+          "question": "The artist's work ________ traditional painting techniques with modern digital media.",
+          "options": [
+            "merges",
+            "separates",
+            "divides",
+            "isolates",
+            "splits"
+          ],
+          "correct_answer": 0,
+          "explanation": "Merges means combines or blends. Artists merge (combine) different techniques. Separates or divides would mean keeping techniques apart."
+        },
+        {
+          "id": "ac_q2",
+          "type": "synonym",
+          "question": "The museum houses an ________ collection of Renaissance sculptures.",
+          "options": [
+            "exquisite",
+            "ordinary",
+            "common",
+            "plain",
+            "simple"
+          ],
+          "correct_answer": 0,
+          "explanation": "Exquisite means extremely beautiful and delicate. Museum collections are often exquisite (exceptionally beautiful). Ordinary or common would mean unremarkable."
+        },
+        {
+          "id": "ac_q3",
+          "type": "collocation",
+          "question": "The playwright drew ________ from classical Greek mythology for the narrative.",
+          "options": [
+            "inspiration",
+            "confusion",
+            "difficulty",
+            "problem",
+            "trouble"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'draw inspiration from,' meaning to get ideas from something. Artists draw (get) inspiration from sources. Confusion or difficulty don't fit creative contexts."
+        },
+        {
+          "id": "ac_q4",
+          "type": "context_usage",
+          "question": "The concert hall is renowned for its exceptional ________, which enhances musical performances.",
+          "options": [
+            "acoustics",
+            "lighting",
+            "seating",
+            "decoration",
+            "architecture"
+          ],
+          "correct_answer": 0,
+          "explanation": "Acoustics means sound quality in a space. Concert halls are valued for acoustics (sound properties). While architecture matters, acoustics specifically enhance musical sound."
+        },
+        {
+          "id": "ac_q5",
+          "type": "synonym",
+          "question": "The novel explores the ________ themes of love, loss, and redemption.",
+          "options": [
+            "timeless",
+            "temporary",
+            "brief",
+            "short-lived",
+            "fleeting"
+          ],
+          "correct_answer": 0,
+          "explanation": "Timeless means eternal or always relevant. Classic themes are timeless (eternally relevant). Temporary or brief would mean not lasting."
+        },
+        {
+          "id": "ac_q6",
+          "type": "collocation",
+          "question": "The director's vision was to ________ the essence of the original literary work.",
+          "options": [
+            "capture",
+            "destroy",
+            "lose",
+            "miss",
+            "avoid"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'capture the essence,' meaning to represent the core quality. Directors capture (represent) essence in adaptations. Destroy or lose would be negative outcomes."
+        },
+        {
+          "id": "ac_q7",
+          "type": "context_usage",
+          "question": "The exhibition showcases ________ works from emerging contemporary artists.",
+          "options": [
+            "innovative",
+            "traditional",
+            "conventional",
+            "ordinary",
+            "typical"
+          ],
+          "correct_answer": 0,
+          "explanation": "Innovative means new and creative. Contemporary art is often innovative (new and original). Traditional or conventional would mean following established patterns."
+        },
+        {
+          "id": "ac_q8",
+          "type": "synonym",
+          "question": "The symphony's finale reached a dramatic ________ that left the audience breathless.",
+          "options": [
+            "crescendo",
+            "silence",
+            "pause",
+            "stop",
+            "break"
+          ],
+          "correct_answer": 0,
+          "explanation": "Crescendo means gradual increase to a climax. Musical finales build to a crescendo (climactic peak). Silence or pause would be the opposite."
+        },
+        {
+          "id": "ac_q9",
+          "type": "collocation",
+          "question": "The curator worked to ________ the authenticity of the artwork before acquisition.",
+          "options": [
+            "verify",
+            "doubt",
+            "question",
+            "dispute",
+            "challenge"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'verify authenticity,' meaning to confirm genuineness. Curators verify (confirm) artwork authenticity. Doubt or question would mean being uncertain."
+        },
+        {
+          "id": "ac_q10",
+          "type": "context_usage",
+          "question": "The performance received ________ reviews from critics across the country.",
+          "options": [
+            "glowing",
+            "negative",
+            "harsh",
+            "critical",
+            "poor"
+          ],
+          "correct_answer": 0,
+          "explanation": "Glowing means highly favorable and enthusiastic. Successful performances receive glowing (very positive) reviews. Negative or harsh would mean unfavorable."
+        },
+        {
+          "id": "ac_q11",
+          "type": "synonym",
+          "question": "The choreographer created a ________ blend of classical ballet and modern dance.",
+          "options": [
+            "seamless",
+            "awkward",
+            "clumsy",
+            "disjointed",
+            "rough"
+          ],
+          "correct_answer": 0,
+          "explanation": "Seamless means smooth and without gaps. Good choreography creates seamless (smooth) blends. Awkward or disjointed would mean poorly integrated."
+        },
+        {
+          "id": "ac_q12",
+          "type": "collocation",
+          "question": "The gallery aims to ________ awareness of underrepresented artists in the community.",
+          "options": [
+            "raise",
+            "lower",
+            "reduce",
+            "decrease",
+            "diminish"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'raise awareness,' meaning to increase knowledge. Galleries raise (increase) awareness of artists. Lower or reduce would mean decreasing awareness."
+        },
+        {
+          "id": "ac_q13",
+          "type": "context_usage",
+          "question": "The film's narrative structure was deliberately ________, challenging viewers' expectations.",
+          "options": [
+            "ambiguous",
+            "clear",
+            "obvious",
+            "simple",
+            "straightforward"
+          ],
+          "correct_answer": 0,
+          "explanation": "Ambiguous means open to multiple interpretations. Challenging films are often ambiguous (unclear in meaning). Clear or obvious would mean easy to understand."
+        },
+        {
+          "id": "ac_q14",
+          "type": "synonym",
+          "question": "The poet's use of imagery ________ vivid emotions in readers.",
+          "options": [
+            "evokes",
+            "suppresses",
+            "hides",
+            "conceals",
+            "blocks"
+          ],
+          "correct_answer": 0,
+          "explanation": "Evokes means brings forth or calls up. Imagery evokes (brings forth) emotions. Suppresses or hides would mean preventing emotional response."
+        },
+        {
+          "id": "ac_q15",
+          "type": "collocation",
+          "question": "The architect sought to ________ justice to the historical significance of the site.",
+          "options": [
+            "do",
+            "make",
+            "give",
+            "take",
+            "have"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'do justice to,' meaning to treat appropriately or represent well. Architects do (properly represent) justice to historical sites. Make or give don't collocate correctly."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_9",
+      "title": "Common Academic Collocations",
+      "description": "Master frequent word combinations in YDS texts",
+      "difficulty": "intermediate",
+      "topic": "collocations",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "col_q1",
+          "type": "collocation",
+          "question": "The research team decided to ________ a comprehensive study on climate patterns.",
+          "options": [
+            "conduct",
+            "make",
+            "do",
+            "perform",
+            "create"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'conduct a study.' While 'do' and 'perform' can work in some contexts, 'conduct' is the standard academic collocation for studies and research."
+        },
+        {
+          "id": "col_q2",
+          "type": "collocation",
+          "question": "The professor asked students to ________ attention to the methodological limitations.",
+          "options": [
+            "pay",
+            "give",
+            "make",
+            "take",
+            "put"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'pay attention to.' This is a fixed expression. Give, make, or take don't collocate with 'attention' in this context."
+        },
+        {
+          "id": "col_q3",
+          "type": "collocation",
+          "question": "The findings ________ serious questions about the validity of the previous model.",
+          "options": [
+            "raise",
+            "make",
+            "do",
+            "give",
+            "take"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'raise questions.' Raise means to bring up or present issues. Make or do don't collocate with 'questions' in academic contexts."
+        },
+        {
+          "id": "col_q4",
+          "type": "collocation",
+          "question": "The experiment was designed to ________ the hypothesis under controlled conditions.",
+          "options": [
+            "test",
+            "make",
+            "do",
+            "have",
+            "give"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'test a hypothesis.' Test is the standard verb for examining hypotheses. Make or do don't collocate correctly in this scientific context."
+        },
+        {
+          "id": "col_q5",
+          "type": "collocation",
+          "question": "The author ________ a strong argument in favor of educational reform.",
+          "options": [
+            "makes",
+            "does",
+            "takes",
+            "gives",
+            "puts"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'make an argument.' Make is used with argument, case, or point. Do or take don't collocate with 'argument' in this sense."
+        },
+        {
+          "id": "col_q6",
+          "type": "collocation",
+          "question": "It is essential to ________ into account all relevant variables before drawing conclusions.",
+          "options": [
+            "take",
+            "make",
+            "do",
+            "give",
+            "put"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'take into account,' meaning to consider. This is a fixed phrase. Make or do don't form this collocation."
+        },
+        {
+          "id": "col_q7",
+          "type": "collocation",
+          "question": "The committee will ________ a decision after reviewing all submissions.",
+          "options": [
+            "reach",
+            "do",
+            "have",
+            "take",
+            "give"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'reach a decision.' Both 'reach' and 'make' work with decision, but 'reach' emphasizes arriving at a conclusion. Do or have don't collocate correctly."
+        },
+        {
+          "id": "col_q8",
+          "type": "collocation",
+          "question": "The data ________ compelling evidence for the proposed theory.",
+          "options": [
+            "provides",
+            "makes",
+            "does",
+            "takes",
+            "gives"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'provide evidence.' Provide or offer work with evidence. While 'gives' is grammatically possible, 'provides' is more formal and academic."
+        },
+        {
+          "id": "col_q9",
+          "type": "collocation",
+          "question": "Researchers must ________ careful consideration to ethical implications.",
+          "options": [
+            "give",
+            "make",
+            "do",
+            "take",
+            "have"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'give consideration to.' Give pairs with consideration, attention, or thought. Make or do don't work in this context."
+        },
+        {
+          "id": "col_q10",
+          "type": "collocation",
+          "question": "The study aims to ________ a contribution to the field of neuroscience.",
+          "options": [
+            "make",
+            "do",
+            "give",
+            "take",
+            "have"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'make a contribution.' Make collocates with contribution, difference, or impact. Do or give don't work in this academic context."
+        },
+        {
+          "id": "col_q11",
+          "type": "collocation",
+          "question": "The results ________ support to the original hypothesis.",
+          "options": [
+            "lend",
+            "make",
+            "do",
+            "take",
+            "have"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'lend support to,' meaning to provide backing. This is a formal academic expression. Make or give support work, but lend is more precise."
+        },
+        {
+          "id": "col_q12",
+          "type": "collocation",
+          "question": "The researcher ________ use of advanced statistical techniques in the analysis.",
+          "options": [
+            "made",
+            "did",
+            "took",
+            "gave",
+            "had"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'make use of,' meaning to utilize. This is a standard phrase. Do or take don't form this collocation."
+        },
+        {
+          "id": "col_q13",
+          "type": "collocation",
+          "question": "The theory has ________ widespread acceptance among scholars.",
+          "options": [
+            "gained",
+            "made",
+            "done",
+            "taken",
+            "given"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'gain acceptance,' meaning to achieve recognition. Gain pairs with acceptance, support, or recognition. Make or do don't work here."
+        },
+        {
+          "id": "col_q14",
+          "type": "collocation",
+          "question": "Scientists continue to ________ research into renewable energy sources.",
+          "options": [
+            "pursue",
+            "make",
+            "do",
+            "take",
+            "give"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'pursue research,' meaning to continue or carry out investigation. Pursue, conduct, or carry out work with research. Make or do are less formal."
+        },
+        {
+          "id": "col_q15",
+          "type": "collocation",
+          "question": "The experiment was conducted under ________ controlled conditions.",
+          "options": [
+            "strictly",
+            "highly",
+            "very",
+            "much",
+            "well"
+          ],
+          "correct_answer": 0,
+          "explanation": "The correct collocation is 'strictly controlled.' Strictly emphasizes rigorous control. Highly controlled also works, but strictly is more common with controlled conditions."
+        }
+      ]
+    },
+    {
+      "id": "vocab_quiz_10",
+      "title": "Academic Phrasal Verbs",
+      "description": "Essential phrasal verbs for YDS exam mastery",
+      "difficulty": "intermediate",
+      "topic": "phrasal_verbs",
+      "time_limit": 12,
+      "questions": [
+        {
+          "id": "pv_q1",
+          "type": "context_usage",
+          "question": "The committee decided to ________ the proposed changes until next semester.",
+          "options": [
+            "put off",
+            "put on",
+            "put up",
+            "put down",
+            "put away"
+          ],
+          "correct_answer": 0,
+          "explanation": "Put off means to postpone or delay. Committees put off (postpone) decisions. Put on means to wear, put up means to tolerate, which don't fit the context."
+        },
+        {
+          "id": "pv_q2",
+          "type": "synonym",
+          "question": "Researchers must ________ all irrelevant data before analyzing the results.\n\nWhich phrasal verb means to exclude or remove?",
+          "options": [
+            "rule out",
+            "rule in",
+            "carry out",
+            "bring about",
+            "take up"
+          ],
+          "correct_answer": 0,
+          "explanation": "Rule out means to exclude or eliminate. Researchers rule out (eliminate) irrelevant data. Rule in would mean to include, the opposite meaning."
+        },
+        {
+          "id": "pv_q3",
+          "type": "context_usage",
+          "question": "The new evidence ________ the previous findings and confirmed the hypothesis.",
+          "options": [
+            "backed up",
+            "backed down",
+            "backed away",
+            "backed off",
+            "backed out"
+          ],
+          "correct_answer": 0,
+          "explanation": "Back up means to support or confirm. Evidence backs up (supports) findings. Backed down means to withdraw from a position, which doesn't fit."
+        },
+        {
+          "id": "pv_q4",
+          "type": "synonym",
+          "question": "The professor asked students to ________ their essays by Friday.\n\nWhich phrasal verb means to submit?",
+          "options": [
+            "hand in",
+            "hand out",
+            "hand over",
+            "hand down",
+            "hand off"
+          ],
+          "correct_answer": 0,
+          "explanation": "Hand in means to submit or give to someone in authority. Students hand in (submit) assignments. Hand out means to distribute, the opposite action."
+        },
+        {
+          "id": "pv_q5",
+          "type": "context_usage",
+          "question": "The economic crisis ________ significant changes in government policy.",
+          "options": [
+            "brought about",
+            "brought up",
+            "brought down",
+            "brought in",
+            "brought out"
+          ],
+          "correct_answer": 0,
+          "explanation": "Bring about means to cause or make happen. Crises bring about (cause) changes. Brought up means to mention, brought down means to reduce, neither fits the causation context."
+        },
+        {
+          "id": "pv_q6",
+          "type": "synonym",
+          "question": "Scientists are trying to ________ why this phenomenon occurs so frequently.\n\nWhich phrasal verb means to discover or determine?",
+          "options": [
+            "find out",
+            "find up",
+            "take out",
+            "make out",
+            "carry out"
+          ],
+          "correct_answer": 0,
+          "explanation": "Find out means to discover or learn information. Scientists find out (discover) reasons. Make out means to understand with difficulty, carry out means to execute a plan."
+        },
+        {
+          "id": "pv_q7",
+          "type": "context_usage",
+          "question": "The research project ________ more time and resources than initially planned.",
+          "options": [
+            "took up",
+            "took off",
+            "took on",
+            "took in",
+            "took over"
+          ],
+          "correct_answer": 0,
+          "explanation": "Take up means to require or use time/space. Projects take up (require) resources. Took off means to depart, took on means to accept responsibility, which don't fit."
+        },
+        {
+          "id": "pv_q8",
+          "type": "synonym",
+          "question": "The experiment was ________ under strict laboratory conditions.\n\nWhich phrasal verb means to execute or perform?",
+          "options": [
+            "carried out",
+            "carried on",
+            "carried away",
+            "carried over",
+            "carried through"
+          ],
+          "correct_answer": 0,
+          "explanation": "Carry out means to conduct or execute. Experiments are carried out (conducted). Carried on means to continue, carried away means overly excited."
+        },
+        {
+          "id": "pv_q9",
+          "type": "context_usage",
+          "question": "The theory was ________ by later research that contradicted its main claims.",
+          "options": [
+            "called into question",
+            "called off",
+            "called on",
+            "called up",
+            "called for"
+          ],
+          "correct_answer": 0,
+          "explanation": "Call into question means to challenge or doubt. Contradictory research calls theories into question (challenges them). Called off means cancelled, which doesn't fit."
+        },
+        {
+          "id": "pv_q10",
+          "type": "synonym",
+          "question": "The author ________ several important issues in the conclusion.\n\nWhich phrasal verb means to mention or raise for discussion?",
+          "options": [
+            "brought up",
+            "brought down",
+            "brought in",
+            "brought out",
+            "brought about"
+          ],
+          "correct_answer": 0,
+          "explanation": "Bring up means to mention or introduce a topic. Authors bring up (mention) issues. Brought about means to cause, brought out means to publish or reveal."
+        },
+        {
+          "id": "pv_q11",
+          "type": "context_usage",
+          "question": "The meeting was ________ due to the director's unexpected illness.",
+          "options": [
+            "called off",
+            "called up",
+            "called on",
+            "called for",
+            "called in"
+          ],
+          "correct_answer": 0,
+          "explanation": "Call off means to cancel. Meetings are called off (cancelled) when necessary. Called up means to summon, called on means to visit or request."
+        },
+        {
+          "id": "pv_q12",
+          "type": "synonym",
+          "question": "The researcher ________ an interesting pattern while analyzing the data.\n\nWhich phrasal verb means to discover by chance?",
+          "options": [
+            "came across",
+            "came up",
+            "came down",
+            "came about",
+            "came through"
+          ],
+          "correct_answer": 0,
+          "explanation": "Come across means to find by chance or encounter. Researchers come across (discover) unexpected patterns. Came about means happened, came up means arose."
+        },
+        {
+          "id": "pv_q13",
+          "type": "context_usage",
+          "question": "The study ________ important questions about current teaching methods.",
+          "options": [
+            "brought up",
+            "brought down",
+            "brought in",
+            "brought out",
+            "brought over"
+          ],
+          "correct_answer": 0,
+          "explanation": "Bring up means to raise or present for consideration. Studies bring up (raise) questions. Brought down means to reduce, brought in means to introduce."
+        },
+        {
+          "id": "pv_q14",
+          "type": "synonym",
+          "question": "The deadline for applications has been ________ by two weeks.\n\nWhich phrasal verb means to extend or delay?",
+          "options": [
+            "put back",
+            "put off",
+            "put on",
+            "put up",
+            "put down"
+          ],
+          "correct_answer": 0,
+          "explanation": "Put back means to postpone to a later time. Deadlines are put back (postponed). Put off also means postpone, but put back emphasizes rescheduling to a specific later time."
+        },
+        {
+          "id": "pv_q15",
+          "type": "context_usage",
+          "question": "The researchers ________ with the experiment despite facing numerous obstacles.",
+          "options": [
+            "carried on",
+            "carried out",
+            "carried away",
+            "carried over",
+            "carried through"
+          ],
+          "correct_answer": 0,
+          "explanation": "Carry on means to continue. Researchers carry on (continue) despite difficulties. Carried out means to execute, carried through means to complete successfully."
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_quizzes": 10,
+    "total_questions": 150,
+    "difficulty_level": "intermediate",
+    "exam_type": "YDS",
+    "version": "1.0",
+    "created": "2025-10-04"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "section": "2.6",
+  "title": "Çatı ve Ettirgenlik (Voice and Causative)",
+  "topics": [
+    {
+      "id": "2.6.1",
+      "title": "Passive Voice Varyantları, By-Phrase, Get-Passive",
+      "content": "YDS'de pasif yapılar sadece temel be + past participle kalıbıyla sınırlı değildir. Sınav, özellikle by-phrase kullanımındaki nüansları, get-passive'in informal tonunu ve stative passive yapılarını test eder. By-phrase, eylemi yapanı vurgulamak gerektiğinde kullanılır ancak çoğu akademik metinde fail bilindiği veya önemsiz olduğu için atılır. 'The theory was developed (by scientists)' cümlesinde parantez içi isteğe bağlıdır. Get-passive (get + past participle) daha informal ve sıklıkla olumsuz veya kazara olan durumlarda kullanılır: 'He got fired' (işten atıldı), 'She got injured' (yaralandı). YDS sorularında, özellikle paragraf tamamlama ve cümle çevirilerinde, hangi pasif yapının bağlama uygun olduğu sorgulanır. Türk öğrencilerin yaygın hatası, her pasif cümlede by-phrase eklemektir; oysa akademik İngilizce'de fail çoğunlukla belli veya önemsizdir. Bir diğer zorluk, stative passive (be known, be located, be composed of) ile action passive arasındaki farktır. 'The building is located...' bir durum belirtir, eylem değil. YDS stratejisi: Eğer fail önemli bilgi taşımıyorsa by-phrase kullanmayın; get-passive akademik metinlerde nadirdir, daha çok günlük İngilizce'de tercih edilir; pasif yapının zamanına (present perfect passive, modal passive) dikkat edin.",
+      "examples": [
+        "The experiment was conducted by a team of researchers. (fail önemli, by-phrase kullanıldı)",
+        "The experiment was conducted in 2020. (fail önemsiz, by-phrase yok)",
+        "He got arrested for speeding. (get-passive, informal, olumsuz durum)",
+        "The data were analyzed using advanced software. (akademik, by-phrase yok)",
+        "This theory is widely accepted. (stative passive, durum)",
+        "The manuscript has been revised twice. (present perfect passive)",
+        "Mistakes should be avoided. (modal passive)",
+        "The results can be interpreted in several ways. (modal passive)",
+        "She got promoted last month. (get-passive, olumlu ama informal)",
+        "The building was designed by a famous architect. (fail önemli)",
+        "The policy is being implemented nationwide. (present continuous passive)",
+        "By whom was this theory proposed? (soru, by-phrase zorunlu)"
+      ],
+      "exercises": [
+        {
+          "question": "Academic journals are usually ---- by experts in the field before publication.",
+          "options": [
+            "reviewing",
+            "reviewed",
+            "to review",
+            "being reviewed",
+            "having reviewed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Akademik dergiler uzmanlar tarafından incelenir (pasif). 'Are reviewed' simple present passive doğru form. Çünkü genel bir gerçek ifade ediliyor."
+        },
+        {
+          "question": "The building ---- damaged during the earthquake last year.",
+          "options": [
+            "was got",
+            "got",
+            "has got",
+            "is getting",
+            "gets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Got damaged' get-passive yapısı, kazara/olumsuz durum için uygun. 'Last year' geçmiş zaman belirteci olduğu için 'got' doğru."
+        },
+        {
+          "question": "---- whom was this groundbreaking research conducted?",
+          "options": [
+            "By",
+            "With",
+            "From",
+            "To",
+            "At"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Pasif cümlelerde faili soran sorularda 'by whom' kullanılır. 'By' pasif yapılarda fail belirten edattır."
+        },
+        {
+          "question": "The results of the study ---- next month at an international conference.",
+          "options": [
+            "will present",
+            "will be presented",
+            "will have presented",
+            "are presenting",
+            "have been presented"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sonuçlar sunulacak (pasif). 'Next month' gelecek zaman belirteci, bu yüzden 'will be presented' (future passive) doğru."
+        },
+        {
+          "question": "Significant progress ---- in renewable energy technologies over the past decade.",
+          "options": [
+            "has made",
+            "has been making",
+            "has been made",
+            "was made",
+            "had made"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Over the past decade' present perfect zaman belirteci. İlerleme yapılır (pasif), bu yüzden 'has been made' doğru."
+        },
+        {
+          "question": "In most academic papers, the methodology section ---- the author's name to maintain objectivity.",
+          "options": [
+            "doesn't mention by",
+            "isn't mentioned by",
+            "doesn't get mentioned by",
+            "isn't mentioning by",
+            "doesn't mention"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Aktif yapı: 'doesn't mention'. Metodoloji bölümü (özne) yazarın adını (nesne) anmaz. Pasif değil aktif yapı gerekli."
+        },
+        {
+          "question": "The ancient manuscript ---- in a monastery library in 1998.",
+          "options": [
+            "discovered",
+            "was discovering",
+            "has discovered",
+            "was discovered",
+            "is discovered"
+          ],
+          "correctAnswer": 3,
+          "explanation": "El yazması keşfedildi (pasif). '1998' belirli geçmiş zaman, 'was discovered' (simple past passive) doğru."
+        },
+        {
+          "question": "All participants ---- informed consent before the experiment began.",
+          "options": [
+            "were given",
+            "gave",
+            "had given",
+            "have given",
+            "are giving"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Katılımcılara onay formu verildi (pasif). 'Were given' past passive doğru çünkü 'before the experiment began' geçmiş zaman bağlamı."
+        },
+        {
+          "question": "The theory ---- by several subsequent studies that confirmed its validity.",
+          "options": [
+            "supported",
+            "was supported",
+            "has supported",
+            "is supporting",
+            "supports"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Teori desteklendi (pasif). 'Was supported' past passive, çünkü sonraki çalışmalar (geçmiş) tarafından desteklendiği belirtiliyor."
+        },
+        {
+          "question": "New safety regulations ---- implemented across all university laboratories.",
+          "options": [
+            "currently being",
+            "are currently being",
+            "currently are",
+            "being currently",
+            "are being currently"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yeni düzenlemeler şu anda uygulanıyor (pasif, devam ediyor). 'Are currently being implemented' present continuous passive, zarf ortada."
+        },
+        {
+          "question": "Despite multiple attempts, the problem ---- solved until a new approach was tried.",
+          "options": [
+            "didn't get",
+            "wasn't getting",
+            "hasn't got",
+            "hadn't been",
+            "wasn't"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Didn't get solved' get-passive ile past simple. 'Until... was tried' past simple bağlamı gösteriyor."
+        },
+        {
+          "question": "This hypothesis ---- on extensive observational data collected over five years.",
+          "options": [
+            "based",
+            "is basing",
+            "has based",
+            "is based",
+            "was basing"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Is based on' stative passive yapı. Hipotez verilere dayanır (durum, eylem değil). Present simple passive doğru."
+        }
+      ]
+    },
+    {
+      "id": "2.6.2",
+      "title": "Causative: Have/Get Something Done",
+      "content": "Causative yapılar, bir işi başkasına yaptırma anlamı taşır ve YDS'de özellikle cümle tamamlama sorularında sıkça test edilir. Temel iki form vardır: 'have something done' (daha formal, planlı) ve 'get something done' (daha informal, çaba gerektiren). 'I had my car repaired' (arabamı tamir ettirdim) planlı bir işi ifade ederken, 'I got my car repaired' daha fazla çaba veya zorluk ima eder. YDS'de dikkat edilmesi gereken nokta, nesne (something) ile past participle (done) arasındaki ilişkinin pasif olmasıdır: 'have/get + nesne + past participle'. Türk öğrencilerin yaygın hatası, 'I had repair my car' gibi yanlış yapılar kurmaktır; doğrusu 'I had my car repaired'. Bir diğer causative yapı, 'make/let/have someone do something' (birini bir şey yaptırmak) kalıbıdır: make (zorla), let (izin vererek), have (rica/talimat ile). 'She made me wait' (beni bekletti), 'They let me leave early' (erken çıkmama izin verdiler). YDS sorularında bu yapılar genellikle cümle çevirisi veya boşluk doldurma formatında gelir. Stratejiler: Have/get + nesne + past participle (işi yaptırmak); make/let/have + kişi + bare infinitive (kişiyi yaptırmak); get + kişi + to-infinitive (birini ikna ederek yaptırmak).",
+      "examples": [
+        "I had my thesis proofread by a professional editor. (formal, planlı)",
+        "She got her laptop fixed yesterday. (informal, çaba gerekti)",
+        "We need to have these documents translated. (planlı iş)",
+        "He finally got his article published. (çaba sonucu)",
+        "The professor had the students submit their papers online. (talimat)",
+        "They made us redo the experiment. (zorla)",
+        "She let me use her library card. (izin verdi)",
+        "I'll get someone to help you with that. (birini ikna edip yardım ettireceğim)",
+        "He had his assistant schedule the meetings. (asistanına planlatma talimatı)",
+        "We got the technician to check the equipment. (teknisyeni ikna ettik)",
+        "You should have your eyes tested regularly. (gözlerinizi test ettirmelisiniz)",
+        "She had her name changed legally. (adını yasal olarak değiştirtti)"
+      ],
+      "exercises": [
+        {
+          "question": "Before submitting the manuscript, the author ---- by a native speaker.",
+          "options": [
+            "had it reviewed",
+            "had reviewed it",
+            "got it review",
+            "made it reviewed",
+            "let it review"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Had it reviewed' causative yapı: el yazmasını gözden geçirtti. 'Have + nesne + past participle' yapısı doğru."
+        },
+        {
+          "question": "The university requires all international students ---- a medical examination before enrollment.",
+          "options": [
+            "have",
+            "to have",
+            "having",
+            "had",
+            "to be having"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Require someone to do something' yapısı. 'To have' (to-infinitive) doğru. Bu durumda 'have' yaptırma anlamında değil, 'olmak' anlamında."
+        },
+        {
+          "question": "After several attempts, she finally ---- her research paper accepted by a prestigious journal.",
+          "options": [
+            "had",
+            "got",
+            "made",
+            "let",
+            "was getting"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Got her paper accepted' (makalesini kabul ettirdi). 'Finally' kelimesi çaba gerektiren bir süreci ima eder, bu yüzden 'got' (get causative) uygun."
+        },
+        {
+          "question": "The professor ---- the students rewrite their conclusions to make them more precise.",
+          "options": [
+            "had",
+            "got",
+            "let",
+            "made",
+            "allowed"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Had the students rewrite' (öğrencilere yeniden yazdırdı/talimat verdi). 'Have + kişi + bare infinitive' akademik bağlamda talimat için uygun."
+        },
+        {
+          "question": "You should ---- before the deadline to avoid penalties.",
+          "options": [
+            "have your fees paid",
+            "have paid your fees",
+            "get your fees pay",
+            "make your fees paid",
+            "let your fees paid"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Have your fees paid' (ücretlerinizi ödettirmelisiniz). 'Have + nesne + past participle' yapısı doğru."
+        },
+        {
+          "question": "The supervisor ---- early to finalize the report.",
+          "options": [
+            "let me leave",
+            "let me to leave",
+            "let me leaving",
+            "allowed me leave",
+            "had me leaving"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Let me leave' (erken çıkmama izin verdi). 'Let + kişi + bare infinitive' yapısı doğru."
+        },
+        {
+          "question": "We ---- the equipment checked by a specialist before starting the experiment.",
+          "options": [
+            "must have",
+            "must have had",
+            "must get",
+            "must be having",
+            "must have been"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Must have had the equipment checked' (ekipmanı kontrol ettirmiş olmalıyız). Modal + causative yapı: modal + have + nesne + past participle."
+        },
+        {
+          "question": "The editor ---- the author revise several sections of the manuscript.",
+          "options": [
+            "got",
+            "made",
+            "let",
+            "allowed",
+            "permitted"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Made the author revise' (yazarı revize etmeye zorladı). 'Make' zorlama/mecburiyet anlamı taşır, editörün talebi için uygun."
+        },
+        {
+          "question": "I need to ---- before the presentation.",
+          "options": [
+            "have my slides prepared",
+            "have prepared my slides",
+            "get my slides prepare",
+            "make my slides prepared",
+            "let my slides prepared"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Have my slides prepared' (slaytlarımı hazırlatmalıyım). 'Have + nesne + past participle' causative yapı."
+        },
+        {
+          "question": "The committee ---- the applicants provide additional documentation.",
+          "options": [
+            "had",
+            "got",
+            "let",
+            "allowed",
+            "made to"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Had the applicants provide' (başvuru sahiplerinden ek belge talep etti). 'Have + kişi + bare infinitive' talimat anlamı."
+        },
+        {
+          "question": "She couldn't ---- to help her with the statistical analysis.",
+          "options": [
+            "get anyone",
+            "have anyone",
+            "make anyone",
+            "let anyone",
+            "allow anyone"
+          ],
+          "explanation": "'Couldn't get anyone to help' (kimseyi yardım etmeye ikna edemedi). 'Get + kişi + to-infinitive' ikna etme anlamı.",
+          "correctAnswer": 0
+        },
+        {
+          "question": "The institution ---- all staff members attend the mandatory training session.",
+          "options": [
+            "had",
+            "got",
+            "let",
+            "made",
+            "allowed"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Made all staff attend' (tüm personeli katılmaya zorladı). 'Mandatory' (zorunlu) kelimesi 'make' (zorla) fiilini gerektirir."
+        }
+      ]
+    }
+  ]
+}

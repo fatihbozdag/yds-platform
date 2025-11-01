@@ -1,0 +1,438 @@
+{
+  "section": "4.1",
+  "title": "Metin Türleri",
+  "topics": [
+    {
+      "id": "4.1.1",
+      "title": "Araştırma Özeti, Literatür Genel Bakışı, Yöntem-Bulgu Yorumu",
+      "content": "YDS ve YÖKDİL sınavlarında en sık karşılaşılan akademik metin türleri araştırma özeti (abstract), literatür taraması (literature review) ve yöntem-bulgu bölümleridir. Bu metinler belirli yapısal ve üslupsal özelliklere sahiptir.\n\nAraştırma özetleri genellikle şu bölümlerden oluşur: araştırmanın amacı (purpose), yöntem (methodology), bulgular (findings) ve sonuç (conclusion). Özetlerde genellikle present simple tense kullanılır (\"This study examines...\") ancak bulgular için past tense de yaygındır (\"Results showed that...\").\n\nLiteratür genel bakışları mevcut çalışmaları sentezler ve karşılaştırır. Bu metinlerde sıklıkla \"Previous research has shown...\", \"Several studies have indicated...\", \"There is growing evidence that...\" gibi kalıplar kullanılır. Present perfect tense araştırma geleneğini ifade etmek için tercih edilir.\n\nYöntem bölümleri geçmişte yapılan işlemleri anlatır, bu nedenle past tense hakimdir: \"Participants were recruited...\", \"Data was collected through...\". Bulgular kısmında ise hem past tense (\"The analysis revealed...\") hem de present tense (\"Table 1 shows...\") kullanılabilir.\n\nYorum cümleleri genellikle modal fiiller içerir: \"These results suggest that...\", \"This finding may indicate...\", \"It could be argued that...\". Akademik metinlerde kesinlik derecesi önemlidir: \"clearly\", \"possibly\", \"probably\", \"arguably\" gibi zarflar yazarın iddiasının gücünü gösterir.\n\nBu metin türlerinde impersonal yapılar tercih edilir: \"It was found that...\" yerine \"The study found that...\" veya \"Findings indicate...\" gibi ifadeler kullanılır. Pasif yapılar da yaygındır çünkü odak eylemde, yapan kişide değildir.",
+      "examples": [
+        {
+          "type": "research_abstract",
+          "text": "This study examines the relationship between vocabulary size and reading comprehension among EFL learners. Participants (N=120) completed vocabulary and reading tests. Results showed a strong positive correlation (r=0.78) between the two variables. These findings suggest that vocabulary instruction should be prioritized in reading courses.",
+          "translation": "Bu çalışma, İngilizce yabancı dil öğrenenler arasında kelime dağarcığı boyutu ile okuduğunu anlama arasındaki ilişkiyi incelemektedir. Katılımcılar (N=120) kelime ve okuma testlerini tamamlamıştır. Sonuçlar, iki değişken arasında güçlü pozitif bir korelasyon (r=0.78) göstermiştir. Bu bulgular, okuma derslerinde kelime öğretimine öncelik verilmesi gerektiğini ortaya koymaktadır."
+        },
+        {
+          "type": "literature_review",
+          "text": "Previous research has consistently demonstrated that explicit grammar instruction leads to improved accuracy in L2 writing (Ellis, 2006; Norris & Ortega, 2000). However, several recent studies have questioned the long-term retention of these gains (Larsen-Freeman, 2015).",
+          "translation": "Önceki araştırmalar, açık dilbilgisi öğretiminin İ2 yazımında artan doğruluğa yol açtığını tutarlı bir şekilde göstermiştir (Ellis, 2006; Norris & Ortega, 2000). Ancak, birkaç yeni çalışma bu kazanımların uzun vadeli kalıcılığını sorgulamıştır (Larsen-Freeman, 2015)."
+        },
+        {
+          "type": "methodology",
+          "text": "Data was collected through semi-structured interviews conducted over a three-month period. Each interview lasted approximately 45 minutes and was audio-recorded with participants' consent. The recordings were transcribed verbatim and analyzed using thematic analysis.",
+          "translation": "Veriler, üç aylık bir süre boyunca yapılan yarı yapılandırılmış görüşmeler yoluyla toplanmıştır. Her görüşme yaklaşık 45 dakika sürmüş ve katılımcıların onayı ile ses kaydı yapılmıştır. Kayıtlar kelimesi kelimesine yazıya geçirilmiş ve tematik analiz kullanılarak incelenmiştir."
+        },
+        {
+          "type": "findings",
+          "text": "The analysis revealed three major themes: (1) motivation decline over time, (2) lack of authentic materials, and (3) limited opportunities for practice. Table 2 presents the frequency distribution of these themes across participant groups.",
+          "translation": "Analiz üç ana tema ortaya çıkarmıştır: (1) zaman içinde motivasyon düşüşü, (2) özgün materyallerin eksikliği ve (3) sınırlı uygulama fırsatları. Tablo 2, bu temaların katılımcı grupları arasındaki frekans dağılımını sunmaktadır."
+        },
+        {
+          "type": "discussion",
+          "text": "These findings suggest that traditional approaches to vocabulary teaching may not adequately address the needs of advanced learners. The results could be interpreted as evidence for a more contextualized approach to lexical instruction.",
+          "translation": "Bu bulgular, kelime öğretimine yönelik geleneksel yaklaşımların ileri düzey öğrenenlerin ihtiyaçlarını yeterince karşılamayabileceğini düşündürmektedir. Sonuçlar, sözcüksel öğretime yönelik daha bağlamsallaştırılmış bir yaklaşımın kanıtı olarak yorumlanabilir."
+        },
+        {
+          "type": "conclusion",
+          "text": "In conclusion, this study provides empirical support for the role of metacognitive strategies in L2 listening comprehension. Further research is needed to explore the underlying mechanisms through which these strategies facilitate understanding.",
+          "translation": "Sonuç olarak, bu çalışma üstbilişsel stratejilerin İ2 dinleme anlama becerilerindeki rolü için ampirik destek sağlamaktadır. Bu stratejilerin anlamayı kolaylaştırdığı temel mekanizmaları araştırmak için daha fazla araştırmaya ihtiyaç vardır."
+        },
+        {
+          "type": "hedging",
+          "text": "It appears that motivation plays a crucial role in language learning success. The data seems to indicate that intrinsic motivation may be more important than extrinsic rewards in sustaining long-term engagement.",
+          "translation": "Motivasyonun dil öğrenme başarısında hayati bir rol oynadığı görülmektedir. Veriler, içsel motivasyonun uzun vadeli bağlılığı sürdürmede dışsal ödüllerden daha önemli olabileceğine işaret etmektedir."
+        },
+        {
+          "type": "causality",
+          "text": "The improvement in test scores can be attributed to the intensive training program. This suggests a causal relationship between practice frequency and performance gains.",
+          "translation": "Test puanlarındaki iyileşme yoğun eğitim programına bağlanabilir. Bu, uygulama sıklığı ile performans kazanımları arasında nedensel bir ilişki olduğunu düşündürmektedir."
+        },
+        {
+          "type": "comparison",
+          "text": "Compared to the control group, the experimental group showed significantly higher scores on all measures. In contrast, no significant differences emerged between age groups.",
+          "translation": "Kontrol grubu ile karşılaştırıldığında, deney grubu tüm ölçümlerde önemli ölçüde daha yüksek puanlar göstermiştir. Buna karşın, yaş grupları arasında önemli farklılıklar ortaya çıkmamıştır."
+        },
+        {
+          "type": "limitation",
+          "text": "Several limitations should be acknowledged. First, the sample size was relatively small, limiting generalizability. Second, the study relied on self-reported data, which may be subject to bias.",
+          "translation": "Birkaç sınırlılık kabul edilmelidir. İlk olarak, örneklem boyutu nispeten küçüktür ve bu genellenebilirliği sınırlamaktadır. İkinci olarak, çalışma öz-bildirime dayalı verilere dayanmıştır ve bu önyargıya tabi olabilir."
+        }
+      ],
+      "exercises": [
+        {
+          "id": 1,
+          "question": "According to the abstract, the primary purpose of the study was to ----.",
+          "text": "This study investigates the effectiveness of peer feedback in improving academic writing skills among undergraduate students. Fifty students participated in a semester-long writing course incorporating weekly peer review sessions. Pre- and post-tests revealed significant improvements in organization and argumentation.",
+          "options": [
+            "compare different feedback methods",
+            "examine peer feedback effectiveness",
+            "train undergraduate writing instructors",
+            "develop new assessment criteria",
+            "evaluate semester-long courses"
+          ],
+          "correct": 1,
+          "explanation": "Metnin ilk cümlesi açıkça çalışmanın amacını belirtir: 'investigates the effectiveness of peer feedback'. Diğer seçenekler metinde bahsedilmez veya yan unsurlardır."
+        },
+        {
+          "id": 2,
+          "question": "The phrase 'several recent studies have questioned' suggests that ----.",
+          "text": "Previous research has consistently demonstrated that explicit grammar instruction leads to improved accuracy. However, several recent studies have questioned the long-term retention of these gains.",
+          "options": [
+            "all research agrees on the topic",
+            "there is emerging doubt about previous findings",
+            "the studies have definitively disproven earlier work",
+            "no one supports grammar instruction anymore",
+            "recent research confirms older studies"
+          ],
+          "correct": 1,
+          "explanation": "'Have questioned' ifadesi şüphe veya sorgulama anlamına gelir, bu da önceki bulgulara karşı ortaya çıkan tereddüdü gösterir. Kesin bir çürütme veya tam fikir birliği değil."
+        },
+        {
+          "id": 3,
+          "question": "In methodology sections, past tense is typically used because ----.",
+          "options": [
+            "academic writing requires formal language",
+            "the actions have already been completed",
+            "it makes the text more objective",
+            "present tense is grammatically incorrect",
+            "all research must use past tense"
+          ],
+          "correct": 1,
+          "explanation": "Yöntem bölümleri geçmişte tamamlanmış işlemleri anlatır ('Data was collected...', 'Participants were recruited...'), bu nedenle past tense kullanılır."
+        },
+        {
+          "id": 4,
+          "question": "The phrase 'These findings suggest that' indicates ----.",
+          "options": [
+            "absolute certainty about the conclusion",
+            "a tentative interpretation of results",
+            "disagreement with previous research",
+            "the need for more data collection",
+            "criticism of the methodology"
+          ],
+          "correct": 1,
+          "explanation": "'Suggest' modal bir fiildir ve kesinlik değil, olasılık ifade eder. Akademik metinlerde bu tür hedging (çekince) ifadeleri yorumların ihtiyatlı olduğunu gösterir."
+        },
+        {
+          "id": 5,
+          "question": "Which statement is characteristic of literature review sections?",
+          "options": [
+            "They describe the researcher's own experiments",
+            "They present raw statistical data",
+            "They synthesize and compare existing studies",
+            "They list all possible references chronologically",
+            "They focus only on the most recent publications"
+          ],
+          "correct": 2,
+          "explanation": "Literatür taraması bölümleri mevcut çalışmaları sentezler, karşılaştırır ve değerlendirir. Ham veri sunmaz veya sadece yeni yayınlara odaklanmaz."
+        },
+        {
+          "id": 6,
+          "question": "The use of 'may' in 'This finding may indicate' shows ----.",
+          "options": [
+            "permission to interpret the data",
+            "uncertainty or possibility",
+            "a request for further research",
+            "disagreement among researchers",
+            "statistical significance"
+          ],
+          "correct": 1,
+          "explanation": "'May' modal fiili olasılık ve belirsizlik ifade eder. Akademik yazımda iddialar genellikle bu şekilde yumuşatılır (hedging)."
+        },
+        {
+          "id": 7,
+          "question": "In results sections, present tense (e.g., 'Table 1 shows') is used when ----.",
+          "options": [
+            "describing historical research",
+            "referring to figures or tables in the paper",
+            "discussing other researchers' findings",
+            "explaining theoretical background",
+            "listing research limitations"
+          ],
+          "correct": 1,
+          "explanation": "Tablolar ve şekiller mevcut dokümanda vardır, bu nedenden onlara atıfta present tense kullanılır ('Table 1 shows', 'Figure 2 illustrates')."
+        },
+        {
+          "id": 8,
+          "question": "The phrase 'Previous research has shown' uses present perfect because ----.",
+          "options": [
+            "the research is currently ongoing",
+            "it connects past research to present relevance",
+            "the authors disagree with the research",
+            "it is the only grammatically correct form",
+            "all citations require present perfect"
+          ],
+          "correct": 1,
+          "explanation": "Present perfect geçmiş araştırmaların şimdiki zamandaki alakasını vurgular. 'Has shown' geçmişte başlayan ve hala geçerli olan bir durumu ifade eder."
+        },
+        {
+          "id": 9,
+          "question": "Which phrase indicates the strongest claim?",
+          "options": [
+            "The data might suggest that...",
+            "It could be argued that...",
+            "Results clearly demonstrate that...",
+            "It appears that...",
+            "This may indicate that..."
+          ],
+          "correct": 2,
+          "explanation": "'Clearly demonstrate' en güçlü iddiayı ifade eder. Diğer seçeneklerin hepsi hedging (çekince) içerir: might, could, appears, may."
+        },
+        {
+          "id": 10,
+          "question": "The phrase 'Further research is needed' typically appears in ---- sections.",
+          "options": [
+            "Abstract",
+            "Introduction",
+            "Methodology",
+            "Results",
+            "Conclusion or Discussion"
+          ],
+          "correct": 4,
+          "explanation": "Gelecek araştırma önerileri genellikle tartışma veya sonuç bölümlerinde yer alır, çünkü bu bölümler çalışmanın katkılarını ve sınırlılıklarını değerlendirir."
+        },
+        {
+          "id": 11,
+          "question": "Passive voice is preferred in methodology sections primarily to ----.",
+          "options": [
+            "make sentences longer and more complex",
+            "focus on actions rather than the researcher",
+            "follow grammatical rules strictly",
+            "impress readers with formal language",
+            "avoid using past tense"
+          ],
+          "correct": 1,
+          "explanation": "Pasif yapı odağı eyleme koyar, kişiye değil: 'Data was collected' (by whom is less important). Bu akademik yazımda nesnellik sağlar."
+        },
+        {
+          "id": 12,
+          "question": "The phrase 'can be attributed to' indicates ----.",
+          "options": [
+            "a temporal sequence",
+            "a causal relationship",
+            "a contradiction",
+            "an example",
+            "a definition"
+          ],
+          "correct": 1,
+          "explanation": "'Can be attributed to' bir sonucun nedenini belirtir: 'The improvement can be attributed to training' = training caused the improvement."
+        }
+      ]
+    },
+    {
+      "id": "4.1.2",
+      "title": "Popüler Bilim Metinleri ve Haber Analizi",
+      "content": "YDS ve YÖKDİL sınavlarında akademik metinlerin yanı sıra popüler bilim yazıları ve haber metinlerine de yer verilir. Bu metinler araştırma makalelerinden farklı üslup ve yapısal özelliklere sahiptir.\n\nPopüler bilim metinleri (popular science articles) bilimsel konuları genel okuyucu kitlesi için anlaşılır hale getirir. Bu metinlerde teknik terimler genellikle açıklanır veya günlük dile yakın kelimelerle ifade edilir. Örneğin, 'photosynthesis' için 'the process by which plants convert sunlight into energy' gibi açıklamalar kullanılabilir.\n\nPopüler bilim yazılarında anlatı öğeleri sıklıkla kullanılır: somut örnekler, kişisel hikayeler, karşılaştırmalar ve mecazlar. 'Scientists have discovered' yerine 'A team of researchers at Oxford made a surprising discovery' gibi daha canlı ifadeler tercih edilir. Sorular okuyucuyu metne dahil etmek için kullanılır: 'Have you ever wondered why...?'\n\nHaber metinleri ise tersine piramit (inverted pyramid) yapısını izler: en önemli bilgiler başta, detaylar sonra gelir. İlk paragraf (lead) genellikle 5W1H sorularını yanıtlar: Who (kim), What (ne), When (ne zaman), Where (nerede), Why (neden), How (nasıl).\n\nHaber dilinde aktif yapılar ve kısa cümleler hakimdir. Present perfect genellikle yeni gelişmeleri ifade etmek için kullanılır: 'Scientists have announced...', 'A new study has revealed...'. Atıf yaparken 'according to', 'sources say', 'experts claim' gibi kalıplar sıktır.\n\nBilim haberlerinde genellikle uzmanlardan doğrudan alıntılar yer alır: 'As Dr. Smith explains, \"This discovery could revolutionize treatment.\"' Bu alıntılar habere güvenilirlik katar. Ancak, popüler bilim yazılarında bilimsel bulguların bazen abartıldığı da görülebilir (hype), bu nedenle eleştirel okuma önemlidir.",
+      "examples": [
+        {
+          "type": "popular_science_opening",
+          "text": "Have you ever wondered why some people seem to pick up languages effortlessly while others struggle? A groundbreaking new study from MIT neuroscientists may finally provide the answer. The research, published in Nature Neuroscience, suggests that brain structure differences present from birth could explain these variations in language-learning ability.",
+          "translation": "Hiç bazı insanların dilleri zahmetsizce öğrenirken diğerlerinin neden zorlandığını merak ettiniz mi? MIT nörobilimcilerinin çığır açan yeni bir çalışması sonunda cevabı sunabilir. Nature Neuroscience dergisinde yayınlanan araştırma, doğumdan itibaren mevcut olan beyin yapısı farklılıklarının dil öğrenme yeteneğindeki bu değişimleri açıklayabileceğini öne sürmektedir."
+        },
+        {
+          "type": "science_explanation",
+          "text": "Think of your immune system as an army defending your body. White blood cells are the soldiers, constantly patrolling for invaders like bacteria and viruses. When they detect a threat, they launch a coordinated attack, releasing chemical weapons to neutralize the enemy.",
+          "translation": "Bağışıklık sisteminizi vücudunuzu savunan bir ordu olarak düşünün. Beyaz kan hücreleri askerlerdir ve bakteri ve virüsler gibi istilacıları sürekli denetlerler. Bir tehdit tespit ettiklerinde, düşmanı etkisiz hale getirmek için kimyasal silahlar serbest bırakarak koordineli bir saldırı başlatırlar."
+        },
+        {
+          "type": "news_lead",
+          "text": "LONDON – A team of international scientists has announced a major breakthrough in the fight against Alzheimer's disease. The new drug, tested on over 1,000 patients in clinical trials, showed a 30% reduction in cognitive decline over 18 months, researchers reported Tuesday in The Lancet.",
+          "translation": "LONDRA – Uluslararası bir bilim insanı ekibi, Alzheimer hastalığıyla mücadelede büyük bir atılım açıkladı. Klinik denemelerde 1.000'den fazla hasta üzerinde test edilen yeni ilaç, 18 ay boyunca bilişsel gerileme de %30 azalma gösterdiğini araştırmacılar The Lancet dergisinde Salı günü bildirdi."
+        },
+        {
+          "type": "expert_quote",
+          "text": "\"This is the most significant development in cancer treatment in the past decade,\" says Dr. Jennifer Martinez, an oncologist at Johns Hopkins University who was not involved in the study. \"If these results hold up in larger trials, we could be looking at a paradigm shift in how we approach this disease.\"",
+          "translation": "\"Bu, son on yılın kanser tedavisindeki en önemli gelişmesidir,\" diyor çalışmada yer almayan Johns Hopkins Üniversitesi onkoloğu Dr. Jennifer Martinez. \"Bu sonuçlar daha büyük denemelerde doğrulanırsa, bu hastalığa yaklaşımımızda bir paradigma değişimine tanık olabiliriz.\""
+        },
+        {
+          "type": "contrast_structure",
+          "text": "While conventional wisdom held that multitasking boosts productivity, recent research paints a different picture. Studies show that switching between tasks actually reduces efficiency by up to 40%. In fact, what we call multitasking is really rapid task-switching, and each switch carries a cognitive cost.",
+          "translation": "Geleneksel bilgelik, çoklu görev yapmanın verimliliği artırdığını savunurken, son araştırmalar farklı bir tablo çiziyor. Çalışmalar, görevler arasında geçiş yapmanın aslında verimliliği %40'a kadar azalttığını gösteriyor. Aslında, çoklu görev dediğimiz şey gerçekten hızlı görev değiştirme ve her değişim bilişsel bir maliyet taşıyor."
+        },
+        {
+          "type": "analogy",
+          "text": "Understanding DNA replication is like understanding how a photocopier works. Just as a copier scans a document and creates an exact duplicate, cellular machinery reads the DNA sequence and produces an identical copy. However, unlike a copier, this biological process can occasionally make mistakes, leading to mutations.",
+          "translation": "DNA replikasyonunu anlamak, bir fotokopi makinesinin nasıl çalıştığını anlamak gibidir. Bir fotokopi makinesi bir belgeyi tarayıp tam bir kopyasını oluşturduğu gibi, hücresel mekanizma DNA dizisini okur ve özdeş bir kopya üretir. Ancak, bir fotokopi makinesinin aksine, bu biyolojik süreç ara sıra hatalar yapabilir ve bu mutasyonlara yol açar."
+        },
+        {
+          "type": "statistical_presentation",
+          "text": "The numbers are staggering: global carbon emissions have increased by 60% since 1990, with the transportation sector accounting for nearly a quarter of the total. Meanwhile, renewable energy still represents only 11% of global energy consumption, despite a decade of growth.",
+          "translation": "Rakamlar şaşırtıcı: küresel karbon emisyonları 1990'dan bu yana %60 artmış durumda ve ulaşım sektörü toplamın neredeyse dörtte birini oluşturuyor. Bu arada, on yıllık bir büyümeye rağmen yenilenebilir enerji hala küresel enerji tüketiminin sadece %11'ini temsil ediyor."
+        },
+        {
+          "type": "problem_solution",
+          "text": "Ocean plastic pollution has reached crisis levels, with an estimated 8 million tons entering the seas annually. Now, engineers have developed a promising solution: autonomous drones that patrol coastlines, collecting debris before it drifts into open water. Early trials in Indonesia removed over 100 tons of waste in just six months.",
+          "translation": "Okyanus plastik kirliliği kriz seviyelerine ulaştı ve yıllık 8 milyon tonun denizlere girdiği tahmin ediliyor. Şimdi, mühendisler umut verici bir çözüm geliştirdi: açık sulara sürüklenmeden önce kıyı şeritleri devriye gezen ve atıkları toplayan otonom insansız hava araçları. Endonezya'daki ilk denemeler sadece altı ayda 100 tonun üzerinde atık topladı."
+        },
+        {
+          "type": "temporal_markers",
+          "text": "Initially, researchers believed the virus spread only through direct contact. However, subsequent studies revealed airborne transmission was also possible. By March 2020, evidence had accumulated showing respiratory droplets were the primary vector. More recently, attention has shifted to understanding long-term health effects in recovered patients.",
+          "translation": "Başlangıçta, araştırmacılar virüsün sadece doğrudan temas yoluyla yayıldığına inanıyordu. Ancak, sonraki çalışmalar hava yoluyla bulaşmanın da mümkün olduğunu ortaya çıkardı. Mart 2020'ye kadar, solunum damlacıklarının birincil vektör olduğunu gösteren kanıtlar birikti. Daha yakın zamanlarda, dikkatler iyileşen hastalarda uzun vadeli sağlık etkilerini anlamaya kaydı."
+        },
+        {
+          "type": "cautionary_tone",
+          "text": "While the preliminary results are encouraging, experts caution against premature optimism. \"We need to see these findings replicated in larger, more diverse populations,\" warns Dr. Chen. \"It's too early to claim we've found a cure. What we have is a promising lead that requires years of additional research.\"",
+          "translation": "Ön sonuçlar cesaret verici olsa da, uzmanlar erken iyimserliğe karşı uyarıyor. \"Bu bulguların daha büyük, daha çeşitli popülasyonlarda tekrarlandığını görmemiz gerekiyor,\" diye uyarıyor Dr. Chen. \"Bir tedavi bulduğumuzu iddia etmek için çok erken. Elimizde olan, yıllar sürecek ek araştırma gerektiren umut verici bir ipucu.\""
+        }
+      ],
+      "exercises": [
+        {
+          "id": 1,
+          "question": "The opening question in popular science articles primarily serves to ----.",
+          "options": [
+            "test readers' prior knowledge",
+            "engage readers and introduce the topic",
+            "criticize common misconceptions",
+            "summarize the article's conclusion",
+            "cite previous research"
+          ],
+          "correct": 1,
+          "explanation": "Popüler bilim yazılarındaki açılış soruları okuyucuyu konuya dahil etmek ve ilgisini çekmek için kullanılır ('Have you ever wondered...')."
+        },
+        {
+          "id": 2,
+          "question": "In news articles, the lead paragraph typically ----.",
+          "options": [
+            "provides detailed background information",
+            "includes the journalist's personal opinion",
+            "answers who, what, when, where, why, and how",
+            "lists all sources consulted",
+            "explains the methodology used"
+          ],
+          "correct": 2,
+          "explanation": "Haber yazılarında ilk paragraf (lead) genellikle 5W1H sorularını yanıtlar ve en önemli bilgileri verir (inverted pyramid structure)."
+        },
+        {
+          "id": 3,
+          "question": "The phrase 'groundbreaking new study' in popular science suggests ----.",
+          "options": [
+            "the research involved excavation",
+            "the study is very recent and significant",
+            "the findings are widely disputed",
+            "the methodology was flawed",
+            "previous research was incorrect"
+          ],
+          "correct": 1,
+          "explanation": "'Groundbreaking' mecazi anlamda 'çığır açan, yenilikçi' demektir. Popüler bilim yazılarında bulguların önemini vurgulamak için kullanılır."
+        },
+        {
+          "id": 4,
+          "question": "Analogies in popular science texts are used to ----.",
+          "options": [
+            "prove scientific theories definitively",
+            "replace technical explanations entirely",
+            "make complex concepts more accessible",
+            "challenge readers' understanding",
+            "criticize traditional approaches"
+          ],
+          "correct": 2,
+          "explanation": "Benzetmeler (analogies) karmaşık bilimsel kavramları günlük yaşamdan örneklerle açıklar: 'DNA replication is like a photocopier...'"
+        },
+        {
+          "id": 5,
+          "question": "The phrase 'experts caution against' indicates ----.",
+          "options": [
+            "complete disagreement with findings",
+            "strong support for the research",
+            "warning about overinterpretation",
+            "request for more funding",
+            "celebration of a breakthrough"
+          ],
+          "correct": 2,
+          "explanation": "'Caution against' uyarı yapmak anlamına gelir. Uzmanlar genellikle erken iyimserliğe veya aşırı yorumlara karşı uyarır."
+        },
+        {
+          "id": 6,
+          "question": "In science news, 'according to the study' serves to ----.",
+          "options": [
+            "express the journalist's opinion",
+            "attribute information to a source",
+            "question the research validity",
+            "introduce contradictory evidence",
+            "end the article"
+          ],
+          "correct": 1,
+          "explanation": "'According to' bilgiyi kaynağına atfeder. Haber yazılarında objektiflik sağlamak için atıf ifadeleri sıkça kullanılır."
+        },
+        {
+          "id": 7,
+          "question": "Which phrase suggests the strongest certainty in scientific reporting?",
+          "options": [
+            "The data suggests that...",
+            "Researchers believe...",
+            "The study conclusively demonstrates...",
+            "It appears that...",
+            "Scientists speculate..."
+          ],
+          "correct": 2,
+          "explanation": "'Conclusively demonstrates' kesin kanıt ve güçlü sonuç ifade eder. Diğer seçenekler belirsizlik içerir (suggests, believe, appears, speculate)."
+        },
+        {
+          "id": 8,
+          "question": "The phrase 'while conventional wisdom held' introduces ----.",
+          "options": [
+            "support for traditional views",
+            "a temporal sequence",
+            "a contrast with new findings",
+            "agreement among experts",
+            "historical background only"
+          ],
+          "correct": 2,
+          "explanation": "'While' burada karşıtlık bağlacıdır. 'Conventional wisdom held... but recent research shows...' yapısı eski ve yeni görüşleri karşılaştırır."
+        },
+        {
+          "id": 9,
+          "question": "Direct quotes from experts in news articles primarily provide ----.",
+          "options": [
+            "entertainment value",
+            "credibility and authority",
+            "unnecessary repetition",
+            "personal stories",
+            "advertising for institutions"
+          ],
+          "correct": 1,
+          "explanation": "Uzman alıntıları habere güvenilirlik ve otorite katar. Okuyucu, bilginin kaynaklı olduğunu görür."
+        },
+        {
+          "id": 10,
+          "question": "The phrase 'the numbers are staggering' is an example of ----.",
+          "options": [
+            "objective statistical reporting",
+            "emotional language to emphasize significance",
+            "technical terminology",
+            "hedging language",
+            "neutral academic tone"
+          ],
+          "correct": 1,
+          "explanation": "'Staggering' (şaşırtıcı, çarpıcı) duygusal bir sıfattır. Popüler bilim yazıları okuyucuyu etkilemek için böyle betimleyici dil kullanır."
+        },
+        {
+          "id": 11,
+          "question": "In the phrase 'subsequent studies revealed', 'subsequent' indicates ----.",
+          "options": [
+            "studies conducted simultaneously",
+            "studies that came after earlier ones",
+            "more important studies",
+            "less reliable studies",
+            "contradictory studies"
+          ],
+          "correct": 1,
+          "explanation": "'Subsequent' 'sonraki, arkadan gelen' anlamındadır. Zamansal sırayı gösterir: 'Initially... however, subsequent studies...'."
+        },
+        {
+          "id": 12,
+          "question": "The phrase 'if these results hold up' suggests ----.",
+          "options": [
+            "complete confidence in findings",
+            "conditional acceptance pending verification",
+            "rejection of the research",
+            "immediate clinical application",
+            "no need for further study"
+          ],
+          "correct": 1,
+          "explanation": "'Hold up' burada 'geçerliliğini korumak' anlamındadır. 'If... hold up' koşullu yapısı sonuçların henüz doğrulanması gerektiğini ima eder."
+        }
+      ]
+    }
+  ]
+}

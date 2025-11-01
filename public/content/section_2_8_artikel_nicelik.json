@@ -1,0 +1,336 @@
+{
+  "section": "2.8",
+  "title": "Artikel-Belirtililik ve Nicelik (Articles and Quantifiers)",
+  "topics": [
+    {
+      "id": "2.8.1",
+      "title": "A/An, The, Zero Article; Soyut İsimlerde Kullanım",
+      "content": "YDS'de artikel kullanımı en sık test edilen konulardan biridir çünkü Türkçe'de artikel olmadığı için Türk öğrenciler bu konuda zorlanır. Temel kurallar: 'a/an' belirsiz tekil sayılabilen isimlerle; 'the' belirli (daha önce bahsedilen, bağlamdan belli, tek olan) isimlerle; zero article (artikelsiz) çoğul sayılabilen veya sayılamayan isimlerle genel anlamda kullanılır. Soyut isimler (love, freedom, knowledge) genellikle zero article kullanır: 'Knowledge is power'. Ancak bağlamdan özgüleştirilirse 'the' alır: 'The knowledge he gained was invaluable'. Akademik İngilizce'de önemli nüanslar: 'research' sayılamaz (a research yanlış, research/the research doğru); 'study' sayılabilir (a study/studies); 'theory' hem sayılır hem sayılamaz ('a theory' veya 'theory in general'). YDS'de sık görülen hatalar: soyut isimlere gereksiz artikel eklemek ('the science shows' yerine 'science shows'), tekil sayılabilen ismi artikelsiz kullanmak ('book is on table' yerine 'the book is on the table'). Stratejiler: Genel ifadelerde zero article; belirli nesne/kişi varsa the; ilk bahsediliyorsa a/an; soyut isimler genellikle artikelsiz ama özgüleşirse the; research/evidence/information sayılamaz.",
+      "examples": [
+        "Education is essential for development. (soyut, genel anlam, zero article)",
+        "The education I received was excellent. (özgüleşmiş, the)",
+        "A study was conducted to investigate the phenomenon. (ilk bahis, a study)",
+        "The study revealed significant findings. (daha önce bahsedildi, the)",
+        "Research shows that... (sayılamaz isim, genel, zero article)",
+        "The research conducted at MIT was groundbreaking. (belirli, özgüleşmiş, the)",
+        "Scientists need funding for their projects. (çoğul genel, zero article)",
+        "The scientists who won the Nobel Prize were honored. (belirli grup, the)",
+        "Knowledge of linguistics is required. (soyut, genel, zero article)",
+        "The knowledge acquired through experience is valuable. (özgüleşmiş, the)",
+        "Theory suggests multiple interpretations. (soyut, genel, zero article)",
+        "Einstein's theory of relativity changed physics. (belirli teori, the atlanabilir)"
+      ],
+      "exercises": [
+        {
+          "question": "---- knowledge gained from practical experience often exceeds that from textbooks.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Some",
+            "-"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'The knowledge gained from...' (özgüleştirilmiş bilgi, 'gained from' ile nitelendiriliyor). The doğru."
+        },
+        {
+          "question": "---- research in cognitive science requires interdisciplinary collaboration.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Many",
+            "-"
+          ],
+          "correctAnswer": 4,
+          "explanation": "'Research' sayılamaz isim, genel anlamda kullanılıyor. Zero article (seçenek -) doğru."
+        },
+        {
+          "question": "The professor published ---- article in a prestigious journal last month.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "some",
+            "-"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Article' sayılabilen tekil isim, ilk kez bahsediliyor ve 'article' sesli harfle başlıyor. 'An' doğru."
+        },
+        {
+          "question": "---- freedom of speech is a fundamental human right.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Some",
+            "-"
+          ],
+          "correctAnswer": 4,
+          "explanation": "'Freedom' soyut isim, genel anlamda kullanılıyor. Zero article (seçenek -) doğru."
+        },
+        {
+          "question": "---- theory proposed by the researchers has gained widespread acceptance.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Some",
+            "-"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'The theory proposed by...' (belirli teori, 'proposed by' ile özgüleştirilmiş). The doğru."
+        },
+        {
+          "question": "Students need to develop ---- critical thinking skills to succeed academically.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "some",
+            "-"
+          ],
+          "correctAnswer": 4,
+          "explanation": "'Critical thinking skills' çoğul, genel anlamda. Zero article (seçenek -) doğru."
+        },
+        {
+          "question": "---- evidence presented in the trial was compelling.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Many",
+            "-"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'The evidence presented in...' (belirli kanıt, 'presented in' ile özgüleştirilmiş). The doğru."
+        },
+        {
+          "question": "She is writing ---- dissertation on Second Language Acquisition.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "some",
+            "-"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Dissertation' sayılabilen tekil isim, ilk kez bahsediliyor. 'A' doğru."
+        },
+        {
+          "question": "---- science has made tremendous progress in the last century.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Some",
+            "-"
+          ],
+          "correctAnswer": 4,
+          "explanation": "'Science' genel anlamda bilim (tüm bilim alanı). Zero article (seçenek -) doğru."
+        },
+        {
+          "question": "The committee reviewed ---- proposals submitted by various departments.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "much",
+            "-"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'The proposals submitted by...' (belirli öneri grubu, 'submitted by' ile özgüleştirilmiş). The doğru."
+        },
+        {
+          "question": "---- information provided in the manual was insufficient.",
+          "options": [
+            "A",
+            "An",
+            "The",
+            "Many",
+            "-"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'The information provided in...' (belirli bilgi, 'provided in' ile özgüleştirilmiş). The doğru. 'Information' sayılamaz isim."
+        },
+        {
+          "question": "They are conducting ---- study on language acquisition in bilingual children.",
+          "options": [
+            "a",
+            "an",
+            "the",
+            "some",
+            "-"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Study' sayılabilen tekil isim, ilk kez bahsediliyor. 'A' doğru."
+        }
+      ]
+    },
+    {
+      "id": "2.8.2",
+      "title": "Much/Many, Few/Little, Plenty of, A Great Deal of",
+      "content": "YDS'de niceleyiciler (quantifiers) sıklıkla test edilir çünkü sayılabilen ve sayılamayan isimlerle farklı niceleyiciler kullanılır. Temel ayrım: 'many' ve 'few' sayılabilen isimlerle (many books, few students); 'much' ve 'little' sayılamayan isimlerle (much time, little money). 'A few' (birkaç, olumlu anlam) vs. 'few' (az, olumsuz anlam): 'I have a few friends' (birkaç arkadaşım var, yeterli), 'I have few friends' (az arkadaşım var, yetersiz). Aynı mantık 'a little' vs. 'little' için geçerli. 'Plenty of' ve 'a lot of' hem sayılabilen hem sayılamayan isimlerle kullanılabilir: 'plenty of time', 'plenty of opportunities'. 'A great deal of' ve 'a large amount of' sadece sayılamayan isimlerle; 'a large number of' ve 'several' sadece sayılabilen isimlerle kullanılır. YDS'de sık görülen hatalar: 'much students' (yanlış, 'many students' doğru), 'a great deal of books' (yanlış, 'a great number of books' doğru). Stratejiler: Sayılabilen çoğul → many/few/a few/several/a number of; sayılamayan → much/little/a little/a great deal of/a large amount of; her ikisiyle → plenty of/a lot of/lots of.",
+      "examples": [
+        "Many researchers contributed to this field. (sayılabilen, many)",
+        "Much research has been conducted on this topic. (sayılamaz, much)",
+        "A few studies have addressed this issue. (sayılabilen, birkaç, olumlu)",
+        "Few scholars agree with this hypothesis. (sayılabilen, az, olumsuz)",
+        "There is little evidence to support the claim. (sayılamaz, az, olumsuz)",
+        "We have a little time to finish the project. (sayılamaz, biraz, olumlu)",
+        "Plenty of data were collected during the experiment. (sayılabilen, plenty of)",
+        "There is plenty of information available online. (sayılamaz, plenty of)",
+        "A great deal of effort was required. (sayılamaz, a great deal of)",
+        "A large number of participants withdrew from the study. (sayılabilen, a large number of)",
+        "Several factors influence language acquisition. (sayılabilen, several)",
+        "There was a large amount of feedback from reviewers. (sayılamaz, a large amount of)"
+      ],
+      "exercises": [
+        {
+          "question": "---- research is needed to validate these findings.",
+          "options": [
+            "Many",
+            "Much",
+            "A few",
+            "Several",
+            "A number of"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Research' sayılamaz isim. 'Much' doğru."
+        },
+        {
+          "question": "---- students participated in the survey.",
+          "options": [
+            "Much",
+            "A little",
+            "A great deal of",
+            "Many",
+            "A large amount of"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Students' sayılabilen çoğul. 'Many' doğru."
+        },
+        {
+          "question": "There is ---- evidence to support this theory.",
+          "options": [
+            "few",
+            "a few",
+            "little",
+            "many",
+            "several"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Evidence' sayılamaz isim. 'Little' (az, olumsuz) doğru."
+        },
+        {
+          "question": "---- time was allocated for the presentation.",
+          "options": [
+            "A few",
+            "Few",
+            "Many",
+            "A little",
+            "Several"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Time' sayılamaz isim. 'A little' (biraz, yeterli) doğru."
+        },
+        {
+          "question": "A ---- of effort has been invested in this project.",
+          "options": [
+            "number",
+            "few",
+            "many",
+            "great deal",
+            "several"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Effort' sayılamaz isim. 'A great deal of' doğru yapı."
+        },
+        {
+          "question": "There are ---- opportunities for collaboration in this field.",
+          "options": [
+            "much",
+            "a little",
+            "plenty of",
+            "a great deal of",
+            "a large amount of"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Opportunities' sayılabilen çoğul. 'Plenty of' hem sayılabilen hem sayılamayan ile kullanılabilir. Doğru."
+        },
+        {
+          "question": "Only ---- scholars have challenged this theory.",
+          "options": [
+            "little",
+            "a little",
+            "much",
+            "few",
+            "a great deal of"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Scholars' sayılabilen çoğul. 'Few' (az, olumsuz anlam) 'only' ile uyumlu."
+        },
+        {
+          "question": "The project requires ---- financial support.",
+          "options": [
+            "many",
+            "few",
+            "several",
+            "a large number of",
+            "a large amount of"
+          ],
+          "correctAnswer": 4,
+          "explanation": "'Support' sayılamaz isim. 'A large amount of' doğru."
+        },
+        {
+          "question": "---- factors contribute to language learning success.",
+          "options": [
+            "Much",
+            "A little",
+            "Several",
+            "A great deal of",
+            "A large amount of"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Factors' sayılabilen çoğul. 'Several' doğru."
+        },
+        {
+          "question": "There is ---- interest in this research area.",
+          "options": [
+            "many",
+            "a few",
+            "several",
+            "plenty of",
+            "a number of"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Interest' sayılamaz isim. 'Plenty of' hem sayılabilen hem sayılamayan ile kullanılabilir. Doğru."
+        },
+        {
+          "question": "The study received ---- criticism from peer reviewers.",
+          "options": [
+            "many",
+            "a few",
+            "little",
+            "several",
+            "a number of"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Criticism' sayılamaz isim. 'Little' (az, olumsuz) doğru."
+        },
+        {
+          "question": "---- participants expressed satisfaction with the program.",
+          "options": [
+            "Much",
+            "A little",
+            "A great deal of",
+            "A large number of",
+            "A large amount of"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Participants' sayılabilen çoğul. 'A large number of' doğru."
+        }
+      ]
+    }
+  ]
+}

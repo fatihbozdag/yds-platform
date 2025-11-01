@@ -39,3 +39,16 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local Netlify folder
+.netlify
+
+# Documentation and deployment artifacts
+*.md
+!README.md
+netlify-deploy.zip
+*.sql
+firebase-env-template.txt
+firebase-setup-script.js
+merge-*.js
+verify-exams.js

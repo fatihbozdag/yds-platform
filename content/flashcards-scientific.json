@@ -1,0 +1,392 @@
+{
+  "setId": "scientific-technical-terms",
+  "title": "Scientific & Technical Terms",
+  "description": "50 essential scientific and technical vocabulary words frequently tested in YDS and YÖKDİL exams. These terms appear across various scientific disciplines including biology, chemistry, physics, engineering, and medical sciences.",
+  "category": "vocabulary",
+  "difficulty": "intermediate-advanced",
+  "examRelevance": ["YDS", "YÖKDİL-Fen", "YÖKDİL-Sağlık"],
+  "totalCards": 50,
+  "estimatedTime": "25-30 minutes",
+  "cards": [
+    {
+      "id": "sci-001",
+      "front": "phenomenon (n.)",
+      "back": "An observable fact or event; something that appears or is perceived\n\nTurkish: olgu, fenomen\n\nExample: Scientists are studying the phenomenon of global warming.\n\nCommon collocations: natural phenomenon, rare phenomenon, widespread phenomenon\n\nYDS tip: Often tested in scientific contexts describing natural or experimental observations.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "scientific", "observation"]
+    },
+    {
+      "id": "sci-002",
+      "front": "hypothesis (n.)",
+      "back": "A proposed explanation made on the basis of limited evidence as a starting point for further investigation\n\nTurkish: hipotez, varsayım\n\nExample: The researchers tested their hypothesis through a series of controlled experiments.\n\nCommon collocations: test a hypothesis, support a hypothesis, reject a hypothesis\n\nYDS tip: Fundamental term in scientific methodology; often appears in research-related passages.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "scientific-method", "research"]
+    },
+    {
+      "id": "sci-003",
+      "front": "empirical (adj.)",
+      "back": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic\n\nTurkish: ampirik, deneysel\n\nExample: The study provides empirical evidence for the effectiveness of the treatment.\n\nCommon collocations: empirical data, empirical evidence, empirical research\n\nYDS tip: Frequently used to describe evidence-based scientific approaches.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "scientific-method", "evidence"]
+    },
+    {
+      "id": "sci-004",
+      "front": "synthetic (adj.)",
+      "back": "Made by chemical synthesis, especially to imitate a natural product; artificial\n\nTurkish: sentetik, yapay\n\nExample: Synthetic materials are often cheaper than natural ones.\n\nCommon collocations: synthetic fiber, synthetic drug, synthetic material\n\nYDS tip: Common in chemistry and materials science contexts.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "chemistry", "materials"]
+    },
+    {
+      "id": "sci-005",
+      "front": "catalyst (n.)",
+      "back": "A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change; something that precipitates an event\n\nTurkish: katalizör, hızlandırıcı\n\nExample: The discovery served as a catalyst for further research in the field.\n\nCommon collocations: act as a catalyst, catalyst for change, chemical catalyst\n\nYDS tip: Used both literally (chemistry) and metaphorically (change agent).",
+      "difficulty": "intermediate",
+      "tags": ["noun", "chemistry", "metaphor"]
+    },
+    {
+      "id": "sci-006",
+      "front": "biodegradable (adj.)",
+      "back": "Capable of being decomposed by bacteria or other living organisms\n\nTurkish: biyolojik olarak ayrışabilen\n\nExample: The company uses biodegradable packaging to reduce environmental impact.\n\nCommon collocations: biodegradable material, biodegradable plastic, biodegradable waste\n\nYDS tip: Environmental science term; often in sustainability contexts.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "environmental", "biology"]
+    },
+    {
+      "id": "sci-007",
+      "front": "mutation (n.)",
+      "back": "The changing of the structure of a gene, resulting in a variant form that may be transmitted to subsequent generations\n\nTurkish: mutasyon, gen değişimi\n\nExample: The virus underwent a mutation that made it more contagious.\n\nCommon collocations: genetic mutation, random mutation, beneficial mutation\n\nYDS tip: Key biology term; common in genetics and evolution passages.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "biology", "genetics"]
+    },
+    {
+      "id": "sci-008",
+      "front": "specimen (n.)",
+      "back": "An individual animal, plant, piece of a mineral, etc., used as an example of its species or type for scientific study or display\n\nTurkish: örnek, numune\n\nExample: The researchers collected several specimens for laboratory analysis.\n\nCommon collocations: biological specimen, rare specimen, examine a specimen\n\nYDS tip: Used across all scientific disciplines for samples and examples.",
+      "difficulty": "basic",
+      "tags": ["noun", "research", "biology"]
+    },
+    {
+      "id": "sci-009",
+      "front": "apparatus (n.)",
+      "back": "The technical equipment or machinery needed for a particular activity or purpose\n\nTurkish: aparat, düzenek, cihaz\n\nExample: The laboratory was equipped with sophisticated apparatus for conducting experiments.\n\nCommon collocations: experimental apparatus, scientific apparatus, complex apparatus\n\nYDS tip: Formal term for scientific equipment; often plural 'apparatuses'.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "equipment", "laboratory"]
+    },
+    {
+      "id": "sci-010",
+      "front": "volatile (adj.)",
+      "back": "Liable to change rapidly and unpredictably; (in chemistry) easily evaporated at normal temperatures\n\nTurkish: uçucu, değişken\n\nExample: The chemical is highly volatile and must be stored carefully.\n\nCommon collocations: volatile substance, volatile compound, volatile situation\n\nYDS tip: Has both literal (chemistry) and figurative (changeable) meanings.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "chemistry", "multiple-meanings"]
+    },
+    {
+      "id": "sci-011",
+      "front": "precision (n.)",
+      "back": "The quality, condition, or fact of being exact and accurate\n\nTurkish: hassasiyet, kesinlik\n\nExample: The measurement requires a high degree of precision.\n\nCommon collocations: with precision, precision instrument, precision measurement\n\nYDS tip: Essential in technical and scientific methodology contexts.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "measurement", "accuracy"]
+    },
+    {
+      "id": "sci-012",
+      "front": "inherent (adj.)",
+      "back": "Existing in something as a permanent, essential, or characteristic attribute\n\nTurkish: doğal, içsel, özünde var olan\n\nExample: There are inherent risks in any experimental procedure.\n\nCommon collocations: inherent risk, inherent property, inherent characteristic\n\nYDS tip: Frequently used to describe natural or built-in properties.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "properties", "characteristics"]
+    },
+    {
+      "id": "sci-013",
+      "front": "correlation (n.)",
+      "back": "A mutual relationship or connection between two or more things\n\nTurkish: bağıntı, korelasyon, ilişki\n\nExample: The study found a strong correlation between diet and disease.\n\nCommon collocations: positive correlation, negative correlation, show correlation\n\nYDS tip: Statistical term; common in research and data analysis contexts.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "statistics", "relationship"]
+    },
+    {
+      "id": "sci-014",
+      "front": "viable (adj.)",
+      "back": "Capable of working successfully; feasible; (biology) capable of living or developing\n\nTurkish: uygulanabilir, yaşayabilir, geçerli\n\nExample: The seeds remained viable even after years of storage.\n\nCommon collocations: viable alternative, viable solution, economically viable\n\nYDS tip: Used in both biological and general contexts meaning 'workable'.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "biology", "feasibility"]
+    },
+    {
+      "id": "sci-015",
+      "front": "adverse (adj.)",
+      "back": "Preventing success or development; harmful; unfavorable\n\nTurkish: olumsuz, zararlı, aleyhte\n\nExample: The drug may have adverse effects on some patients.\n\nCommon collocations: adverse effect, adverse reaction, adverse conditions\n\nYDS tip: Very common in medical and scientific contexts for negative outcomes.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "negative", "medical"]
+    },
+    {
+      "id": "sci-016",
+      "front": "methodology (n.)",
+      "back": "A system of methods used in a particular area of study or activity\n\nTurkish: metodoloji, yöntem bilimi\n\nExample: The researchers explained their methodology in detail.\n\nCommon collocations: research methodology, scientific methodology, statistical methodology\n\nYDS tip: Essential term in academic and research contexts.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "research", "methods"]
+    },
+    {
+      "id": "sci-017",
+      "front": "anomaly (n.)",
+      "back": "Something that deviates from what is standard, normal, or expected\n\nTurkish: anomali, anormallik, sapma\n\nExample: Scientists detected an anomaly in the data that required further investigation.\n\nCommon collocations: detect an anomaly, statistical anomaly, genetic anomaly\n\nYDS tip: Used when describing unexpected results or deviations from norms.",
+      "difficulty": "advanced",
+      "tags": ["noun", "deviation", "abnormality"]
+    },
+    {
+      "id": "sci-018",
+      "front": "toxicity (n.)",
+      "back": "The degree to which a substance can damage an organism\n\nTurkish: toksisite, zehirlilik\n\nExample: Researchers are studying the toxicity of various chemical compounds.\n\nCommon collocations: high toxicity, low toxicity, toxicity level\n\nYDS tip: Common in chemistry, biology, and environmental science contexts.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "chemistry", "health"]
+    },
+    {
+      "id": "sci-019",
+      "front": "molecular (adj.)",
+      "back": "Relating to or consisting of molecules\n\nTurkish: moleküler, molekülle ilgili\n\nExample: Advances in molecular biology have revolutionized medicine.\n\nCommon collocations: molecular structure, molecular biology, molecular level\n\nYDS tip: Fundamental term in chemistry and biology contexts.",
+      "difficulty": "basic",
+      "tags": ["adjective", "chemistry", "biology"]
+    },
+    {
+      "id": "sci-020",
+      "front": "subsequent (adj.)",
+      "back": "Coming after something in time; following\n\nTurkish: sonraki, müteakip\n\nExample: The initial experiment and subsequent trials confirmed the hypothesis.\n\nCommon collocations: subsequent analysis, subsequent research, subsequent development\n\nYDS tip: Very common in scientific writing for describing chronological order.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "sequence", "time"]
+    },
+    {
+      "id": "sci-021",
+      "front": "rigorous (adj.)",
+      "back": "Extremely thorough, exhaustive, or accurate; (of a rule, system, etc.) strictly applied or adhered to\n\nTurkish: titiz, katı, sıkı\n\nExample: The study employed rigorous scientific methods.\n\nCommon collocations: rigorous testing, rigorous standards, rigorous analysis\n\nYDS tip: Describes thoroughness in scientific methodology and standards.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "thoroughness", "standards"]
+    },
+    {
+      "id": "sci-022",
+      "front": "negligible (adj.)",
+      "back": "So small or unimportant as to be not worth considering; insignificant\n\nTurkish: önemsiz, ihmal edilebilir\n\nExample: The difference between the two measurements was negligible.\n\nCommon collocations: negligible amount, negligible effect, negligible impact\n\nYDS tip: Used to describe minimal or insignificant quantities or effects.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "quantity", "significance"]
+    },
+    {
+      "id": "sci-023",
+      "front": "exponential (adj.)",
+      "back": "(of an increase) becoming more and more rapid; relating to a mathematical exponent\n\nTurkish: üstel, katlanarak artan\n\nExample: The population showed exponential growth over the decade.\n\nCommon collocations: exponential growth, exponential increase, exponential function\n\nYDS tip: Mathematical term often used metaphorically for rapid growth.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "mathematics", "growth"]
+    },
+    {
+      "id": "sci-024",
+      "front": "differentiate (v.)",
+      "back": "To recognize or ascertain what makes something different; to make or become different in the process of growth or development\n\nTurkish: ayırt etmek, farklılaştırmak\n\nExample: It is difficult to differentiate between the two species without microscopic examination.\n\nCommon collocations: differentiate between, differentiate from, clearly differentiate\n\nYDS tip: Used in biology (cell differentiation) and general comparison contexts.",
+      "difficulty": "intermediate",
+      "tags": ["verb", "comparison", "biology"]
+    },
+    {
+      "id": "sci-025",
+      "front": "optimum (adj./n.)",
+      "back": "Most conducive to a favorable outcome; best; the most favorable conditions or level for growth, reproduction, or success\n\nTurkish: en uygun, optimal, en iyi\n\nExample: The plants grow best at optimum temperature and humidity levels.\n\nCommon collocations: optimum conditions, optimum level, optimum temperature\n\nYDS tip: Used to describe ideal conditions or maximum efficiency.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "conditions", "efficiency"]
+    },
+    {
+      "id": "sci-026",
+      "front": "threshold (n.)",
+      "back": "The magnitude or intensity that must be exceeded for a certain reaction, phenomenon, result, or condition to occur or be manifested\n\nTurkish: eşik,임계값\n\nExample: The pain threshold varies from person to person.\n\nCommon collocations: threshold level, pain threshold, threshold value\n\nYDS tip: Critical point where a change begins; common in physics and biology.",
+      "difficulty": "advanced",
+      "tags": ["noun", "measurement", "physics"]
+    },
+    {
+      "id": "sci-027",
+      "front": "deplete (v.)",
+      "back": "To use up the supply or resources of something; to diminish in number or quantity\n\nTurkish: tüketmek, azaltmak, boşaltmak\n\nExample: Overfishing has depleted the ocean's natural resources.\n\nCommon collocations: deplete resources, deplete reserves, severely depleted\n\nYDS tip: Environmental and resource management term; forms 'depletion' (noun).",
+      "difficulty": "intermediate",
+      "tags": ["verb", "resources", "environmental"]
+    },
+    {
+      "id": "sci-028",
+      "front": "attribute (v./n.)",
+      "back": "(v.) to regard something as being caused by; (n.) a quality or feature regarded as a characteristic or inherent part of someone or something\n\nTurkish: (v.) atfetmek, bağlamak; (n.) özellik, nitelik\n\nExample: Scientists attribute the phenomenon to climate change.\n\nCommon collocations: attribute to, attribute success, physical attribute\n\nYDS tip: Note pronunciation difference: verb stress on second syllable, noun on first.",
+      "difficulty": "intermediate",
+      "tags": ["verb", "noun", "causation"]
+    },
+    {
+      "id": "sci-029",
+      "front": "substantial (adj.)",
+      "back": "Of considerable importance, size, or worth\n\nTurkish: önemli, büyük, kayda değer\n\nExample: The research made a substantial contribution to the field.\n\nCommon collocations: substantial amount, substantial evidence, substantial increase\n\nYDS tip: Used to emphasize significance or large quantity in scientific contexts.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "quantity", "significance"]
+    },
+    {
+      "id": "sci-030",
+      "front": "facilitate (v.)",
+      "back": "To make an action or process easy or easier\n\nTurkish: kolaylaştırmak, sağlamak\n\nExample: New technology facilitates faster data processing.\n\nCommon collocations: facilitate communication, facilitate understanding, facilitate process\n\nYDS tip: Formal verb for 'make easier'; common in technical and academic writing.",
+      "difficulty": "intermediate",
+      "tags": ["verb", "process", "assistance"]
+    },
+    {
+      "id": "sci-031",
+      "front": "immune (adj.)",
+      "back": "Resistant to a particular infection or toxin; protected or exempt from something undesirable\n\nTurkish: bağışık, bağışıklık sistemine sahip\n\nExample: Vaccination makes people immune to certain diseases.\n\nCommon collocations: immune system, immune response, immune to\n\nYDS tip: Medical term; forms 'immunity' (noun) and 'immunize' (verb).",
+      "difficulty": "basic",
+      "tags": ["adjective", "medical", "biology"]
+    },
+    {
+      "id": "sci-032",
+      "front": "prevalent (adj.)",
+      "back": "Widespread in a particular area at a particular time\n\nTurkish: yaygın, geçerli, hâkim\n\nExample: The disease is most prevalent in tropical regions.\n\nCommon collocations: widely prevalent, prevalent among, prevalent in\n\nYDS tip: Common in epidemiology and general contexts describing widespread occurrence.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "frequency", "distribution"]
+    },
+    {
+      "id": "sci-033",
+      "front": "comprehensive (adj.)",
+      "back": "Complete; including all or nearly all elements or aspects of something\n\nTurkish: kapsamlı, geniş, ayrıntılı\n\nExample: The study provides a comprehensive analysis of the problem.\n\nCommon collocations: comprehensive study, comprehensive review, comprehensive approach\n\nYDS tip: Indicates thoroughness and completeness in research and analysis.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "completeness", "thoroughness"]
+    },
+    {
+      "id": "sci-034",
+      "front": "contagious (adj.)",
+      "back": "(of a disease) spread from one person or organism to another by direct or indirect contact\n\nTurkish: bulaşıcı, müstakbel\n\nExample: The flu is highly contagious during the first few days.\n\nCommon collocations: highly contagious, contagious disease, contagious period\n\nYDS tip: Medical term; don't confuse with 'infectious' (similar but slightly different).",
+      "difficulty": "basic",
+      "tags": ["adjective", "medical", "transmission"]
+    },
+    {
+      "id": "sci-035",
+      "front": "sustainable (adj.)",
+      "back": "Able to be maintained at a certain rate or level; (ecology) conserving an ecological balance by avoiding depletion of natural resources\n\nTurkish: sürdürülebilir, kalıcı\n\nExample: The company is committed to sustainable development practices.\n\nCommon collocations: sustainable development, sustainable energy, sustainable practice\n\nYDS tip: Key environmental term; forms 'sustainability' (noun).",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "environmental", "ecology"]
+    },
+    {
+      "id": "sci-036",
+      "front": "quantify (v.)",
+      "back": "To express or measure the quantity of something\n\nTurkish: nicelemek, sayısal olarak ifade etmek\n\nExample: It is difficult to quantify the impact of this policy.\n\nCommon collocations: quantify the effect, quantify results, difficult to quantify\n\nYDS tip: Important in scientific measurement and data analysis contexts.",
+      "difficulty": "advanced",
+      "tags": ["verb", "measurement", "data"]
+    },
+    {
+      "id": "sci-037",
+      "front": "eradicate (v.)",
+      "back": "To destroy completely; put an end to; to remove or eliminate something completely\n\nTurkish: kökünden yok etmek, ortadan kaldırmak\n\nExample: The goal is to eradicate the disease within the next decade.\n\nCommon collocations: eradicate disease, eradicate poverty, completely eradicate\n\nYDS tip: Stronger than 'eliminate'; often used for diseases or social problems.",
+      "difficulty": "advanced",
+      "tags": ["verb", "elimination", "medical"]
+    },
+    {
+      "id": "sci-038",
+      "front": "replicate (v.)",
+      "back": "To make an exact copy of; reproduce; to repeat a scientific experiment or trial to obtain a consistent result\n\nTurkish: tekrarlamak, kopyalamak, çoğaltmak\n\nExample: Other scientists were unable to replicate the experimental results.\n\nCommon collocations: replicate findings, replicate experiment, successfully replicate\n\nYDS tip: Critical term in scientific methodology for reproducibility.",
+      "difficulty": "intermediate",
+      "tags": ["verb", "research", "reproduction"]
+    },
+    {
+      "id": "sci-039",
+      "front": "trajectory (n.)",
+      "back": "The path followed by a projectile flying or an object moving under the action of given forces; a course or direction of development\n\nTurkish: yörünge, seyir, gidiş\n\nExample: The trajectory of the rocket was carefully calculated.\n\nCommon collocations: flight trajectory, career trajectory, upward trajectory\n\nYDS tip: Used literally (physics) and metaphorically (development path).",
+      "difficulty": "advanced",
+      "tags": ["noun", "physics", "path"]
+    },
+    {
+      "id": "sci-040",
+      "front": "discrete (adj.)",
+      "back": "Individually separate and distinct; consisting of distinct or unconnected elements\n\nTurkish: ayrı, kesikli, farklı\n\nExample: The process can be divided into discrete stages.\n\nCommon collocations: discrete units, discrete categories, discrete variables\n\nYDS tip: Don't confuse with 'discreet' (careful/subtle); common in mathematics.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "separation", "mathematics"]
+    },
+    {
+      "id": "sci-041",
+      "front": "mitigate (v.)",
+      "back": "To make less severe, serious, or painful; to lessen the gravity of an offense or mistake\n\nTurkish: hafifletmek, azaltmak, yumuşatmak\n\nExample: Measures were taken to mitigate the environmental impact.\n\nCommon collocations: mitigate risk, mitigate effects, mitigate damage\n\nYDS tip: Common in environmental and risk management contexts.",
+      "difficulty": "advanced",
+      "tags": ["verb", "reduction", "environmental"]
+    },
+    {
+      "id": "sci-042",
+      "front": "cohesion (n.)",
+      "back": "The action or fact of forming a united whole; the sticking together of particles of the same substance\n\nTurkish: uyum, bağlılık, yapışma\n\nExample: Molecular cohesion holds the substance together.\n\nCommon collocations: social cohesion, cohesion forces, maintain cohesion\n\nYDS tip: Used in physics (molecular forces) and social contexts (unity).",
+      "difficulty": "advanced",
+      "tags": ["noun", "physics", "unity"]
+    },
+    {
+      "id": "sci-043",
+      "front": "innate (adj.)",
+      "back": "Inborn; natural; possessed from birth\n\nTurkish: doğuştan, fıtri, içsel\n\nExample: Some scientists believe language ability is innate.\n\nCommon collocations: innate ability, innate characteristic, innate immunity\n\nYDS tip: Contrasts with 'acquired' or 'learned'; common in biology and psychology.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "biology", "natural"]
+    },
+    {
+      "id": "sci-044",
+      "front": "acute (adj.)",
+      "back": "(of a bad, difficult, or unwelcome situation) present or experienced to a severe or intense degree; (medicine) having a rapid onset and short course\n\nTurkish: akut, keskin, şiddetli\n\nExample: The patient suffered from acute respiratory distress.\n\nCommon collocations: acute problem, acute shortage, acute illness\n\nYDS tip: Medical term opposite of 'chronic'; also means 'severe' in general use.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "medical", "severity"]
+    },
+    {
+      "id": "sci-045",
+      "front": "chronic (adj.)",
+      "back": "(of an illness) persisting for a long time or constantly recurring; having a particular bad habit\n\nTurkish: kronik, süreğen, devamlı\n\nExample: Diabetes is a chronic disease requiring ongoing treatment.\n\nCommon collocations: chronic disease, chronic pain, chronic condition\n\nYDS tip: Medical term opposite of 'acute'; indicates long-term or persistent conditions.",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "medical", "duration"]
+    },
+    {
+      "id": "sci-046",
+      "front": "stimulus (n.)",
+      "back": "A thing or event that evokes a specific functional reaction in an organ or tissue; something that rouses activity or energy\n\nTurkish: uyarıcı, uyaran, teşvik edici\n\nExample: The nerve responds to external stimuli.\n\nCommon collocations: external stimulus, sensory stimulus, respond to stimulus\n\nYDS tip: Biology/psychology term; plural is 'stimuli'.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "biology", "response"]
+    },
+    {
+      "id": "sci-047",
+      "front": "obsolete (adj.)",
+      "back": "No longer produced or used; out of date; (biology) vestigial; rudimentary\n\nTurkish: eskimiş, modası geçmiş, kullanılmayan\n\nExample: The technology became obsolete within a few years.\n\nCommon collocations: become obsolete, obsolete technology, obsolete system\n\nYDS tip: Common in technology and evolution contexts; forms 'obsolescence' (noun).",
+      "difficulty": "intermediate",
+      "tags": ["adjective", "technology", "outdated"]
+    },
+    {
+      "id": "sci-048",
+      "front": "aggregate (v./n./adj.)",
+      "back": "(v.) to form or group into a class or cluster; (n.) a whole formed by combining several elements; (adj.) formed or calculated by the combination of many separate units\n\nTurkish: (v.) toplamak, birleştirmek; (n.) toplam, bütün; (adj.) toplam, birleşik\n\nExample: The scientists aggregated data from multiple sources.\n\nCommon collocations: aggregate data, in aggregate, aggregate amount\n\nYDS tip: Common in statistics and data analysis; note different word forms.",
+      "difficulty": "advanced",
+      "tags": ["verb", "noun", "adjective", "statistics"]
+    },
+    {
+      "id": "sci-049",
+      "front": "inert (adj.)",
+      "back": "Lacking the ability or strength to move; (chemistry) chemically inactive\n\nTurkish: etkisiz, hareketsiz, atıl\n\nExample: Helium is an inert gas that does not react with other elements.\n\nCommon collocations: inert gas, chemically inert, inert material\n\nYDS tip: Chemistry term for non-reactive substances; also means 'inactive' generally.",
+      "difficulty": "advanced",
+      "tags": ["adjective", "chemistry", "reactivity"]
+    },
+    {
+      "id": "sci-050",
+      "front": "prerequisite (n./adj.)",
+      "back": "A thing that is required as a prior condition for something else to happen or exist; required as a prior condition\n\nTurkish: ön koşul, gereklilik, zorunlu olan\n\nExample: Basic chemistry is a prerequisite for advanced biology courses.\n\nCommon collocations: essential prerequisite, prerequisite for, prerequisite knowledge\n\nYDS tip: Academic and scientific term for required prior conditions or knowledge.",
+      "difficulty": "intermediate",
+      "tags": ["noun", "adjective", "requirements"]
+    }
+  ],
+  "studyTips": [
+    "Focus on both literal scientific meanings and metaphorical uses (e.g., 'catalyst' in chemistry vs. 'catalyst for change')",
+    "Pay attention to word families: 'hypothesis' → 'hypothesize' → 'hypothetical'",
+    "Learn common collocations used in scientific writing (e.g., 'empirical evidence', 'rigorous testing')",
+    "Distinguish between similar pairs: 'acute' vs. 'chronic', 'discrete' vs. 'discreet', 'inert' vs. 'innate'",
+    "Note pronunciation differences when words function as both verb and noun (e.g., 'attribute')",
+    "Many terms have specialized meanings in scientific contexts beyond their general use",
+    "Practice recognizing these words in context from scientific articles and research papers",
+    "Create associations between Turkish and English terms to aid retention",
+    "Review medical terms ('acute', 'chronic', 'contagious', 'immune') as a separate subset",
+    "Focus on environmental science terms increasingly common in YDS exams"
+  ],
+  "commonMistakes": [
+    "Confusing 'empirical' (based on observation) with 'imperial' (relating to empire)",
+    "Using 'hypothesis' when 'theory' is meant (hypothesis is unproven, theory is well-supported)",
+    "Mixing up 'discrete' (separate) and 'discreet' (careful/subtle)",
+    "Incorrect plural forms: 'stimulus' → 'stimuli', 'phenomenon' → 'phenomena', 'apparatus' → 'apparatuses'",
+    "Misusing 'chronic' for short-term problems (it means long-term/persistent)",
+    "Confusing 'precision' (exactness) with 'accuracy' (correctness)",
+    "Using 'viable' only in biological sense, missing its broader 'feasible' meaning",
+    "Forgetting that 'aggregate' can be verb, noun, or adjective with different pronunciations",
+    "Misunderstanding 'adverse' as 'diverse' or 'averse'",
+    "Using 'eradicate' when 'reduce' or 'minimize' is more appropriate (eradicate means complete elimination)"
+  ],
+  "relatedSets": [
+    "academic-vocabulary-essential",
+    "medical-terminology",
+    "environmental-science-terms",
+    "research-methodology-vocabulary"
+  ]
+}

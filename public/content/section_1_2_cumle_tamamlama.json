@@ -1,0 +1,562 @@
+{
+  "subsection": "1.2",
+  "name": "Cümle Tamamlama",
+  "topics": [
+    {
+      "id": "1.2.1",
+      "name": "Mantıksal bağlar: sebep-sonuç, zıtlık, koşul, amaç",
+      "content": "YDS ve YÖKDİL sınavlarında cümle tamamlama sorularının temelini mantıksal bağlar oluşturur. Bu bağlar, cümlenin ilk kısmı ile tamamlanacak kısım arasındaki ilişkiyi belirler. Dört ana mantıksal bağ türü vardır:\n\n**Sebep-Sonuç İlişkisi**: Bir olayın diğerine neden olduğu durumlarda kullanılır (because, since, therefore, consequently). YDS'de en sık test edilen ilişki türüdür.\n\n**Zıtlık İlişkisi**: İki zıt fikrin birleştirildiği durumlarda kullanılır (although, however, despite, whereas). Türk öğrenciler genellikle \"although\" ile \"but\" ayırımında zorlanır.\n\n**Koşul İlişkisi**: Bir durumun gerçekleşmesi için gerekli şartları ifade eder (if, unless, provided that, as long as). \"Unless\" kelimesi \"if not\" anlamındadır ve sınavda sıklıkla karıştırılır.\n\n**Amaç İlişkisi**: Bir eylemin niçin yapıldığını açıklar (so that, in order to, to, for the purpose of).\n\n**Strateji**: Cümlenin ilk kısmını dikkatlice okuyun ve hangi mantıksal ilişki türünün beklediğini belirleyin. Ardından seçeneklerdeki bağlaçları kontrol edin. Yanlış bağlaç, mantıksal olarak tutarsız bir cümle yaratır. Dikkat: Bazı sorularda aynı bağlacı kullanan birden fazla seçenek olabilir; bu durumda anlam ve dilbilgisi doğruluğuna bakın.",
+      "examples": [
+        "The research was conducted over a five-year period ----, providing comprehensive longitudinal data on language acquisition.",
+        "---- the new treatment shows promise in clinical trials, it will require several more years of testing before approval.",
+        "Scientists have been unable to replicate the experimental results, ---- casting doubt on the original findings.",
+        "The government implemented strict environmental regulations ---- industrial pollution could be reduced significantly.",
+        "---- renewable energy sources become more cost-effective, many countries continue to rely heavily on fossil fuels.",
+        "The archaeological expedition was postponed ---- severe weather conditions in the region.",
+        "Students must complete all coursework by the deadline ---- they wish to graduate in June.",
+        "The new policy was introduced ---- address the growing concerns about data privacy and security.",
+        "Economic sanctions were imposed on the country; ----, its export revenues declined by 40% within six months.",
+        "---- the company invested heavily in marketing, its market share continued to decline throughout the year."
+      ],
+      "exercises": [
+        {
+          "question": "Climate change poses a significant threat to biodiversity ---- many species lack the ability to adapt quickly to rapidly changing environmental conditions.",
+          "options": [
+            "A) although",
+            "B) because",
+            "C) unless",
+            "D) in order that",
+            "E) whereas"
+          ],
+          "answer": "B",
+          "explanation": "Cümlenin mantığı sebep-sonuç ilişkisi gerektirir. İklim değişikliği bir tehdit oluşturur ÇÜNKÜ türler hızla uyum sağlayamıyor. 'Because' sebep bildiren tek bağlaçtır. 'Although' zıtlık, 'unless' koşul, 'in order that' amaç, 'whereas' karşılaştırma bildirir."
+        },
+        {
+          "question": "---- extensive research has been conducted on the topic, scientists still do not fully understand the mechanisms underlying memory formation.",
+          "options": [
+            "A) So that",
+            "B) Because",
+            "C) Therefore",
+            "D) Although",
+            "E) If"
+          ],
+          "answer": "D",
+          "explanation": "Cümle başında zıtlık bildiren bir bağlaç gerekiyor: 'Kapsamlı araştırmalar yapılmış OLMASINA RAĞMEN, bilim insanları hala tam olarak anlamıyor.' Although (gerçi, -masına rağmen) bu zıtlığı sağlar. Because ve so that mantıksal olarak uymuyor; therefore ve if cümle başında bu yapıda kullanılmaz."
+        },
+        {
+          "question": "The new software update includes several security enhancements; ----, users are advised to install it as soon as possible.",
+          "options": [
+            "A) however",
+            "B) although",
+            "C) therefore",
+            "D) unless",
+            "E) whereas"
+          ],
+          "answer": "C",
+          "explanation": "Noktalı virgülden sonra sonuç bildiren bir bağlaç gerekiyor. Güvenlik iyileştirmeleri var, BU NEDENLE kullanıcıların yüklemesi öneriliyor. 'Therefore' (bu nedenle, dolayısıyla) sonuç bildirir. However zıtlık bildirir ve burada mantıksız olur. Although, unless ve whereas noktalı virgül sonrası bu şekilde kullanılmaz."
+        },
+        {
+          "question": "Students cannot register for advanced courses ---- they have successfully completed the prerequisite requirements.",
+          "options": [
+            "A) if",
+            "B) unless",
+            "C) although",
+            "D) because",
+            "E) so that"
+          ],
+          "answer": "B",
+          "explanation": "Olumsuz bir cümle + koşul yapısı gerekiyor. 'Öğrenciler kayıt olamaz EĞER ön koşulları tamamlamamışlarsa.' Unless = if not (eğer...mezse). 'If' kullanılsaydı cümle 'cannot...if they have completed' olur ki bu mantıksızdır. Although, because ve so that bu yapıya uymaz."
+        },
+        {
+          "question": "The company's profits declined sharply last quarter ---- the challenging economic conditions and increased competition.",
+          "options": [
+            "A) in order to",
+            "B) so that",
+            "C) due to",
+            "D) although",
+            "E) unless"
+          ],
+          "answer": "C",
+          "explanation": "İsim tamlaması öncesinde sebep bildiren bir yapı gerekiyor ('the challenging economic conditions' bir isim tamlaması). 'Due to' (nedeniyle) isim tamlamasıyla kullanılır. 'Because' fiil cümlesiyle, 'in order to/so that' amaç bildirir. Although ve unless mantıken uymuyor."
+        },
+        {
+          "question": "---- the experimental drug showed promising results in animal trials, human clinical trials have not yet been approved by regulatory authorities.",
+          "options": [
+            "A) Therefore",
+            "B) Because",
+            "C) So that",
+            "D) Even though",
+            "E) Unless"
+          ],
+          "answer": "D",
+          "explanation": "Cümle başında zıtlık: 'Umut verici sonuçlar göstermesine RAĞMEN, insan deneyleri onaylanmadı.' Even though (her ne kadar...olsa da) güçlü zıtlık bildirir. Therefore sonuç, because sebep, so that amaç, unless koşul bildirir ve mantıken uymazlar."
+        },
+        {
+          "question": "The government introduced subsidies for renewable energy projects ---- encourage private sector investment in sustainable technologies.",
+          "options": [
+            "A) so as to",
+            "B) because",
+            "C) although",
+            "D) whereas",
+            "E) unless"
+          ],
+          "answer": "A",
+          "explanation": "Amaç bildiren bir yapı gerekiyor: 'Sübvansiyonlar sundu AMACI özel sektör yatırımını teşvik etmek.' 'So as to' (amacıyla) + infinitive amaç bildirir. 'In order to' da doğru olurdu. Because sebep, although zıtlık, whereas karşılaştırma, unless koşul bildirir."
+        },
+        {
+          "question": "Researchers have made significant progress in understanding the disease; ----, a cure remains elusive and may take decades to develop.",
+          "options": [
+            "A) therefore",
+            "B) because",
+            "C) nevertheless",
+            "D) so that",
+            "E) if"
+          ],
+          "answer": "C",
+          "explanation": "Noktalı virgülden sonra zıtlık bildiren geçiş sözcüğü gerekiyor. 'Önemli ilerleme kaydedildi; BUNUNLA BİRLİKTE tedavi hala bulunamadı.' Nevertheless (buna rağmen, yine de) zıtlık bildirir. Therefore sonuç bildirir ve mantığa aykırı. Because, so that ve if bu konumda kullanılmaz."
+        },
+        {
+          "question": "---- fossil fuel prices continue to rise, many developing countries find it increasingly difficult to meet their energy needs.",
+          "options": [
+            "A) Although",
+            "B) As",
+            "C) Unless",
+            "D) So that",
+            "E) Despite"
+          ],
+          "answer": "B",
+          "explanation": "Cümle başında sebep bildiren bağlaç gerekiyor: 'Fosil yakıt fiyatları yükselDİKÇE/yükselDİĞİ İÇİN, ülkeler güçlük çekiyor.' 'As' hem 'iken/dikçe' hem 'dolayı/için' anlamında kullanılabilir. Although zıtlık bildirir ve mantıksız olur. Unless koşul, so that amaç bildirir. Despite + isim gerektirir."
+        },
+        {
+          "question": "The archaeological site must be preserved carefully ---- future generations can study and learn from this important cultural heritage.",
+          "options": [
+            "A) because",
+            "B) although",
+            "C) so that",
+            "D) whereas",
+            "E) unless"
+          ],
+          "answer": "C",
+          "explanation": "Amaç bildiren bağlaç gerekiyor: 'Site korunmalı BÖYLECE gelecek nesiller çalışabilsin.' 'So that' (böylece, öyle ki) + can/could amaç bildirir. Because sebep, although zıtlık, whereas karşılaştırma, unless koşul bildirir ve bu bağlamda mantıksızdır."
+        }
+      ]
+    },
+    {
+      "id": "1.2.2",
+      "name": "Bağlaç ailesi: although, however, therefore, as, if, unless",
+      "content": "YDS ve YÖKDİL'de en sık karşılaşılan bağlaçlar belirli aileler halinde gruplanabilir. Her ailenin üyelerini tanımak, sınavda doğru seçimi yapmanıza yardımcı olur.\n\n**ZITLIK AİLESİ**: although, though, even though, while, whereas (cümle başında veya ortasında) | however, nevertheless, nonetheless, yet, still (cümle başında veya noktalı virgülden sonra). **Türk öğrenciler için kritik**: 'although' ile 'but' aynı cümlede ASLA kullanılmaz (Although it was raining, but we went out. ✗)\n\n**SEBEP AİLESİ**: because, since, as, for (bağlaç olarak), due to, owing to, because of (+ isim). 'Since' hem 'den beri' hem 'dolayı' anlamında kullanılır; bağlamdan anlamı çıkarın.\n\n**SONUÇ AİLESİ**: therefore, thus, consequently, hence, as a result, accordingly (noktalı virgül sonrası). 'So' daha informel, YDS'de nadiren görülür.\n\n**KOŞUL AİLESİ**: if, unless (=if not), provided/providing (that), as long as, on condition that. 'Unless' ile olumsuz cümle kullanılmaz (✗ unless he doesn't come).\n\n**AMAÇ AİLESİ**: so that, in order that (+ can/could/will/would), to, in order to, so as to (+ infinitive).\n\n**ZAMAN AİLESİ**: when, while, as, before, after, until, since (den beri), once.\n\n**Strateji**: Bağlacın konumuna dikkat edin. Cümle başında mı, ortasında mı, noktalı virgülden sonra mı? Bazı bağlaçlar sadece belirli konumlarda kullanılır.",
+      "examples": [
+        "Although renewable energy sources are becoming more affordable, ----, requiring continued investment in research.",
+        "The experiment yielded unexpected results; therefore, ----.",
+        "---- as global temperatures rise, polar ice caps continue to melt at an accelerating rate.",
+        "The patient responded well to treatment; however, ----.",
+        "---- unless immediate action is taken, the species will face extinction within a decade.",
+        "The government implemented new policies; consequently, ----.",
+        "While some economists predict growth, ---- warn of potential recession.",
+        "The team worked diligently to meet the deadline ---- they could present their findings at the conference.",
+        "---- if adequate funding is secured, the project will proceed as scheduled.",
+        "Traditional methods remain useful; nevertheless, ----."
+      ],
+      "exercises": [
+        {
+          "question": "The new policy aims to reduce carbon emissions by 50%; ----, it faces significant opposition from industrial sectors.",
+          "options": [
+            "A) therefore",
+            "B) however",
+            "C) because",
+            "D) so that",
+            "E) unless"
+          ],
+          "answer": "B",
+          "explanation": "Noktalı virgülden sonra zıtlık bildiren geçiş sözcüğü gerekiyor. İlk cümlede politikanın amacı var, ikinci cümlede muhalefet var - bu bir zıtlık. 'However' (ancak, fakat) zıtlık bildirir ve noktalı virgül sonrası kullanılabilir. Therefore sonuç, because sebep bildirir. So that ve unless bu konumda kullanılmaz."
+        },
+        {
+          "question": "---- the company invested millions in marketing, its new product failed to capture significant market share.",
+          "options": [
+            "A) Because",
+            "B) Therefore",
+            "C) Although",
+            "D) Unless",
+            "E) So that"
+          ],
+          "answer": "C",
+          "explanation": "Cümle başında zıtlık bildiren bağlaç: 'Milyonlar yatırım yaptı OLMASINA RAĞMEN, ürün başarısız oldu.' Although bu zıtlığı sağlar. Because sebep bildirir ve mantıksız (başarısızlık yatırım yüzünden değil). Therefore sonuç bildirir ve cümle başında bu yapıda kullanılmaz. Unless koşul, so that amaç bildirir."
+        },
+        {
+          "question": "Research funding has been cut significantly; ----, many important scientific projects have been suspended or cancelled.",
+          "options": [
+            "A) although",
+            "B) however",
+            "C) as a result",
+            "D) whereas",
+            "E) unless"
+          ],
+          "answer": "C",
+          "explanation": "Noktalı virgülden sonra sonuç bildiren geçiş: 'Fonlar kesildi; BU NEDENLE projeler askıya alındı.' 'As a result' (sonuç olarak) sonuç bildirir. Although ve whereas zıtlık bildirir (burada zıtlık yok). However ters bir durum bekletir ama ikinci cümle birincinin doğal sonucu. Unless bu konumda kullanılmaz."
+        },
+        {
+          "question": "The medication should be taken with food ---- it may cause stomach irritation.",
+          "options": [
+            "A) although",
+            "B) therefore",
+            "C) as",
+            "D) unless",
+            "E) however"
+          ],
+          "answer": "C",
+          "explanation": "İki cümleyi birleştiren sebep bağlacı gerekiyor: 'İlaç yemekle alınmalı ÇÜNKÜ mide tahrişine neden olabilir.' 'As' (çünkü, dolayı) sebep bildirir. Although zıtlık bildirir ve mantıksız. Therefore sonuç bildirir ama bu yapıda kullanılmaz. Unless koşul, however zıtlık bildirir."
+        },
+        {
+          "question": "---- the new regulations, companies must report their environmental impact annually.",
+          "options": [
+            "A) Despite",
+            "B) Due to",
+            "C) Although",
+            "D) Because",
+            "E) However"
+          ],
+          "answer": "B",
+          "explanation": "İsim tamlaması ('the new regulations') öncesinde sebep bildiren yapı gerekiyor. 'Due to' (nedeniyle) + isim doğru yapıdır. Despite + isim zıtlık bildirir. Although ve because fiil cümlesi ister. However bu konumda kullanılmaz ve zıtlık bildirir."
+        },
+        {
+          "question": "Traditional teaching methods have proven effective over time; ----, modern technology offers new opportunities for enhanced learning.",
+          "options": [
+            "A) therefore",
+            "B) because",
+            "C) unless",
+            "D) nevertheless",
+            "E) so that"
+          ],
+          "answer": "D",
+          "explanation": "Noktalı virgülden sonra zıtlık: 'Geleneksel yöntemler etkili; BUNUNLA BİRLİKTE modern teknoloji yeni fırsatlar sunuyor.' Nevertheless (yine de, buna rağmen) zıtlık bildirir. Therefore sonuç bildirir ama burada sonuç ilişkisi yok. Because, unless ve so that bu konumda kullanılmaz."
+        },
+        {
+          "question": "The research will not proceed ---- sufficient funding can be secured from government or private sources.",
+          "options": [
+            "A) although",
+            "B) because",
+            "C) unless",
+            "D) therefore",
+            "E) whereas"
+          ],
+          "answer": "C",
+          "explanation": "Olumsuz cümle + koşul: 'Araştırma ilerlemeyecek EĞER yeterli fon bulunamazsa.' Unless = if not. 'If' kullanılsaydı 'will not proceed if funding can be secured' olur ki bu mantıksız. Although zıtlık, because sebep bildirir. Therefore bu yapıda kullanılmaz."
+        },
+        {
+          "question": "The archaeological team documented their findings carefully ---- future researchers could verify and build upon their work.",
+          "options": [
+            "A) because",
+            "B) although",
+            "C) so that",
+            "D) whereas",
+            "E) unless"
+          ],
+          "answer": "C",
+          "explanation": "Amaç bildiren bağlaç: 'Bulguları dikkatlice belgelediler BÖYLECE gelecek araştırmacılar doğrulayabilsin.' 'So that' + could amaç bildirir. Because sebep bildirir (amaç değil). Although zıtlık, whereas karşılaştırma, unless koşul bildirir."
+        },
+        {
+          "question": "---- some developing nations have made significant economic progress, many still struggle with widespread poverty and inequality.",
+          "options": [
+            "A) Because",
+            "B) Therefore",
+            "C) Unless",
+            "D) While",
+            "E) So that"
+          ],
+          "answer": "D",
+          "explanation": "Cümle başında zıtlık/karşılaştırma: 'OYSA bazı ülkeler ilerledi, birçoğu hala mücadele ediyor.' While (iken, oysa) bu karşılaştırmayı sağlar. Although da olabilir ama while daha iyi karşılaştırma yapar. Because sebep, therefore sonuç bildirir ve mantıksız. Unless koşul, so that amaç bildirir."
+        },
+        {
+          "question": "Vaccination rates have increased dramatically over the past decade; ----, the incidence of preventable diseases has declined significantly.",
+          "options": [
+            "A) however",
+            "B) although",
+            "C) unless",
+            "D) consequently",
+            "E) whereas"
+          ],
+          "answer": "D",
+          "explanation": "Noktalı virgülden sonra sonuç: 'Aşılama oranları arttı; SONUÇ OLARAK hastalıklar azaldı.' Consequently (sonuç olarak) sonuç bildirir. However zıtlık bildirir ama burada zıtlık yok, doğal sonuç var. Although, unless bu konumda kullanılmaz. Whereas zıtlık/karşılaştırma bildirir."
+        }
+      ]
+    },
+    {
+      "id": "1.2.3",
+      "name": "Bilgi yapısı: konu cümlesi, öncül-sonuç, örnekleme",
+      "content": "YDS ve YÖKDİL cümle tamamlama sorularında, akademik yazının bilgi yapısını anlamak kritiktir. Akademik metinler belirli bir mantıksal yapı izler ve bu yapıyı tanımak, eksik kısmın ne içermesi gerektiğini tahmin etmenize yardımcı olur.\n\n**KONU CÜMLESİ (Topic Sentence)**: Paragrafın ana fikrini sunar, genellikle paragrafın başında bulunur. Cümle tamamlama sorularında, eğer konu cümlesi verilmişse, tamamlama kısmı genellikle detay, açıklama veya örnek içerir. Eğer tamamlanacak kısım konu cümlesiyse, genelde genel bir ifade, teori veya tartışmalı bir iddia beklenir.\n\n**ÖNCÜL-SONUÇ YAPISI**: Akademik yazıda sık görülür. Öncül (premise) bir gerçek, veri veya gözlemdir; sonuç (conclusion) bundan çıkarılan yorumdur. İşaretçiler: therefore, thus, consequently, this suggests that, it follows that. Tamamlama kısmı öncülse, genel bir gözlem veya kabul görmüş bilgi beklenir. Sonuçsa, mantıksal çıkarım veya yorum beklenir.\n\n**ÖRNEKLEME YAPISI**: Genel bir ifade verilir, ardından örneklerle desteklenir. İşaretçiler: for example, for instance, such as, including, particularly, specifically. Eğer örnek verilmişse, tamamlama genel ifadeyi içermelidir. Eğer genel ifade verilmişse, tamamlama somut örnek içermelidir.\n\n**GENELLEŞTİRME/ÖZGÜLLEŞTIRME**: Metinler genelden özele veya özelden genele ilerler. 'In general, overall, broadly speaking' gibi ifadeler genelleme işaretidir. 'In particular, specifically, namely' özgülleştirme işaretidir.\n\n**Strateji**: Verilen cümle kısmının bilgi yapısını tanıyın. Genel mi, özgü mü? Örnekleme mi, genelleme mi? Öncül mü, sonuç mu? Tamamlama mantıksal olarak uyumlu olmalıdır.",
+      "examples": [
+        "Climate change affects ecosystems in multiple ways. ----, rising temperatures have led to coral bleaching in tropical oceans.",
+        "Renewable energy technologies have become increasingly cost-effective. Therefore, ----.",
+        "----, specifically through its influence on cognitive development, emotional regulation, and social interaction patterns.",
+        "Many factors contribute to language acquisition success; ----, such as motivation, exposure duration, and age of onset.",
+        "The experiment produced unexpected results. Specifically, ----.",
+        "Research suggests that bilingualism enhances cognitive flexibility. For instance, ----.",
+        "----. This suggests that early intervention programs can significantly improve developmental outcomes.",
+        "Urban planning must consider multiple factors, including ----.",
+        "The data reveals a clear pattern: ----.",
+        "In general, ----, although specific cases may vary depending on contextual factors."
+      ],
+      "exercises": [
+        {
+          "question": "Cognitive load theory explains how the human brain processes and stores information. ----, the theory suggests that instructional design should minimize extraneous cognitive load to optimize learning.",
+          "options": [
+            "A) For example",
+            "B) However",
+            "C) In particular",
+            "D) On the contrary",
+            "E) Nevertheless"
+          ],
+          "answer": "C",
+          "explanation": "İlk cümle genel bir teori tanıtıyor (konu cümlesi). İkinci cümle teorinin spesifik bir önerisini açıklıyor. 'In particular' (özellikle) genelden özele geçişi işaretler. For example somut örnek bekletir. However, on the contrary, nevertheless zıtlık bildirir ama burada zıtlık yok, detaylandırma var."
+        },
+        {
+          "question": "Recent studies have shown that regular physical exercise improves cardiovascular health, enhances cognitive function, and reduces the risk of chronic diseases. ----, the evidence strongly supports incorporating physical activity into daily routines.",
+          "options": [
+            "A) For instance",
+            "B) However",
+            "C) Specifically",
+            "D) Therefore",
+            "E) Although"
+          ],
+          "answer": "D",
+          "explanation": "İlk cümle öncüller sunuyor (egzersizin faydaları). İkinci cümle bu öncüllerden bir sonuç çıkarıyor. 'Therefore' (bu nedenle) öncül-sonuç ilişkisini işaretler. For instance/specifically örnek bekletir. However/although zıtlık bildirir ama burada zıtlık yok."
+        },
+        {
+          "question": "----. For example, Finland's education system emphasizes student well-being and minimizes standardized testing, yet achieves consistently high performance in international assessments.",
+          "options": [
+            "A) Educational outcomes depend solely on funding levels",
+            "B) Standardized testing is essential for measuring student achievement",
+            "C) Effective education systems can vary significantly in their approaches and priorities",
+            "D) All successful schools follow similar organizational structures",
+            "E) Teacher qualifications determine student success exclusively"
+          ],
+          "answer": "C",
+          "explanation": "İkinci cümle 'For example' ile başlıyor, yani spesifik bir örnek veriyor (Finlandiya örneği farklı bir yaklaşım gösteriyor). İlk cümle genel bir ifade olmalı. C seçeneği 'eğitim sistemleri yaklaşımlarda çok farklılık gösterebilir' der, Finlandiya buna örnek. A, B, D, E kesin/mutlak ifadeler ve Finlandiya örneği bunları çürütüyor."
+        },
+        {
+          "question": "Multiple factors influence second language acquisition success. ----, learner motivation, amount of input exposure, age of acquisition, and learning environment all play significant roles.",
+          "options": [
+            "A) However",
+            "B) For instance",
+            "C) On the contrary",
+            "D) Nevertheless",
+            "E) Therefore"
+          ],
+          "answer": "B",
+          "explanation": "İlk cümle genel ifade: 'Birçok faktör etkiler.' İkinci cümle bu faktörlerin somut örneklerini listeliyor. 'For instance' (örneğin) genel ifadeyi örneklendirmeyi işaretler. However, on the contrary, nevertheless zıtlık bildirir. Therefore sonuç bildirir ama burada sonuç değil örnekleme var."
+        },
+        {
+          "question": "The pharmaceutical industry invests billions annually in drug development; only a small percentage of candidate compounds successfully complete clinical trials and receive regulatory approval. ----, the cost of bringing a new drug to market can exceed one billion dollars.",
+          "options": [
+            "A) For example",
+            "B) However",
+            "C) In contrast",
+            "D) Consequently",
+            "E) Similarly"
+          ],
+          "answer": "D",
+          "explanation": "Önceki cümleler bağlam sunuyor: yüksek yatırım + düşük başarı oranı. Son cümle bunun sonucunu ifade ediyor. 'Consequently' (sonuç olarak) bu nedensellik ilişkisini işaretler. For example örnek bekletir. However/in contrast zıtlık bildirir. Similarly benzerlik bildirir."
+        },
+        {
+          "question": "Urbanization has dramatically reshaped human societies over the past century. Specifically, ----.",
+          "options": [
+            "A) cities have always been important centers of culture",
+            "B) more than half of the world's population now lives in urban areas, compared to less than 30% in 1950",
+            "C) human societies develop through various stages",
+            "D) rural areas continue to exist alongside cities",
+            "E) geography influences social development"
+          ],
+          "answer": "B",
+          "explanation": "'Specifically' (özellikle) spesifik detay veya veri bekletir. İlk cümle genel ifade (kentleşme toplumları yeniden şekillendirdi). B seçeneği bunu destekleyen spesifik istatistik sunuyor. A, C, D, E başka genel ifadeler veya ilgisiz bilgiler, spesifik detay değil."
+        },
+        {
+          "question": "Effective communication in professional settings requires multiple competencies. ----, active listening, clear articulation of ideas, and appropriate non-verbal behavior are all essential components.",
+          "options": [
+            "A) However",
+            "B) For example",
+            "C) On the other hand",
+            "D) Nevertheless",
+            "E) In contrast"
+          ],
+          "answer": "B",
+          "explanation": "İlk cümle genel: 'Etkili iletişim birçok yeterlik gerektirir.' İkinci cümle bu yeterliklerin örneklerini listeliyor. 'For example' bu örneklendirmeyi işaretler. However, on the other hand, nevertheless, in contrast zıtlık bildirir ama burada destekleyici örnekleme var."
+        },
+        {
+          "question": "----. This suggests that early childhood education programs can have lasting impacts on academic achievement and social development.",
+          "options": [
+            "A) Education policy varies across different countries",
+            "B) Children develop at different rates",
+            "C) Longitudinal studies have shown that children who attend high-quality preschool programs demonstrate better outcomes decades later",
+            "D) Schools provide important socialization opportunities",
+            "E) Parents play a crucial role in child development"
+          ],
+          "answer": "C",
+          "explanation": "'This suggests that' önceki cümleden bir sonuç çıkarıyor. İkinci cümle 'erken çocukluk programlarının kalıcı etkileri var' sonucunu çıkarıyor. C seçeneği bunu destekleyen öncülü veriyor (uzun vadeli çalışmalar daha iyi sonuçlar göstermiş). A, B, D, E bu sonucu desteklemiyor."
+        },
+        {
+          "question": "Climate models predict significant global temperature increases over the coming century. ----, average global temperatures could rise by 2-4 degrees Celsius by 2100 under current emission scenarios.",
+          "options": [
+            "A) However",
+            "B) For instance",
+            "C) On the contrary",
+            "D) Nevertheless",
+            "E) Although"
+          ],
+          "answer": "B",
+          "explanation": "İlk cümle genel tahmin: 'Önemli sıcaklık artışları.' İkinci cümle spesifik bir örnek/detay veriyor (2-4 derece). 'For instance' (örneğin) genel ifadeyi somutlaştırmayı işaretler. However, on the contrary, nevertheless, although zıtlık bildirir ama burada destekleyici detay var."
+        },
+        {
+          "question": "Research methodology in social sciences encompasses various approaches. ----, qualitative methods such as interviews and ethnography provide rich contextual data, while quantitative methods such as surveys and experiments enable statistical analysis and generalization.",
+          "options": [
+            "A) Therefore",
+            "B) However",
+            "C) For instance",
+            "D) Nevertheless",
+            "E) Consequently"
+          ],
+          "answer": "C",
+          "explanation": "İlk cümle genel: 'Çeşitli yaklaşımlar içerir.' İkinci cümle bu yaklaşımların spesifik örneklerini ve özelliklerini açıklıyor. 'For instance' örneklendirmeyi işaretler. Therefore/consequently sonuç bildirir. However/nevertheless zıtlık bildirir. Burada örnekleme var."
+        }
+      ]
+    },
+    {
+      "id": "1.2.4",
+      "name": "Negasyon, kiplik (modality) ve olasılık işaretleri",
+      "content": "YDS ve YÖKDİL'de cümle tamamlama sorularının zorlu türlerinden biri, negasyon (olumsuzluk), modalite (kiplik) ve olasılık işaretlerini içeren cümlelerdir. Bu yapılar, cümlenin anlamını incelikle değiştirir ve dikkatli okunmayı gerektirir.\n\n**NEGASYON (Olumsuzluk)**: Not, no, never, neither, hardly, scarcely, barely, rarely, seldom gibi sözcükler. **Kritik**: 'Hardly, scarcely, barely' zaten olumsuz anlamlıdır, bunlarla 'not' kullanılmaz. 'Neither...nor' yapısında fiil olumlu gelir. YDS'de çift olumsuz (double negative) hataları test edilir.\n\n**MODALİTE (Kiplik)**: Konuşucunun kesinlik derecesini, zorunluluğu, olasılığı veya izni ifade eder.\n- **Yüksek kesinlik**: must, certainly, definitely, undoubtedly\n- **Orta olasılık**: may, might, could, possibly, probably, likely\n- **Düşük olasılık**: unlikely, improbable, hardly likely\n- **Zorunluluk**: must, have to, need to, required, necessary\n- **Öneri**: should, ought to, advisable, recommended\n\n**OLASILIK İŞARETLERİ**: Akademik metinlerde kesin ifadeler yerine temkinli ifadeler tercih edilir (hedging). Appear to, seem to, tend to, suggest that, indicate that, it is likely that, potentially, presumably gibi yapılar olasılık/belirsizlik işaretler.\n\n**KARŞILAŞTIRMA YAPILARI**: Olumsuzluk ve modalite sık sık karşılaştırmalarda kullanılır. 'Not as...as', 'less...than', 'not more than' gibi yapılar.\n\n**Türk öğrenciler için kritik**: İngilizcede 'maybe' ile 'may be' farklıdır. Maybe = perhaps (belki), may be = olabilir (fiil).\n\n**Strateji**: Olumsuzluk işaretlerini kaçırmayın. Modal fiillere dikkat edin - bunlar kesinlik derecesini değiştirir. Cümlenin tonu temkinli mi, kesin mi? Tamamlama buna uymalı.",
+      "examples": [
+        "The research findings hardly ----, given the small sample size and numerous confounding variables.",
+        "Although the treatment appears promising, it may not ----, particularly for patients with advanced stages of the disease.",
+        "The proposed theory seems plausible; however, it could scarcely ----, without substantial empirical evidence.",
+        "Economic forecasts suggest that inflation might ----, unless central banks implement more aggressive monetary policies.",
+        "The archaeological evidence neither supports nor ----, leaving the historical question unresolved.",
+        "Scientists rarely ----, preferring instead to present findings with appropriate caveats and limitations.",
+        "The new policy is unlikely to ----, given the strong political opposition and limited public support.",
+        "While the results indicate a correlation, they do not necessarily ----, as causation requires more rigorous experimental design.",
+        "The medication should not ----, as it may interact dangerously with other commonly prescribed drugs.",
+        "Critics argue that the model cannot ----, because it fails to account for several important variables."
+      ],
+      "exercises": [
+        {
+          "question": "The experimental drug shows promise in early trials, but it ---- be considered a viable treatment option until extensive long-term safety studies are completed.",
+          "options": [
+            "A) must",
+            "B) cannot",
+            "C) will",
+            "D) should",
+            "E) might"
+          ],
+          "answer": "B",
+          "explanation": "Cümlenin mantığı: İlaç umut verici AMA (zıtlık) uzun vadeli çalışmalar tamamlanana kadar... Bu 'until' (kadar) yapısıyla olumsuz bir ifade gerektirir. 'Cannot be considered' (uygun seçenek olarak görülemez) doğru mantık. Must, will, should olumlu ve bu zıtlığa uymaz. Might çok zayıf."
+        },
+        {
+          "question": "The archaeological evidence ---- supports the hypothesis that the settlement dates to the Bronze Age, although definitive proof remains elusive.",
+          "options": [
+            "A) conclusively",
+            "B) definitely",
+            "C) certainly",
+            "D) tentatively",
+            "E) absolutely"
+          ],
+          "answer": "D",
+          "explanation": "Cümlenin ikinci kısmı kritik: 'kesin kanıt hala bulunamadı' (although definitive proof remains elusive). Bu, ilk kısımda kesin değil temkinli bir ifade gerektirir. 'Tentatively' (geçici olarak, temkinle) bu belirsizliği yansıtır. Conclusively, definitely, certainly, absolutely kesin destek bildirir ve 'although' kısmıyla çelişir."
+        },
+        {
+          "question": "Critics argue that the economic model ---- account for all relevant variables, particularly the unpredictable nature of human behavior in financial markets.",
+          "options": [
+            "A) can hardly",
+            "B) must definitely",
+            "C) will certainly",
+            "D) should probably",
+            "E) may possibly"
+          ],
+          "answer": "A",
+          "explanation": "Eleştiri bağlamı olumsuz bir ifade bekletir. 'Can hardly' (güçlükle yapabilir, neredeyse yapamaz) eleştiriyi yansıtır: model tüm değişkenleri hesaba katamıyor. Must definitely, will certainly kesin olumlu ifadeler ve eleştiri ile uyumsuz. Should probably, may possibly çok zayıf eleştiri."
+        },
+        {
+          "question": "The study's conclusions ---- be generalized to other populations, since the participants were drawn exclusively from a single demographic group.",
+          "options": [
+            "A) definitely can",
+            "B) should clearly",
+            "C) cannot reliably",
+            "D) will certainly",
+            "E) must obviously"
+          ],
+          "answer": "C",
+          "explanation": "'Since' (dolayı) sebep bildiriyor: katılımcılar tek bir gruptan. Bu bir sınırlama, dolayısıyla sonuçlar genellenemez. 'Cannot reliably' (güvenilir şekilde genellenemez) bu sınırlamayı ifade eder. Definitely can, should clearly, will certainly, must obviously hepsi olumlu ve bu sınırlama ile çelişir."
+        },
+        {
+          "question": "Researchers suggest that the observed correlation ---- indicate causation, as numerous confounding factors have not been controlled for in the study design.",
+          "options": [
+            "A) must necessarily",
+            "B) does not necessarily",
+            "C) will definitely",
+            "D) should certainly",
+            "E) can obviously"
+          ],
+          "answer": "B",
+          "explanation": "Akademik yazıda önemli ayrım: korelasyon ≠ nedensellik. İkinci kısım ('as numerous confounding factors') olumsuz bir ifade gerektiriyor. 'Does not necessarily indicate' (mutlaka göstermez) bu temkinli akademik tonu yakalar. Must necessarily, will definitely, should certainly, can obviously kesin olumlu ifadeler."
+        },
+        {
+          "question": "The new technology appears effective in controlled laboratory conditions; however, it ---- perform as well in real-world applications where variables cannot be tightly controlled.",
+          "options": [
+            "A) will certainly",
+            "B) must definitely",
+            "C) may not",
+            "D) should obviously",
+            "E) can clearly"
+          ],
+          "answer": "C",
+          "explanation": "'However' zıtlık bildiriyor: laboratuvarda etkili AMA gerçek dünyada... Zıtlık olumsuz/şüpheli bir ifade gerektirir. 'May not perform as well' (o kadar iyi performans göstermeyebilir) bu şüpheyi ifade eder. Will certainly, must definitely, should obviously, can clearly hepsi olumlu ve 'however' ile çelişir."
+        },
+        {
+          "question": "Although preliminary results seem encouraging, the treatment is ---- to replace existing therapies without further validation through large-scale clinical trials.",
+          "options": [
+            "A) likely",
+            "B) certain",
+            "C) ready",
+            "D) unlikely",
+            "E) able"
+          ],
+          "answer": "D",
+          "explanation": "'Although...encouraging' (teşvik edici olmasına rağmen) bir zıtlık yapısı. İkinci kısım 'without further validation' (daha fazla doğrulama olmadan) olumsuz bağlam. 'Unlikely to replace' (yerini alması olası değil) bu mantığa uyar. Likely, certain, ready, able olumlu ve 'although' ile 'without further validation' bağlamına uymaz."
+        },
+        {
+          "question": "The data neither confirm nor ---- the hypothesis, suggesting that additional research with larger sample sizes is necessary.",
+          "options": [
+            "A) prove",
+            "B) support",
+            "C) validate",
+            "D) refute",
+            "E) demonstrate"
+          ],
+          "answer": "D",
+          "explanation": "'Neither...nor' yapısı iki zıt durumu birleştirir. İlk kısım 'confirm' (doğrulamak) olumlu bir eylem. İkinci kısım zıt bir eylem olmalı. 'Refute' (çürütmek) confirm'in zıttıdır. Prove, support, validate, demonstrate hepsi confirm ile benzer anlamlı (olumlu eylemler)."
+        },
+        {
+          "question": "The proposed explanation can ---- be considered satisfactory, as it fails to address several critical aspects of the phenomenon.",
+          "options": [
+            "A) definitely",
+            "B) certainly",
+            "C) hardly",
+            "D) obviously",
+            "E) clearly"
+          ],
+          "answer": "C",
+          "explanation": "İkinci kısım 'as it fails' (başarısız olduğu için) olumsuz gerekçe sunuyor. 'Can hardly be considered satisfactory' (pek tatmin edici sayılmaz) bu eleştiriyi yansıtır. 'Hardly' zaten olumsuz anlamlı. Definitely, certainly, obviously, clearly olumlu vurgular ve 'fails' ile çelişir."
+        },
+        {
+          "question": "While the theory is intellectually appealing, it ---- be tested empirically due to the limitations of current measurement technologies.",
+          "options": [
+            "A) can easily",
+            "B) should obviously",
+            "C) will definitely",
+            "D) cannot readily",
+            "E) must certainly"
+          ],
+          "answer": "D",
+          "explanation": "'While...appealing' (çekici olmasına rağmen) zıtlık yapısı + 'due to limitations' (sınırlamalar nedeniyle) olumsuz bağlam oluşturuyor. 'Cannot readily be tested' (kolayca test edilemez) bu sınırlamayı ifade eder. Can easily, should obviously, will definitely, must certainly hepsi olumlu ve bu sınırlama ile çelişir."
+        }
+      ]
+    }
+  ]
+}

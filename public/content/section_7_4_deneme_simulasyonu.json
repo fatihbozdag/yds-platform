@@ -1,0 +1,342 @@
+{
+  "section": "7.4",
+  "title": "Deneme Simülasyonu",
+  "topics": [
+    {
+      "id": "7.4.1",
+      "title": "Gerçek Oturum Koşulları ve Optik İşaretleme Provası",
+      "content": "YDS ve YÖKDİL sınavlarında başarı, sadece bilgiye değil aynı zamanda sınav günü koşullarına hazırlıklı olmaya da bağlıdır. Gerçek oturum koşullarını simüle eden deneme sınavları, hem performansınızı test eder hem de sınav günü stresini azaltır.\n\n**Gerçek Oturum Koşulları Simülasyonu**:\n\n1. **Zaman**: Tam 180 dakika. Zamanlayıcı kurun, hiçbir şekilde ekstra süre kullanmayın. Sınav bittiğinde, tamamlanmamış olsa bile bırakın.\n\n2. **Yer**: Sessiz, dikkat dağıtıcı olmayan bir ortam. Kütüphane veya boş bir oda ideal. Müzik, telefon, bilgisayar kapalı.\n\n3. **Malzemeler**: Sadece kalem, silgi, sınav kitapçığı, optik form. Sözlük, not defteri, telefon yasak. 2B kurşun kalem kullanın (optik okuyucu için).\n\n4. **Ara vermeme**: 180 dakika boyunca hiç ara vermeyin. Tuvalete gitmeyin, su içmek için maksimum 30 saniye. Önceden tuvalete gidin, su şişenizi hazırlayın.\n\n5. **Optik form**: Gerçek optik forma benzer bir form kullanın (internetten indirebilirsiniz). Sınav bitiminden 15-20 dakika önce cevapları optik forma aktarmaya başlayın.\n\n**Optik İşaretleme Provası**:\n\n1. **İşaretleme yöntemi**: Daireyi tamamen doldurun, taşırmayın. Hafif işaretler optik okuyucu tarafından algılanmayabilir. Çok koyu basarsanız silmek zor olur.\n\n2. **Sıra kontrolü**: Her 10 soruda bir, soru numarasıyla optik formdaki numara eşleşiyor mu kontrol edin. Bir sıra kayması tüm cevaplarınızı yanlış yapar.\n\n3. **Hızlı aktarım tekniği**: Kitapçıkta cevapları net işaretleyin (A, B, C, D, E). Sonra 5'li gruplar halinde optik forma aktarın (5 cevabı oku, 5'ini işaretle, kontrol et).\n\n4. **Silme pratiği**: Yanlış işaretleme yaptığınızda temiz silme tekniği pratik edin. Leke bırakmadan, formu yırtmadan silin.\n\n5. **Kimlik bilgileri**: Optik formun üst kısmındaki kimlik, TC no, sınav türü kısımlarını doğru doldurmayı unutmayın. Bunu sınav başında yapın (2-3 dakika).\n\n**Deneme Simülasyonu Adımları**:\n\n1. **Hazırlık (5 dakika önceden)**: Malzemeleri hazırlayın, tuvalete gidin, su şişenizi doldurun, telefonu kapatın.\n\n2. **Sınav başlangıcı (0. dakika)**: Zamanlayıcıyı başlatın. Optik formun üst kısmını doldurun (ad, TC, sınav türü) - 2-3 dakika.\n\n3. **Tur 1 - Hızlı kazanım (3-50. dakika)**: Kolay soruları çözün, kitapçıkta işaretleyin. Optik forma henüz aktarmayın.\n\n4. **Tur 2 - Paragraf (50-120. dakika)**: Orta zorluk sorularını çözün.\n\n5. **Tur 3 - Zor sorular + optik (120-180. dakika)**: Zor soruları tekrar çözün (120-160. dk), optik forma tüm cevapları aktarın ve kontrol edin (160-180. dk).\n\n6. **Son kontrol (Son 5 dakika)**: Optik formda boş soru var mı, sıra kayması var mı kontrol edin. Kimlik bilgileri doğru mu tekrar bakın.\n\n7. **Bitti**: 180. dakikada kalem bırakın, ne kadar soru tamamladığınızı not edin.\n\n**Sınav Günü İçin Alışkanlıklar**:\n\n- En az 3 kez tam simülasyon yapın (haftalık bir deneme ideal).\n- Her simülasyonda tur sistemini uygulayın, zamanlamanızı iyileştirin.\n- Optik işaretlemeyi otomatikleştirin (düşünmeden yapabilecek hale gelin).\n- Stres anlarını simüle edin: zor bir soru sizi yavaşlatmasın, geçip devam edin.\n- Her simülasyondan sonra hata analizi yapın, stratejinizi güncelleyin.\n\n**Gerçek Sınav Günü Checklist**:\n☐ 2B kurşun kalem (2-3 adet) + silgi\n☐ Kimlik belgesi\n☐ Sınav giriş belgesi\n☐ Su şişesi (küçük)\n☐ Saat (dijital değil, analog)\n☐ Önceki gece 7-8 saat uyku\n☐ Hafif kahvaltı (ağır yemek uyuşukluk yapar)\n☐ Sınav yerine 30 dakika erken varış",
+      "examples": [
+        "Simülasyon 1: 180 dakika, sessiz oda, telefon kapalı, sadece kalem ve optik form.",
+        "Optik işaretleme: Her 10 soruda bir numara kontrolü yap.",
+        "Hata örneği: 45. soruda sıra kaydı, tüm cevapları bir aşağı işaretlemişim → Kontrol önemli!",
+        "Zaman yönetimi: 160. dakikada tüm cevapları optik forma aktarmaya başla.",
+        "Kimlik bilgileri: Sınav başında 2 dakika ayır, TC no, ad-soyad, sınav türü doğru mu kontrol et.",
+        "Silme tekniği: Yanlış işaretleme yaptığında leke bırakmadan sil, yoksa optik okuyucu karışır.",
+        "5'li aktarım: Kitapçıktan 5 cevap oku (ABCDE), optik forma işaretle, kontrol et.",
+        "Ara vermeme: 180 dakika kesintisiz, sadece 30 saniye su içmek için.",
+        "Malzeme kontrolü: 2B kalem (çok sert değil, optik okumaz), silgi (temiz).",
+        "Son 5 dakika: Optik formda boş var mı, kimlik bilgileri doğru mu kontrol et.",
+        "Stres simülasyonu: Zor bir soruyla 5 dakika uğraşma, işaretle geç.",
+        "Gerçekçi ortam: Kütüphanede veya sessiz odada, kimse rahatsız etmesin.",
+        "Haftalık deneme: Her hafta 1 tam simülasyon, tur sistemini uygula.",
+        "İyileşme takibi: Her simülasyonda zamanlamanızı not edin, gelişme var mı?",
+        "Sınav günü: Analog saat (dijital yasak), hafif kahvaltı, 30 dakika erken varış."
+      ],
+      "exercises": [
+        {
+          "question": "Gerçek oturum simülasyonunda sınav süresi ne kadar olmalıdır?",
+          "options": {
+            "A": "120 dakika",
+            "B": "150 dakika",
+            "C": "180 dakika",
+            "D": "200 dakika (ekstra 20 dk)",
+            "E": "Bitene kadar"
+          },
+          "correct": "C",
+          "explanation": "YDS/YÖKDİL tam 180 dakika. Simülasyonda da kesinlikle 180 dakika, ekstra süre yok."
+        },
+        {
+          "question": "Optik forma cevap aktarmaya ne zaman başlamalısınız?",
+          "options": {
+            "A": "Sınav başında",
+            "B": "Her soruyu çözdükten hemen sonra",
+            "C": "160. dakika civarı (son 20 dakika)",
+            "D": "Son 5 dakika",
+            "E": "Sınav bitiminde"
+          },
+          "correct": "C",
+          "explanation": "Son 15-20 dakikayı (160-180. dakika) optik işaretleme ve kontrol için ayırın. Son 5 dakika çok az, aceleyle hata yaparsınız."
+        },
+        {
+          "question": "Optik formda sıra kaymasını önlemek için ne yapmalısınız?",
+          "options": {
+            "A": "Her 10 soruda bir numara kontrolü",
+            "B": "Hiçbir kontrol gereksiz",
+            "C": "Sadece son soruda kontrol",
+            "D": "Rastgele kontrol",
+            "E": "Kontrol yapmayın, hız kaybedersiniz"
+          },
+          "correct": "A",
+          "explanation": "Her 10-15 soruda bir, soru numarasıyla optik formdaki sıra eşleşiyor mu kontrol edin. Bir sıra kayması felaket olur."
+        },
+        {
+          "question": "Simülasyon sırasında ara vermeli misiniz?",
+          "options": {
+            "A": "Evet, her 60 dakikada 10 dakika",
+            "B": "Evet, yorulduğumda",
+            "C": "Hayır, 180 dakika kesintisiz (sadece 30 sn su için)",
+            "D": "Evet, tuvalete ihtiyaç duyduğumda",
+            "E": "Evet, telefona bakmak için"
+          },
+          "correct": "C",
+          "explanation": "Gerçek sınavda ara yok. Simülasyonda da 180 dakika kesintisiz çalışın. Önceden tuvalete gidin, su için maksimum 30 saniye."
+        },
+        {
+          "question": "Optik forma işaretleme yaparken hangi kalem kullanmalısınız?",
+          "options": {
+            "A": "Tükenmez kalem",
+            "B": "İşaretleme kalemi",
+            "C": "2B kurşun kalem",
+            "D": "Mürekkepli kalem",
+            "E": "Herhangi bir kalem"
+          },
+          "correct": "C",
+          "explanation": "Optik okuyucu için 2B kurşun kalem gereklidir. Çok sert kalem (H) optik okumaz, tükenmez kalem/mürekkep silinmez."
+        },
+        {
+          "question": "Cevapları optik forma aktarırken hangi yöntem en güvenli?",
+          "options": {
+            "A": "Tüm cevapları tek seferde aktar",
+            "B": "5'li gruplar halinde aktar, her grubu kontrol et",
+            "C": "Rastgele sırayla aktar",
+            "D": "Sadece emin olduklarını aktar",
+            "E": "Aktarmayı unutma, kitapçıkta işaretle"
+          },
+          "correct": "B",
+          "explanation": "5'li grup yöntemi: 5 cevap oku, optik forma işaretle, kontrol et. Bu yöntem hem hızlı hem güvenli."
+        },
+        {
+          "question": "Sınav başında optik formun üst kısmını doldurmalı mısınız?",
+          "options": {
+            "A": "Hayır, zaman kaybı",
+            "B": "Evet, 2-3 dakika ayırın (TC no, ad-soyad, sınav türü)",
+            "C": "Sadece adınızı yazın",
+            "D": "Sınav sonunda doldurun",
+            "E": "Görevli doldurur"
+          },
+          "correct": "B",
+          "explanation": "Sınav başında 2-3 dakika ayırarak kimlik bilgilerini, TC no, sınav türünü doğru doldurun. Yanlış veya eksik bilgi formun geçersiz sayılmasına neden olabilir."
+        },
+        {
+          "question": "Kaç kez tam simülasyon yapmalısınız?",
+          "options": {
+            "A": "1 kez yeterli",
+            "B": "En az 3 kez",
+            "C": "10 kez",
+            "D": "Simülasyon gereksiz",
+            "E": "Sadece bir kez, sınav gününden önce"
+          },
+          "correct": "B",
+          "explanation": "En az 3 kez tam simülasyon (gerçek koşullar, 180 dk, optik form) yapın. İdeal: haftalık 1 deneme."
+        },
+        {
+          "question": "Simülasyonda hangi malzemeler YASAKTIR?",
+          "options": {
+            "A": "Kalem",
+            "B": "Su şişesi",
+            "C": "Telefon, sözlük, not defteri",
+            "D": "Silgi",
+            "E": "Optik form"
+          },
+          "correct": "C",
+          "explanation": "Gerçek sınavda telefon, sözlük, not defteri yasak. Simülasyonda da bunları kullanmayın. Sadece: kalem, silgi, sınav kitapçığı, optik form, su."
+        },
+        {
+          "question": "Sınav günü kaç dakika erken varmalısınız?",
+          "options": {
+            "A": "5 dakika",
+            "B": "10 dakika",
+            "C": "30 dakika",
+            "D": "1 saat",
+            "E": "Tam zamanında"
+          },
+          "correct": "C",
+          "explanation": "Sınav yerine 30 dakika erken varın. Trafik, yolu bulamama, stres gibi faktörler için yedek süre. Çok erken (1 saat+) stres artırabilir."
+        },
+        {
+          "question": "Optik formda yanlış işaretleme yaptınız. Ne yapmalısınız?",
+          "options": {
+            "A": "Üstünden çizgi çekin",
+            "B": "X işareti koyun",
+            "C": "Temizce silin (leke bırakmadan)",
+            "D": "Yeni bir form isteyin",
+            "E": "Hiçbir şey yapmayın"
+          },
+          "correct": "C",
+          "explanation": "Yanlış işaretleme yaptıysanız, temiz bir silgi ile leke bırakmadan silin. Üzerine çizgi, X işareti optik okuyucuyu karıştırır."
+        },
+        {
+          "question": "Sınav günü kahvaltısı nasıl olmalıdır?",
+          "options": {
+            "A": "Ağır, tok tutar",
+            "B": "Aç kalın, konsantrasyon artar",
+            "C": "Hafif kahvaltı (ağır yemek uyuşukluk yapar)",
+            "D": "Sadece kahve",
+            "E": "Fastfood"
+          },
+          "correct": "C",
+          "explanation": "Hafif kahvaltı yapın. Ağır yemek sindirim için kan akışını beyne değil mideye yönlendirir, uyuşukluk yapar. Aç kalmak da konsantrasyonu bozar."
+        }
+      ]
+    },
+    {
+      "id": "7.4.2",
+      "title": "Duygu Düzenleme: İlk 10 Dakikada Sabitleme Rutini",
+      "content": "YDS ve YÖKDİL gibi yüksek stresli sınavlarda bilgi kadar duygusal kontrol de önemlidir. İlk 10 dakikadaki duygu durumunuz, sınavın geri kalanını etkiler. 'Sabitleme rutini' (anchoring routine), sınavın başında sakin, odaklanmış ve kendinden emin bir zihin durumuna geçmenizi sağlar.\n\n**İlk 10 Dakikanın Önemi**:\n\n- Sınav başında adrenalin yüksektir, el titremesi, kalp çarpıntısı, zihinsel bulanıklık yaygındır.\n- Eğer ilk 5-10 dakikada kendinizi sabitlemeyi ssiniz, panik modu devam eder, konsantrasyon bozulur, basit hatalara yol açar.\n- İyi başlangıç → özgüven artışı → daha iyi performans döngüsü.\n- Kötü başlangıç → stres artışı → daha fazla hata döngüsü.\n\n**Sabitleme Rutini (İlk 10 Dakika)**:\n\n**Dakika 0-2: Fiziksel Sabitleme**\n- Derin nefes alın: 4 saniye içeri çek, 4 saniye tut, 6 saniye üfle. 3 kez tekrarla.\n- Omuzlarınızı geriye doğru çekin, dik oturun. Fiziksel duruş özgüveni etkiler.\n- Ellerinizi sıkın-gevşetin (3 kez), kasları rahatlat.\n- Ayaklarınızı yere sağlam basın, 'topraklanma' hissi.\n\n**Dakika 2-5: Zihinsel Sabitleme**\n- Optik formun üst kısmını doldurun (TC, ad-soyad, sınav türü). Bu basit, mekanik iş zihninizi sakinleştirir.\n- Malzemelerinizi düzenleyin: kalem, silgi, su şişesi. Her şeyin yerli yerinde olduğunu görmek kontrol hissi verir.\n- İç konuşma: 'Ben hazırım. Bu sınav için çok çalıştım. Birkaç soruyu bilmemem normal. Elimden gelenin en iyisini yapacağım.'\n\n**Dakika 5-10: Stratejik Sabitleme**\n- İlk 2-3 soruya göz atın. EN KOLAY olanı seçin ve çözün (kelime, gramer, deyim). Başarılı başlangıç özgüven verir.\n- Eğer ilk sorular zor görünüyorsa, sayfayı çevirin, kolay bir soru bulun, onu çözün.\n- Hedef: İlk 10 dakikada 3-5 kolay soruyu doğru çözmek. 'Ben yapabiliyorum' hissini pekiştirmek.\n\n**Sabitleme Teknikleri**:\n\n1. **Nefes kontrolü**: Heyecan/panik anında nefes sığlaşır. Derin, yavaş nefes parasempatik sinir sistemini aktive eder, sakinleştirir.\n\n2. **Fiziksel duruş**: Çökmüş, öne eğilmiş duruş stres hormonu artırır. Dik, açık duruş özgüven hormonu (testosteron) artırır.\n\n3. **Olumlu iç konuşma**: 'Yapamayacağım, çok zor' yerine 'Elimden geleni yapıyorum, bazı soruları bilmemem normal'.\n\n4. **Kolay başlangıç**: İlk soruları sırayla çözmeyin, kolay olanları bulup çözün. Başarılı başlangıç momentum verir.\n\n5. **Rutinleştirme**: Bu sabitleme rutinini her deneme sınavında uygulayın. Otomatikleşsin, sınav günü düşünmeden yapın.\n\n**Sınav Boyunca Duygu Düzenleme**:\n\n- **Zor soru karşısında**: Derin nefes al, 'bu soruyu atlayıp döneceğim' de, geç. Bir soruda takılıp kalma.\n- **Zaman baskısı**: 'Panik yapmak zaman kaybettirir' hatırlat kendine. Sakin kal, önceliklendirme yap.\n- **Hata fark etme**: Önceki bir hatayı fark etsen bile, artık değiştiremezsin. 'Geçmişi bırak, şimdiye odaklan.'\n- **Yorgunluk**: 100. dakika civarı yorgunluk hissedersen, 10 saniye gözlerini kapat, derin nefes al, devam et.\n\n**Deneme Sınavlarında Pratik**:\n\n- Her deneme sınavında ilk 10 dakika sabitleme rutinini uygula.\n- Hangi tekniklerin sana en çok yaradığını gözlemle (nefes, duruş, iç konuşma, kolay başlangıç).\n- Sınav günü otomatikleşmesi için en az 3 kez pratik yap.\n- Not: Bazı insanlar için müzik/meditasyon sınav öncesi faydalı, ama sınav SIRASINDA sadece nefes ve iç konuşma kullanabilirsiniz.",
+      "examples": [
+        "Sabitleme adım 1: Derin nefes - 4 sn içeri, 4 sn tut, 6 sn üfle. 3 kez.",
+        "Sabitleme adım 2: Omuzları geriye çek, dik otur. Fiziksel duruş → özgüven.",
+        "Sabitleme adım 3: Optik formun üst kısmını doldur (TC, ad-soyad). Mekanik iş → sakinleşme.",
+        "Sabitleme adım 4: İç konuşma: 'Ben hazırım. Elimden gelenin en iyisini yapacağım.'",
+        "Sabitleme adım 5: İlk 3 soruya bak, EN KOLAY olanı çöz. Başarılı başlangıç → momentum.",
+        "Zor soru tepkisi: Derin nefes, 'Bu soruyu atlayıp döneceğim', geç. Takılma.",
+        "Hata fark etme: 'Geçmişi değiştiremem, şimdiye odaklanıyorum.'",
+        "Zaman baskısı: 'Panik zaman kaybettirir. Sakin kal, önceliklendirme yap.'",
+        "Yorgunluk anı: 10 saniye gözlerini kapat, derin nefes, devam.",
+        "Rutinleştirme: Her deneme sınavında aynı rutini uygula, otomatikleştir.",
+        "İlk 10 dakika hedefi: 3-5 kolay soru çöz, 'Ben yapabiliyorum' hissini pekiştir.",
+        "Fiziksel topraklanma: Ayakları yere basın, 'buradayım, hazırım' hissi.",
+        "Olumlu iç konuşma: 'Bazı soruları bilmemem normal, mükemmel olmak zorunda değilim.'",
+        "Sınav öncesi hazırlık: Önceki gece meditasyon/müzik → sınav sabahı sakin.",
+        "Acil durum: Panik anı → dur, derin nefes al, 'sakinim' de, devam et."
+      ],
+      "exercises": [
+        {
+          "question": "İlk 10 dakikada sabitleme rutininin ASIL amacı nedir?",
+          "options": {
+            "A": "Tüm soruları çözmek",
+            "B": "Hızlı başlamak",
+            "C": "Sakin, odaklanmış ve kendinden emin bir zihin durumuna geçmek",
+            "D": "Optik formu doldurmak",
+            "E": "Kalem silgi düzenlemek"
+          },
+          "correct": "C",
+          "explanation": "Sabitleme rutininin amacı: fiziksel ve zihinsel sakinlik, odaklanma, özgüven sağlamak. Bu durum sınavın geri kalanını olumlu etkiler."
+        },
+        {
+          "question": "Sınav başında derin nefes almanın faydası nedir?",
+          "options": {
+            "A": "Zaman kazanmak",
+            "B": "Parasempatik sinir sistemi aktive eder, sakinleştirir",
+            "C": "Daha hızlı düşünmek",
+            "D": "Uyku hali",
+            "E": "Hiçbir faydası yok"
+          },
+          "correct": "B",
+          "explanation": "Derin, yavaş nefes parasempatik sistemi aktive eder, kalp atışını yavaşlatır, stres hormonunu azaltır, sakinleştirir."
+        },
+        {
+          "question": "İlk 10 dakikada hangi soruları çözmelisiniz?",
+          "options": {
+            "A": "İlk 10 soruyu sırayla",
+            "B": "En zor soruları",
+            "C": "EN KOLAY soruları (3-5 tane)",
+            "D": "Hiçbirini, sadece okuyun",
+            "E": "Rastgele soruları"
+          },
+          "correct": "C",
+          "explanation": "İlk 10 dakikada en kolay 3-5 soruyu bulup çözün. Başarılı başlangıç özgüven ve momentum verir. Zor sorularla başlamak morali bozar."
+        },
+        {
+          "question": "Fiziksel duruşun (dik oturma, omuzları geriye çekme) etkisi nedir?",
+          "options": {
+            "A": "Sadece görünüş için",
+            "B": "Özgüven hormonu artışı, stres azalması",
+            "C": "Hiçbir etkisi yok",
+            "D": "Sadece yorgunluk azalması",
+            "E": "Daha hızlı yazmak"
+          },
+          "correct": "B",
+          "explanation": "Dik, açık fiziksel duruş özgüven hormonu (testosteron) artırır, stres hormonu (kortizol) azaltır. Çökmüş duruş tersi etkiye sahip."
+        },
+        {
+          "question": "Zor bir soruyla karşılaştığınızda en iyi tepki nedir?",
+          "options": {
+            "A": "5 dakika düşünün, çözene kadar devam edin",
+            "B": "Paniğe kapılın",
+            "C": "Derin nefes alın, 'Bu soruyu atlayıp döneceğim' deyin, geçin",
+            "D": "Sınavı bırakın",
+            "E": "Rastgele işaretleyin hemen"
+          },
+          "correct": "C",
+          "explanation": "Zor soru → derin nefes, 'atlayıp döneceğim' iç konuşması, geç. Bir soruda takılı kalmak zaman kaybı ve stres artışı yaratır."
+        },
+        {
+          "question": "Optik formun üst kısmını doldurmanın (TC, ad-soyad) psikolojik faydası nedir?",
+          "options": {
+            "A": "Hiçbir faydası yok, sadece zorunluluk",
+            "B": "Basit, mekanik iş → zihinsel sakinleşme, kontrol hissi",
+            "C": "Zaman kaybı",
+            "D": "Sadece görevli için",
+            "E": "Unutmamak için"
+          },
+          "correct": "B",
+          "explanation": "Basit, mekanik işler (optik form doldurma, malzeme düzenleme) zihinsel sakinleşme ve 'her şey kontrol altında' hissi verir. Sabitleme rutininin parçasıdır."
+        },
+        {
+          "question": "Sabitleme rutinini ne zaman pratik etmelisiniz?",
+          "options": {
+            "A": "Sadece gerçek sınav gününde",
+            "B": "Hiç pratik gereksiz",
+            "C": "Her deneme sınavında (en az 3 kez)",
+            "D": "Sadece bir kez",
+            "E": "Rastgele zamanlarda"
+          },
+          "correct": "C",
+          "explanation": "Sabitleme rutinini her deneme sınavında uygulayın (en az 3 kez). Otomatikleşsin, sınav günü düşünmeden yapabilin."
+        },
+        {
+          "question": "Sınav sırasında önceki bir hatayı fark ettiniz. Ne yapmalısınız?",
+          "options": {
+            "A": "Panik yapın",
+            "B": "O soruyu düşünmeye devam edin",
+            "C": "'Geçmişi değiştiremem, şimdiye odaklanıyorum' deyin, devam edin",
+            "D": "Sınavı bırakın",
+            "E": "Tüm cevapları değiştirin"
+          },
+          "correct": "C",
+          "explanation": "Geçmiş hataları değiştiremezsiniz. 'Geçmişi bırak, şimdiye odaklan' iç konuşması yapın, devam edin. Pişmanlık zaman kaybı ve konsantrasyon bozukluğu yaratır."
+        },
+        {
+          "question": "100. dakika civarı yorgunluk hissediyorsunuz. Ne yapmalısınız?",
+          "options": {
+            "A": "Sınavı bırakın",
+            "B": "10 saniye gözlerinizi kapatın, derin nefes alın, devam edin",
+            "C": "5 dakika uyuyun",
+            "D": "Daha hızlı çözün",
+            "E": "Panik yapın"
+          },
+          "correct": "B",
+          "explanation": "Yorgunluk anı → 10 saniye gözlerinizi kapatın, derin nefes alın (mini-reset), devam edin. Uzun mola zaman kaybı, hiç mola zihinsel tükenme yaratır."
+        },
+        {
+          "question": "Olumlu iç konuşma örneği hangisidir?",
+          "options": {
+            "A": "'Yapamayacağım, çok zor'",
+            "B": "'Başarısız olacağım'",
+            "C": "'Bazı soruları bilmemem normal, elimden gelenin en iyisini yapıyorum'",
+            "D": "'Bu sınav imkansız'",
+            "E": "'Hepsi çok zor'"
+          },
+          "correct": "C",
+          "explanation": "Olumlu iç konuşma: gerçekçi + destekleyici. 'Bazı soruları bilmemem normal, elimden geleni yapıyorum' dengeli ve motive edici."
+        },
+        {
+          "question": "İyi başlangıç → özgüven artışı → daha iyi performans döngüsü nasıl başlatılır?",
+          "options": {
+            "A": "Zor sorularla başlayarak",
+            "B": "İlk 10 dakikada kolay soruları çözerek başarılı başlangıç yapmak",
+            "C": "Hızlı hızlı çözmek",
+            "D": "Hiçbir şey yapmamak",
+            "E": "Panik yapmak"
+          },
+          "correct": "B",
+          "explanation": "İlk 10 dakikada kolay soruları bulup doğru çözmek → 'Ben yapabiliyorum' hissi → özgüven artışı → daha iyi performans döngüsü başlar."
+        },
+        {
+          "question": "Sabitleme rutininin 4 temel bileşeni nedir?",
+          "options": {
+            "A": "Hız, güç, dayanıklılık, esneklik",
+            "B": "Fiziksel sabitleme, zihinsel sabitleme, stratejik sabitleme, rutin pratik",
+            "C": "Okuma, yazma, dinleme, konuşma",
+            "D": "Kelime, gramer, okuma, yazma",
+            "E": "Sabah, öğle, akşam, gece"
+          },
+          "correct": "B",
+          "explanation": "Sabitleme rutini: 1) Fiziksel (nefes, duruş), 2) Zihinsel (iç konuşma, mekanik işler), 3) Stratejik (kolay sorularla başlama), 4) Rutin pratik (otomatikleştirme)."
+        }
+      ]
+    }
+  ]
+}

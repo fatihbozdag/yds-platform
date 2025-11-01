@@ -1,0 +1,501 @@
+{
+  "section": "2.5",
+  "title": "Yan Tümceler (Subordinate Clauses)",
+  "topics": [
+    {
+      "id": "2.5.1",
+      "title": "Relative Clauses: Defining/Non-defining, Reduction",
+      "content": "Relative clauses (ilgi cümleleri/sıfat cümleleri) bir ismi tanımlayan veya hakkında ek bilgi veren yan cümlelerdir. YDS'de relative clauses iki türe ayrılır: **Defining (restrictive) relative clauses** ismin hangi kişi/nesne olduğunu belirler ve virgül kullanılmaz: 'The students who passed the exam received certificates' (sınavı geçen öğrenciler - hangi öğrenciler?). **Non-defining (non-restrictive) relative clauses** zaten belli olan isim hakkında ek bilgi verir ve virgülle ayrılır: 'Dr. Smith, who is a renowned linguist, will give the lecture' (Dr. Smith zaten belli, ek bilgi veriliyor). Defining'de 'that' kullanılabilir ama non-defining'de sadece 'who/which/whose' kullanılır. **Relative pronoun'lar**: 'who' (kişi-özne), 'whom' (kişi-nesne-formel), 'which' (nesne/hayvan), 'whose' (sahiplik), 'that' (kişi/nesne-defining'de), 'where' (yer), 'when' (zaman), 'why' (sebep). **Reduction**: Relative clause'lar kısaltılabilir. Özne olan relative pronoun + be fiili atılır: 'The study (which was) published last year' → 'The study published last year'. Active voice'ta present/past participle kullanılır: 'Students (who are) taking the course' → 'Students taking the course'. Türk öğrenciler defining/non-defining ayrımını anlamamakta ve virgül kullanımında hata yapmaktadır. YDS'de akademik metinlerde relative clauses çok yaygındır: 'The theory, which was proposed in 1995, revolutionized the field'. Strateji: Virgül varsa non-defining (ek bilgi), yoksa defining (tanımlayıcı). Reduction'da fiil active ise V-ing, passive ise V3 kullanın.",
+      "examples": [
+        "The researchers who conducted the study are from Oxford. (Defining - hangi araştırmacılar?)",
+        "Professor Lee, who has published extensively, will lead the project. (Non-defining - ek bilgi, virgülle ayrılır)",
+        "YANLIŞ: Professor Lee who has published extensively will lead the project. (Non-defining için virgül gerekli)",
+        "The article that/which was published last month has been widely cited. (Defining - 'that' kullanılabilir)",
+        "YANLIŞ: The article, that was published last month, has been cited. (Non-defining'de 'that' kullanılmaz)",
+        "The study published last month has been cited. (Reduction - 'which was' atıldı)",
+        "Students taking the advanced course must complete a thesis. (Reduction - 'who are' atıldı, present participle)",
+        "The methodology used in this research is innovative. (Reduction - 'which was' atıldı, past participle passive)",
+        "The university where the research was conducted is prestigious. (Relative adverb 'where')",
+        "This is the reason why the experiment failed. (Relative adverb 'why')",
+        "The data, most of which was collected online, supports the hypothesis. (Quantifier + of which)",
+        "Dr. Brown, whose work is renowned, will chair the committee. (Relative pronoun 'whose' - sahiplik)"
+      ],
+      "exercises": [
+        {
+          "question": "The researchers ---- the study are from leading universities.",
+          "options": [
+            "conducted",
+            "conducting",
+            "who conducting",
+            "which conducted",
+            "whose conducted"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Conducting' reduced relative clause (present participle): 'Çalışmayı yürüten araştırmacılar önde gelen üniversitelerden.' Tam hali 'who are conducting' → reduction ile 'conducting'. A şıkkı 'conducted' past participle passive anlamı verir (yürütülen araştırmacılar - anlamsız). C şıkkı 'who conducting' yanlış yapı (who + V-ing değil). D ve E şıkları yanlış relative pronoun."
+        },
+        {
+          "question": "Professor Smith, ---- research focuses on linguistics, will give a lecture.",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "that",
+            "whom"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Whose' sahiplik gösteren relative pronoun: 'Araştırması dilbilime odaklanan Profesör Smith ders verecek.' 'Whose research' = 'onun araştırması'. A şıkkı 'who' özne pronoun ama cümlede sahiplik gerekli. B şıkkı 'which' nesne/hayvan için. D şıkkı 'that' non-defining'de kullanılmaz. E şıkkı 'whom' nesne pronoun."
+        },
+        {
+          "question": "The article ---- in Nature last month has received widespread attention.",
+          "options": [
+            "publishing",
+            "published",
+            "which publishing",
+            "who published",
+            "that publishing"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Published' reduced relative clause (past participle passive): 'Geçen ay Nature'da yayınlanan makale geniş ilgi gördü.' Tam hali 'which was published' → reduction ile 'published'. A şıkkı 'publishing' active anlamı verir (yayınlayan makale - anlamsız). C, D, E şıkları yanlış yapı."
+        },
+        {
+          "question": "Scientists, ---- work contributes to medical breakthroughs, deserve recognition.",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "that",
+            "whom"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Whose' sahiplik: 'İşi tıbbi atılımlara katkıda bulunan bilim insanları takdir hak eder.' Non-defining clause (virgülle ayrılmış). 'Whose work' = 'onların işi'. A şıkkı 'who' özne ama sahiplik gerekli. B şıkkı 'which' nesne için. D şıkkı 'that' non-defining'de kullanılmaz. E şıkkı 'whom' nesne pronoun."
+        },
+        {
+          "question": "The data ---- from the survey supports the hypothesis.",
+          "options": [
+            "collecting",
+            "collected",
+            "which collecting",
+            "who collected",
+            "that collecting"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Collected' reduced relative clause (past participle passive): 'Anketten toplanan veri hipotezi destekliyor.' Tam hali 'which was collected' → reduction ile 'collected'. A şıkkı 'collecting' active anlamı verir (toplayan veri - anlamsız). C, D, E şıkları yanlış yapı."
+        },
+        {
+          "question": "The laboratory ---- the experiments were conducted is state-of-the-art.",
+          "options": [
+            "which",
+            "that",
+            "where",
+            "when",
+            "whose"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Where' yer belirten relative adverb: 'Deneylerin yapıldığı laboratuvar son teknoloji.' 'Where' = 'in which'. A ve B şıkları 'which/that' cümlede preposition gerektirir ('in which'). D şıkkı 'when' zaman için. E şıkkı 'whose' sahiplik için."
+        },
+        {
+          "question": "Dr. Johnson, ---- I met at the conference, is an expert in cognitive science.",
+          "options": [
+            "who",
+            "which",
+            "whose",
+            "whom",
+            "that"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Whom' nesne pronoun (formel): 'Konferansta tanıştığım Dr. Johnson bilişsel bilimde uzmandır.' 'I met him' → 'whom I met'. Non-defining clause. A şıkkı 'who' özne pronoun ama burada nesne. B şıkkı 'which' kişi için kullanılmaz. C şıkkı 'whose' sahiplik. E şıkkı 'that' non-defining'de kullanılmaz."
+        },
+        {
+          "question": "Students ---- in the study must sign a consent form.",
+          "options": [
+            "participate",
+            "participating",
+            "participated",
+            "which participate",
+            "who participated"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Participating' reduced relative clause (present participle active): 'Çalışmaya katılan öğrenciler onay formu imzalamalı.' Tam hali 'who are participating' → reduction ile 'participating'. A şıkkı 'participate' simple verb, relative clause oluşturmaz. C şıkkı 'participated' past tense/past participle ama devam eden eylem için present participle gerekli. D ve E şıkları reduction değil, tam relative clause."
+        },
+        {
+          "question": "The findings, ---- were unexpected, challenged existing theories.",
+          "options": [
+            "that",
+            "who",
+            "which",
+            "whose",
+            "what"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Which' non-defining relative clause için: 'Beklenmedik olan bulgular mevcut teorilere meydan okudu.' Virgülle ayrılmış, non-defining. A şıkkı 'that' non-defining'de kullanılmaz. B şıkkı 'who' kişi için. D şıkkı 'whose' sahiplik. E şıkkı 'what' relative pronoun değil."
+        },
+        {
+          "question": "This is the reason ---- the experiment failed.",
+          "options": [
+            "which",
+            "that",
+            "why",
+            "when",
+            "where"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Why' sebep belirten relative adverb: 'Bu deneyin başarısız olma sebebidir.' 'Why' = 'for which'. A ve B şıkları 'which/that' cümlede preposition gerektirir. D şıkkı 'when' zaman için. E şıkkı 'where' yer için."
+        },
+        {
+          "question": "The methodology ---- in this research is based on previous studies.",
+          "options": [
+            "using",
+            "used",
+            "which using",
+            "who used",
+            "that using"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Used' reduced relative clause (past participle passive): 'Bu araştırmada kullanılan metodoloji önceki çalışmalara dayanıyor.' Tam hali 'which is used' → reduction ile 'used'. A şıkkı 'using' active anlamı verir (kullanan metodoloji - anlamsız). C, D, E şıkları yanlış yapı."
+        },
+        {
+          "question": "The conference, ---- will be held in May, focuses on sustainability.",
+          "options": [
+            "that",
+            "whose",
+            "which",
+            "whom",
+            "what"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Which' non-defining relative clause: 'Mayıs'ta yapılacak konferans sürdürülebilirliğe odaklanıyor.' Virgülle ayrılmış, non-defining. A şıkkı 'that' non-defining'de kullanılmaz. B şıkkı 'whose' sahiplik. D şıkkı 'whom' kişi-nesne için. E şıkkı 'what' relative pronoun değil."
+        }
+      ]
+    },
+    {
+      "id": "2.5.2",
+      "title": "Noun Clauses: that/wh-clause, Reported Speech",
+      "content": "Noun clauses (isim cümleciği) cümlede isim görevini yapan yan cümlelerdir ve özne, nesne veya tümleç olarak kullanılır. YDS'de noun clauses üç şekilde oluşur: **That-clauses**: 'that' bağlacıyla başlar ve genellikle düşünce/inanç/bilgi fiillerinden sonra gelir: 'Researchers believe that the theory is valid', 'It is important that students understand the concept'. **Wh-clauses**: 'what, where, when, why, how, who, which' gibi soru sözcükleriyle başlar: 'What surprised scientists was the rapid change', 'The team doesn't know where the error occurred'. **If/whether clauses**: Evet/hayır soruları için: 'Researchers questioned whether the method was reliable'. **Reported speech (dolaylı anlatım)** başkasının söylediklerini aktarmaktır. Direct: 'She said, \"I am conducting research.\"' → Indirect: 'She said (that) she was conducting research.' Zaman kayması (backshift) olur: present → past, past → past perfect, will → would. Zaman/yer zarfları değişir: now → then, today → that day, here → there. Reporting verbs: say, tell, ask, explain, suggest, claim, report. Türk öğrenciler reported speech'te zaman kaymasını unutur ve direct speech'teki zamanı aynen kullanır. YDS'de akademik metinlerde araştırmacıların bulguları genellikle reported speech ile aktarılır. Strateji: Noun clause özne/nesne yerine geçiyorsa that-clause veya wh-clause kullanın. Reported speech'te ana cümle past ise, yan cümle bir zaman geriye gider.",
+      "examples": [
+        "Researchers found that the hypothesis was supported by the data. (That-clause as object)",
+        "That the experiment succeeded surprised everyone. (That-clause as subject - formel)",
+        "YANLIŞ: The experiment succeeded surprised everyone. (Bağlaç 'that' gerekli)",
+        "What matters most is the validity of the methodology. (Wh-clause as subject)",
+        "Scientists don't know where the species originated. (Wh-clause as object - soru değil, dolaylı soru)",
+        "YANLIŞ: Scientists don't know where did the species originate. (Dolaylı soruda devrik soru yapısı yok)",
+        "The committee questioned whether the results were reliable. (If/whether clause)",
+        "She said, 'I am analyzing the data.' → She said (that) she was analyzing the data. (Reported speech - present → past)",
+        "He claimed, 'The theory will be proven correct.' → He claimed (that) the theory would be proven correct. (Will → would)",
+        "They reported, 'We have completed the study.' → They reported (that) they had completed the study. (Present perfect → past perfect)",
+        "The professor asked, 'Where is the laboratory?' → The professor asked where the laboratory was. (Soru → dolaylı soru)",
+        "It is essential that researchers follow ethical guidelines. (That-clause after adjective - subjunctive mood)"
+      ],
+      "exercises": [
+        {
+          "question": "Researchers believe ---- the new treatment will be effective.",
+          "options": [
+            "that",
+            "what",
+            "which",
+            "if",
+            "whether"
+          ],
+          "correct_answer": 0,
+          "explanation": "'That' kesin ifade (belief/fact) için: 'Araştırmacılar yeni tedavinin etkili olacağına inanıyor.' 'Believe that' sabit yapı. D ve E şıkları 'if/whether' belirsizlik/soru için kullanılır ama 'believe' kesin inanç ifade eder. B ve C şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "---- surprised scientists was the rapid rate of climate change.",
+          "options": [
+            "That",
+            "What",
+            "Which",
+            "How",
+            "When"
+          ],
+          "correct_answer": 1,
+          "explanation": "'What' wh-clause as subject: 'Bilim insanlarını şaşırtan şey iklim değişikliğinin hızlı oranıydı.' 'What' = 'the thing that'. A şıkkı 'that' sadece bağlaç olarak çalışır, özne olamaz. C, D, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "The team doesn't know ---- the error occurred.",
+          "options": [
+            "that",
+            "what",
+            "where",
+            "which",
+            "if that"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Where' dolaylı soru (wh-clause as object): 'Ekip hatanın nerede oluştuğunu bilmiyor.' Soru sözcüğü + normal cümle sırası. A şıkkı 'that' bu bağlamda yanlış. B şıkkı 'what' özne/nesne sorar ama burada yer soruluyor. D şıkkı 'which' seçenek sorar. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "She said, 'I am conducting research.' → She said ---- research.",
+          "options": [
+            "that I am conducting",
+            "that she is conducting",
+            "that she was conducting",
+            "if she conducts",
+            "what she conducts"
+          ],
+          "correct_answer": 2,
+          "explanation": "Reported speech: 'O araştırma yürüttüğünü söyledi.' Direct speech present continuous → reported speech past continuous. Zamir değişir (I → she), zaman bir geriye gider (am conducting → was conducting). A şıkkı zamir değişmemiş. B şıkkı zaman değişmemiş. D ve E şıkları yanlış yapı."
+        },
+        {
+          "question": "Researchers questioned ---- the methodology was appropriate.",
+          "options": [
+            "that",
+            "what",
+            "whether",
+            "which",
+            "where"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Whether' (veya 'if') evet/hayır sorusu için: 'Araştırmacılar metodolojinin uygun olup olmadığını sorguladılar.' 'Question whether' şüphe/soru ifade eder. A şıkkı 'that' kesin ifade için. B, D, E şıkları bu bağlamda yanlış."
+        },
+        {
+          "question": "---- is important is the accuracy of the data.",
+          "options": [
+            "That",
+            "What",
+            "Which",
+            "How",
+            "It"
+          ],
+          "correct_answer": 1,
+          "explanation": "'What' wh-clause as subject: 'Önemli olan şey verinin doğruluğudur.' 'What' = 'the thing that'. A şıkkı 'that' sadece bağlaç, özne olamaz. C, D şıkları bu bağlamda yanlış. E şıkkı 'it' dummy subject olur ama cümle yapısı farklı olurdu ('It is important that...')."
+        },
+        {
+          "question": "He claimed, 'The theory will revolutionize the field.' → He claimed ---- the field.",
+          "options": [
+            "that the theory will revolutionize",
+            "that the theory would revolutionize",
+            "if the theory revolutionizes",
+            "what the theory revolutionizes",
+            "the theory would revolutionize"
+          ],
+          "correct_answer": 1,
+          "explanation": "Reported speech: 'Teorinin alanı değiştireceğini iddia etti.' Direct speech 'will' → reported speech 'would' (backshift). A şıkkı zaman değişmemiş. C ve D şıkları yanlış yapı. E şıkkı 'that' bağlacı eksik."
+        },
+        {
+          "question": "Scientists are investigating ---- caused the outbreak.",
+          "options": [
+            "that",
+            "what",
+            "which",
+            "if",
+            "whether that"
+          ],
+          "correct_answer": 1,
+          "explanation": "'What' dolaylı soru (wh-clause as object): 'Bilim insanları salgına neyin sebep olduğunu araştırıyor.' 'What' özne/nesne sorar. A şıkkı 'that' bu bağlamda yanlış. C şıkkı 'which' seçenek arasından sorar. D ve E şıkları yanlış yapı."
+        },
+        {
+          "question": "It is essential ---- all participants provide informed consent.",
+          "options": [
+            "that",
+            "what",
+            "if",
+            "whether",
+            "which"
+          ],
+          "correct_answer": 0,
+          "explanation": "'That' formal requirement/necessity ifadesinden sonra: 'Tüm katılımcıların bilgilendirilmiş onay vermesi önemlidir.' 'It is essential that' + subjunctive mood (base form). B, C, D, E şıkları bu yapıda yanlış."
+        },
+        {
+          "question": "The professor asked, 'Where is the laboratory?' → The professor asked ----.",
+          "options": [
+            "where is the laboratory",
+            "where the laboratory is",
+            "that where the laboratory is",
+            "where was the laboratory",
+            "if the laboratory where is"
+          ],
+          "correct_answer": 1,
+          "explanation": "Dolaylı soru: 'Profesör laboratuvarın nerede olduğunu sordu.' Soru sözcüğü + normal cümle sırası (not inverted). A ve D şıkları devrik soru yapısı kullanıyor (yanlış). C ve E şıkları yanlış yapı."
+        },
+        {
+          "question": "They reported, 'We have completed the analysis.' → They reported ---- the analysis.",
+          "options": [
+            "that they have completed",
+            "that they completed",
+            "that they had completed",
+            "if they complete",
+            "what they complete"
+          ],
+          "correct_answer": 2,
+          "explanation": "Reported speech: 'Analizi tamamladıklarını bildirdiler.' Direct speech present perfect → reported speech past perfect. Zamir değişir (we → they), zaman bir geriye gider (have completed → had completed). A şıkkı zaman değişmemiş. B şıkkı simple past yetersiz (present perfect → past perfect). D ve E şıkları yanlış yapı."
+        },
+        {
+          "question": "The study revealed ---- many participants experienced side effects.",
+          "options": [
+            "that",
+            "what",
+            "if",
+            "whether",
+            "which"
+          ],
+          "correct_answer": 0,
+          "explanation": "'That' kesin bulgu/gerçek ifadesi için: 'Çalışma birçok katılımcının yan etki yaşadığını ortaya çıkardı.' 'Reveal that' sabit yapı. C ve D şıkları 'if/whether' belirsizlik için ama 'reveal' kesin bulgu ifade eder. B ve E şıkları bu bağlamda yanlış."
+        }
+      ]
+    },
+    {
+      "id": "2.5.3",
+      "title": "Adverbial Clauses: Reason, Contrast, Concession, Condition",
+      "content": "Adverbial clauses (zarf cümleciği) cümlede zarf görevini yapan ve sebep, karşıtlık, uzlaşma, koşul gibi ilişkileri ifade eden yan cümlelerdir. YDS'de dört tip sıkça test edilir: **Reason (sebep) clauses**: 'because', 'since', 'as' (çünkü): 'The study was cancelled because funding was withdrawn'. 'Because of', 'due to', 'owing to' noun phrase alır. **Contrast (karşıtlık) clauses**: 'while', 'whereas' (oysa/iken): 'While the first group improved, the second group declined'. **Concession (uzlaşma) clauses**: 'although', 'though', 'even though' (rağmen), 'despite', 'in spite of' (noun phrase): 'Although the sample was small, the results were significant'. **Condition (koşul) clauses**: 'if', 'unless', 'provided that' (eğer/şartıyla): 'The hypothesis will be tested if funding is secured'. Türk öğrenciler 'although' ile 'but' gibi iki karşıtlık ifadesini aynı cümlede kullanır (yanlış): 'Although it rained, but we went out' yerine 'Although it rained, we went out' veya 'It rained, but we went out'. YDS'de akademik metinlerde bu bağlaçlar mantıksal ilişkileri kurmak için kritiktir: 'While previous studies focused on X, this research examines Y'. Strateji: Cümleler arasındaki mantıksal ilişkiyi belirleyin (sebep mi, karşıtlık mı, rağmen mi, koşul mu?) ve uygun bağlacı seçin. 'Although' bağlaç (+ cümle), 'despite' preposition (+ noun phrase).",
+      "examples": [
+        "The experiment was postponed because the equipment malfunctioned. (Reason - sebep)",
+        "YANLIŞ: The experiment was postponed because of the equipment malfunctioned. ('Because of' + noun phrase, 'because' + clause)",
+        "Since funding was limited, researchers had to reduce the sample size. (Reason - sebep)",
+        "While the theory is widely accepted, some scientists remain skeptical. (Contrast - karşıtlık)",
+        "Whereas Group A showed improvement, Group B showed decline. (Contrast - karşıtlık/kıyas)",
+        "Although the study had limitations, the findings are still valuable. (Concession - rağmen)",
+        "YANLIŞ: Although the study had limitations, but the findings are valuable. (Çift bağlaç yanlış)",
+        "Despite the small sample size, the results were statistically significant. (Concession - 'despite' + noun phrase)",
+        "Even though the methodology was complex, participants understood the procedure. (Concession - güçlendirilmiş 'rağmen')",
+        "If the hypothesis is confirmed, it will change our understanding. (Condition - koşul)",
+        "The data will be analyzed provided that ethical approval is obtained. (Condition - şartıyla)",
+        "Research continued in spite of budget cuts. (Concession - 'in spite of' + noun phrase)"
+      ],
+      "exercises": [
+        {
+          "question": "The study was cancelled ---- insufficient funding.",
+          "options": [
+            "because",
+            "because of",
+            "although",
+            "despite",
+            "while"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Because of' + noun phrase (insufficient funding): 'Çalışma yetersiz fon nedeniyle iptal edildi.' A şıkkı 'because' cümle gerektirir (+ clause). C şıkkı 'although' rağmen anlamı (sebep değil). D şıkkı 'despite' de rağmen anlamı. E şıkkı 'while' karşıtlık/eş zamanlılık."
+        },
+        {
+          "question": "---- the sample size was small, the results were statistically significant.",
+          "options": [
+            "Because",
+            "Despite",
+            "Although",
+            "Since",
+            "Due to"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Although' + clause (rağmen): 'Örneklem küçük olmasına rağmen, sonuçlar istatistiksel olarak anlamlıydı.' Concession clause. A ve D şıkları sebep ifadesi (mantıken yanlış). B şıkkı 'despite' + noun phrase gerektirir, cümle değil. E şıkkı 'due to' + noun phrase."
+        },
+        {
+          "question": "---- Group A improved significantly, Group B showed minimal change.",
+          "options": [
+            "Although",
+            "Because",
+            "Despite",
+            "While",
+            "Since"
+          ],
+          "correct_answer": 3,
+          "explanation": "'While' + clause (karşıtlık/kıyas): 'Grup A önemli ölçüde gelişirken, Grup B minimal değişim gösterdi.' Contrast clause. A şıkkı 'although' rağmen anlamı ama burada kıyas var. B ve E şıkları sebep (mantıken yanlış). D şıkkı 'despite' + noun phrase gerektirir."
+        },
+        {
+          "question": "The experiment proceeded ---- some technical difficulties.",
+          "options": [
+            "although",
+            "because of",
+            "despite",
+            "while",
+            "since"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Despite' + noun phrase (rağmen): 'Deney bazı teknik zorluklara rağmen devam etti.' Concession. A şıkkı 'although' + clause gerektirir. B şıkkı 'because of' sebep (mantıken yanlış). D şıkkı 'while' + clause. E şıkkı 'since' sebep + clause."
+        },
+        {
+          "question": "---- the methodology was rigorous, critics questioned the validity of the findings.",
+          "options": [
+            "Because",
+            "Despite",
+            "Even though",
+            "Since",
+            "Due to"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Even though' + clause (güçlendirilmiş rağmen): 'Metodoloji sıkı olmasına rağmen, eleştirmenler bulguların geçerliliğini sorguladı.' Strong concession. A ve D şıkları sebep (mantıken yanlış). B şıkkı 'despite' + noun phrase gerektirir. E şıkkı 'due to' + noun phrase."
+        },
+        {
+          "question": "The study was successful ---- careful planning and preparation.",
+          "options": [
+            "because",
+            "because of",
+            "although",
+            "despite",
+            "while"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Because of' + noun phrase (sebep): 'Çalışma dikkatli planlama ve hazırlık sayesinde başarılıydı.' Reason. A şıkkı 'because' + clause gerektirir. C ve D şıkları rağmen anlamı (mantıken yanlış). E şıkkı 'while' karşıtlık/eş zamanlılık."
+        },
+        {
+          "question": "---- previous research focused on adults, this study examines children.",
+          "options": [
+            "Although",
+            "Because",
+            "Whereas",
+            "Despite",
+            "Since"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Whereas' + clause (karşıtlık/kıyas): 'Önceki araştırmalar yetişkinlere odaklanırken, bu çalışma çocukları inceliyor.' Strong contrast. A şıkkı 'although' rağmen anlamı ama burada kıyas var. B ve E şıkları sebep (mantıken yanlış). D şıkkı 'despite' + noun phrase gerektirir."
+        },
+        {
+          "question": "The data will be shared ---- all participants provide consent.",
+          "options": [
+            "although",
+            "because",
+            "provided that",
+            "despite",
+            "while"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Provided that' + clause (koşul/şartıyla): 'Tüm katılımcılar onay verirse, veri paylaşılacak.' Condition clause. A şıkkı rağmen anlamı (mantıken yanlış). B şıkkı sebep (mantıken yanlış). D şıkkı rağmen + noun phrase. E şıkkı karşıtlık/eş zamanlılık."
+        },
+        {
+          "question": "Researchers continued their work ---- facing numerous obstacles.",
+          "options": [
+            "because",
+            "although",
+            "in spite of",
+            "since",
+            "while"
+          ],
+          "correct_answer": 2,
+          "explanation": "'In spite of' + noun phrase/gerund (rağmen): 'Araştırmacılar sayısız engellerle karşılaşmalarına rağmen çalışmalarına devam ettiler.' Concession. A ve D şıkları sebep (mantıken yanlış). B şıkkı 'although' + clause gerektirir. E şıkkı 'while' + clause."
+        },
+        {
+          "question": "---- funding was secured, the project could not proceed.",
+          "options": [
+            "Although",
+            "Because",
+            "Unless",
+            "Despite",
+            "While"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Unless' + clause (eğer...mazsa): 'Fon sağlanmazsa, proje devam edemezdi.' Condition (negative). 'Unless = if not'. A şıkkı rağmen (mantıken yanlış). B şıkkı sebep ama cümle olumsuz koşul gerektirir. D şıkkı 'despite' + noun phrase. E şıkkı karşıtlık."
+        },
+        {
+          "question": "The theory gained acceptance ---- it provided a comprehensive explanation.",
+          "options": [
+            "although",
+            "despite",
+            "because",
+            "in spite of",
+            "whereas"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Because' + clause (sebep): 'Teori kapsamlı bir açıklama sunduğu için kabul gördü.' Reason. A şıkkı rağmen (mantıken yanlış). B ve D şıkları rağmen + noun phrase/gerund. E şıkkı karşıtlık/kıyas."
+        },
+        {
+          "question": "---- the limitations of the study, the findings contribute to the literature.",
+          "options": [
+            "Because",
+            "Although",
+            "Despite",
+            "Since",
+            "While"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Despite' + noun phrase (rağmen): 'Çalışmanın sınırlamalarına rağmen, bulgular literatüre katkıda bulunuyor.' Concession. A ve D şıkları sebep (mantıken yanlış). B şıkkı 'although' + clause gerektirir. E şıkkı 'while' + clause (karşıtlık için kullanılabilir ama 'despite' daha uygun)."
+        }
+      ]
+    }
+  ]
+}

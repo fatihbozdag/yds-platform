@@ -1,0 +1,510 @@
+{
+  "section": "4.2",
+  "title": "Sorularda İstenen Bilişsel İşlemler",
+  "topics": [
+    {
+      "id": "4.2.1",
+      "title": "Ana Fikir-Destek Cümlesi Ayrımı",
+      "content": "YDS ve YÖKDİL okuma sorularında en temel beceri, paragrafın ana fikrini (main idea) destekleyici detaylardan (supporting details) ayırt edebilmektir. Ana fikir, yazarın o paragrafta iletmek istediği merkezi düşüncedir ve genellikle paragrafın ilk veya son cümlesinde (topic sentence) bulunur. Ancak bazen ana fikir paragraf boyunca ima edilir ve hiçbir cümlede açıkça belirtilmez (implied main idea).\n\nAna fikir geneldir, kapsayıcıdır ve paragraftaki tüm bilgileri birleştirir. Destek cümleleri ise spesifiktir: örnekler, istatistikler, alıntılar, açıklamalar, karşılaştırmalar veya nedenler sunar. Ana fikir soruları şu kalıplarla gelir: 'What is the main idea?', 'The passage is mainly about...', 'The primary purpose of the passage is to...', 'The author's main concern is...', 'Which of the following best summarizes the passage?'\n\nYanlış seçenekler genellikle şu kategorilere ayrılır: (1) Too narrow: Sadece bir detaya odaklanan seçenek, (2) Too broad: Paragraftan daha geniş bir konuyu kapsayan seçenek, (3) Not mentioned: Metinde hiç bahsedilmeyen bilgi, (4) Contradictory: Metinle çelişen ifade, (5) Peripheral detail: Yan bir detay ana fikir gibi sunulan seçenek.\n\nStrateji: Önce paragrafı hızlıca okuyun ve kendinize 'Bu paragraf ne hakkında?' sorusunu sorun. Sonra her cümlenin rolünü belirleyin: Bu cümle ana fikri mi sunuyor, yoksa onu mu destekliyor? Ana fikir seçeneği tüm paragrafa uymalı, çok dar veya çok geniş olmamalıdır. Seçenekleri okurken 'Bu tüm paragrafı kapsar mı?' testini uygulayın.",
+      "examples": [
+        "Topic sentence (explicit main idea): 'Climate change poses the greatest threat to global food security in the 21st century.' Supporting details follow with statistics and examples.",
+        "Implied main idea: Paragraph lists multiple benefits of meditation (stress reduction, improved focus, better sleep) without stating 'Meditation has numerous health benefits' directly.",
+        "Too narrow option: Passage discusses multiple renewable energy sources, but option focuses only on solar power.",
+        "Too broad option: Passage is about bilingual education in Turkey, but option says 'education systems worldwide'.",
+        "Main idea in concluding sentence: After listing problems, last sentence states: 'Thus, urban planning requires integrated solutions addressing multiple challenges simultaneously.'",
+        "Distinguishing major vs. minor details: Major detail directly supports main claim; minor detail illustrates the major detail.",
+        "Main idea question format: 'Which of the following best expresses the main idea of the passage?'",
+        "Purpose question: 'The primary purpose of this passage is to explain / argue / describe / compare / criticize'",
+        "Summary question: 'Which of the following would be the best title for this passage?'",
+        "Detail question (NOT main idea): 'According to the passage, what percentage of...?' asks for specific information.",
+        "Inference question (beyond main idea): 'It can be inferred from the passage that...' requires reading between the lines.",
+        "Tone/attitude (related to main idea): 'The author's attitude toward X is best described as...' reflects the main argument's slant.",
+        "Topic vs. Main idea: Topic = 'artificial intelligence'; Main idea = 'AI will transform education by personalizing learning'",
+        "Thesis statement identification: In argumentative texts, thesis = main idea + author's position.",
+        "Scanning for main idea markers: 'The key point is...', 'Most importantly...', 'In essence...' signal main idea."
+      ],
+      "exercises": [
+        {
+          "question": "[Passage] Despite widespread belief that multitasking enhances productivity, cognitive research consistently demonstrates the opposite. Studies using fMRI scans reveal that the brain cannot genuinely focus on multiple complex tasks simultaneously; instead, it rapidly switches attention between tasks, incurring a 'switching cost' each time. This cost manifests as increased error rates, longer completion times, and elevated stress hormones. In educational settings, students who multitask during lectures retain 20-40% less information than focused peers. Workplace research mirrors these findings: employees who limit interruptions complete projects 50% faster with higher quality outputs.\n\nWhat is the main idea of this passage?",
+          "options": [
+            "Multitasking reduces productivity despite popular belief to the contrary.",
+            "fMRI scans are useful tools for studying brain activity during tasks.",
+            "Students who multitask during lectures retain less information.",
+            "The brain switches attention rapidly between different activities.",
+            "Workplace productivity can be improved through various methods."
+          ],
+          "correct": 0,
+          "explanation": "Seçenek A doğrudur çünkü paragrafın tamamını kapsar: yaygın inanışın aksine multitasking'in verimliliği düşürdüğü tezini hem bilişsel araştırmalarla hem eğitim hem de iş ortamı örnekleriyle destekliyor. B ve D çok dar (sadece birer detay), C sadece öğrencilerle ilgili alt-detay, E çok geniş ve metinde 'various methods' bahsedilmiyor."
+        },
+        {
+          "question": "[Passage] The concept of 'food deserts' – urban areas where residents lack access to affordable, nutritious food – has gained prominence in public health discourse. Low-income neighborhoods often contain numerous fast-food outlets and convenience stores but few supermarkets offering fresh produce. A Chicago study found that residents in food deserts travel an average of 2.8 miles to reach a grocery store, compared to 0.9 miles in other areas. This geographic barrier correlates with higher rates of obesity, diabetes, and cardiovascular disease in affected communities. Moreover, limited access to healthy food perpetuates a cycle: poor nutrition undermines economic productivity, making it harder for communities to attract supermarket chains that require specific income thresholds.\n\nWhich of the following best summarizes the passage?",
+          "options": [
+            "Food deserts create significant health and economic challenges in low-income urban areas.",
+            "Chicago residents in food deserts must travel farther to buy groceries.",
+            "Fast-food outlets are more common than supermarkets in poor neighborhoods.",
+            "Obesity and diabetes rates are increasing in urban communities nationwide.",
+            "Supermarket chains require specific income levels before opening new stores."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'food deserts' kavramını tanımlıyor, sağlık sorunlarıyla bağını kuruyor ve ekonomik döngüyü açıklıyor—tüm paragrafı kapsıyor. B ve E spesifik detaylar, C sadece tanımın bir parçası, D metinde 'nationwide' ifadesi yok ve çok geniş."
+        },
+        {
+          "question": "[Passage] Neuroplasticity, the brain's ability to reorganize itself by forming new neural connections throughout life, challenges the once-dominant view that brain structure is fixed after childhood. Groundbreaking research on London taxi drivers revealed that their hippocampi—brain regions associated with spatial memory—were significantly larger than those of control subjects, and this enlargement correlated with years of navigation experience. Stroke rehabilitation studies further demonstrate neuroplasticity: intensive therapy can help patients regain lost functions as undamaged brain areas assume roles previously performed by injured regions. Even in healthy aging populations, engaging in cognitively demanding activities like learning new languages or musical instruments can strengthen neural networks and potentially delay cognitive decline.\n\nThe passage is primarily concerned with:",
+          "options": [
+            "explaining how neuroplasticity enables the brain to adapt throughout life",
+            "describing the hippocampus and its role in spatial memory",
+            "comparing London taxi drivers' brains with those of control subjects",
+            "reviewing effective stroke rehabilitation techniques for patients",
+            "recommending cognitive activities for elderly populations"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Paragraf neuroplasticity kavramını açıklıyor ve bu kavramı desteklemek için taksi şoförleri, inme rehabilitasyonu ve yaşlılar gibi farklı örnekler sunuyor. B, C, D, E sadece destekleyici örnekler—ana fikri değil."
+        },
+        {
+          "question": "[Passage] The Industrial Revolution fundamentally transformed not only economic systems but also social structures, family dynamics, and even concepts of time. Pre-industrial societies organized daily life around natural cycles—sunrise, sunset, seasonal rhythms. Factory production, however, required synchronized labor, giving rise to mechanical timekeeping and the rigid division of days into work hours and leisure time. This shift had profound psychological effects: workers experienced a new form of alienation, separated from both the products of their labor and traditional community ties. Children, previously integrated into family production, were increasingly sent to schools designed to instill punctuality and obedience—traits valued by industrial employers. Thus, what we now consider 'natural' ways of organizing time and childhood are actually historical constructions shaped by economic imperatives.\n\nWhat is the primary purpose of this passage?",
+          "options": [
+            "To demonstrate how industrialization reshaped social and temporal structures beyond economics",
+            "To criticize the negative psychological effects of factory work on laborers",
+            "To explain why pre-industrial societies organized life around natural cycles",
+            "To describe the development of mechanical timekeeping devices",
+            "To argue that modern education systems should be reformed"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Yazar Sanayi Devrimi'nin sadece ekonomik değil, sosyal yapıları, zaman anlayışını ve çocukluk kavramlarını nasıl dönüştürdüğünü gösteriyor. B çok dar (sadece psikolojik etkilere odaklanıyor), C ve D yan detaylar, E metinde önerilmiyor."
+        },
+        {
+          "question": "[Passage] Marine biologists have discovered that octopuses exhibit remarkably complex behaviors that challenge traditional definitions of intelligence. They can solve puzzles, use tools (such as carrying coconut shells for shelter), and demonstrate episodic memory by remembering specific events. Most surprisingly, each of the octopus's eight arms contains a semi-autonomous nervous system—roughly two-thirds of its neurons are in the arms, not the brain—allowing each limb to perform tasks independently while the central brain coordinates overall strategy. This distributed cognition represents a fundamentally different neurological architecture from vertebrate intelligence, suggesting that complex problem-solving can evolve through radically different biological pathways.\n\nThe author's main point is that:",
+          "options": [
+            "octopuses exemplify how intelligence can arise from neurological structures very different from vertebrate brains",
+            "marine biologists are discovering new information about octopus behavior",
+            "octopuses have neurons distributed throughout their arms rather than centralized in the brain",
+            "traditional definitions of intelligence need to be revised completely",
+            "animals can use tools and solve puzzles without possessing high intelligence"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Ana fikir ahtapotların farklı sinir sistemi mimarisi sayesinde karmaşık problem çözme becerileri geliştirdiği—zeka için alternatif evrimsel yollar olduğu. B çok dar ve yüzeysel, C anatomik detay (destek cümlesi), D metinde belirtilmiyor ('completely' yok), E metinle çelişir."
+        },
+        {
+          "question": "[Passage] Antibiotic resistance, once confined to hospitals, now permeates communities worldwide, threatening to render common infections deadly again. Overuse in human medicine accounts for part of the problem, but agricultural practices play an equally significant role: approximately 70% of antibiotics produced globally are used in livestock, often as growth promoters rather than disease treatments. These agricultural antibiotics enter soil and water systems, creating environments where resistant bacteria flourish. A recent Danish study found antibiotic-resistant genes in 95% of pig farms tested, with identical resistance patterns appearing in nearby human populations. Unless regulatory policies address both medical and agricultural antibiotic use, experts warn we may enter a 'post-antibiotic era' where routine surgeries become life-threatening.\n\nWhich of the following best expresses the main idea?",
+          "options": [
+            "Antibiotic resistance is spreading due to overuse in both medicine and agriculture, requiring comprehensive policy responses.",
+            "Danish pig farms show high rates of antibiotic-resistant bacteria.",
+            "Approximately 70% of global antibiotic production is used in livestock farming.",
+            "Routine surgical procedures may become dangerous in the future.",
+            "Antibiotic overuse in hospitals is creating drug-resistant bacteria."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Antibiyotik direncinin hem tıbbi hem tarımsal kullanımdan kaynaklandığını ve politika gerektirdiğini belirtiyor—tüm paragrafı kapsıyor. B ve C spesifik detaylar, D sonuç ama neden açıklanmıyor, E metinde 'hospitals' yerine 'communities' vurgusu var ve tarımsal boyut eksik."
+        },
+        {
+          "question": "[Passage] The concept of 'grit'—defined as perseverance and passion for long-term goals—has been popularized as a key predictor of success, outweighing talent or IQ. Psychologist Angela Duckworth's research with West Point cadets, spelling bee champions, and salespeople showed that grit scores predicted achievement better than aptitude measures. However, critics argue this narrative oversimplifies success by ignoring systemic barriers. A student facing poverty, food insecurity, or discrimination may possess tremendous grit yet still struggle to achieve due to structural obstacles beyond individual control. Furthermore, the emphasis on grit can shift blame onto individuals for failures rooted in inequitable systems, effectively obscuring the need for social reforms.\n\nThe passage suggests that:",
+          "options": [
+            "while grit may contribute to success, it cannot fully explain achievement in unequal social contexts",
+            "Angela Duckworth's research definitively proves grit is more important than intelligence",
+            "students facing poverty lack the perseverance needed to overcome challenges",
+            "individual characteristics like grit are completely irrelevant to achievement",
+            "systemic barriers can be overcome through sufficient determination and effort"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Paragraf grit kavramını tanıtıyor ama sonra eleştiriler getiriyor—sistemic engellerin göz ardı edildiğini söylüyor. Dengeli bir perspektif sunuyor. B metinde 'definitively proves' yok, C metinle çelişir (fakir öğrenciler 'tremendous grit' gösterebilir diyor), D çok aşırı (grit'in bazı katkısı var), E metinle çelişir."
+        },
+        {
+          "question": "[Passage] Blockchain technology, the distributed ledger system underlying cryptocurrencies, extends far beyond financial applications. In supply chain management, blockchain creates transparent, tamper-proof records tracking products from origin to consumer—a capability particularly valuable for verifying organic certification or preventing counterfeit pharmaceuticals. Estonia has implemented blockchain in its e-governance system, securing citizens' health records and voting systems against manipulation. Academic institutions are exploring blockchain-based credentials that students control directly, eliminating diploma fraud and streamlining verification for employers. The technology's core innovation lies in decentralizing trust: instead of relying on a single authority, blockchain distributes verification across a network, making records simultaneously public and secure.\n\nThe main focus of the passage is:",
+          "options": [
+            "applications of blockchain technology beyond cryptocurrency and its fundamental principle of decentralized trust",
+            "how Estonia uses blockchain for e-governance and voting security",
+            "the problem of counterfeit pharmaceuticals in global supply chains",
+            "comparing blockchain technology with traditional centralized databases",
+            "explaining the technical mechanisms by which blockchain operates"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Paragraf blockchain'in kripto para dışındaki kullanım alanlarını (tedarik zinciri, e-devlet, akademik belgeler) listeliyor ve temel ilkesini (decentralized trust) açıklıyor. B sadece bir örnek, C sadece yan bir detay, D metinde yapılmıyor, E teknik detaylara girmiyor."
+        },
+        {
+          "question": "[Passage] Language extinction accelerates at an alarming rate: linguists estimate one language disappears every two weeks, with half of the world's 7,000 languages projected to vanish by 2100. Each loss represents not merely words but entire knowledge systems—indigenous ecological wisdom, unique conceptual frameworks, oral histories. For instance, the Yupik languages of Alaska contain dozens of words distinguishing snow and ice types, encoding survival knowledge accumulated over millennia. Documentation efforts by linguists provide some preservation, but recordings cannot capture the lived experience of thinking and creating within a language. Revitalization requires intergenerational transmission: children must use the language in daily life, not just study it academically. Some communities have succeeded—Hawaiian and Maori now thrive after near extinction—demonstrating that recovery is possible with sufficient resources and community commitment.\n\nAccording to the passage, what is the significance of language loss?",
+          "options": [
+            "It results in the disappearance of unique knowledge systems and cultural frameworks, not just vocabulary.",
+            "One language disappears approximately every two weeks worldwide.",
+            "Linguists cannot adequately document languages through recordings alone.",
+            "Half of the world's languages will no longer exist by the year 2100.",
+            "Some languages have more words than others for specific concepts like snow."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Significance' sorusu ana fikrin bir boyutunu soruyor. Metinde açıkça belirtilmiş: dil kaybı sadece kelimeler değil, bilgi sistemleri, kavramsal çerçeveler, sözlü tarihler anlamına geliyor. B, D, E istatistiksel detaylar, C belgeleme sorununu belirtiyor ama 'significance of language loss' sorusuna tam cevap değil."
+        },
+        {
+          "question": "[Passage] The placebo effect—improvement in symptoms despite receiving an inactive treatment—reveals the profound connection between mind and body. Remarkably, the effect persists even when patients know they're receiving a placebo: a Harvard study gave irritable bowel syndrome patients clearly labeled 'placebo pills' and still observed significant symptom reduction compared to no-treatment controls. Neuroimaging shows placebos activate the same brain regions as actual medications, triggering release of endorphins and dopamine. Placebo responses vary by cultural context and medical ritual: pills work better than injections in Germany (where pills are trusted) but the reverse in Brazil (where injections are prestigious). This suggests the healing context—doctor-patient interaction, clinical environment, treatment narrative—constitutes a therapeutic intervention in itself, with implications for medical practice beyond pharmacology.\n\nThe passage primarily aims to:",
+          "options": [
+            "demonstrate that placebo effects have real neurological bases and reveal how healing contexts influence treatment outcomes",
+            "argue that doctors should prescribe placebos instead of actual medications",
+            "describe the results of a Harvard study on irritable bowel syndrome",
+            "compare medical practices and patient preferences in Germany and Brazil",
+            "explain why patients sometimes improve without receiving genuine treatment"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Paragraf plasebo etkisinin nörolojik temelini açıklıyor ve iyileşme bağlamının (kültürel faktörler, doktor-hasta ilişkisi) terapötik değerini vurguluyor. B metinde önerilmiyor, C sadece bir örnek çalışma, D sadece bir karşılaştırma detayı, E yüzeysel—nörolojik ve bağlamsal boyutları eksik."
+        },
+        {
+          "question": "[Passage] Urban green spaces provide benefits extending far beyond aesthetics. Research in multiple cities demonstrates that proximity to parks correlates with reduced stress hormone levels, lower blood pressure, and improved mental health outcomes. The mechanisms are multifaceted: greenery reduces air pollution, mitigates urban heat islands, and provides venues for physical activity. Perhaps most importantly, parks facilitate social interaction—spontaneous encounters that build community cohesion and reduce isolation, particularly among elderly residents. Economic analyses reveal that property values increase 5-20% near parks, generating tax revenues that often exceed maintenance costs. Yet low-income neighborhoods typically have 40% less green space per capita than affluent areas, creating environmental inequality that compounds other disparities.\n\nWhat would be the best title for this passage?",
+          "options": [
+            "The Multiple Benefits and Inequitable Distribution of Urban Parks",
+            "How Green Spaces Reduce Air Pollution in Cities",
+            "Economic Advantages of Investing in Park Development",
+            "Social Interaction Venues: The Primary Function of Parks",
+            "Environmental Inequality in Urban Planning Decisions"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: İki ana noktayı kapsıyor—parkların çoklu faydaları (sağlık, ekonomik, sosyal) ve adaletsiz dağılımı. B ve C sadece belirli faydalar, D 'primary function' çok dar, E sadece son kısım (adaletsizlik) ve faydalar eksik."
+        },
+        {
+          "question": "[Passage] Emerging research on decision fatigue reveals that mental energy depletes throughout the day, impairing judgment quality. Israeli judges, studied across 1,000+ parole decisions, granted parole in 65% of morning cases but only 10% of late afternoon cases, independent of crime severity—they defaulted to the safer 'deny' option when mentally exhausted. Similar patterns appear in consumer behavior: people make impulsive purchases and choose less healthy foods later in the day. The phenomenon explains why CEOs like Steve Jobs wore identical outfits daily—eliminating trivial choices conserves cognitive resources for important decisions. Implications extend to policy: important meetings should occur when participants are mentally fresh, and systems should reduce unnecessary decision points for both workers and consumers.\n\nThe author's primary concern is:",
+          "options": [
+            "demonstrating how mental fatigue affects decision quality across various domains and suggesting practical applications",
+            "criticizing Israeli judges for showing bias in parole decisions",
+            "explaining why some CEOs choose to wear the same clothing every day",
+            "arguing that consumers should avoid shopping in the afternoon",
+            "describing the psychological research methods used to study decision-making"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Paragraf decision fatigue kavramını tanımlıyor, farklı alanlardaki örneklerle destekliyor (mahkemeler, tüketici davranışı, CEO'lar) ve pratik çıkarımlar sunuyor (toplantı zamanlaması, karar noktalarını azaltma). B, C, D sadece destekleyici örnekler, E metinde yöntemler detaylandırılmıyor."
+        }
+      ]
+    },
+    {
+      "id": "4.2.2",
+      "title": "Tavır/Ton Belirteçleri: unfortunately, arguably, ostensibly, allegedly",
+      "content": "Akademik metinlerde yazar tavrını ve tonunu yansıtan zarf ve ifadeler, metnin anlamını derinlemesine etkiler. Bu belirteçler yazarın konuya karşı tutumunu (objective, critical, supportive, skeptical, neutral) ve ifade ettiği kesinlik derecesini (certainty, probability, possibility) gösterir. YDS/YÖKDİL sınavlarında 'author's attitude' veya 'tone' soruları bu belirteçlere dayanır.\n\nOlumsuz/Eleştirel Ton: UNFORTUNATELY (ne yazık ki - yazarın olumsuz değerlendirmesi), REGRETTABLY (ne yazık ki - pişmanlık tonu), DISAPPOINTINGLY (hayal kırıklığı yaratan şekilde), ALARMINGLY (endişe verici biçimde), PROBLEMATICALLY (sorunlu şekilde), IRONICALLY (ironik biçimde - beklenmedik çelişki). Örnek: 'Unfortunately, most studies ignore this crucial variable.' → Yazar çalışmaların bu değişkeni ihmal etmesini eleştiriyor.\n\nŞüphe/İhtiyat: ALLEGEDLY (iddia edildiğine göre - doğruluğuna inanmıyor), OSTENSIBLY (görünüşe göre - gerçek neden farklı olabilir), SUPPOSEDLY (sözde - şüphe içeren), PURPORTEDLY (öne sürüldüğüne göre - doğrulamadan), SEEMINGLY (görünüşte - derinlerde farklı olabilir), APPARENTLY (anlaşılan - kesin değil). Örnek: 'The policy ostensibly aims to reduce inequality but actually benefits the wealthy.' → Yazar politikanın gerçek amacından şüpheleniyor.\n\nTartışmalı/Belirsiz: ARGUABLY (tartışılabilir şekilde - farklı görüşler var), CONCEIVABLY (muhtemelen - mümkün ama kesin değil), PRESUMABLY (muhtemelen - mantıklı varsayım), POTENTIALLY (potansiyel olarak - henüz gerçekleşmedi), QUESTIONABLY (şüpheli biçimde - sorgulanabilir). Örnek: 'This is arguably the most important discovery of the decade.' → Yazar iddiasının tartışmaya açık olduğunu kabul ediyor.\n\nDestek/Olumlu: FORTUNATELY (neyse ki - olumlu değerlendirme), ENCOURAGINGLY (cesaret verici şekilde), IMPRESSIVELY (etkileyici biçimde), NOTABLY (dikkat çekici şekilde - önemli vurgu), SIGNIFICANTLY (önemli ölçüde - değer verme). Örnek: 'Fortunately, recent studies have addressed this gap.' → Yazar gelişmeden memnun.\n\nNötrallik/Kesinlik: EVIDENTLY (açıkça - kanıta dayalı), CLEARLY (açıkça - kesin), UNDOUBTEDLY (şüphesiz - tam kesinlik), CERTAINLY (kesinlikle), INDEED (gerçekten de - onaylama). Bu kelimeler yazar tavrından çok olgusal kesinliği yansıtır.",
+      "examples": [
+        "Unfortunately, the study's sample size was too small to draw generalizable conclusions.",
+        "The experiment allegedly produced cold fusion, but independent replications failed.",
+        "Ostensibly designed to protect consumers, the regulation actually benefits large corporations.",
+        "Climate change is arguably the most pressing challenge facing humanity today.",
+        "The policy purportedly aims to reduce crime, though critics question its effectiveness.",
+        "Regrettably, many indigenous languages lack documentation efforts before extinction.",
+        "The findings are seemingly contradictory, suggesting a need for further investigation.",
+        "Conceivably, quantum computing could revolutionize cryptography within two decades.",
+        "Supposedly objective algorithms often perpetuate historical biases in their training data.",
+        "Ironically, social media platforms designed to connect people may increase loneliness.",
+        "Fortunately, the vaccine showed efficacy across all demographic groups tested.",
+        "The intervention proved remarkably effective, arguably surpassing all previous treatments.",
+        "Problematically, the methodology conflates correlation with causation throughout.",
+        "Notably, the effect persisted even after controlling for confounding variables.",
+        "Undoubtedly, peer review remains essential to maintaining scientific integrity despite flaws."
+      ],
+      "exercises": [
+        {
+          "question": "[Sentence] ----, the government's austerity measures, designed to reduce national debt, have increased unemployment and worsened economic inequality.\n\nWhich word best reflects the author's critical stance?",
+          "options": [
+            "Ironically",
+            "Fortunately",
+            "Clearly",
+            "Possibly",
+            "Supposedly"
+          ],
+          "correct": 0,
+          "explanation": "'Ironically' doğrudur çünkü politika borcu azaltmak için tasarlanmışken beklenmedik biçimde işsizliği artırmış—zıt sonuç. Yazar bu çelişkiyi eleştirel bir tonla vurguluyor. 'Fortunately' olumlu ton verir (uygunsuz), 'clearly' nötr/olgusal, 'possibly' zayıf, 'supposedly' şüphe içerir ama ironi kadar güçlü değil."
+        },
+        {
+          "question": "[Passage] The pharmaceutical company claimed its new drug was revolutionary and side-effect-free. ----, independent clinical trials revealed serious cardiovascular risks that the company had downplayed in its initial reports.\n\nWhich adverb best indicates skepticism toward the company's claims?",
+          "options": [
+            "However",
+            "Furthermore",
+            "Therefore",
+            "Similarly",
+            "Consequently"
+          ],
+          "correct": 0,
+          "explanation": "'However' doğrudur çünkü şirketin iddiaları ile bağımsız testlerin bulguları arasında tezat kuruyor—şirketin 'side-effect-free' iddiasına şüphe düşürüyor. 'Furthermore' ekleme yapar (zıtlık değil), 'therefore/consequently' sonuç, 'similarly' benzerlik belirtir (uygunsuz)."
+        },
+        {
+          "question": "[Sentence] The reform ----, aims to improve educational equity, but critics argue it primarily benefits affluent districts with existing resources.\n\nWhich word suggests the author doubts the reform's true purpose?",
+          "options": [
+            "ostensibly",
+            "clearly",
+            "undoubtedly",
+            "fortunately",
+            "effectively"
+          ],
+          "correct": 0,
+          "explanation": "'Ostensibly' (görünüşte, sözde) doğrudur—reformun ilan edilen amacı (eşitlik) ile gerçek etkisi (zenginlere fayda) arasında fark olduğunu ima ediyor. 'Clearly/undoubtedly' kesin destek verir (metinle çelişir), 'fortunately' olumlu, 'effectively' nötr betimleyici."
+        },
+        {
+          "question": "[Passage] The study's methodology was sound and the sample representative. ----, the researchers failed to account for a critical confounding variable that undermines their conclusions.\n\nWhich adverb best conveys disappointment or criticism?",
+          "options": [
+            "Unfortunately",
+            "Predictably",
+            "Naturally",
+            "Obviously",
+            "Hopefully"
+          ],
+          "correct": 0,
+          "explanation": "'Unfortunately' (ne yazık ki) doğrudur—yazar çalışmanın bazı güçlü yönleri olmasına rağmen kritik bir hatayı eleştiriyor, hayal kırıklığı tonu kullanıyor. 'Predictably/naturally' nötr beklenti, 'obviously' olgusal, 'hopefully' gelecek temennisi (uygunsuz)."
+        },
+        {
+          "question": "[Sentence] The theory is ----, the most influential framework in modern cognitive psychology, shaping decades of research and clinical practice.\n\nWhich adverb indicates the author acknowledges differing viewpoints?",
+          "options": [
+            "arguably",
+            "definitely",
+            "unquestionably",
+            "impossibly",
+            "barely"
+          ],
+          "correct": 0,
+          "explanation": "'Arguably' (tartışılabilir şekilde) doğrudur—yazar teorinin çok etkili olduğunu söylerken bunun mutlak/evrensel bir yargı değil, tartışmaya açık bir değerlendirme olduğunu kabul ediyor. 'Definitely/unquestionably' kesinlik belirtir (alternatif görüşlere kapalı), 'impossibly' anlamsız, 'barely' zayıflık ifadesi (metinle çelişir)."
+        },
+        {
+          "question": "[Passage] According to the company's press release, the data breach affected only a 'limited number' of accounts. ----, security experts analyzing server logs estimated that millions of users' personal information was compromised.\n\nWhich transition word best signals the author's skepticism?",
+          "options": [
+            "In reality",
+            "As expected",
+            "Similarly",
+            "Accordingly",
+            "For instance"
+          ],
+          "correct": 0,
+          "explanation": "'In reality' (gerçekte ise) doğrudur—şirketin 'limited number' iddiası ile uzmanların bulguları (millions) arasındaki çelişkiyi vurgulayarak şirketin açıklamasına şüphe düşürüyor. 'As expected' önceki ifadeyi onaylar (uygunsuz), 'similarly' benzerlik, 'accordingly' uyum, 'for instance' örnek verir."
+        },
+        {
+          "question": "[Sentence] The politician ----, called for transparency and accountability, yet his administration has blocked numerous freedom of information requests.\n\nWhich word best highlights the contradiction?",
+          "options": [
+            "publicly",
+            "privately",
+            "rarely",
+            "never",
+            "secretly"
+          ],
+          "correct": 0,
+          "explanation": "'Publicly' doğrudur—politikacının açık söylemleri (transparency) ile eylemlerinin (blocking requests) çelişkisini vurguluyor. 'Yet' bağlacı zaten zıtlık kuruyor, 'publicly' bu zıtlığı güçlendiriyor. 'Privately' zıtlık azalır, 'rarely/never' olumsuz ton verir ama çelişkiyi güçlendirmez, 'secretly' fazla abartılı."
+        },
+        {
+          "question": "[Passage] The vaccine trial results were ----, encouraging, with efficacy rates exceeding initial projections and minimal adverse reactions reported.\n\nWhich adverb conveys the author's positive evaluation?",
+          "options": [
+            "highly",
+            "barely",
+            "questionably",
+            "allegedly",
+            "supposedly"
+          ],
+          "correct": 0,
+          "explanation": "'Highly' doğrudur—'encouraging' sıfatını güçlendirerek yazarın olumlu değerlendirmesini yoğunlaştırıyor. 'Barely' zayıflık (metinle çelişir), 'questionably' şüphe, 'allegedly/supposedly' güvensizlik ifade eder (olumlu bağlamda uygunsuz)."
+        },
+        {
+          "question": "[Sentence] The algorithm ----, works without human bias, but researchers found it systematically discriminated against minority applicants.\n\nWhich adverb indicates the author questions the algorithm's objectivity?",
+          "options": [
+            "supposedly",
+            "certainly",
+            "effectively",
+            "genuinely",
+            "successfully"
+          ],
+          "correct": 0,
+          "explanation": "'Supposedly' (sözde, güya) doğrudur—algoritmanın önyargısız çalıştığı iddiasına inanmadığını gösteriyor, çünkü bulgular aksini göstermiş. 'Certainly/genuinely' destekleyici (metinle çelişir), 'effectively/successfully' nötr/olumlu betimleyici."
+        },
+        {
+          "question": "[Passage] The intervention costs were minimal, implementation was straightforward, and ----, outcomes significantly improved across all measured indicators.\n\nWhich word best reflects satisfaction with results?",
+          "options": [
+            "most encouragingly",
+            "most disappointingly",
+            "most questionably",
+            "most alarmingly",
+            "most ironically"
+          ],
+          "correct": 0,
+          "explanation": "'Most encouragingly' (en cesaret verici şekilde) doğrudur—müdahalenin düşük maliyetli ve kolay olmasına ek olarak, sonuçların da mükemmel olması yazarın memnuniyetini gösteriyor. Diğer seçenekler olumsuz/şüpheli/eleştirel ton taşır (metinle uyumsuz)."
+        },
+        {
+          "question": "[Sentence] The author's argument ----, rests on a single, unreplicated study from 1987, raising serious concerns about its validity.\n\nWhich word suggests weakness or criticism?",
+          "options": [
+            "problematically",
+            "fortunately",
+            "impressively",
+            "clearly",
+            "naturally"
+          ],
+          "correct": 0,
+          "explanation": "'Problematically' (sorunlu biçimde) doğrudur—argümanın tek ve eski bir çalışmaya dayanmasını eleştiriyor. 'Fortunately' olumlu (uygunsuz), 'impressively' övgü (metinle çelişir), 'clearly/naturally' nötr betimleyici (eleştirel ton yok)."
+        },
+        {
+          "question": "[Passage] The policy ----, reduced crime rates, but closer examination reveals crimes were merely displaced to neighboring jurisdictions rather than prevented.\n\nWhich adverb best indicates superficial appearance vs. deeper reality?",
+          "options": [
+            "apparently",
+            "genuinely",
+            "undeniably",
+            "successfully",
+            "conclusively"
+          ],
+          "correct": 0,
+          "explanation": "'Apparently' (görünüşe göre, anlaşılan) doğrudur—politikanın yüzeyde suçu azalttığı görünse de gerçekte sadece yer değiştirdiğini belirtiyor, görünüş-gerçeklik ayrımı yapıyor. 'Genuinely/undeniably/successfully/conclusively' kesinlik/başarı belirtir (metinle çelişir)."
+        }
+      ]
+    },
+    {
+      "id": "4.2.3",
+      "title": "Retorik İşlevler: tanım, karşılaştırma, sınıflandırma, nedenleme, örnekleme",
+      "content": "Akademik metinler bilgiyi yapılandırmak için belirli retorik stratejiler kullanır. YDS/YÖKDİL sınavlarında paragrafların veya cümlelerin işlevini tanıma yeteneği test edilir: 'The author uses this sentence to...', 'The primary function of the second paragraph is to...', 'In lines 12-15, the author...'\n\n1. TANIM (Definition): Bir kavramı açıklar. İşaretçiler: 'X is defined as...', 'X refers to...', 'X means...', 'By X, we mean...', 'X can be understood as...', 'In other words...'. Örnek: 'Metacognition refers to awareness and regulation of one's own thought processes.' Tanımlar genellikle paragrafın başında gelir ve temel kavramı netleştirir.\n\n2. KARŞILAŞTIRMA/ZITLIK (Comparison/Contrast): Benzerlik veya farklılık gösterir. Benzerlik işaretçileri: 'similarly', 'likewise', 'in the same way', 'analogously', 'correspondingly'. Zıtlık işaretçileri: 'however', 'in contrast', 'whereas', 'unlike', 'conversely', 'on the other hand', 'nevertheless', 'albeit'. Örnek: 'While quantitative research emphasizes measurement, qualitative research focuses on meaning and interpretation.' Bu strateji iki yaklaşımı/teorisi/bulguyu netleştirmek için kullanılır.\n\n3. SINIFLANDIRMA (Classification): Bir bütünü kategorilere ayırır. İşaretçiler: 'can be divided into', 'falls into X categories', 'there are several types of', 'X is classified as...', 'consists of'. Örnek: 'Learning strategies can be divided into three categories: cognitive, metacognitive, and social/affective.' Sınıflandırma karmaşık kavramları organize etmeye yarar.\n\n4. NEDENLEME (Cause/Effect - Reasoning): Neden-sonuç ilişkisi kurar veya açıklama yapar. Neden işaretçileri: 'because', 'since', 'due to', 'owing to', 'as a result of', 'stems from'. Sonuç işaretçileri: 'therefore', 'thus', 'consequently', 'as a result', 'hence', 'accordingly', 'for this reason'. Örnek: 'Because the sample was not randomly selected, the findings cannot be generalized to the broader population.' Nedenleme bilimsel argümanın temelidir.\n\n5. ÖRNEKLEME (Exemplification): Genel fikri somutlaştırır. İşaretçiler: 'for example', 'for instance', 'such as', 'including', 'to illustrate', 'specifically', 'namely', 'a case in point'. Örnek: 'Many endangered languages lack written traditions. For instance, most Australian Aboriginal languages were exclusively oral until recently.' Örnekler soyut kavramları anlaşılır kılar.\n\n6. SÜREÇ (Process): Adımları sıralar. İşaretçiler: 'first', 'then', 'next', 'subsequently', 'finally', 'the process begins with', 'involves'. Örnek: 'Photosynthesis begins when chlorophyll absorbs light energy. This energy then splits water molecules...' YDS/YÖKDİL'de daha az görülür ama bilimsel metinlerde önemlidir.",
+      "examples": [
+        "Definition: 'Cognitive load refers to the total mental effort required to process information in working memory.'",
+        "Comparison: 'Like Piaget, Vygotsky emphasized developmental stages, but unlike Piaget, he stressed social interaction's role.'",
+        "Contrast: 'Whereas deductive reasoning moves from general to specific, inductive reasoning proceeds from specific observations to general principles.'",
+        "Classification: 'Memory systems fall into three categories: sensory memory, short-term memory, and long-term memory.'",
+        "Cause: 'Because the study lacked a control group, confounding variables could not be ruled out.'",
+        "Effect: 'The methodology was flawed; consequently, the conclusions must be treated with caution.'",
+        "Exemplification: 'Many languages mark evidentiality. For example, Turkish uses -mIş to indicate reported information.'",
+        "Process: 'DNA replication begins when helicase unwinds the double helix. DNA polymerase then synthesizes new strands.'",
+        "Combination (Definition + Example): 'Phonemes are the smallest units of sound that distinguish meaning. For instance, /p/ and /b/ differentiate \"pat\" and \"bat.\"'",
+        "Combination (Cause + Effect): 'Due to increased CO2 levels (cause), ocean acidification has accelerated (effect), threatening marine ecosystems (further effect).'",
+        "Contrast with concession: 'Although both methods yield valid results (concession), qualitative approaches provide richer contextual understanding (contrast).'",
+        "Classification with examples: 'Figurative language includes metaphor (e.g., \"time is money\"), simile (e.g., \"brave as a lion\"), and hyperbole (e.g., \"I'm starving\").'",
+        "Extended reasoning: 'Since the participants were volunteers (premise), they may have been more motivated than typical students (inference), which could inflate the intervention's apparent effectiveness (implication).'",
+        "Analogy (special comparison): 'Just as a thermostat regulates temperature through feedback loops, metacognition monitors and adjusts learning strategies.'",
+        "Multiple functions in paragraph: First sentence defines term → Second gives example → Third contrasts with related concept → Fourth explains causal mechanism."
+      ],
+      "exercises": [
+        {
+          "question": "[Paragraph] Neuroplasticity refers to the brain's ability to reorganize itself by forming new neural connections throughout life. This capacity allows neurons to compensate for injury and adjust their activities in response to new situations or environmental changes.\n\nThe primary function of this paragraph is to:",
+          "options": [
+            "define a concept and elaborate on its characteristics",
+            "compare two different neurological processes",
+            "provide examples of brain injuries and recovery",
+            "explain the causes of neural reorganization",
+            "classify different types of brain plasticity"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. Paragraf önce 'neuroplasticity' kavramını tanımlıyor ('refers to...'), sonra bu kavramın özelliklerini açıklıyor (allows neurons to...). Karşılaştırma, örnek, neden veya sınıflandırma yok."
+        },
+        {
+          "question": "[Sentence] Unlike traditional classrooms where teachers deliver content directly, flipped classrooms require students to engage with instructional materials at home and use class time for discussion and problem-solving.\n\nThe author uses this sentence primarily to:",
+          "options": [
+            "contrast two different educational approaches",
+            "define the concept of a flipped classroom",
+            "explain why traditional classrooms are ineffective",
+            "classify various types of instructional methods",
+            "provide an example of innovative teaching"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Unlike' işaretçisi açık bir zıtlık/karşılaştırma (contrast) kuruyor: geleneksel sınıflar vs. flipped classrooms. Tanım kısmen var ama ana işlev contrast. Sınıflandırma yok (sadece 2 yaklaşım), etkinlik eleştirisi yok, örnek değil (genel açıklama)."
+        },
+        {
+          "question": "[Paragraph] Research methodologies can be divided into three broad categories. Quantitative methods emphasize numerical measurement and statistical analysis. Qualitative methods focus on understanding meaning through detailed observation and interviews. Mixed methods combine both approaches to provide comprehensive insights.\n\nThe rhetorical strategy used in this paragraph is:",
+          "options": [
+            "classification with brief descriptions of each category",
+            "comparison of the strengths and weaknesses of methods",
+            "exemplification showing how each method is applied",
+            "causal analysis of why different methods exist",
+            "definition of research methodology as a general concept"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Can be divided into three categories' açık sınıflandırma (classification) işaretçisi. Her kategori (quantitative, qualitative, mixed) kısaca tanımlanıyor. Güçlü-zayıf yönler karşılaştırılmıyor, spesifik örnekler verilmiyor, neden analizi yok, genel tanım da yok."
+        },
+        {
+          "question": "[Sentence] Because the sample was drawn exclusively from urban populations, the findings may not generalize to rural communities where socioeconomic conditions differ significantly.\n\nThis sentence primarily serves to:",
+          "options": [
+            "explain a causal relationship between sampling method and research limitation",
+            "compare urban and rural populations in detail",
+            "define what constitutes a representative sample",
+            "provide an example of poor research design",
+            "classify different types of sampling techniques"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Because' neden işaretçisi: örnekleme yöntemi (sadece kentsel nüfus) → sonuç/sınırlama (kırsal alanlara genellenemez). Karşılaştırma yüzeysel (detaylı değil), tanım yok, örnek değil (doğrudan açıklama), sınıflandırma yok."
+        },
+        {
+          "question": "[Paragraph] Many cognitive biases affect decision-making. For instance, confirmation bias leads people to seek information that supports their existing beliefs while ignoring contradictory evidence. Similarly, anchoring bias causes individuals to rely too heavily on the first piece of information encountered.\n\nThe paragraph primarily uses which rhetorical strategy?",
+          "options": [
+            "exemplification with specific instances of cognitive biases",
+            "definition of cognitive bias as a general concept",
+            "comparison of different types of biased thinking",
+            "causal explanation of why cognitive biases occur",
+            "classification of decision-making processes"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'For instance' ve 'Similarly' işaretçileri örnekleme (exemplification) gösteriyor: genel ifade (many cognitive biases) → spesifik örnekler (confirmation bias, anchoring bias). Genel tanım yok, karşılaştırma yok (sadece listeleme), neden açıklanmıyor, karar süreçleri sınıflandırılmıyor."
+        },
+        {
+          "question": "[Sentence] The intervention improved test scores by 15% (p < .05); therefore, the researchers concluded that the method was effective in enhancing student performance.\n\nThe function of 'therefore' in this sentence is to:",
+          "options": [
+            "signal a logical conclusion drawn from the preceding evidence",
+            "introduce a contrasting viewpoint to the initial finding",
+            "provide an example of statistical significance",
+            "define the criteria for determining effectiveness",
+            "compare different interventions' success rates"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Therefore' sonuç işaretçisi (cause-effect reasoning): kanıt (test scores improved, p < .05) → çıkarım (method was effective). Zıtlık yok, örnek değil (sonuç ifadesi), tanım yok, karşılaştırma yok."
+        },
+        {
+          "question": "[Paragraph] Whereas behaviorism views learning as stimulus-response associations, cognitivism conceptualizes learning as information processing involving mental representations. Behaviorism focuses on observable behaviors, while cognitivism investigates internal mental states. These contrasting perspectives led to fundamentally different research methodologies in psychology.\n\nThe primary rhetorical function of this paragraph is to:",
+          "options": [
+            "contrast two theoretical perspectives and their implications",
+            "define behaviorism and cognitivism separately",
+            "explain the historical development of psychological theories",
+            "provide examples of stimulus-response associations",
+            "classify all major schools of psychological thought"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Whereas', 'while', 'contrasting perspectives' açık zıtlık işaretçileri: behaviorism vs. cognitivism karşılaştırması ve metodolojiye etkisi. Tanımlar var ama ana işlev contrast. Tarihsel gelişim yok, spesifik örnekler yok, sadece 2 yaklaşım var (comprehensive classification değil)."
+        },
+        {
+          "question": "[Sentence] Phonological awareness, defined as the ability to recognize and manipulate sound structures in spoken language, is a critical predictor of reading success in children.\n\nThe phrase 'defined as' primarily serves to:",
+          "options": [
+            "clarify the meaning of a technical term",
+            "compare phonological awareness with other skills",
+            "explain why phonological awareness matters",
+            "provide an example of a reading skill",
+            "classify different types of language awareness"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Defined as' açık tanım (definition) işaretçisi: 'phonological awareness' teriminin anlamını netleştiriyor. Karşılaştırma yok, neden açıklaması cümlenin ikinci yarısında (ama 'defined as' kısmı tanım içeriyor), örnek değil (doğrudan tanım), sınıflandırma yok."
+        },
+        {
+          "question": "[Paragraph] The experiment yielded unexpected results. Due to equipment malfunction during the first trial, temperature fluctuations occurred that were not accounted for in the analysis. As a consequence, the reported reaction rates may have been artificially inflated, calling into question the study's central conclusion.\n\nThe paragraph's structure primarily illustrates:",
+          "options": [
+            "causal reasoning linking a problem to its methodological and interpretive consequences",
+            "a chronological process description of experimental procedures",
+            "comparison between expected and actual results",
+            "classification of different types of experimental errors",
+            "definition of what constitutes equipment malfunction"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Due to' ve 'As a consequence' neden-sonuç (cause-effect) zinciri: equipment malfunction → temperature fluctuations → inflated rates → questionable conclusion. Süreç betimi yok (sadece problem analizi), karşılaştırma yüzeysel, sınıflandırma yok, tanım yok."
+        },
+        {
+          "question": "[Sentence] Just as natural selection shapes biological traits over generations, cultural evolution gradually modifies social norms, technologies, and belief systems through processes of variation, selection, and transmission.\n\nThis sentence primarily uses which rhetorical strategy?",
+          "options": [
+            "analogy (special form of comparison) to explain a complex concept through a familiar one",
+            "classification of different evolutionary mechanisms",
+            "exemplification with specific cases of cultural change",
+            "causal explanation of why cultures evolve",
+            "definition of cultural evolution's key components"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Just as... [so]...' analoji (analogy - özel karşılaştırma türü) işaretçisi: doğal seleksiyon (tanıdık kavram) ile kültürel evrim (açıklanan kavram) arasında paralellik kurarak karmaşık kavramı anlaşılır kılıyor. Sınıflandırma yok, spesifik örnekler yok, neden açıklanmıyor (süreç benzerliği gösteriliyor), tanım kısmen var ama ana işlev analogy."
+        },
+        {
+          "question": "[Paragraph] The researchers first administered a pre-test to establish baseline proficiency. Next, participants underwent six weeks of intensive training. Following the training period, a post-test measured improvement. Finally, retention was assessed through a delayed test three months later.\n\nThe organizational pattern of this paragraph is:",
+          "options": [
+            "chronological process description outlining research procedures",
+            "causal analysis explaining why improvement occurred",
+            "comparison of different testing methods",
+            "classification of assessment types",
+            "exemplification of research methodology"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'First', 'next', 'following', 'finally' süreç (process) işaretçileri: araştırma adımlarını kronolojik sırayla anlatıyor. Neden analizi yok (sadece adımlar), test yöntemleri karşılaştırılmıyor, sınıflandırma yok, örnek değil (doğrudan betimleme)."
+        },
+        {
+          "question": "[Sentence] Although the intervention showed statistical significance (p = .03), the effect size was small (Cohen's d = 0.21), suggesting limited practical importance despite the positive result.\n\nThe primary function of this sentence is to:",
+          "options": [
+            "contrast statistical significance with practical significance to qualify the finding",
+            "define the concepts of p-value and effect size",
+            "provide an example of successful intervention",
+            "explain the causes of small effect sizes",
+            "classify different types of statistical measures"
+          ],
+          "correct": 0,
+          "explanation": "Doğru cevap A. 'Although' (concession) + zıtlık yapısı: istatistiksel anlamlılık var AMA pratik önemi sınırlı—iki farklı anlamlılık türü karşılaştırılıyor. Tanımlar yok (değerler verilmiş ama tanım yok), başarılı müdahale örneği değil (sınırlı etki vurgulanıyor), nedenler açıklanmıyor, sınıflandırma yok."
+        }
+      ]
+    }
+  ]
+}

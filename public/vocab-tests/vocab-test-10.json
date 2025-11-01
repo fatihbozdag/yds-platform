@@ -1,0 +1,1309 @@
+{
+  "examId": "exam_10_full_practice",
+  "title": "YDS Full Practice Exam 10",
+  "description": "Complete 80-question YDS practice exam covering advanced grammar, vocabulary, and reading comprehension",
+  "timeLimit": 180,
+  "totalQuestions": 80,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q-exam10-001",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The company's decision to ------- its workforce by 30% was met with widespread criticism from labor unions.",
+      "options": [
+        "augment",
+        "diminish",
+        "sustain",
+        "replicate",
+        "diversify"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Diminish (azaltmak) işgücünü %30 oranında azaltma anlamına gelir. Augment (artırmak), sustain (sürdürmek), replicate (kopyalamak) ve diversify (çeşitlendirmek) bu bağlama uymaz.",
+      "tags": ["vocabulary", "business-context"]
+    },
+    {
+      "id": "q-exam10-002",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The researcher's ------- approach to data analysis allowed her to identify patterns that others had overlooked.",
+      "options": [
+        "perfunctory",
+        "meticulous",
+        "arbitrary",
+        "sporadic",
+        "superficial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meticulous (titiz, ayrıntılara dikkat eden) başkalarının gözden kaçırdığı kalıpları tespit etmeyi sağlar. Perfunctory (göstermelik), arbitrary (keyfi), sporadic (düzensiz) ve superficial (yüzeysel) bu başarıyı açıklamaz.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-003",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "Despite its ------- appearance, the ancient manuscript contained invaluable historical information.",
+      "options": [
+        "ornate",
+        "pristine",
+        "unassuming",
+        "elaborate",
+        "conspicuous"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Unassuming (gösterişsiz, mütevazı) değerli bilgi içermesine rağmen gösterişsiz görünümü ifade eder. Ornate (süslü), pristine (bozulmamış), elaborate (detaylı) ve conspicuous (göze çarpan) zıt anlam taşır.",
+      "tags": ["vocabulary", "contrast"]
+    },
+    {
+      "id": "q-exam10-004",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Not until the experiment ------- three times ------- the accuracy of the results.",
+      "options": [
+        "repeated / we confirmed",
+        "had been repeated / did we confirm",
+        "was repeating / we had confirmed",
+        "has repeated / we were confirming",
+        "repeats / did we confirmed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inversion (devrik cümle): 'Not until' ile başlayan cümlede yardımcı fiil öznenin önüne gelir. Geçmiş zaman olayı için past perfect (had been repeated) ve inversion (did we confirm) kullanılır.",
+      "tags": ["grammar", "inversion", "past-perfect"]
+    },
+    {
+      "id": "q-exam10-005",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "By the time the new regulations ------- into effect, most companies ------- their compliance procedures.",
+      "options": [
+        "come / updated",
+        "came / had updated",
+        "will come / update",
+        "have come / are updating",
+        "are coming / will update"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'By the time' geçmiş zaman için kullanıldığında, önce gerçekleşen eylem past perfect (had updated), sonraki eylem simple past (came) ile ifade edilir.",
+      "tags": ["grammar", "past-perfect", "time-clauses"]
+    },
+    {
+      "id": "q-exam10-006",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The politician's ------- remarks during the debate alienated many of his potential supporters.",
+      "options": [
+        "conciliatory",
+        "ameliorative",
+        "incendiary",
+        "diplomatic",
+        "tactful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Incendiary (kışkırtıcı, yangın çıkarıcı) potansiyel destekçileri uzaklaştıran sözler için uygundur. Conciliatory (uzlaştırıcı), ameliorative (iyileştirici), diplomatic (diplomatik) ve tactful (incelikli) zıt anlam taşır.",
+      "tags": ["vocabulary", "political-context"]
+    },
+    {
+      "id": "q-exam10-007",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The committee members ------- the proposal for over two hours before they ------- to a decision.",
+      "options": [
+        "discussed / came",
+        "had been discussing / came",
+        "were discussing / had come",
+        "discuss / are coming",
+        "have discussed / come"
+      ],
+      "correctAnswer": 1,
+      "explanation": "İki saatten fazla süren eylem için past perfect continuous (had been discussing), sonrasında gerçekleşen eylem için simple past (came) kullanılır.",
+      "tags": ["grammar", "past-perfect-continuous"]
+    },
+    {
+      "id": "q-exam10-008",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The scientist's ------- to conventional theories led to groundbreaking discoveries in her field.",
+      "options": [
+        "adherence",
+        "conformity",
+        "opposition",
+        "submission",
+        "compliance"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Opposition (karşı çıkma) geleneksel teorilere karşı gelmenin çığır açan keşiflere yol açtığını gösterir. Adherence, conformity, submission ve compliance (uyum/bağlılık) zıt anlam taşır.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-009",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Hardly ------- the presentation when the fire alarm -------.",
+      "options": [
+        "we had started / went off",
+        "had we started / went off",
+        "we started / had gone off",
+        "did we start / goes off",
+        "have we started / was going off"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Hardly' ile başlayan cümlede inversion kullanılır (had we started). Ana cümle simple past (went off) olur çünkü iki eylem birbiri ardına gerçekleşir.",
+      "tags": ["grammar", "inversion", "hardly"]
+    },
+    {
+      "id": "q-exam10-010",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The government's ------- economic policies failed to address the underlying issues affecting the population.",
+      "options": [
+        "comprehensive",
+        "piecemeal",
+        "systematic",
+        "thorough",
+        "integrated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Piecemeal (parça parça, sistemsiz) temel sorunları ele almayan politikalar için uygundur. Comprehensive, systematic, thorough ve integrated (kapsamlı/sistematik) zıt anlam taşır.",
+      "tags": ["vocabulary", "political-context"]
+    },
+    {
+      "id": "q-exam10-011",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "If the investors ------- the risks earlier, they ------- such heavy losses.",
+      "options": [
+        "assessed / wouldn't have suffered",
+        "had assessed / wouldn't have suffered",
+        "would assess / hadn't suffered",
+        "assess / won't suffer",
+        "have assessed / wouldn't suffer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Third conditional (geçmiş için gerçekleşmemiş durum): if + past perfect (had assessed), would have + past participle (wouldn't have suffered).",
+      "tags": ["grammar", "third-conditional"]
+    },
+    {
+      "id": "q-exam10-012",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "Gene therapy represents one of the most promising frontiers in modern medicine, offering the potential to treat or even cure diseases by modifying a patient's genetic material. The technique involves introducing, removing, or altering genetic material within a person's cells to fight disease. While early attempts in the 1990s were marred by setbacks, including patient deaths and ethical controversies, recent technological advances have revitalized the field. CRISPR-Cas9, a revolutionary gene-editing tool, has made it possible to target specific genes with unprecedented precision. Clinical trials have shown remarkable success in treating conditions such as sickle cell anemia and certain types of inherited blindness. However, significant challenges remain. The high cost of gene therapy treatments—some exceeding millions of dollars per patient—raises questions about accessibility and healthcare equity. Additionally, concerns about unintended genetic modifications and long-term effects continue to fuel ethical debates. Regulatory agencies worldwide are working to establish frameworks that balance innovation with patient safety, recognizing that gene therapy could transform healthcare if properly managed.",
+      "question": "According to the passage, what is the primary concern regarding the widespread adoption of gene therapy?",
+      "options": [
+        "The lack of precision in current gene-editing tools",
+        "The combination of high costs and ethical considerations",
+        "The insufficient number of clinical trials conducted",
+        "The resistance from regulatory agencies",
+        "The technological limitations of CRISPR-Cas9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pasajda yüksek maliyetler (millions of dollars per patient) ve etik kaygılar (ethical debates, unintended modifications) yaygın kullanımın önündeki temel engeller olarak belirtilmiştir. CRISPR'ın hassasiyeti vurgulanmış, düzenleyici kurumlar destekleyici gösterilmiştir.",
+      "tags": ["reading-comprehension", "gene-therapy", "main-idea"]
+    },
+    {
+      "id": "q-exam10-013",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "Gene therapy represents one of the most promising frontiers in modern medicine, offering the potential to treat or even cure diseases by modifying a patient's genetic material. The technique involves introducing, removing, or altering genetic material within a person's cells to fight disease. While early attempts in the 1990s were marred by setbacks, including patient deaths and ethical controversies, recent technological advances have revitalized the field. CRISPR-Cas9, a revolutionary gene-editing tool, has made it possible to target specific genes with unprecedented precision. Clinical trials have shown remarkable success in treating conditions such as sickle cell anemia and certain types of inherited blindness. However, significant challenges remain. The high cost of gene therapy treatments—some exceeding millions of dollars per patient—raises questions about accessibility and healthcare equity. Additionally, concerns about unintended genetic modifications and long-term effects continue to fuel ethical debates. Regulatory agencies worldwide are working to establish frameworks that balance innovation with patient safety, recognizing that gene therapy could transform healthcare if properly managed.",
+      "question": "It can be inferred from the passage that CRISPR-Cas9 -------.",
+      "options": [
+        "has completely eliminated the ethical concerns surrounding gene therapy",
+        "represents a significant improvement over earlier gene-editing methods",
+        "is currently affordable for most healthcare systems",
+        "has been rejected by most regulatory agencies",
+        "can only treat sickle cell anemia effectively"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CRISPR-Cas9'un 'unprecedented precision' (eşsiz hassasiyet) sağlaması ve alanı 'revitalize' (canlandırması) önceki yöntemlere göre önemli bir gelişme olduğunu gösterir. Etik kaygılar hala var, maliyet yüksek, düzenleyiciler destekleyici ve birden fazla hastalık tedavi edilebiliyor.",
+      "tags": ["reading-comprehension", "inference", "gene-therapy"]
+    },
+    {
+      "id": "q-exam10-014",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The author's use of ------- language throughout the novel creates an atmosphere of unease and suspense.",
+      "options": [
+        "prosaic",
+        "lucid",
+        "ominous",
+        "banal",
+        "transparent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ominous (uğursuz, kötüye işaret eden) rahatsızlık ve gerilim atmosferi yaratır. Prosaic (sıradan), lucid (açık), banal (sıkıcı) ve transparent (şeffaf) bu atmosferi yaratmaz.",
+      "tags": ["vocabulary", "literary-context"]
+    },
+    {
+      "id": "q-exam10-015",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The research team ------- on this project for five years by the time it -------.",
+      "options": [
+        "will have been working / completes",
+        "will be working / will complete",
+        "has been working / completed",
+        "had been working / was completed",
+        "works / is completing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'By the time' gelecek bir zaman noktası için kullanıldığında, o zamana kadar sürecek eylem future perfect continuous (will have been working), referans eylem simple present (completes) olur.",
+      "tags": ["grammar", "future-perfect-continuous", "time-clauses"]
+    },
+    {
+      "id": "q-exam10-016",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The lawyer's ------- questioning of the witness revealed inconsistencies in the testimony.",
+      "options": [
+        "cursory",
+        "superficial",
+        "rigorous",
+        "casual",
+        "negligent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rigorous (titiz, kapsamlı) sorgulama tutarsızlıkları ortaya çıkarır. Cursory, superficial, casual ve negligent (yüzeysel/dikkatsiz) tutarsızlıkları ortaya çıkaramaz.",
+      "tags": ["vocabulary", "legal-context"]
+    },
+    {
+      "id": "q-exam10-017",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Seldom ------- such a comprehensive analysis of the problem.",
+      "options": [
+        "we have seen",
+        "have we seen",
+        "we saw",
+        "did we saw",
+        "we are seeing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Seldom' (nadiren) cümle başında kullanıldığında inversion gerektirir: auxiliary + subject (have we seen).",
+      "tags": ["grammar", "inversion", "seldom"]
+    },
+    {
+      "id": "q-exam10-018",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The committee reached a ------- decision after considering all perspectives on the issue.",
+      "options": [
+        "contentious",
+        "divisive",
+        "polarizing",
+        "unanimous",
+        "discordant"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Unanimous (oybirliğiyle) tüm perspektiflerin değerlendirilmesinden sonra varılan ortak karardır. Contentious, divisive, polarizing ve discordant (anlaşmazlık içeren) zıt anlam taşır.",
+      "tags": ["vocabulary", "decision-making"]
+    },
+    {
+      "id": "q-exam10-019",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The manager insisted that every employee ------- the new safety protocols immediately.",
+      "options": [
+        "follows",
+        "followed",
+        "follow",
+        "will follow",
+        "is following"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Insist that' sonrasında subjunctive mood kullanılır: base form of verb (follow). Türkçede '-mesi/-ması gerektiğinde ısrar etmek' yapısına denk gelir.",
+      "tags": ["grammar", "subjunctive", "insist"]
+    },
+    {
+      "id": "q-exam10-020",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "The circular economy represents a fundamental shift from the traditional linear economic model of 'take-make-dispose' to a regenerative system where resources are kept in use for as long as possible. This approach maximizes the value extracted from resources while in use, then recovers and regenerates products and materials at the end of their service life. Unlike recycling, which often degrades materials, the circular economy emphasizes designing products for durability, reuse, and eventual disassembly. Companies embracing this model are discovering that it not only reduces environmental impact but also creates new business opportunities. For instance, manufacturers are shifting from selling products to offering services—leasing washing machines rather than selling them, for example, which incentivizes producing durable, easily repairable machines. However, transitioning to a circular economy requires overcoming significant obstacles. Current infrastructure is optimized for the linear model, consumer behavior favors convenience over sustainability, and regulatory frameworks often inadvertently discourage circular practices. Moreover, measuring the true environmental impact across a product's entire lifecycle remains methodologically challenging, making it difficult to verify claims of circularity.",
+      "question": "What distinguishes the circular economy from traditional recycling according to the passage?",
+      "options": [
+        "The circular economy is more expensive to implement",
+        "The circular economy focuses on product design for longevity and reuse",
+        "Recycling is more environmentally friendly",
+        "The circular economy only applies to manufacturing",
+        "Recycling generates more business opportunities"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pasajda circular economy'nin recycling'den farkı 'designing products for durability, reuse, and eventual disassembly' olarak açıklanmıştır. Recycling malzemeleri degrades ederken, circular economy ürün tasarımına odaklanır.",
+      "tags": ["reading-comprehension", "circular-economy", "comparison"]
+    },
+    {
+      "id": "q-exam10-021",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "The circular economy represents a fundamental shift from the traditional linear economic model of 'take-make-dispose' to a regenerative system where resources are kept in use for as long as possible. This approach maximizes the value extracted from resources while in use, then recovers and regenerates products and materials at the end of their service life. Unlike recycling, which often degrades materials, the circular economy emphasizes designing products for durability, reuse, and eventual disassembly. Companies embracing this model are discovering that it not only reduces environmental impact but also creates new business opportunities. For instance, manufacturers are shifting from selling products to offering services—leasing washing machines rather than selling them, for example, which incentivizes producing durable, easily repairable machines. However, transitioning to a circular economy requires overcoming significant obstacles. Current infrastructure is optimized for the linear model, consumer behavior favors convenience over sustainability, and regulatory frameworks often inadvertently discourage circular practices. Moreover, measuring the true environmental impact across a product's entire lifecycle remains methodologically challenging, making it difficult to verify claims of circularity.",
+      "question": "According to the passage, which of the following is NOT mentioned as a barrier to adopting circular economy practices?",
+      "options": [
+        "Infrastructure designed for linear economy",
+        "Consumer preference for convenience",
+        "Lack of technological innovation",
+        "Inadequate regulatory frameworks",
+        "Difficulty in measuring environmental impact"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pasajda infrastructure, consumer behavior, regulatory frameworks ve measurement challenges engel olarak sayılmıştır. Teknolojik inovasyon eksikliği (lack of technological innovation) bahsedilmemiştir.",
+      "tags": ["reading-comprehension", "detail-question", "circular-economy"]
+    },
+    {
+      "id": "q-exam10-022",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The professor's lecture was so ------- that many students struggled to stay focused.",
+      "options": [
+        "riveting",
+        "monotonous",
+        "engaging",
+        "compelling",
+        "captivating"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Monotonous (monoton, tekdüze) öğrencilerin odaklanmakta zorlanmasına neden olur. Riveting, engaging, compelling ve captivating (ilgi çekici) zıt anlam taşır.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-023",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "No sooner ------- the meeting than the CEO ------- an important announcement.",
+      "options": [
+        "we started / made",
+        "did we start / made",
+        "had we started / made",
+        "we had started / did make",
+        "have we started / makes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'No sooner' ile başlayan cümlede inversion kullanılır ve past perfect gerekir (had we started). 'Than' sonrası simple past (made) olur.",
+      "tags": ["grammar", "inversion", "no-sooner"]
+    },
+    {
+      "id": "q-exam10-024",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The diplomat's ------- response to the provocative question prevented the situation from escalating.",
+      "options": [
+        "inflammatory",
+        "tactless",
+        "judicious",
+        "reckless",
+        "impulsive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Judicious (tedbirli, akıllıca) yanıt durumun tırmanmasını önler. Inflammatory, tactless, reckless ve impulsive (düşüncesiz/kışkırtıcı) durumu kötüleştirir.",
+      "tags": ["vocabulary", "diplomatic-context"]
+    },
+    {
+      "id": "q-exam10-025",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The committee recommended that the policy ------- before implementation.",
+      "options": [
+        "is reviewed",
+        "was reviewed",
+        "be reviewed",
+        "will be reviewed",
+        "has been reviewed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Recommend that' sonrasında subjunctive mood: be + past participle (be reviewed). Bu yapı önerilerde bulunurken kullanılır.",
+      "tags": ["grammar", "subjunctive", "recommend"]
+    },
+    {
+      "id": "q-exam10-026",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The company's ------- growth over the past decade has made it a leader in the industry.",
+      "options": [
+        "stagnant",
+        "erratic",
+        "exponential",
+        "negligible",
+        "marginal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Exponential (üstel, hızlı) büyüme şirketi sektör lideri yapar. Stagnant (durgun), erratic (düzensiz), negligible ve marginal (önemsiz) liderlik sağlamaz.",
+      "tags": ["vocabulary", "business-context"]
+    },
+    {
+      "id": "q-exam10-027",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Were the conditions more favorable, we ------- the project immediately.",
+      "options": [
+        "would start",
+        "will start",
+        "started",
+        "had started",
+        "have started"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inversion ile second conditional: Were + subject (Were the conditions), would + base form (would start). 'If the conditions were' yerine inversion kullanılmış.",
+      "tags": ["grammar", "inversion", "second-conditional"]
+    },
+    {
+      "id": "q-exam10-028",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "Educational technology has evolved from simple computer-assisted learning programs to sophisticated adaptive systems powered by artificial intelligence. Modern learning platforms can analyze individual student performance in real-time, identifying knowledge gaps and adjusting content difficulty accordingly. This personalization promises to address one of traditional education's greatest challenges: accommodating diverse learning speeds and styles within a single classroom. Proponents argue that AI-driven education can democratize learning by providing high-quality, customized instruction to students regardless of geographic or economic constraints. Early results from pilot programs show improved engagement and learning outcomes, particularly for students who struggle in conventional settings. However, critics raise important concerns. The algorithms underlying these systems may perpetuate existing biases if trained on non-representative data. The emphasis on measurable outcomes might lead to a narrowing of curricula, prioritizing easily quantifiable skills over critical thinking and creativity. Furthermore, the replacement of human teachers with technology risks eliminating the mentorship and social-emotional learning that occur in traditional classrooms. Privacy concerns also loom large, as these systems collect vast amounts of data on students' learning patterns and behaviors. Striking a balance between leveraging technology's benefits and preserving education's human elements remains an ongoing challenge.",
+      "question": "What is the author's primary purpose in this passage?",
+      "options": [
+        "To advocate strongly for replacing traditional teachers with AI systems",
+        "To present both the potential benefits and significant concerns of educational technology",
+        "To argue that educational technology has failed to improve learning outcomes",
+        "To explain why adaptive learning systems are superior to conventional education",
+        "To recommend specific educational technology platforms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Yazar hem faydaları (personalization, democratize learning, improved outcomes) hem de endişeleri (bias, narrow curricula, loss of human element, privacy) dengeli şekilde sunmaktadır. Tek taraflı savunma veya karşı çıkma yoktur.",
+      "tags": ["reading-comprehension", "author-purpose", "educational-technology"]
+    },
+    {
+      "id": "q-exam10-029",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "Educational technology has evolved from simple computer-assisted learning programs to sophisticated adaptive systems powered by artificial intelligence. Modern learning platforms can analyze individual student performance in real-time, identifying knowledge gaps and adjusting content difficulty accordingly. This personalization promises to address one of traditional education's greatest challenges: accommodating diverse learning speeds and styles within a single classroom. Proponents argue that AI-driven education can democratize learning by providing high-quality, customized instruction to students regardless of geographic or economic constraints. Early results from pilot programs show improved engagement and learning outcomes, particularly for students who struggle in conventional settings. However, critics raise important concerns. The algorithms underlying these systems may perpetuate existing biases if trained on non-representative data. The emphasis on measurable outcomes might lead to a narrowing of curricula, prioritizing easily quantifiable skills over critical thinking and creativity. Furthermore, the replacement of human teachers with technology risks eliminating the mentorship and social-emotional learning that occur in traditional classrooms. Privacy concerns also loom large, as these systems collect vast amounts of data on students' learning patterns and behaviors. Striking a balance between leveraging technology's benefits and preserving education's human elements remains an ongoing challenge.",
+      "question": "According to critics mentioned in the passage, educational technology might -------.",
+      "options": [
+        "completely solve the problem of educational inequality",
+        "enhance students' critical thinking abilities",
+        "reduce the focus on creativity in favor of measurable skills",
+        "improve social-emotional learning outcomes",
+        "eliminate all privacy concerns in education"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Eleştirmenler 'emphasis on measurable outcomes might lead to a narrowing of curricula, prioritizing easily quantifiable skills over critical thinking and creativity' diyerek ölçülebilir becerilere odaklanmanın yaratıcılığı azaltabileceğini belirtmiştir.",
+      "tags": ["reading-comprehension", "detail-question", "educational-technology"]
+    },
+    {
+      "id": "q-exam10-030",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The historian's ------- account of the events challenged the widely accepted narrative.",
+      "options": [
+        "orthodox",
+        "conventional",
+        "iconoclastic",
+        "mainstream",
+        "traditional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Iconoclastic (yerleşik inançlara karşı çıkan) genel kabul görmüş anlatıya meydan okumayı ifade eder. Orthodox, conventional, mainstream ve traditional (geleneksel/yaygın) zıt anlam taşır.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-031",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The scientists ------- the data for months when they ------- a significant anomaly.",
+      "options": [
+        "analyzed / discovered",
+        "had been analyzing / discovered",
+        "were analyzing / had discovered",
+        "have analyzed / discover",
+        "analyze / are discovering"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aylarca süren eylem past perfect continuous (had been analyzing), sonrasında gerçekleşen eylem simple past (discovered) ile ifade edilir.",
+      "tags": ["grammar", "past-perfect-continuous"]
+    },
+    {
+      "id": "q-exam10-032",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The athlete's ------- to his training regimen was evident in his outstanding performance.",
+      "options": [
+        "indifference",
+        "dedication",
+        "aversion",
+        "reluctance",
+        "apathy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dedication (bağlılık) mükemmel performansı açıklar. Indifference, aversion, reluctance ve apathy (ilgisizlik/isteksizlik) başarıyı açıklamaz.",
+      "tags": ["vocabulary", "sports-context"]
+    },
+    {
+      "id": "q-exam10-033",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Under no circumstances ------- personal information to unauthorized individuals.",
+      "options": [
+        "you should disclose",
+        "should you disclose",
+        "you disclose",
+        "do you disclosed",
+        "you are disclosing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Under no circumstances' ile başlayan cümlede inversion gerekir: modal + subject (should you disclose).",
+      "tags": ["grammar", "inversion", "modals"]
+    },
+    {
+      "id": "q-exam10-034",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The committee's ------- approach to the problem yielded innovative solutions.",
+      "options": [
+        "hidebound",
+        "conservative",
+        "unimaginative",
+        "avant-garde",
+        "conventional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Avant-garde (yenilikçi, öncü) yenilikçi çözümler üretir. Hidebound, conservative, unimaginative ve conventional (geleneksel/muhafazakar) yenilik üretmez.",
+      "tags": ["vocabulary", "problem-solving"]
+    },
+    {
+      "id": "q-exam10-035",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The director demanded that all staff members ------- punctually for the meeting.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived",
+        "will arrive",
+        "are arriving"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Demand that' sonrasında subjunctive mood: base form of verb (arrive). Kişi ve zamandan bağımsız yalın fiil kullanılır.",
+      "tags": ["grammar", "subjunctive", "demand"]
+    },
+    {
+      "id": "q-exam10-036",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "The shifting landscape of global geopolitics in the 21st century has been marked by the rise of new power centers and the relative decline of traditional Western dominance. China's economic ascent has enabled it to project influence through initiatives like the Belt and Road program, which has created both economic opportunities and debt dependencies for participating nations. Russia has reasserted itself through energy leverage and strategic interventions, while regional powers such as India, Brazil, and Turkey are increasingly pursuing independent foreign policies. This multipolar world presents complex challenges for international cooperation. Issues such as climate change, pandemic response, and cybersecurity require coordinated action, yet competing national interests and divergent political systems make consensus difficult. The erosion of liberal democratic norms in several countries, including some traditional democracies, has further complicated multilateral efforts. Trade wars and protectionist policies have undermined the rules-based international order established after World War II. Meanwhile, technological competition, particularly in artificial intelligence and quantum computing, has become a new arena for geopolitical rivalry. Navigating this fragmented international system requires diplomacy that balances national interests with the imperative for global cooperation on existential threats.",
+      "question": "Which of the following best describes the main challenge of the current geopolitical landscape according to the passage?",
+      "options": [
+        "The complete dominance of Western powers over global affairs",
+        "The need for global cooperation amid competing national interests and divergent systems",
+        "The lack of regional powers willing to engage in foreign policy",
+        "The absence of significant technological competition",
+        "The strengthening of liberal democratic norms worldwide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pasajda 'Issues require coordinated action, yet competing national interests and divergent political systems make consensus difficult' denilerek küresel iş birliği ihtiyacı ile çatışan ulusal çıkarlar arasındaki gerilim ana zorluk olarak belirtilmiştir.",
+      "tags": ["reading-comprehension", "main-idea", "geopolitics"]
+    },
+    {
+      "id": "q-exam10-037",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "The shifting landscape of global geopolitics in the 21st century has been marked by the rise of new power centers and the relative decline of traditional Western dominance. China's economic ascent has enabled it to project influence through initiatives like the Belt and Road program, which has created both economic opportunities and debt dependencies for participating nations. Russia has reasserted itself through energy leverage and strategic interventions, while regional powers such as India, Brazil, and Turkey are increasingly pursuing independent foreign policies. This multipolar world presents complex challenges for international cooperation. Issues such as climate change, pandemic response, and cybersecurity require coordinated action, yet competing national interests and divergent political systems make consensus difficult. The erosion of liberal democratic norms in several countries, including some traditional democracies, has further complicated multilateral efforts. Trade wars and protectionist policies have undermined the rules-based international order established after World War II. Meanwhile, technological competition, particularly in artificial intelligence and quantum computing, has become a new arena for geopolitical rivalry. Navigating this fragmented international system requires diplomacy that balances national interests with the imperative for global cooperation on existential threats.",
+      "question": "It can be inferred from the passage that China's Belt and Road initiative -------.",
+      "options": [
+        "has been universally beneficial to all participating countries",
+        "has both positive and negative consequences for participating nations",
+        "has strengthened liberal democratic norms globally",
+        "has eliminated economic competition with Western powers",
+        "has focused primarily on technological development"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Belt and Road'un 'created both economic opportunities and debt dependencies' yarattığı belirtilerek hem olumlu (economic opportunities) hem olumsuz (debt dependencies) sonuçları olduğu ima edilmiştir.",
+      "tags": ["reading-comprehension", "inference", "geopolitics"]
+    },
+    {
+      "id": "q-exam10-038",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The researcher's findings were ------- by multiple independent studies, strengthening the validity of the conclusions.",
+      "options": [
+        "contradicted",
+        "refuted",
+        "corroborated",
+        "disputed",
+        "challenged"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Corroborated (doğrulandı, desteklendi) bulguların geçerliliğini güçlendirir. Contradicted, refuted, disputed ve challenged (çürütüldü/çelişti) zıt anlam taşır.",
+      "tags": ["vocabulary", "research-context"]
+    },
+    {
+      "id": "q-exam10-039",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Little ------- that the decision would have such far-reaching consequences.",
+      "options": [
+        "we realized",
+        "did we realize",
+        "we did realize",
+        "have we realized",
+        "we are realizing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Little' cümle başında kullanıldığında inversion gerektirir: did + subject + base form (did we realize).",
+      "tags": ["grammar", "inversion", "little"]
+    },
+    {
+      "id": "q-exam10-040",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The CEO's ------- management style fostered creativity and innovation within the company.",
+      "options": [
+        "authoritarian",
+        "autocratic",
+        "dictatorial",
+        "collaborative",
+        "tyrannical"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Collaborative (işbirlikçi) yaratıcılık ve yeniliği teşvik eder. Authoritarian, autocratic, dictatorial ve tyrannical (otoriter/diktatör) yaratıcılığı bastırır.",
+      "tags": ["vocabulary", "management-context"]
+    },
+    {
+      "id": "q-exam10-041",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The architect proposed that the building ------- with sustainable materials.",
+      "options": [
+        "is constructed",
+        "was constructed",
+        "be constructed",
+        "will be constructed",
+        "has been constructed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Propose that' sonrasında subjunctive mood: be + past participle (be constructed). Öneri cümlelerinde kullanılır.",
+      "tags": ["grammar", "subjunctive", "propose"]
+    },
+    {
+      "id": "q-exam10-042",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The journalist's ------- investigation revealed widespread corruption in the government.",
+      "options": [
+        "superficial",
+        "cursory",
+        "exhaustive",
+        "hasty",
+        "negligent"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Exhaustive (kapsamlı, detaylı) soruşturma yaygın yolsuzluğu ortaya çıkarır. Superficial, cursory, hasty ve negligent (yüzeysel/acele) yolsuzluğu ortaya çıkaramaz.",
+      "tags": ["vocabulary", "journalism-context"]
+    },
+    {
+      "id": "q-exam10-043",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Should the weather ------- favorable, we ------- the outdoor event.",
+      "options": [
+        "be / will hold",
+        "is / hold",
+        "was / would hold",
+        "been / will hold",
+        "being / hold"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inversion ile first conditional: Should + subject + base form (Should the weather be), will + base form (will hold). 'If the weather is' yerine inversion kullanılmış.",
+      "tags": ["grammar", "inversion", "first-conditional"]
+    },
+    {
+      "id": "q-exam10-044",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "Cybersecurity has emerged as one of the most critical challenges facing governments, businesses, and individuals in the digital age. The interconnected nature of modern technology means that a breach in one system can cascade across networks, potentially affecting millions of users. State-sponsored hacking groups target critical infrastructure such as power grids and water systems, while criminal organizations launch ransomware attacks that can paralyze hospitals and businesses. The sophistication of these attacks continues to evolve, with artificial intelligence being weaponized to identify vulnerabilities and automate intrusions. Traditional security measures such as firewalls and antivirus software, while still necessary, are increasingly insufficient against advanced persistent threats. Organizations are adopting zero-trust architectures, which assume that threats can come from both outside and inside the network. However, the human element remains the weakest link in cybersecurity. Phishing attacks that trick employees into revealing credentials or clicking malicious links account for a significant proportion of successful breaches. Training and awareness programs are essential but cannot eliminate this vulnerability entirely. The shortage of skilled cybersecurity professionals exacerbates the problem, with demand far outstripping supply. As societies become more dependent on digital systems, the potential consequences of cyber attacks grow more severe, making cybersecurity not just a technical issue but a matter of national security and public safety.",
+      "question": "According to the passage, what is described as 'the weakest link in cybersecurity'?",
+      "options": [
+        "Outdated firewall systems",
+        "Lack of artificial intelligence tools",
+        "Human vulnerability to social engineering attacks",
+        "Insufficient government regulation",
+        "The shortage of advanced persistent threats"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pasajda 'the human element remains the weakest link' denilerek çalışanların kimlik bilgilerini ifşa etmesine veya zararlı linklere tıklamasına yol açan phishing saldırılarının insan faktörünü en zayıf halka yaptığı belirtilmiştir.",
+      "tags": ["reading-comprehension", "detail-question", "cybersecurity"]
+    },
+    {
+      "id": "q-exam10-045",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "Cybersecurity has emerged as one of the most critical challenges facing governments, businesses, and individuals in the digital age. The interconnected nature of modern technology means that a breach in one system can cascade across networks, potentially affecting millions of users. State-sponsored hacking groups target critical infrastructure such as power grids and water systems, while criminal organizations launch ransomware attacks that can paralyze hospitals and businesses. The sophistication of these attacks continues to evolve, with artificial intelligence being weaponized to identify vulnerabilities and automate intrusions. Traditional security measures such as firewalls and antivirus software, while still necessary, are increasingly insufficient against advanced persistent threats. Organizations are adopting zero-trust architectures, which assume that threats can come from both outside and inside the network. However, the human element remains the weakest link in cybersecurity. Phishing attacks that trick employees into revealing credentials or clicking malicious links account for a significant proportion of successful breaches. Training and awareness programs are essential but cannot eliminate this vulnerability entirely. The shortage of skilled cybersecurity professionals exacerbates the problem, with demand far outstripping supply. As societies become more dependent on digital systems, the potential consequences of cyber attacks grow more severe, making cybersecurity not just a technical issue but a matter of national security and public safety.",
+      "question": "It can be inferred from the passage that zero-trust architectures -------.",
+      "options": [
+        "eliminate all cybersecurity threats completely",
+        "rely solely on external security measures",
+        "recognize that threats can originate from within an organization",
+        "are less effective than traditional firewalls",
+        "require no human involvement in security"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Zero-trust mimarileri 'assume that threats can come from both outside and inside the network' diyerek tehditlerin organizasyon içinden de gelebileceğini kabul ettiği belirtilmiştir.",
+      "tags": ["reading-comprehension", "inference", "cybersecurity"]
+    },
+    {
+      "id": "q-exam10-046",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The philosopher's arguments were so ------- that even experts in the field found them difficult to follow.",
+      "options": [
+        "lucid",
+        "transparent",
+        "abstruse",
+        "straightforward",
+        "elementary"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Abstruse (anlaşılması güç, karmaşık) uzmanların bile takip etmekte zorlandığı argümanları ifade eder. Lucid, transparent, straightforward ve elementary (açık/basit) zıt anlam taşır.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-047",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "By next month, the company ------- in the market for twenty years.",
+      "options": [
+        "will operate",
+        "has been operating",
+        "will have been operating",
+        "operates",
+        "is operating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gelecekteki bir zaman noktasına kadar sürecek olan eylem future perfect continuous (will have been operating) ile ifade edilir.",
+      "tags": ["grammar", "future-perfect-continuous"]
+    },
+    {
+      "id": "q-exam10-048",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The teacher's ------- explanation helped students grasp the complex mathematical concept.",
+      "options": [
+        "convoluted",
+        "cryptic",
+        "ambiguous",
+        "lucid",
+        "obscure"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lucid (açık, anlaşılır) açıklama öğrencilerin karmaşık kavramı anlamasını sağlar. Convoluted, cryptic, ambiguous ve obscure (karmaşık/belirsiz) anlamayı zorlaştırır.",
+      "tags": ["vocabulary", "education-context"]
+    },
+    {
+      "id": "q-exam10-049",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Only after the experiment ------- multiple times ------- the validity of the hypothesis.",
+      "options": [
+        "was repeated / we could confirm",
+        "had been repeated / could we confirm",
+        "repeated / we confirmed",
+        "has repeated / did we confirm",
+        "repeats / can we confirm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Only after' ile başlayan cümlede inversion gerekir. Önce gerçekleşen eylem past perfect passive (had been repeated), sonraki eylem modal + inversion (could we confirm).",
+      "tags": ["grammar", "inversion", "only-after"]
+    },
+    {
+      "id": "q-exam10-050",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The author's ------- wit and clever observations made the essay both entertaining and thought-provoking.",
+      "options": [
+        "dull",
+        "pedestrian",
+        "scintillating",
+        "banal",
+        "mundane"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scintillating (parlak, canlı, zeki) zeka ve gözlemler denemede hem eğlenceli hem düşündürücü olur. Dull, pedestrian, banal ve mundane (sıkıcı/sıradan) zıt anlam taşır.",
+      "tags": ["vocabulary", "literary-context"]
+    },
+    {
+      "id": "q-exam10-051",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The board of directors required that the CFO ------- a detailed financial report.",
+      "options": [
+        "submits",
+        "submitted",
+        "submit",
+        "will submit",
+        "is submitting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Require that' sonrasında subjunctive mood: base form of verb (submit). Gereklilik ifadelerinde kullanılır.",
+      "tags": ["grammar", "subjunctive", "require"]
+    },
+    {
+      "id": "q-exam10-052",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The government's ------- measures to reduce pollution have shown positive results.",
+      "options": [
+        "ineffective",
+        "stringent",
+        "lax",
+        "negligent",
+        "lenient"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stringent (sıkı, katı) önlemler olumlu sonuçlar gösterir. Ineffective (etkisiz), lax, negligent ve lenient (gevşek/dikkatsiz) olumlu sonuç vermez.",
+      "tags": ["vocabulary", "environmental-context"]
+    },
+    {
+      "id": "q-exam10-053",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Rarely ------- such dedication to the cause.",
+      "options": [
+        "we have witnessed",
+        "have we witnessed",
+        "we witnessed",
+        "did we witnessed",
+        "we are witnessing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Rarely' cümle başında kullanıldığında inversion gerekir: have + subject + past participle (have we witnessed).",
+      "tags": ["grammar", "inversion", "rarely"]
+    },
+    {
+      "id": "q-exam10-054",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The scientist's ------- hypothesis challenged decades of accepted theory in the field.",
+      "options": [
+        "orthodox",
+        "conventional",
+        "radical",
+        "mainstream",
+        "traditional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Radical (radikal, köktenci) hipotez onlarca yıllık kabul edilmiş teoriye meydan okur. Orthodox, conventional, mainstream ve traditional (geleneksel/yaygın) kabul edilmiş teorilerle uyumludur.",
+      "tags": ["vocabulary", "scientific-context"]
+    },
+    {
+      "id": "q-exam10-055",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The engineer suggested that the design ------- before production begins.",
+      "options": [
+        "is modified",
+        "was modified",
+        "be modified",
+        "will be modified",
+        "has been modified"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Suggest that' sonrasında subjunctive mood: be + past participle (be modified). Öneri cümlelerinde kullanılır.",
+      "tags": ["grammar", "subjunctive", "suggest"]
+    },
+    {
+      "id": "q-exam10-056",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The lawyer's ------- argument convinced the jury of his client's innocence.",
+      "options": [
+        "weak",
+        "unconvincing",
+        "compelling",
+        "feeble",
+        "ineffective"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Compelling (ikna edici, zorlayıcı) argüman jüriyi müvekkilin masumiyetine ikna eder. Weak, unconvincing, feeble ve ineffective (zayıf/etkisiz) ikna edemez.",
+      "tags": ["vocabulary", "legal-context"]
+    },
+    {
+      "id": "q-exam10-057",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Had the authorities ------- the warning signs, the disaster -------.",
+      "options": [
+        "heeded / could have been prevented",
+        "heed / can be prevented",
+        "heeding / would prevent",
+        "to heed / prevents",
+        "heeded / prevented"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Inversion ile third conditional: Had + subject + past participle (Had heeded), could have been + past participle (could have been prevented). 'If the authorities had heeded' yerine inversion kullanılmış.",
+      "tags": ["grammar", "inversion", "third-conditional"]
+    },
+    {
+      "id": "q-exam10-058",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The politician's ------- speech failed to address the substantive issues facing the community.",
+      "options": [
+        "substantive",
+        "vacuous",
+        "meaningful",
+        "profound",
+        "insightful"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vacuous (içi boş, anlamsız) konuşma önemli meseleleri ele almaz. Substantive, meaningful, profound ve insightful (anlamlı/derin) önemli konuları ele alır.",
+      "tags": ["vocabulary", "political-context"]
+    },
+    {
+      "id": "q-exam10-059",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "By the time the report -------, the committee ------- its decision.",
+      "options": [
+        "arrives / made",
+        "arrived / had made",
+        "will arrive / makes",
+        "has arrived / makes",
+        "is arriving / will make"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'By the time' geçmiş için kullanıldığında, önce gerçekleşen eylem past perfect (had made), sonraki eylem simple past (arrived) ile ifade edilir.",
+      "tags": ["grammar", "past-perfect", "time-clauses"]
+    },
+    {
+      "id": "q-exam10-060",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The researcher's ------- findings contradicted the prevailing assumptions in the field.",
+      "options": [
+        "conventional",
+        "orthodox",
+        "anomalous",
+        "typical",
+        "standard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Anomalous (anormal, düzensiz) bulgular yaygın varsayımlara çelişir. Conventional, orthodox, typical ve standard (geleneksel/standart) yaygın varsayımlarla uyumludur.",
+      "tags": ["vocabulary", "research-context"]
+    },
+    {
+      "id": "q-exam10-061",
+      "type": "cloze",
+      "difficulty": "hard",
+      "passage": "Artificial intelligence is transforming healthcare in unprecedented ways. Machine learning algorithms can now analyze medical images with accuracy (61)------- that of experienced radiologists. These systems can detect subtle patterns in X-rays, MRIs, and CT scans that might escape human observation. (62)-------, AI-powered diagnostic tools are being deployed in regions with limited access to specialists, potentially democratizing healthcare. However, the integration of AI into clinical practice raises important ethical questions. (63)------- algorithms are trained on historical data, they may perpetuate existing biases in healthcare delivery. Furthermore, the 'black box' nature of some AI systems makes it difficult for clinicians to understand (64)------- a particular diagnosis was reached. Despite these challenges, the potential benefits are substantial. AI can process vast amounts of medical literature, helping doctors stay current with the latest research. It can also predict patient outcomes and suggest (65)------- treatment plans based on similar cases.",
+      "question": "(61)",
+      "options": [
+        "rivaling",
+        "inferior to",
+        "unrelated to",
+        "excluding",
+        "dismissing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rivaling (rakip olan, denk gelen) AI'nın deneyimli radyologlarla eşdeğer doğrulukta analiz yapabildiğini gösterir. Inferior to (daha düşük) veya unrelated to (ilgisiz) bu bağlama uymaz.",
+      "tags": ["cloze", "vocabulary", "healthcare-AI"]
+    },
+    {
+      "id": "q-exam10-062",
+      "type": "cloze",
+      "difficulty": "medium",
+      "passage": "Artificial intelligence is transforming healthcare in unprecedented ways. Machine learning algorithms can now analyze medical images with accuracy (61)------- that of experienced radiologists. These systems can detect subtle patterns in X-rays, MRIs, and CT scans that might escape human observation. (62)-------, AI-powered diagnostic tools are being deployed in regions with limited access to specialists, potentially democratizing healthcare. However, the integration of AI into clinical practice raises important ethical questions. (63)------- algorithms are trained on historical data, they may perpetuate existing biases in healthcare delivery. Furthermore, the 'black box' nature of some AI systems makes it difficult for clinicians to understand (64)------- a particular diagnosis was reached. Despite these challenges, the potential benefits are substantial. AI can process vast amounts of medical literature, helping doctors stay current with the latest research. It can also predict patient outcomes and suggest (65)------- treatment plans based on similar cases.",
+      "question": "(62)",
+      "options": [
+        "Nevertheless",
+        "Moreover",
+        "Consequently",
+        "In contrast",
+        "On the contrary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Moreover (ayrıca, dahası) önceki cümleye ek bilgi ekler. AI'nın doğruluğundan sonra, uzman erişimi sınırlı bölgelerde kullanımı ek bir olumlu gelişmedir.",
+      "tags": ["cloze", "transition-words"]
+    },
+    {
+      "id": "q-exam10-063",
+      "type": "cloze",
+      "difficulty": "medium",
+      "passage": "Artificial intelligence is transforming healthcare in unprecedented ways. Machine learning algorithms can now analyze medical images with accuracy (61)------- that of experienced radiologists. These systems can detect subtle patterns in X-rays, MRIs, and CT scans that might escape human observation. (62)-------, AI-powered diagnostic tools are being deployed in regions with limited access to specialists, potentially democratizing healthcare. However, the integration of AI into clinical practice raises important ethical questions. (63)------- algorithms are trained on historical data, they may perpetuate existing biases in healthcare delivery. Furthermore, the 'black box' nature of some AI systems makes it difficult for clinicians to understand (64)------- a particular diagnosis was reached. Despite these challenges, the potential benefits are substantial. AI can process vast amounts of medical literature, helping doctors stay current with the latest research. It can also predict patient outcomes and suggest (65)------- treatment plans based on similar cases.",
+      "question": "(63)",
+      "options": [
+        "Although",
+        "Because",
+        "Unless",
+        "Provided that",
+        "In case"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Because (çünkü) algoritmalar tarihsel verilerle eğitildiği için mevcut önyargıları sürdürebileceklerini açıklar. Although (rağmen) zıt bir ilişki kurar ki burada uygun değildir.",
+      "tags": ["cloze", "conjunctions", "cause-effect"]
+    },
+    {
+      "id": "q-exam10-064",
+      "type": "cloze",
+      "difficulty": "hard",
+      "passage": "Artificial intelligence is transforming healthcare in unprecedented ways. Machine learning algorithms can now analyze medical images with accuracy (61)------- that of experienced radiologists. These systems can detect subtle patterns in X-rays, MRIs, and CT scans that might escape human observation. (62)-------, AI-powered diagnostic tools are being deployed in regions with limited access to specialists, potentially democratizing healthcare. However, the integration of AI into clinical practice raises important ethical questions. (63)------- algorithms are trained on historical data, they may perpetuate existing biases in healthcare delivery. Furthermore, the 'black box' nature of some AI systems makes it difficult for clinicians to understand (64)------- a particular diagnosis was reached. Despite these challenges, the potential benefits are substantial. AI can process vast amounts of medical literature, helping doctors stay current with the latest research. It can also predict patient outcomes and suggest (65)------- treatment plans based on similar cases.",
+      "question": "(64)",
+      "options": [
+        "how",
+        "what",
+        "which",
+        "that",
+        "whether"
+      ],
+      "correctAnswer": 0,
+      "explanation": "How (nasıl) belirli bir teşhise nasıl ulaşıldığını anlamayı ifade eder. 'Understand how' süreci anlamayı gösterir.",
+      "tags": ["cloze", "question-words"]
+    },
+    {
+      "id": "q-exam10-065",
+      "type": "cloze",
+      "difficulty": "medium",
+      "passage": "Artificial intelligence is transforming healthcare in unprecedented ways. Machine learning algorithms can now analyze medical images with accuracy (61)------- that of experienced radiologists. These systems can detect subtle patterns in X-rays, MRIs, and CT scans that might escape human observation. (62)-------, AI-powered diagnostic tools are being deployed in regions with limited access to specialists, potentially democratizing healthcare. However, the integration of AI into clinical practice raises important ethical questions. (63)------- algorithms are trained on historical data, they may perpetuate existing biases in healthcare delivery. Furthermore, the 'black box' nature of some AI systems makes it difficult for clinicians to understand (64)------- a particular diagnosis was reached. Despite these challenges, the potential benefits are substantial. AI can process vast amounts of medical literature, helping doctors stay current with the latest research. It can also predict patient outcomes and suggest (65)------- treatment plans based on similar cases.",
+      "question": "(65)",
+      "options": [
+        "rigid",
+        "inflexible",
+        "personalized",
+        "uniform",
+        "standardized"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Personalized (kişiselleştirilmiş) benzer vakalara dayalı önerilen tedavi planları için uygundur. Rigid, inflexible, uniform ve standardized (katı/standart) AI'nın vaka bazlı önerileriyle çelişir.",
+      "tags": ["cloze", "vocabulary", "healthcare"]
+    },
+    {
+      "id": "q-exam10-066",
+      "type": "paragraph-completion",
+      "difficulty": "hard",
+      "passage": "The concept of universal basic income (UBI) has gained traction as automation threatens traditional employment. Proponents argue that providing all citizens with a regular, unconditional cash payment would alleviate poverty and provide economic security in an era of job displacement. ------- Critics contend that UBI is prohibitively expensive and might discourage work, potentially leading to labor shortages in essential industries. Pilot programs in various countries have produced mixed results, with some showing improved well-being and others revealing minimal impact on employment patterns.",
+      "question": "Which sentence best completes the paragraph?",
+      "options": [
+        "However, UBI has been successfully implemented in all developed nations.",
+        "Furthermore, UBI would eliminate the need for all other social welfare programs.",
+        "Nevertheless, significant concerns about feasibility and unintended consequences remain.",
+        "In addition, UBI has no critics among economists and policymakers.",
+        "Therefore, UBI should be immediately adopted worldwide without further study."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nevertheless (bununla birlikte) destekçilerin argümanlarından eleştirilere geçişi sağlar. Paragraf UBI'nın hem olumlu hem olumsuz yönlerini dengeli sunar, tüm ülkelerde uygulandığı veya eleştirisi olmadığı gibi yanlış bilgiler içermez.",
+      "tags": ["paragraph-completion", "transition", "UBI"]
+    },
+    {
+      "id": "q-exam10-067",
+      "type": "paragraph-completion",
+      "difficulty": "medium",
+      "passage": "Ocean acidification, caused by the absorption of atmospheric CO2 by seawater, poses a severe threat to marine ecosystems. As oceans become more acidic, calcium carbonate structures that many organisms depend on—such as coral reefs and shellfish shells—become increasingly difficult to form and maintain. ------- Scientists warn that without significant reductions in carbon emissions, we risk triggering cascading effects throughout marine food webs.",
+      "question": "Which sentence best completes the paragraph?",
+      "options": [
+        "This process has no impact on commercial fisheries or coastal economies.",
+        "The consequences extend beyond individual species to entire oceanic ecosystems.",
+        "Ocean acidification has already been completely reversed through human intervention.",
+        "Marine organisms have fully adapted to acidic conditions.",
+        "Scientists believe ocean acidification is not related to CO2 emissions."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bu cümle bireysel türlerden tüm okyanus ekosistemlerine genişleyen sonuçları vurgulayarak sonraki cümledeki 'cascading effects throughout marine food webs' ifadesiyle mantıksal bağlantı kurar.",
+      "tags": ["paragraph-completion", "environmental-science"]
+    },
+    {
+      "id": "q-exam10-068",
+      "type": "sentence-completion",
+      "difficulty": "hard",
+      "question": "------- the potential for renewable energy to replace fossil fuels, significant infrastructure investments and policy changes are necessary to facilitate the transition.",
+      "options": [
+        "Regardless of",
+        "Despite",
+        "Notwithstanding",
+        "Although there exists",
+        "In the absence of"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Although there exists (var olmasına rağmen) potansiyelin varlığını kabul edip gerekli yatırımları vurgular. Despite/Notwithstanding sonrasında isim gelir, although sonrasında cümle gelir.",
+      "tags": ["sentence-completion", "concessive-clauses"]
+    },
+    {
+      "id": "q-exam10-069",
+      "type": "sentence-completion",
+      "difficulty": "medium",
+      "question": "The pharmaceutical company's breakthrough drug -------, it faced regulatory hurdles that delayed its market release by several years.",
+      "options": [
+        "having been ineffective in clinical trials",
+        "showed no promise during development",
+        "although demonstrating remarkable efficacy",
+        "which failed all safety tests",
+        "because it was inexpensive to produce"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Although demonstrating remarkable efficacy (olağanüstü etkinlik göstermesine rağmen) ilacın etkili olduğunu kabul edip düzenleyici engellerle çelişkiyi mantıklı şekilde kurar.",
+      "tags": ["sentence-completion", "contrast"]
+    },
+    {
+      "id": "q-exam10-070",
+      "type": "translation",
+      "difficulty": "hard",
+      "question": "Küresel ısınmanın etkilerini hafifletmek için uluslararası iş birliği gereklidir, ancak farklı ekonomik çıkarlar ve siyasi öncelikler ortak bir stratejide anlaşmayı zorlaştırmaktadır.",
+      "options": [
+        "International cooperation is necessary for mitigating the effects of global warming, but different economic interests and political priorities make it difficult to agree on a common strategy.",
+        "Global warming needs international cooperation, however economic and political differences make strategies hard.",
+        "To reduce global warming's effects, international work is needed, but various interests make agreement challenging.",
+        "Mitigating global warming requires international cooperation, although different economies and politics are difficult for common strategies.",
+        "For lessening global warming impacts, international cooperation is essential, but diverse economic interests and political priorities complicate agreement on shared strategy."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A seçeneği doğru yapıyı kullanır: 'is necessary for mitigating' (hafifletmek için gereklidir), 'make it difficult to agree' (anlaşmayı zorlaştırmak), ve tüm öğeleri doğal akademik İngilizce ile ifade eder.",
+      "tags": ["translation", "turkish-to-english", "global-warming"]
+    },
+    {
+      "id": "q-exam10-071",
+      "type": "translation",
+      "difficulty": "medium",
+      "question": "Araştırmacılar, yapay zekanın tıbbi teşhislerde insan doktorlarla karşılaştırılabilir doğruluk oranlarına ulaştığını göstermiştir.",
+      "options": [
+        "Researchers have showed that artificial intelligence reaches comparable accuracy rates with human doctors in medical diagnosis.",
+        "Researchers have shown that artificial intelligence achieves accuracy rates comparable to those of human doctors in medical diagnoses.",
+        "The researchers showed artificial intelligence has comparable accuracy with human doctors for medical diagnosis.",
+        "Research has demonstrated artificial intelligence reaching accuracy rates comparable human doctors in medical diagnosing.",
+        "Researchers showed that artificial intelligence is comparable to human doctors in accuracy rates of medical diagnosis."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B seçeneği doğru yapıyı kullanır: 'have shown' (göstermiştir), 'achieves accuracy rates comparable to those of' (ile karşılaştırılabilir doğruluk oranlarına ulaşır), ve 'medical diagnoses' (tıbbi teşhisler) çoğul formu.",
+      "tags": ["translation", "turkish-to-english", "medical-AI"]
+    },
+    {
+      "id": "q-exam10-072",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The economist's ------- predictions about the market crash proved accurate, validating her unconventional analytical methods.",
+      "options": [
+        "erroneous",
+        "prescient",
+        "hindsight",
+        "retrospective",
+        "belated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prescient (öngörülü, ileriyi gören) piyasa çöküşü hakkında doğru çıkan tahminleri ifade eder. Erroneous (yanlış), hindsight (sonradan görüş), retrospective (geçmişe bakış) ve belated (gecikmiş) önceden doğru tahmin anlamı vermez.",
+      "tags": ["vocabulary", "economic-context"]
+    },
+    {
+      "id": "q-exam10-073",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "Not only ------- the proposal thoroughly, but they also ------- alternative solutions.",
+      "options": [
+        "they analyzed / presented",
+        "did they analyze / presented",
+        "they did analyze / did present",
+        "analyzed they / presented",
+        "did they analyzed / present"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Not only' cümle başında kullanıldığında inversion gerekir: did + subject + base form (did they analyze). 'But also' sonrası normal cümle yapısı (presented) kullanılır.",
+      "tags": ["grammar", "inversion", "not-only"]
+    },
+    {
+      "id": "q-exam10-074",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The novelist's ------- portrayal of urban life resonated with readers who had experienced similar circumstances.",
+      "options": [
+        "contrived",
+        "artificial",
+        "authentic",
+        "fabricated",
+        "synthetic"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Authentic (özgün, gerçekçi) tasvir benzer koşulları yaşamış okuyucularla rezonansa girer. Contrived, artificial, fabricated ve synthetic (yapay/uydurma) gerçekçi olmayan tasvir için kullanılır.",
+      "tags": ["vocabulary", "literary-context"]
+    },
+    {
+      "id": "q-exam10-075",
+      "type": "grammar",
+      "difficulty": "medium",
+      "question": "The judge ordered that the evidence ------- immediately to prevent tampering.",
+      "options": [
+        "is secured",
+        "was secured",
+        "be secured",
+        "will be secured",
+        "has been secured"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Order that' sonrasında subjunctive mood: be + past participle (be secured). Emir cümlelerinde kullanılır.",
+      "tags": ["grammar", "subjunctive", "order"]
+    },
+    {
+      "id": "q-exam10-076",
+      "type": "reading",
+      "difficulty": "hard",
+      "passage": "The rise of cryptocurrency has challenged traditional notions of money and financial systems. Bitcoin, the first decentralized digital currency, operates without a central authority, using blockchain technology to record transactions across a distributed network. Proponents celebrate cryptocurrencies as democratizing finance, enabling peer-to-peer transactions without intermediaries, and providing financial services to unbanked populations. The underlying blockchain technology promises applications beyond currency, including supply chain management and digital identity verification. However, cryptocurrencies face substantial obstacles to mainstream adoption. Their extreme price volatility makes them impractical as stable stores of value or media of exchange. The energy consumption required for cryptocurrency mining has raised environmental concerns, with Bitcoin's network alone consuming as much electricity as some nations. Regulatory uncertainty persists, with governments grappling with how to classify and oversee these assets. Criminal exploitation of cryptocurrencies for money laundering and illicit transactions has prompted calls for stricter regulation. Moreover, the irreversible nature of blockchain transactions means that user errors or fraud can result in permanent loss of funds with no recourse. As the technology matures, finding the right balance between innovation and regulation remains a critical challenge.",
+      "question": "According to the passage, what is a fundamental challenge facing cryptocurrency adoption?",
+      "options": [
+        "The complete absence of any regulatory framework",
+        "The combination of price volatility and environmental impact",
+        "The universal rejection by all governments worldwide",
+        "The total lack of practical applications for blockchain technology",
+        "The inability to conduct any peer-to-peer transactions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pasajda 'extreme price volatility' (aşırı fiyat dalgalanması) ve 'energy consumption' with 'environmental concerns' (enerji tüketimi ve çevresel kaygılar) temel engeller olarak belirtilmiştir. Düzenleyici belirsizlik var ama tam yokluk yok, tüm hükümetler reddetmiyor.",
+      "tags": ["reading-comprehension", "main-idea", "cryptocurrency"]
+    },
+    {
+      "id": "q-exam10-077",
+      "type": "reading",
+      "difficulty": "medium",
+      "passage": "The rise of cryptocurrency has challenged traditional notions of money and financial systems. Bitcoin, the first decentralized digital currency, operates without a central authority, using blockchain technology to record transactions across a distributed network. Proponents celebrate cryptocurrencies as democratizing finance, enabling peer-to-peer transactions without intermediaries, and providing financial services to unbanked populations. The underlying blockchain technology promises applications beyond currency, including supply chain management and digital identity verification. However, cryptocurrencies face substantial obstacles to mainstream adoption. Their extreme price volatility makes them impractical as stable stores of value or media of exchange. The energy consumption required for cryptocurrency mining has raised environmental concerns, with Bitcoin's network alone consuming as much electricity as some nations. Regulatory uncertainty persists, with governments grappling with how to classify and oversee these assets. Criminal exploitation of cryptocurrencies for money laundering and illicit transactions has prompted calls for stricter regulation. Moreover, the irreversible nature of blockchain transactions means that user errors or fraud can result in permanent loss of funds with no recourse. As the technology matures, finding the right balance between innovation and regulation remains a critical challenge.",
+      "question": "It can be inferred from the passage that blockchain technology -------.",
+      "options": [
+        "has potential applications beyond financial transactions",
+        "is only useful for cryptocurrency mining",
+        "has completely eliminated all forms of fraud",
+        "consumes no energy whatsoever",
+        "is universally regulated across all countries"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasajda 'underlying blockchain technology promises applications beyond currency, including supply chain management and digital identity verification' denilerek blockchain'in finansal işlemlerin ötesinde uygulamaları olduğu belirtilmiştir.",
+      "tags": ["reading-comprehension", "inference", "blockchain"]
+    },
+    {
+      "id": "q-exam10-078",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "question": "The scientist's ------- approach to the problem, combining insights from multiple disciplines, led to an innovative solution.",
+      "options": [
+        "narrow",
+        "limited",
+        "interdisciplinary",
+        "specialized",
+        "focused"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Interdisciplinary (disiplinlerarası) birden fazla disiplinden içgörü birleştirmeyi ifade eder. Narrow, limited, specialized ve focused (dar/sınırlı) birden fazla disiplini birleştirmez.",
+      "tags": ["vocabulary", "academic-context"]
+    },
+    {
+      "id": "q-exam10-079",
+      "type": "grammar",
+      "difficulty": "hard",
+      "question": "In no way ------- responsible for the errors in the final report.",
+      "options": [
+        "he was",
+        "was he",
+        "he is",
+        "is he being",
+        "he has been"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'In no way' ile başlayan cümlede inversion gerekir: was + subject (was he). Olumsuz ifadelerle inversion yapılır.",
+      "tags": ["grammar", "inversion", "negative-expressions"]
+    },
+    {
+      "id": "q-exam10-080",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "question": "The new policy aims to ------- the gap between rural and urban educational opportunities.",
+      "options": [
+        "widen",
+        "exacerbate",
+        "bridge",
+        "deepen",
+        "expand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bridge (köprü kurmak, arayı kapatmak) kırsal ve kentsel eğitim fırsatları arasındaki uçurumu kapatmayı ifade eder. Widen, exacerbate, deepen ve expand (genişletmek/derinleştirmek) uçurumu artırır.",
+      "tags": ["vocabulary", "education-policy"]
+    }
+  ]
+}

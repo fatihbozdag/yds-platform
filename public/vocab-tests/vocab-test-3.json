@@ -1,0 +1,1209 @@
+{
+  "examTitle": "YDS Tam Deneme Sınavı 3",
+  "examCode": "YDS-2025-03",
+  "duration": 180,
+  "totalQuestions": 80,
+  "passingScore": 55,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The philosopher's argument rests on the premise that consciousness cannot be reduced to mere neural activity, ------- it represents an emergent property of complex systems.",
+      "options": [
+        "as",
+        "unless",
+        "whereas",
+        "in case",
+        "provided that"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'As' burada sebep bildiren bir bağlaç olarak kullanılmıştır. Filozofun argümanının bilinç üzerine dayandığı önerme, 'çünkü/zira' anlamında 'as' ile açıklanmaktadır.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 2,
+      "question": "Quantum entanglement ------- one of the most puzzling phenomena in physics since Einstein first described it as 'spooky action at a distance'.",
+      "options": [
+        "remains",
+        "remained",
+        "has remained",
+        "had remained",
+        "would remain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present Perfect Tense (has remained) geçmişte başlayıp günümüze kadar devam eden durumları ifade eder. Einstein'ın tanımlamasından bu yana süregelen bir durum söz konusu.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "question": "The behavioral economist's research suggests that human decision-making is often ------- by cognitive biases that deviate from rational choice theory.",
+      "options": [
+        "enhanced",
+        "undermined",
+        "facilitated",
+        "promoted",
+        "encouraged"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Undermined' (zayıflatılmış/baltalanmış) doğru cevaptır. Bilişsel önyargılar rasyonel seçim teorisinden sapmalara neden olarak karar vermeyi olumsuz etkiler.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 4,
+      "question": "------- the complexity of neuroplasticity, scientists have made remarkable progress in understanding how the brain reorganizes itself following injury.",
+      "options": [
+        "Despite",
+        "Although",
+        "Because of",
+        "In spite",
+        "Due to"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Despite' (rağmen) + isim yapısı kullanılır. 'Although' yan cümle ister, 'in spite' sonrasında 'of' gerektirir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "question": "The anthropologist's fieldwork revealed that cultural practices ------- significantly across indigenous communities, challenging universalist assumptions about human behavior.",
+      "options": [
+        "vary",
+        "varies",
+        "varying",
+        "varied",
+        "have varied"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Özne 'cultural practices' (çoğul) olduğu için 'vary' kullanılmalıdır. Genel bir gerçeği ifade eden Simple Present Tense uygundur.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "question": "Climate scientists warn that if greenhouse gas emissions continue at the current rate, global temperatures ------- by more than 2°C by the end of the century.",
+      "options": [
+        "will have risen",
+        "would have risen",
+        "will rise",
+        "would rise",
+        "rise"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Future Perfect (will have risen) gelecekte belirli bir zamana kadar tamamlanacak eylemleri ifade eder. Yüzyıl sonuna kadar gerçekleşecek sıcaklık artışı söz konusu.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 7,
+      "question": "The epistemological debate centers on whether knowledge is ------- justified true belief or whether additional conditions are necessary.",
+      "options": [
+        "merely",
+        "hardly",
+        "scarcely",
+        "nearly",
+        "barely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Merely' (sadece/yalnızca) bilginin 'sadece' gerekçelendirilmiş doğru inanç olup olmadığını sorgular. Diğer seçenekler olumsuz anlamlıdır.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 8,
+      "question": "Genetic editing technologies such as CRISPR have ------- ethical concerns about the potential for human enhancement and designer babies.",
+      "options": [
+        "raised",
+        "risen",
+        "aroused",
+        "arose",
+        "arisen"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Raise concerns' (endişeleri artırmak/gündeme getirmek) sabit ifadesidir. 'Rise' geçişsizdir, 'arouse' ise daha çok duyguları uyandırmak için kullanılır.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "question": "------- the immune system functions optimally requires a delicate balance of various cellular and molecular components working in concert.",
+      "options": [
+        "For",
+        "To",
+        "That",
+        "What",
+        "Whether"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'To-infinitive' cümle başında özne olarak kullanılabilir. 'Bağışıklık sisteminin optimal çalışması' anlamında özne konumunda.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 10,
+      "question": "The sociologist's study demonstrates that social mobility has become increasingly ------- in advanced capitalist societies over the past four decades.",
+      "options": [
+        "accessible",
+        "restricted",
+        "available",
+        "widespread",
+        "common"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Restricted' (kısıtlanmış) gelişmiş kapitalist toplumlarda sosyal hareketliliğin azaldığını ifade eder. Araştırmalar bu bulguyu desteklemektedir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 11,
+      "question": "The relationship between technological innovation and employment remains contentious, with economists ------- on whether automation ultimately creates or destroys jobs.",
+      "options": [
+        "agreeing",
+        "agreed",
+        "to agree",
+        "divided",
+        "dividing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Divided on' (konusunda bölünmüş/ayrılmış) ekonomistlerin otomasyonun istihdam üzerindeki etkisi konusunda farklı görüşlere sahip olduğunu belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "question": "Had the pharmaceutical company disclosed the adverse effects of the drug earlier, regulatory authorities ------- more stringent testing protocols.",
+      "options": [
+        "would implement",
+        "would have implemented",
+        "will implement",
+        "implemented",
+        "had implemented"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Type 3 Conditional (Had + past participle, would have + past participle) geçmişte gerçekleşmeyen bir durumu ve sonucunu ifade eder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 13,
+      "question": "The physicist's theory ------- that dark matter constitutes approximately 27% of the universe's total mass-energy content.",
+      "options": [
+        "proposes",
+        "opposes",
+        "disposes",
+        "composes",
+        "imposes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Proposes' (önerir/ileri sürer) bilimsel bir teorinin bir fikri ortaya koyduğunu belirtir. Karanlık madde evrenin kütlesinin %27'sini oluşturur.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "question": "Neuroscientific research indicates that decision fatigue can significantly impair cognitive function, ------- judges to make harsher rulings later in the day.",
+      "options": [
+        "lead",
+        "led",
+        "leading",
+        "to lead",
+        "leads"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Present Participle (leading) sonuç bildiren yan cümle oluşturur. Karar yorgunluğu hakimlerin günün ilerleyen saatlerinde daha sert kararlar vermesine yol açar.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 15,
+      "question": "The concept of ecological resilience refers to the capacity of ecosystems to absorb disturbances ------- maintaining their fundamental structure and function.",
+      "options": [
+        "despite",
+        "while",
+        "unless",
+        "although",
+        "whereas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'While' (iken/-ken) eşzamanlılık bildirir. Ekosistemler temel yapılarını korurken bozulmaları absorbe etme kapasitesine sahiptir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "question": "The historian's analysis suggests that the Industrial Revolution was not merely a technological transformation but also a profound ------- in social relations and cultural values.",
+      "options": [
+        "shift",
+        "drift",
+        "lift",
+        "gift",
+        "swift"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Shift' (kayma/değişim) sosyal ilişkiler ve kültürel değerlerdeki derin değişimi ifade eder. Sanayi Devrimi'nin toplumsal etkisini vurgular.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "question": "------- the hypothesis that language acquisition is innate, critics argue that environmental factors play a more significant role than previously thought.",
+      "options": [
+        "Contrary to",
+        "In accordance with",
+        "By virtue of",
+        "On behalf of",
+        "With regard to"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Contrary to' (aksine/karşı olarak) eleştirmenlerin doğuştan dil edinimi hipotezine karşı çıktığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 18,
+      "question": "The emergence of blockchain technology has ------- traditional notions of centralized authority in financial systems.",
+      "options": [
+        "challenged",
+        "enhanced",
+        "supported",
+        "maintained",
+        "preserved"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Challenged' (meydan okumuş/sorgulamış) blockchain teknolojisinin merkezi otorite kavramını sorguladığını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "question": "By the time the clinical trial concludes next year, researchers ------- data from over 10,000 participants across multiple continents.",
+      "options": [
+        "will collect",
+        "will have collected",
+        "collect",
+        "collected",
+        "have collected"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Future Perfect (will have collected) gelecekte belirli bir zamana kadar tamamlanacak eylemleri ifade eder. Klinik çalışma bittiğinde veri toplama tamamlanmış olacak.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 20,
+      "question": "The philosopher's argument ------- that moral truths exist independently of human beliefs or cultural practices.",
+      "options": [
+        "maintains",
+        "contains",
+        "retains",
+        "sustains",
+        "entertains"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Maintains' (savunur/iddia eder) filozofun ahlaki gerçeklerin insan inançlarından bağımsız var olduğunu savunduğunu belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 21,
+      "question": "Research in developmental psychology reveals that children's cognitive abilities ------- through distinct stages, each characterized by qualitatively different modes of thinking.",
+      "options": [
+        "progress",
+        "progresses",
+        "progressing",
+        "progressed",
+        "have progressed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Özne 'cognitive abilities' (çoğul) olduğu için 'progress' kullanılır. Genel bilimsel gerçek Simple Present ile ifade edilir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "question": "The economist's model assumes that market participants are rational actors, ------- empirical evidence frequently contradicts this assumption.",
+      "options": [
+        "so",
+        "yet",
+        "for",
+        "nor",
+        "or"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Yet' (ancak/fakat) varsayım ile ampirik kanıtlar arasındaki çelişkiyi gösterir. Rasyonel aktör varsayımı sık sık gerçekle çelişir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "question": "The discovery of extremophiles in deep-sea hydrothermal vents has ------- our understanding of the conditions necessary for life.",
+      "options": [
+        "narrowed",
+        "limited",
+        "expanded",
+        "reduced",
+        "diminished"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Expanded' (genişletmiş) aşırı ortamlarda yaşayan organizmaların keşfinin yaşam koşulları anlayışımızı genişlettiğini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "question": "------- the placebo effect demonstrates, the mind's influence on physical health is far more substantial than previously recognized.",
+      "options": [
+        "As",
+        "Like",
+        "Such as",
+        "Similar to",
+        "Alike"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'As' (gibi/nasıl ki) plasebo etkisinin gösterdiği şekilde zihnin fiziksel sağlık üzerindeki etkisini örneklendirir. 'As' + cümle yapısı kullanılır.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 25,
+      "question": "The neurologist's research focuses on identifying biomarkers that can ------- predict the onset of neurodegenerative diseases years before symptoms appear.",
+      "options": [
+        "reliably",
+        "reluctantly",
+        "relatively",
+        "recently",
+        "remotely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Reliably' (güvenilir şekilde) biyobelirteçlerin nörodejeneratif hastalıkların başlangıcını güvenilir bir şekilde tahmin edebileceğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "question": "Were the government to implement carbon pricing mechanisms, industries ------- greater incentives to reduce greenhouse gas emissions.",
+      "options": [
+        "will have",
+        "would have",
+        "had",
+        "have had",
+        "had had"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Type 2 Conditional'ın formal yapısı (Were + subject + to-infinitive, would + verb) gelecekte olası olmayan bir durumu ifade eder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 27,
+      "question": "The concept of collective intelligence suggests that groups can solve complex problems more effectively than individuals, ------- certain conditions are met.",
+      "options": [
+        "unless",
+        "provided",
+        "despite",
+        "although",
+        "whereas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Provided' (şartıyla/koşuluyla) belirli koşullar sağlandığında grupların problemleri daha etkili çözdüğünü belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "question": "The archaeologist's findings ------- existing theories about the timeline of human migration out of Africa.",
+      "options": [
+        "confirm",
+        "contradict",
+        "support",
+        "validate",
+        "verify"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Contradict' (çelişmek) arkeolojik bulguların Afrika'dan insan göçü zaman çizelgesi hakkındaki teorilerle çeliştiğini gösterir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "question": "The biotechnology company has invested heavily in developing gene therapies, ------- the regulatory landscape remains uncertain.",
+      "options": [
+        "because",
+        "although",
+        "since",
+        "as",
+        "due to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Although' (rağmen/-e karşın) düzenleyici belirsizliğe rağmen şirketin gen tedavilerine yatırım yaptığını belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "question": "The sociological study reveals that social capital plays a ------- role in determining educational outcomes than financial resources alone.",
+      "options": [
+        "more significant",
+        "most significant",
+        "as significant",
+        "significant",
+        "significantly"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'More significant than' (daha önemli) sosyal sermayenin eğitim sonuçlarında finansal kaynaklardan daha önemli rol oynadığını belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "question": "Cognitive linguists argue that metaphor is not merely a rhetorical device but a fundamental mechanism ------- we conceptualize abstract ideas.",
+      "options": [
+        "by which",
+        "in which",
+        "on which",
+        "to which",
+        "at which"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'By which' (vasıtasıyla/aracılığıyla) metaforun soyut fikirleri kavramsallaştırdığımız temel mekanizma olduğunu belirtir.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 32,
+      "question": "The political scientist's analysis demonstrates that democratic institutions are more ------- when economic inequality is relatively low.",
+      "options": [
+        "fragile",
+        "vulnerable",
+        "stable",
+        "weak",
+        "unstable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Stable' (istikrarlı) ekonomik eşitsizliğin düşük olduğunda demokratik kurumların daha istikrarlı olduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "question": "The phenomenon of algorithmic bias has raised concerns about ------- artificial intelligence systems perpetuate existing social inequalities.",
+      "options": [
+        "that",
+        "what",
+        "how",
+        "which",
+        "whose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'How' (nasıl) yapay zeka sistemlerinin mevcut sosyal eşitsizlikleri nasıl sürdürdüğü konusundaki endişeleri ifade eder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 34,
+      "question": "Environmental scientists warn that biodiversity loss is occurring at an ------- rate, with species extinctions accelerating globally.",
+      "options": [
+        "unprecedented",
+        "expected",
+        "predictable",
+        "typical",
+        "ordinary"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Unprecedented' (eşi benzeri görülmemiş) biyolojik çeşitlilik kaybının benzeri görülmemiş bir hızda gerçekleştiğini vurgular.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 35,
+      "question": "The oncologist's research suggests that immunotherapy represents a paradigm shift in cancer treatment, ------- the body's own immune system to fight malignant cells.",
+      "options": [
+        "harnessing",
+        "harness",
+        "to harness",
+        "harnesses",
+        "harnessed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present Participle (harnessing) şekil bildiren yan cümle oluşturur. İmmünoterapi vücudun kendi bağışıklık sistemini kullanarak kanserle savaşır.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 36,
+      "question": "The mathematician's proof ------- a long-standing conjecture that had puzzled researchers for over a century.",
+      "options": [
+        "confirmed",
+        "denied",
+        "rejected",
+        "refuted",
+        "disproved"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Confirmed' (doğruladı) matematikçinin bir asırdan fazla süredir araştırmacıları meşgul eden varsayımı doğruladığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "question": "------- behavioral economics has shown, humans consistently deviate from rational decision-making models in predictable ways.",
+      "options": [
+        "As",
+        "Like",
+        "Such",
+        "So",
+        "That"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'As' (nasıl ki/gibi) davranışsal ekonominin gösterdiği gibi insanların öngörülebilir şekillerde rasyonel karar modellerinden saptığını ifade eder.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "question": "The ethnographer's fieldwork revealed that indigenous knowledge systems contain sophisticated ------- about local ecosystems that modern science is only beginning to appreciate.",
+      "options": [
+        "ignorance",
+        "confusion",
+        "insights",
+        "misunderstandings",
+        "errors"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Insights' (içgörüler) yerli bilgi sistemlerinin yerel ekosistemler hakkında modern bilimin yeni takdir etmeye başladığı sofistike içgörüler içerdiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "question": "Should the central bank raise interest rates, consumer spending ------- likely decline in the subsequent quarters.",
+      "options": [
+        "will",
+        "would",
+        "shall",
+        "should",
+        "might"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Type 1 Conditional'ın formal yapısı (Should + subject + verb, would + verb) olası bir durumu ve sonucunu ifade eder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 40,
+      "question": "The concept of neuroplasticity has fundamentally altered our understanding of brain development, demonstrating that neural pathways remain ------- throughout life.",
+      "options": [
+        "fixed",
+        "static",
+        "rigid",
+        "malleable",
+        "permanent"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Malleable' (şekillendirilebilir) nöroplastisite kavramının sinir yollarının yaşam boyu şekillendirilebilir olduğunu gösterdiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 41,
+      "question": "The astrophysicist's calculations indicate that the observable universe contains approximately two trillion galaxies, ------- the previously estimated 200 billion.",
+      "options": [
+        "far exceeding",
+        "barely reaching",
+        "hardly approaching",
+        "scarcely matching",
+        "nearly equaling"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Far exceeding' (çok aşan) gözlemlenebilir evrendeki galaksi sayısının önceki tahminleri çok aştığını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "question": "The linguist's research demonstrates that code-switching is not a sign of linguistic deficiency but rather a sophisticated cognitive ------- requiring mastery of multiple grammatical systems.",
+      "options": [
+        "failure",
+        "weakness",
+        "skill",
+        "disability",
+        "limitation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Skill' (beceri) kod değiştirmenin dilsel yetersizlik işareti değil, birden fazla dilbilgisi sisteminin hakimiyetini gerektiren sofistike bir bilişsel beceri olduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "question": "The prevalence of antibiotic resistance has increased dramatically over the past decades, ------- the overuse and misuse of antimicrobial drugs in both human medicine and agriculture.",
+      "options": [
+        "despite",
+        "owing to",
+        "regardless of",
+        "instead of",
+        "apart from"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Owing to' (nedeniyle) antibiyotik direncinin antimikrobiyal ilaçların aşırı ve yanlış kullanımı nedeniyle arttığını belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "question": "The philosopher's argument ------- on the distinction between phenomenal consciousness and access consciousness in cognitive science.",
+      "options": [
+        "relies",
+        "denies",
+        "ignores",
+        "dismisses",
+        "rejects"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Relies on' (dayanır) filozofun argümanının bilişsel bilimdeki fenomenal ve erişim bilinci arasındaki ayrıma dayandığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 45,
+      "question": "The psychologist's study found that individuals who practice mindfulness meditation show increased activity in brain regions ------- with attention regulation and emotional control.",
+      "options": [
+        "associated",
+        "dissociated",
+        "separated",
+        "divided",
+        "isolated"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Associated with' (ile ilişkili) bilinçli farkındalık meditasyonu yapan bireylerin dikkat düzenleme ve duygusal kontrol ile ilişkili beyin bölgelerinde artan aktivite gösterdiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "question": "------- climate models have become increasingly sophisticated, uncertainty remains regarding the precise magnitude of future temperature increases.",
+      "options": [
+        "Although",
+        "Because",
+        "Since",
+        "As",
+        "When"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Although' (rağmen) iklim modellerinin gelişmesine rağmen gelecek sıcaklık artışlarının kesin büyüklüğü konusunda belirsizliğin devam ettiğini belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "question": "The economist's model predicts that automation will ------- displace workers in routine cognitive tasks while creating new employment opportunities in sectors requiring complex human judgment.",
+      "options": [
+        "increasingly",
+        "decreasingly",
+        "rarely",
+        "hardly",
+        "scarcely"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Increasingly' (giderek artan şekilde) otomasyonun rutin bilişsel görevlerde çalışanları giderek daha fazla yerinden edeceğini tahmin eder.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "question": "The discovery of gravitational waves provided empirical ------- for Einstein's general theory of relativity, a century after its formulation.",
+      "options": [
+        "denial",
+        "rejection",
+        "confirmation",
+        "refutation",
+        "contradiction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Confirmation' (doğrulama) kütleçekim dalgalarının keşfinin Einstein'ın genel görelilik teorisi için ampirik doğrulama sağladığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "question": "Epigenetic research has revealed that environmental factors can influence gene expression ------- altering the underlying DNA sequence.",
+      "options": [
+        "with",
+        "without",
+        "by",
+        "through",
+        "via"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Without' (olmadan) epigenetik araştırmaların çevresel faktörlerin DNA dizisini değiştirmeden gen ifadesini etkileyebileceğini ortaya koyduğunu belirtir.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 50,
+      "question": "The anthropologist's cross-cultural study suggests that while specific emotional expressions vary, certain basic emotions appear to be ------- across all human societies.",
+      "options": [
+        "unique",
+        "rare",
+        "universal",
+        "uncommon",
+        "exceptional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Universal' (evrensel) belirli temel duyguların tüm insan toplumlarında evrensel göründüğünü belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 51,
+      "question": "The neuroscientist's findings indicate that chronic stress can lead to structural changes in the hippocampus, ------- affecting memory formation and retrieval.",
+      "options": [
+        "thereby",
+        "moreover",
+        "however",
+        "nevertheless",
+        "furthermore"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Thereby' (böylelikle/bu sayede) kronik stresin hipokampusta yapısal değişikliklere yol açarak bellek oluşumunu ve geri çağırmayı etkilediğini gösterir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 52,
+      "question": "The concept of embodied cognition challenges the traditional view that thinking is purely abstract, arguing ------- cognitive processes are fundamentally grounded in bodily experience.",
+      "options": [
+        "that",
+        "what",
+        "which",
+        "how",
+        "where"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'That' bilişsel süreçlerin temelde bedensel deneyimde temellendiğini savunan argümanı tanıtır.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 53,
+      "question": "The sociologist's research reveals that social networks play a crucial role in information diffusion, with ideas spreading more ------- through networks characterized by weak ties.",
+      "options": [
+        "slowly",
+        "poorly",
+        "ineffectively",
+        "rapidly",
+        "hardly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Rapidly' (hızla) fikirlerin zayıf bağlarla karakterize edilen ağlar aracılığıyla daha hızlı yayıldığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 54,
+      "question": "Had researchers recognized the significance of the initial findings, subsequent investigations ------- pursued more aggressively.",
+      "options": [
+        "will be",
+        "would be",
+        "would have been",
+        "had been",
+        "have been"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Type 3 Conditional (Had + past participle, would have been + past participle) geçmişte gerçekleşmeyen bir durumu ve sonucunu ifade eder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 55,
+      "question": "The molecular biologist's work focuses on understanding how protein folding errors ------- to neurodegenerative diseases such as Alzheimer's and Parkinson's.",
+      "options": [
+        "contribute",
+        "contributes",
+        "contributing",
+        "contributed",
+        "have contributed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Contribute to' (katkıda bulunmak) protein katlanma hatalarının nörodejeneratif hastalıklara nasıl katkıda bulunduğunu anlamaya odaklanır. Özne 'errors' çoğul.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 56,
+      "question": "The political theorist argues that democratic legitimacy depends not only on procedural fairness but also on the ------- distribution of political power and economic resources.",
+      "options": [
+        "unequal",
+        "unjust",
+        "equitable",
+        "biased",
+        "skewed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Equitable' (adil) demokratik meşruiyetin politik güç ve ekonomik kaynakların adil dağılımına bağlı olduğunu savunur.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 57,
+      "question": "The paleontologist's discovery of fossilized soft tissue has provided unprecedented ------- into the physiology of extinct species.",
+      "options": [
+        "confusion",
+        "obscurity",
+        "insight",
+        "darkness",
+        "mystery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Insight into' (içgörü) fosilleşmiş yumuşak dokunun nesli tükenmiş türlerin fizyolojisine eşi benzeri görülmemiş içgörü sağladığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 58,
+      "question": "The phenomenon of confirmation bias demonstrates that individuals tend to seek out information ------- their existing beliefs while dismissing contradictory evidence.",
+      "options": [
+        "challenging",
+        "opposing",
+        "contradicting",
+        "supporting",
+        "rejecting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Supporting' (destekleyen) doğrulama yanlılığının bireylerin mevcut inançlarını destekleyen bilgiyi arama eğiliminde olduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 59,
+      "question": "The development of mRNA vaccine technology represents a major breakthrough in immunology, ------- the potential to revolutionize the prevention and treatment of infectious diseases.",
+      "options": [
+        "offering",
+        "offer",
+        "to offer",
+        "offers",
+        "offered"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Present Participle (offering) ek bilgi veren yan cümle oluşturur. mRNA aşı teknolojisi bulaşıcı hastalıkların önlenmesinde devrim yapma potansiyeli sunuyor.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 60,
+      "question": "The historian's analysis suggests that technological determinism ------- the complex interplay between technological innovation and social change.",
+      "options": [
+        "oversimplifies",
+        "clarifies",
+        "explains",
+        "illuminates",
+        "demonstrates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Oversimplifies' (aşırı basitleştirir) teknolojik determinizmin teknolojik yenilik ve sosyal değişim arasındaki karmaşık etkileşimi aşırı basitleştirdiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 61,
+      "question": "------- the prevailing assumption that economic growth necessarily improves well-being, recent research suggests a more nuanced relationship.",
+      "options": [
+        "Supporting",
+        "Confirming",
+        "Challenging",
+        "Validating",
+        "Verifying"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Challenging' (meydan okuyarak) ekonomik büyümenin mutlaka refahı iyileştirdiği varsayımına meydan okuyan araştırmaları belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 62,
+      "question": "The quantum physicist's experiments demonstrate that particles can exist in superposition states, ------- classical intuitions about the nature of physical reality.",
+      "options": [
+        "confirming",
+        "defying",
+        "supporting",
+        "validating",
+        "reinforcing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Defying' (meydan okuyan/karşı gelen) parçacıkların süperpozisyon durumunda var olmasının klasik fiziksel gerçeklik sezgilerine meydan okuduğunu belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 63,
+      "question": "The linguist's analysis reveals that language change is not random but follows predictable patterns ------- by cognitive and social factors.",
+      "options": [
+        "constrained",
+        "liberated",
+        "freed",
+        "released",
+        "loosened"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Constrained by' (tarafından kısıtlanmış) dil değişiminin bilişsel ve sosyal faktörler tarafından kısıtlanan öngörülebilir kalıpları takip ettiğini gösterir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 64,
+      "question": "The ecologist's study demonstrates that ecosystem stability depends on biodiversity, with more diverse communities showing greater ------- to environmental perturbations.",
+      "options": [
+        "vulnerability",
+        "susceptibility",
+        "fragility",
+        "resilience",
+        "weakness"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Resilience' (dayanıklılık) daha çeşitli toplulukların çevresel bozulmalara karşı daha fazla dayanıklılık gösterdiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 65,
+      "question": "The philosopher's critique of utilitarianism argues that reducing all moral considerations to the maximization of happiness ------- the intrinsic value of individual rights.",
+      "options": [
+        "recognizes",
+        "acknowledges",
+        "respects",
+        "neglects",
+        "honors"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Neglects' (ihmal eder) tüm ahlaki düşünceleri mutluluğu maksimize etmeye indirmenin bireysel hakların içsel değerini ihmal ettiğini savunur.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 66,
+      "question": "The cognitive scientist's research indicates that working memory capacity ------- significantly across individuals and correlates with performance on complex reasoning tasks.",
+      "options": [
+        "vary",
+        "varies",
+        "varying",
+        "varied",
+        "have varied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Özne 'working memory capacity' (tekil) olduğu için 'varies' kullanılır. Genel bilimsel gerçek Simple Present ile ifade edilir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 67,
+      "question": "The emergence of CRISPR gene-editing technology has ------- unprecedented opportunities for treating genetic disorders while raising profound ethical questions.",
+      "options": [
+        "created",
+        "destroyed",
+        "eliminated",
+        "removed",
+        "prevented"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Created' (yaratmış) CRISPR teknolojisinin genetik bozuklukları tedavi etmek için benzeri görülmemiş fırsatlar yarattığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 68,
+      "question": "The mathematician's theorem ------- a fundamental connection between seemingly disparate areas of pure mathematics.",
+      "options": [
+        "conceals",
+        "hides",
+        "obscures",
+        "reveals",
+        "covers"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Reveals' (ortaya koyar) matematikçinin teoreminin saf matematiğin görünüşte farklı alanları arasındaki temel bağlantıyı ortaya koyduğunu belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 69,
+      "question": "------- the complexity of climate systems, scientists can make increasingly accurate predictions about future environmental changes using advanced computational models.",
+      "options": [
+        "Despite",
+        "Because of",
+        "Due to",
+        "Owing to",
+        "Thanks to"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Despite' (rağmen) iklim sistemlerinin karmaşıklığına rağmen bilim insanlarının gelişmiş modeller kullanarak tahminler yapabildiğini belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 70,
+      "question": "The psycholinguist's experiments show that bilingual individuals ------- faster cognitive processing in tasks requiring executive control compared to monolinguals.",
+      "options": [
+        "demonstrate",
+        "demonstrates",
+        "demonstrating",
+        "demonstrated",
+        "have demonstrated"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Özne 'bilingual individuals' (çoğul) olduğu için 'demonstrate' kullanılır. Genel araştırma bulgusu Simple Present ile ifade edilir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 71,
+      "question": "The concept of herd immunity relies on a sufficient proportion of the population ------- vaccinated to prevent disease transmission.",
+      "options": [
+        "be",
+        "being",
+        "to be",
+        "been",
+        "is"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Being' gerund olarak 'proportion of the population' sonrasında pasif yapı oluşturur. Nüfusun yeterli oranının aşılanmış olması gerekir.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 72,
+      "question": "The archaeologist's carbon dating analysis suggests that the artifacts are considerably ------- than initially thought, pushing back the timeline of human settlement in the region.",
+      "options": [
+        "recent",
+        "modern",
+        "new",
+        "older",
+        "younger"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Older' (daha eski) eserlerin başlangıçta düşünülenden önemli ölçüde daha eski olduğunu ve yerleşim zaman çizelgesini geriye ittiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 73,
+      "question": "The prevalence of microplastics in marine ecosystems has reached alarming levels, ------- from the degradation of larger plastic waste and direct release of microbeads.",
+      "options": [
+        "resulting",
+        "preventing",
+        "protecting",
+        "shielding",
+        "guarding"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Resulting from' (sonuçlanan) mikroplastiklerin büyük plastik atıkların bozunması ve mikroboncukların doğrudan salınımından kaynaklandığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 74,
+      "question": "The neuropsychologist's study found that sleep deprivation ------- impairs decision-making abilities, particularly in situations requiring complex risk assessment.",
+      "options": [
+        "slightly",
+        "minimally",
+        "barely",
+        "severely",
+        "hardly"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Severely' (ciddi şekilde) uyku yoksunluğunun özellikle karmaşık risk değerlendirmesi gerektiren durumlarda karar verme yeteneklerini ciddi şekilde bozduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 75,
+      "question": "The development of artificial general intelligence remains a distant prospect, ------- recent advances in narrow AI applications.",
+      "options": [
+        "because of",
+        "due to",
+        "despite",
+        "owing to",
+        "thanks to"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Despite' (rağmen) dar AI uygulamalarındaki son gelişmelere rağmen yapay genel zekanın gelişiminin uzak bir ihtimal olduğunu belirtir.",
+      "category": "grammar",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 76,
+      "question": "The economist's model assumes ------- markets are efficient and that all participants have access to perfect information, assumptions that rarely hold in reality.",
+      "options": [
+        "that",
+        "what",
+        "which",
+        "how",
+        "where"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'That' ekonomistin modelinin piyasaların verimli olduğunu ve tüm katılımcıların mükemmel bilgiye erişimi olduğunu varsaydığını belirtir.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 77,
+      "question": "The discovery of exoplanets in the habitable zone has ------- speculation about the possibility of extraterrestrial life.",
+      "options": [
+        "diminished",
+        "reduced",
+        "lessened",
+        "intensified",
+        "decreased"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Intensified' (yoğunlaştırmış) yaşanabilir bölgedeki gezegenlerin keşfinin dünya dışı yaşam olasılığı hakkındaki spekülasyonları yoğunlaştırdığını belirtir.",
+      "category": "vocabulary",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 78,
+      "question": "The sociologist's analysis demonstrates that cultural capital plays a crucial role in educational achievement, often ------- the effects of economic resources.",
+      "options": [
+        "rivaling",
+        "lacking",
+        "missing",
+        "losing",
+        "failing"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Rivaling' (rakip olan) kültürel sermayenin eğitim başarısında ekonomik kaynakların etkilerine rakip olacak kadar önemli rol oynadığını gösterir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 79,
+      "question": "The phenomenon of neurogenesis, the formation of new neurons in the adult brain, ------- the long-held belief that neural development ceases after childhood.",
+      "options": [
+        "supports",
+        "confirms",
+        "validates",
+        "contradicts",
+        "proves"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Contradicts' (çelişir) nörogenezin yetişkin beyinde yeni nöronların oluşumunun sinir gelişiminin çocukluktan sonra durduğu inancıyla çeliştiğini belirtir.",
+      "category": "vocabulary",
+      "difficulty": "advanced"
+    },
+    {
+      "id": 80,
+      "question": "The political philosopher's work explores ------- democratic institutions can be designed to promote both individual liberty and collective welfare simultaneously.",
+      "options": [
+        "that",
+        "what",
+        "how",
+        "which",
+        "whose"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'How' (nasıl) demokratik kurumların hem bireysel özgürlüğü hem de kolektif refahı aynı anda teşvik edecek şekilde nasıl tasarlanabileceğini keşfeder.",
+      "category": "grammar",
+      "difficulty": "advanced"
+    }
+  ]
+}

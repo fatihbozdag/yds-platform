@@ -1,0 +1,501 @@
+{
+  "section": "2.3",
+  "title": "Koşul Yapıları (Conditionals)",
+  "topics": [
+    {
+      "id": "2.3.1",
+      "title": "Zero, Type 1, Type 2, Type 3, Mixed Conditionals",
+      "content": "Koşul cümleleri (conditional sentences) İngilizcede 'if' bağlacıyla kurulan ve bir koşul-sonuç ilişkisi ifade eden yapılardır. YDS'de tüm koşul türleri test edilir. **Zero conditional** genel gerçekleri ifade eder: 'If you heat water to 100°C, it boils' (su 100°C'ye ısıtılırsa kaynar - her zaman doğru). Her iki yan da present tense. **Type 1 (First conditional)** gelecekte gerçekleşebilecek durumları anlatır: 'If it rains tomorrow, we will cancel the trip' (yarın yağmur yağarsa, geziyi iptal ederiz - mümkün). If-clause present, main clause future (will). **Type 2 (Second conditional)** şimdiki/gelecekte pek mümkün olmayan veya hayali durumları ifade eder: 'If I won the lottery, I would buy a house' (piyango kazansam, ev alırdım - çok düşük ihtimal). If-clause simple past, main clause would + verb. **Type 3 (Third conditional)** geçmişte gerçekleşmeyen karşı olgusal durumları anlatır: 'If we had known, we would have acted differently' (bilseydik, farklı davranırdık - ama bilmedik). If-clause past perfect, main clause would have + V3. **Mixed conditionals** farklı zamanları karıştırır: 'If he had studied harder (geçmiş), he would be a doctor now (şimdi)'. Türk öğrencilerin yaygın hatası, tüm koşul tiplerinde 'will' kullanmaktır: 'If it will rain' yanlış, 'If it rains' doğru. YDS'de akademik metinlerde bilimsel varsayımlar bu yapılarla ifade edilir. Strateji: Koşulun zamanını (geçmiş/şimdi/gelecek) ve gerçekleşme olasılığını (gerçek/hayali/imkansız) belirleyin, buna göre doğru tipi seçin.",
+      "examples": [
+        "If you mix red and blue, you get purple. (Zero conditional - genel gerçek)",
+        "If the funding is approved, the project will begin next month. (Type 1 - gelecekte mümkün)",
+        "YANLIŞ: If the funding will be approved, the project will begin. ('If' sonrası 'will' kullanılmaz)",
+        "If I were you, I would reconsider that decision. (Type 2 - hayali durum, 'were' formal)",
+        "If the researchers had controlled the variables, the results would have been more reliable. (Type 3 - geçmişte olmayan)",
+        "YANLIŞ: If the researchers would have controlled, results would have been reliable. ('If' sonrası 'would' yanlış)",
+        "If she had accepted the position, she would be working there now. (Mixed - geçmiş koşul, şimdi sonuç)",
+        "If the theory is correct, it will revolutionize the field. (Type 1 - bilimsel varsayım)",
+        "If evolution hadn't occurred, life on Earth would look very different today. (Mixed - geçmiş koşul, şimdi sonuç)",
+        "Unless you submit the application today, you will miss the deadline. (Type 1 - 'unless' = if not)",
+        "If the sample had been larger, the findings might have been different. (Type 3 - 'might' belirsizlik ekler)",
+        "If I had more time, I would conduct a follow-up study. (Type 2 - şimdiki hayali durum)"
+      ],
+      "exercises": [
+        {
+          "question": "If the temperature ---- below zero, water ---- ice.",
+          "options": [
+            "will fall / becomes",
+            "falls / becomes",
+            "fell / would become",
+            "had fallen / would have become",
+            "falls / will become"
+          ],
+          "correct_answer": 1,
+          "explanation": "Zero conditional: Genel bilimsel gerçek ifade eder, her iki yan da present simple. 'Sıcaklık sıfırın altına düşerse, su buz olur.' A şıkkı if-clause'da 'will' kullanıyor (yanlış). C şıkkı Type 2, D şıkkı Type 3 - ikisi de genel gerçek için uygun değil. E şıkkı Type 1 ama burada her zaman doğru bir gerçek var."
+        },
+        {
+          "question": "If the research team ---- the grant, they ---- the study next year.",
+          "options": [
+            "will receive / start",
+            "receives / will start",
+            "received / would start",
+            "had received / would have started",
+            "receives / start"
+          ],
+          "correct_answer": 1,
+          "explanation": "Type 1 conditional: Gelecekte mümkün durum. 'Receives' (present simple) if-clause'da, 'will start' (future) main clause'da. 'Ekip hibeyi alırsa, çalışmaya gelecek yıl başlayacaklar.' A şıkkı if-clause'da 'will' kullanıyor (yanlış). C şıkkı Type 2 (hayali), D şıkkı Type 3 (geçmiş karşı olgusal) - ikisi de bu bağlamda uygun değil. E şıkkı her iki yan da present, zero conditional için uygun olur ama gelecek bağlamı var."
+        },
+        {
+          "question": "If I ---- more funding, I ---- a larger sample size.",
+          "options": [
+            "have / will use",
+            "had / would use",
+            "will have / use",
+            "had had / would have used",
+            "have / use"
+          ],
+          "correct_answer": 1,
+          "explanation": "Type 2 conditional: Şimdiki hayali durum (daha fazla fon yok, ama olsaydı). 'Had' (simple past) if-clause'da, 'would use' main clause'da. 'Daha fazla fonum olsaydı, daha büyük örneklem kullanırdım.' A şıkkı Type 1, D şıkkı Type 3, E şıkkı Zero - hepsi bu bağlamda yanlış. C şıkkı if-clause'da 'will' kullanıyor (yanlış)."
+        },
+        {
+          "question": "If the researchers ---- the methodology, the results ---- more accurate.",
+          "options": [
+            "changed / will be",
+            "change / are",
+            "had changed / would have been",
+            "will change / are",
+            "change / will be"
+          ],
+          "correct_answer": 2,
+          "explanation": "Type 3 conditional: Geçmişte gerçekleşmeyen karşı olgusal durum. 'Had changed' (past perfect) if-clause'da, 'would have been' main clause'da. 'Araştırmacılar metodolojiyi değiştirseydiler, sonuçlar daha doğru olurdu (ama değiştirmediler).' A ve E şıkları Type 1, B şıkkı Zero, D şıkkı yanlış - hepsi geçmiş karşı olgusal için uygun değil."
+        },
+        {
+          "question": "If the species ---- its habitat, it ---- today.",
+          "options": [
+            "didn't lose / would survive",
+            "hadn't lost / would survive",
+            "doesn't lose / survives",
+            "won't lose / will survive",
+            "hasn't lost / survives"
+          ],
+          "correct_answer": 1,
+          "explanation": "Mixed conditional: Geçmiş koşul (habitatı kaybetmedi) + şimdiki sonuç (şimdi hayatta olurdu). 'Hadn't lost' (past perfect) if-clause'da, 'would survive' (would + present) main clause'da. 'Tür habitatını kaybetmeseydi, bugün hayatta olurdu.' A şıkkı Type 2 (her ikisi de şimdiki), C şıkkı Zero, D şıkkı Type 1, E şıkkı yanlış - mixed conditional yapısı gerekir."
+        },
+        {
+          "question": "If the theory ---- valid, it ---- experimental support.",
+          "options": [
+            "is / will receive",
+            "was / would receive",
+            "had been / would have received",
+            "will be / receives",
+            "is / receives"
+          ],
+          "correct_answer": 0,
+          "explanation": "Type 1 conditional: Gelecekte mümkün bilimsel durum. 'Is' (present) if-clause'da, 'will receive' (future) main clause'da. 'Teori geçerliyse, deneysel destek alacaktır.' B şıkkı Type 2 (hayali), C şıkkı Type 3 (geçmiş karşı olgusal), D şıkkı if-clause'da 'will' (yanlış), E şıkkı Zero - bu bağlamda Type 1 daha uygun."
+        },
+        {
+          "question": "If the experiment ---- under controlled conditions, we ---- different outcomes.",
+          "options": [
+            "is conducted / will see",
+            "had been conducted / would have seen",
+            "was conducted / would see",
+            "will be conducted / see",
+            "is conducted / see"
+          ],
+          "correct_answer": 1,
+          "explanation": "Type 3 conditional: Geçmişte gerçekleşmeyen karşı olgusal durum (deney kontrollü koşullarda yapılmadı). 'Had been conducted' (past perfect passive) if-clause'da, 'would have seen' main clause'da. 'Deney kontrollü koşullarda yapılsaydı, farklı sonuçlar görürdük.' A ve E şıkları Type 1/Zero, C şıkkı Type 2, D şıkkı yanlış - geçmiş karşı olgusal için Type 3 gerekir."
+        },
+        {
+          "question": "If I ---- the conference, I ---- that expert last month.",
+          "options": [
+            "attend / meet",
+            "attended / would meet",
+            "had attended / would have met",
+            "will attend / will meet",
+            "attend / will meet"
+          ],
+          "correct_answer": 2,
+          "explanation": "Type 3 conditional: Geçmişte gerçekleşmeyen durum ('last month' ipucu). 'Had attended' (past perfect) if-clause'da, 'would have met' main clause'da. 'Konferansa katılsaydım, o uzmanla geçen ay tanışırdım (ama katılmadım).' A, B, D, E şıkları geçmiş karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "If the patient ---- the medication regularly, his condition ---- by now.",
+          "options": [
+            "takes / improves",
+            "took / would improve",
+            "had taken / would have improved",
+            "takes / will improve",
+            "had been taking / would have improved"
+          ],
+          "correct_answer": 4,
+          "explanation": "Mixed conditional benzeri: 'By now' şimdiki sonuç gösterir ama 'had been taking' geçmiş devam eden eylemi ifade eder. E şıkkı 'Hasta ilacı düzenli alsaydı, durumu şimdiye kadar düzelmiş olurdu.' A şıkkı Zero, B şıkkı Type 2, C şıkkı Type 3 (tek seferlik eylem), D şıkkı Type 1 - E şıkkı past perfect continuous kullanarak devam eden alışkanlığı vurgular ve 'would have improved' geçmiş sonucu gösterir."
+        },
+        {
+          "question": "If you ---- the instructions carefully, you ---- mistakes.",
+          "options": [
+            "read / won't make",
+            "will read / don't make",
+            "read / don't make",
+            "had read / wouldn't have made",
+            "would read / won't make"
+          ],
+          "correct_answer": 0,
+          "explanation": "Type 1 conditional: Gelecekte mümkün tavsiye. 'Read' (present) if-clause'da, 'won't make' (future negative) main clause'da. 'Talimatları dikkatle okursan, hata yapmazsın.' B şıkkı if-clause'da 'will' (yanlış). C şıkkı Zero (genel gerçek için uygun ama burada özel tavsiye var). D şıkkı Type 3. E şıkkı if-clause'da 'would' (yanlış)."
+        },
+        {
+          "question": "If the data ---- analyzed earlier, the publication ---- delayed.",
+          "options": [
+            "was / wouldn't be",
+            "had been / wouldn't have been",
+            "is / won't be",
+            "will be / isn't",
+            "has been / isn't"
+          ],
+          "correct_answer": 1,
+          "explanation": "Type 3 conditional: Geçmişte gerçekleşmeyen karşı olgusal durum. 'Had been analyzed' (past perfect passive) if-clause'da, 'wouldn't have been delayed' (would + have + V3 passive) main clause'da. 'Veri daha erken analiz edilseydi, yayın geciktirilmezdi (ama gecikti).' A, C, D, E şıkları geçmiş karşı olgusal yapı oluşturmaz."
+        },
+        {
+          "question": "If scientists ---- climate change seriously now, future generations ---- severe consequences.",
+          "options": [
+            "take / will avoid",
+            "took / would avoid",
+            "will take / avoid",
+            "had taken / would have avoided",
+            "take / avoid"
+          ],
+          "correct_answer": 0,
+          "explanation": "Type 1 conditional: Gelecekte mümkün durum. 'Take' (present) if-clause'da, 'will avoid' (future) main clause'da. 'Bilim insanları şimdi iklim değişikliğini ciddiye alırsa, gelecek nesiller ciddi sonuçlardan kaçınır.' B şıkkı Type 2 (hayali), C şıkkı if-clause'da 'will' (yanlış), D şıkkı Type 3, E şıkkı Zero - bu bağlamda Type 1 daha uygun."
+        }
+      ]
+    },
+    {
+      "id": "2.3.2",
+      "title": "Inversion with Conditionals: Had I known, Were it not for",
+      "content": "YDS'de ileri düzey koşul yapılarında inversion (devrik cümle) kullanımı önemli yer tutar. Formel ve yazılı İngilizcede 'if' bağlacı kaldırılıp yardımcı fiil öznenin önüne getirilir. **Type 3'te**: 'Had I known' = 'If I had known' (bilseydim). **Type 2'de**: 'Were I to attend' = 'If I were to attend' veya 'Were I rich' = 'If I were rich' (zengin olsaydım). **Type 1'de** (nadiren): 'Should you need help' = 'If you should need help' (yardıma ihtiyacın olursa). 'Were it not for' yapısı özel bir inversion'dır ve 'if it were not for' anlamına gelir: 'Were it not for your support, I would have failed' (desteğin olmasaydı, başarısız olurdum). Geçmiş formda: 'Had it not been for' = 'If it had not been for'. Türk öğrenciler bu yapıları nadiren kullanır ve İngilizceye çevirirken hata yapar. YDS'de akademik metinlerde formel yazım bu yapıları tercih eder: 'Had the researchers considered alternative hypotheses, the conclusions might have been different'. Strateji: Inversion gördüğünüzde hangi koşul tipine denk geldiğini belirleyin. 'Had + subject + V3' = Type 3, 'Were + subject + to + verb' veya 'Were + subject + adjective/noun' = Type 2, 'Should + subject + verb' = Type 1. Cümlenin geri kalanına göre main clause'u tamamlayın.",
+      "examples": [
+        "Had the experiment been replicated, the findings would have been more credible. (= If it had been replicated - Type 3)",
+        "Were I to conduct the study again, I would use a different methodology. (= If I were to conduct - Type 2)",
+        "YANLIŞ: If I had to conduct, I would use... ('were to' daha formel)",
+        "Should you require further information, please contact us. (= If you should require - Type 1)",
+        "Were it not for government funding, many research projects would be impossible. (= If it were not for - şimdiki)",
+        "Had it not been for her contribution, the project would have failed. (= If it had not been for - geçmiş)",
+        "Were the theory proven incorrect, it would undermine decades of research. (= If the theory were proven - Type 2)",
+        "Had I realized the implications, I would have acted differently. (= If I had realized - Type 3)",
+        "Were we to ignore these findings, we would be making a serious mistake. (= If we were to ignore - Type 2)",
+        "Should the hypothesis be confirmed, it will revolutionize the field. (= If the hypothesis should be confirmed - Type 1)",
+        "Had the data been collected more carefully, the analysis would have been more reliable. (Type 3 passive)",
+        "Were it not for technological advances, such research would be unfeasible. (Şimdiki karşı olgusal)"
+      ],
+      "exercises": [
+        {
+          "question": "---- the researchers considered this variable, the results ---- more accurate.",
+          "options": [
+            "If / would be",
+            "Had / would have been",
+            "Were / would be",
+            "Should / will be",
+            "Would / had been"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Had...would have been' Type 3 inversion: 'Araştırmacılar bu değişkeni düşünselerdi, sonuçlar daha doğru olurdu.' 'Had + subject + V3 = If + subject + had + V3' (geçmiş karşı olgusal). A şıkkı inversion yok. C şıkkı Type 2 inversion ama main clause Type 3 gerektiriyor. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- it not been for the grant, the project ---- completed.",
+          "options": [
+            "Were / wouldn't be",
+            "Had / wouldn't have been",
+            "Should / won't be",
+            "If / wouldn't be",
+            "Would / hadn't been"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Had it not been for' geçmiş karşı olgusal: 'Hibe olmasaydı, proje tamamlanamazdı.' 'Had it not been for = If it had not been for' (Type 3). Main clause 'wouldn't have been' (would + have + V3) gerektirir. A şıkkı 'were' şimdiki karşı olgusal. C şıkkı Type 1. D şıkkı inversion yok. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- I to repeat the experiment, I ---- a larger sample size.",
+          "options": [
+            "If / will use",
+            "Were / would use",
+            "Had / would have used",
+            "Should / will use",
+            "Would / use"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Were I to...would use' Type 2 inversion: 'Deneyi tekrarlasaydım, daha büyük örneklem kullanırdım.' 'Were + subject + to + verb = If + subject + were to + verb' (hayali/pek mümkün olmayan durum). A şıkkı inversion yok ve Type 1. C şıkkı Type 3. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- you need assistance with the analysis, do not hesitate to ask.",
+          "options": [
+            "Were",
+            "Had",
+            "Should",
+            "Would",
+            "If you will"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Should you need' Type 1 inversion (formel): 'Analizle ilgili yardıma ihtiyacınız olursa, sormaktan çekinmeyin.' 'Should + subject + verb = If + subject + should + verb' (gelecekte mümkün ama belirsiz). A şıkkı Type 2 inversion. B şıkkı Type 3 inversion. D şıkkı yanlış. E şıkkı inversion değil ve 'will' yanlış."
+        },
+        {
+          "question": "---- the theory correct, it ---- major implications for the field.",
+          "options": [
+            "If / has",
+            "Were / would have",
+            "Had / would have had",
+            "Should / will have",
+            "Would / has"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Were the theory correct, would have' Type 2 inversion: 'Teori doğru olsaydı, alan için büyük etkileri olurdu.' 'Were + subject + adjective = If + subject + were + adjective' (hayali durum). Main clause 'would have' (would + verb) gerektirir. A şıkkı inversion yok ve present tense. C şıkkı Type 3. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- it not for modern technology, this type of research ---- impossible.",
+          "options": [
+            "Were / would be",
+            "Had / would have been",
+            "Should / will be",
+            "If / is",
+            "Would / be"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Were it not for' şimdiki karşı olgusal: 'Modern teknoloji olmasaydı, bu tür araştırma imkansız olurdu.' 'Were it not for = If it were not for' (Type 2). Main clause 'would be' gerektirir. B şıkkı 'had' geçmiş karşı olgusal. C şıkkı Type 1. D şıkkı inversion yok. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- the findings been published earlier, the scientific community ---- sooner.",
+          "options": [
+            "Were / would respond",
+            "Had / would have responded",
+            "Should / will respond",
+            "If / responded",
+            "Would / have responded"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Had...been published...would have responded' Type 3 inversion + passive: 'Bulgular daha erken yayınlansaydı, bilim dünyası daha erken yanıt verirdi.' 'Had + subject + been + V3 = If + subject + had been + V3' (geçmiş karşı olgusal passive). A şıkkı Type 2 inversion. C şıkkı Type 1 inversion. D şıkkı inversion yok. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- we to ignore these results, we ---- a critical error.",
+          "options": [
+            "If / make",
+            "Were / would make",
+            "Had / would have made",
+            "Should / will make",
+            "Would / make"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Were we to ignore...would make' Type 2 inversion: 'Bu sonuçları görmezden gelsek, kritik bir hata yapardık.' 'Were + subject + to + verb = If + subject + were to + verb' (hayali durum). Main clause 'would make' gerektirir. A şıkkı inversion yok. C şıkkı Type 3. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- I known about the limitations, I ---- a different approach.",
+          "options": [
+            "If / would choose",
+            "Were / would choose",
+            "Had / would have chosen",
+            "Should / will choose",
+            "Would / have chosen"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Had I known...would have chosen' Type 3 inversion: 'Sınırlamalar hakkında bilseydim, farklı bir yaklaşım seçerdim.' 'Had + subject + V3 = If + subject + had + V3' (geçmiş karşı olgusal). A şıkkı inversion yok ve yanlış zaman. B şıkkı Type 2 inversion. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- the hypothesis proven false, years of research ---- wasted.",
+          "options": [
+            "If / are",
+            "Were / would be",
+            "Had / would have been",
+            "Should / will be",
+            "Would / be"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Were the hypothesis proven false, would be' Type 2 inversion + passive: 'Hipotez yanlış kanıtlansaydı, yıllarca süren araştırma boşa giderdi.' 'Were + subject + past participle = If + subject + were + past participle' (hayali durum passive). Main clause 'would be' gerektirir. A şıkkı inversion yok. C şıkkı Type 3. D şıkkı Type 1 inversion. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- it not been for the breakthrough, the cure ---- discovered.",
+          "options": [
+            "Were / wouldn't be",
+            "Had / wouldn't have been",
+            "Should / won't be",
+            "If / wouldn't be",
+            "Would / not have been"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Had it not been for' geçmiş karşı olgusal: 'Atılım olmasaydı, tedavi keşfedilemezdi.' 'Had it not been for = If it had not been for' (Type 3). Main clause 'wouldn't have been discovered' (would + have + V3 passive) gerektirir. A şıkkı 'were' şimdiki karşı olgusal. C şıkkı Type 1. D şıkkı inversion yok. E şıkkı yanlış yapı."
+        },
+        {
+          "question": "---- the committee reconsider the proposal, ---- willing to revise it.",
+          "options": [
+            "If / we are",
+            "Should / we would be",
+            "Were / we would be",
+            "Had / we would have been",
+            "Would / we are"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Should the committee reconsider...we would be' Type 1 inversion (formel belirsizlik): 'Komite öneriyi yeniden değerlendirirse, onu revize etmeye istekli oluruz.' 'Should + subject + verb = If + subject + should + verb'. Main clause'da 'would be' kibar/formel ton verir. A şıkkı inversion yok. C şıkkı Type 2 inversion. D şıkkı Type 3 inversion. E şıkkı yanlış yapı."
+        }
+      ]
+    },
+    {
+      "id": "2.3.3",
+      "title": "Unless, provided/providing that, on condition that",
+      "content": "YDS'de 'if' dışında koşul ifade eden bağlaçlar da sıkça test edilir. **Unless** 'if not' (eğer...maz ise) anlamına gelir ve zaten olumsuz olduğu için sonrasında olumsuz fiil kullanılmaz: 'Unless you study, you will fail' = 'If you don't study, you will fail'. Yaygın hata: 'Unless you don't study' (çift olumsuz - yanlış). **Provided/providing (that)** 'eğer...ise, şartıyla ki' anlamında şart koşar: 'You can use the laboratory provided (that) you follow the safety rules'. **On condition (that)** daha formel ve güçlü şart ifade eder: 'The data will be shared on condition that confidentiality is maintained'. **As long as** ve **so long as** benzer anlam taşır: 'As long as the hypothesis is testable, it's valid'. **In case** 'olasılığına karşı' anlamında farklıdır, koşul değil önlem ifade eder: 'Take an umbrella in case it rains' (yağmur yağarsa diye, yağacak anlamında değil). Türk öğrenciler 'unless' ile 'if not' arasındaki farkı anlamakta zorlanır ve 'unless'ten sonra olumsuz fiil kullanırlar. YDS'de akademik metinlerde bu bağlaçlar bilimsel şartları ifade eder: 'The experiment can proceed provided that ethical approval is obtained'. Strateji: 'Unless' gördüğünüzde 'if not' diye düşünün ve cümlenin geri kalanını olumlu yapın. 'Provided/on condition' gördüğünüzde güçlü şart bekleyin. 'In case' gördüğünüzde önlem/ihtiyat ifadesi bekleyin.",
+      "examples": [
+        "Unless the funding is secured, the project will be cancelled. (= If the funding is not secured)",
+        "YANLIŞ: Unless the funding isn't secured, the project will be cancelled. (Çift olumsuz - yanlış)",
+        "The researchers can access the database provided that they sign a confidentiality agreement. (Şartıyla ki)",
+        "You may publish the findings on condition that you acknowledge the funding source. (Koşuluyla - formel)",
+        "As long as the methodology is sound, the results will be credible. (Olduğu sürece)",
+        "Take extra samples in case the initial analysis fails. (Olasılığına karşı - önlem)",
+        "YANLIŞ: Take samples in case the analysis will fail. ('In case' sonrası present tense kullanılır)",
+        "Provided the hypothesis can be tested, it merits investigation. (Eğer test edilebilirse)",
+        "The data will remain confidential on condition that participants consent. (Koşuluyla)",
+        "Unless you revise the manuscript, it won't be accepted. (Revize etmezsen, kabul edilmeyecek)",
+        "So long as the variables are controlled, the experiment will be valid. (Kontrol edildiği sürece)",
+        "The theory holds true provided that certain assumptions are met. (Varsayımlar karşılanırsa)"
+      ],
+      "exercises": [
+        {
+          "question": "---- you submit the application by the deadline, it ---- considered.",
+          "options": [
+            "Unless / will be",
+            "If / won't be",
+            "Provided / will be",
+            "In case / will be",
+            "Unless / won't be"
+          ],
+          "correct_answer": 4,
+          "explanation": "'Unless...won't be': 'Son tarihe kadar göndermezsen, değerlendirilmeyecek.' 'Unless = if not' zaten olumsuz olduğu için main clause da olumsuz olmalı. A şıkkı 'unless + olumlu main clause' mantıksal olarak yanlış (göndermezsen değerlendirilecek?). C şıkkı 'provided' olumlu şart (gönderirsen değerlendirilir) ama cümle olumsuz ton gerektiriyor. D şıkkı 'in case' önlem ifadesi."
+        },
+        {
+          "question": "The experiment can proceed ---- ethical approval is obtained.",
+          "options": [
+            "unless",
+            "in case",
+            "provided that",
+            "if not",
+            "so that"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Provided that' (şartıyla ki): 'Etik onay alınırsa, deney devam edebilir.' Olumlu şart ifadesi. A şıkkı 'unless' olumsuz şart (onay alınmazsa devam eder? - mantıksız). B şıkkı 'in case' önlem ifadesi. D şıkkı 'if not' olumsuz şart. E şıkkı 'so that' amaç ifadesi, koşul değil."
+        },
+        {
+          "question": "---- the hypothesis ---- testable, it cannot be scientifically validated.",
+          "options": [
+            "Provided / is",
+            "Unless / is",
+            "In case / is",
+            "As long as / isn't",
+            "On condition / isn't"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Unless...is...cannot': 'Hipotez test edilebilir değilse, bilimsel olarak doğrulanamaz.' 'Unless = if not', yani 'if the hypothesis is not testable'. A şıkkı 'provided' olumlu şart (test edilebilirse doğrulanamaz? - mantıksız). C şıkkı 'in case' önlem. D ve E şıkları 'isn't' kullanarak çift olumsuz yapar (unless ile olumsuz fiil kullanılmaz)."
+        },
+        {
+          "question": "Take detailed notes ---- you need to refer back to the data later.",
+          "options": [
+            "unless",
+            "provided that",
+            "in case",
+            "on condition that",
+            "so long as"
+          ],
+          "correct_answer": 2,
+          "explanation": "'In case' (olasılığına karşı): 'Veriye daha sonra başvurman gerekebilir diye ayrıntılı notlar al.' Önlem/ihtiyat ifadesi, koşul değil. A şıkkı 'unless' olumsuz koşul (ihtiyacın olmazsa not al? - mantıksız). B ve D şıkları olumlu şart (ihtiyacın olursa not al) ama 'in case' daha uygun. E şıkkı 'so long as' sürekli koşul."
+        },
+        {
+          "question": "The data will be shared ---- confidentiality is maintained.",
+          "options": [
+            "unless",
+            "in case",
+            "on condition that",
+            "if not",
+            "in order that"
+          ],
+          "correct_answer": 2,
+          "explanation": "'On condition that' (koşuluyla - formel): 'Gizlilik korunursa, veri paylaşılacak.' Güçlü şart ifadesi. A şıkkı 'unless' olumsuz şart (gizlilik korunmazsa paylaşılacak? - mantıksız). B şıkkı 'in case' önlem ifadesi. D şıkkı 'if not' olumsuz şart. E şıkkı 'in order that' amaç ifadesi, koşul değil."
+        },
+        {
+          "question": "---- the variables are controlled, the results will be unreliable.",
+          "options": [
+            "Provided",
+            "Unless",
+            "In case",
+            "As long as",
+            "On condition"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Unless' (eğer...mazsa): 'Değişkenler kontrol edilmezse, sonuçlar güvenilmez olacak.' 'Unless = if not'. A ve E şıkları olumlu şart (kontrol edilirse güvenilmez? - mantıksız). C şıkkı 'in case' önlem ifadesi. D şıkkı 'as long as' (kontrol edildiği sürece güvenilmez? - mantıksız)."
+        },
+        {
+          "question": "The researchers may publish the findings ---- they acknowledge the limitations.",
+          "options": [
+            "unless",
+            "in case",
+            "provided that",
+            "if not",
+            "so that"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Provided that' (şartıyla): 'Sınırlamaları kabul ederlerse, bulgularını yayınlayabilirler.' Olumlu şart. A şıkkı 'unless' olumsuz şart (kabul etmezlerse yayınlayabilirler? - mantıksız). B şıkkı 'in case' önlem. D şıkkı 'if not' olumsuz şart. E şıkkı 'so that' amaç ifadesi."
+        },
+        {
+          "question": "---- you follow the safety protocols, you ---- access to the laboratory.",
+          "options": [
+            "Unless / will have",
+            "Provided / will have",
+            "In case / have",
+            "Unless / won't have",
+            "If / won't have"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Unless...won't have': 'Güvenlik protokollerini takip etmezsen, laboratuvara erişimin olmayacak.' 'Unless = if not' zaten olumsuz, main clause da olumsuz. A şıkkı 'unless + olumlu main clause' mantıksız. B şıkkı 'provided' olumlu şart (takip edersen erişeceksin) ama cümlenin tonu olumsuz uyarı gerektiriyor. C şıkkı 'in case' önlem. E şıkkı 'if + won't' çift olumsuz gibi çelişkili."
+        },
+        {
+          "question": "Bring backup equipment ---- the primary device malfunctions.",
+          "options": [
+            "unless",
+            "provided",
+            "in case",
+            "on condition",
+            "as long as"
+          ],
+          "correct_answer": 2,
+          "explanation": "'In case' (olasılığına karşı): 'Birincil cihaz arızalanır diye yedek ekipman getir.' Önlem/ihtiyat ifadesi. A şıkkı 'unless' olumsuz koşul (arızalanmazsa getir? - mantıksız). B ve D şıkları olumlu şart (arızalanırsa getir) ama 'in case' daha uygun. E şıkkı 'as long as' sürekli koşul."
+        },
+        {
+          "question": "The theory remains valid ---- new evidence emerges.",
+          "options": [
+            "provided",
+            "unless",
+            "in case",
+            "on condition",
+            "so that"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Unless' (eğer...mazsa): 'Yeni kanıt ortaya çıkmazsa, teori geçerli kalır.' 'Unless = if not'. A ve D şıkları olumlu şart (kanıt çıkarsa geçerli kalır? - mantıksız). C şıkkı 'in case' önlem ifadesi. E şıkkı 'so that' amaç ifadesi, koşul değil."
+        },
+        {
+          "question": "The study can be replicated ---- the original methodology is followed.",
+          "options": [
+            "unless",
+            "in case",
+            "as long as",
+            "if not",
+            "so that"
+          ],
+          "correct_answer": 2,
+          "explanation": "'As long as' (olduğu sürece): 'Orijinal metodoloji takip edildiği sürece, çalışma tekrarlanabilir.' Sürekli koşul ifadesi. A şıkkı 'unless' olumsuz şart (takip edilmezse tekrarlanabilir? - mantıksız). B şıkkı 'in case' önlem. D şıkkı 'if not' olumsuz şart. E şıkkı 'so that' amaç ifadesi."
+        },
+        {
+          "question": "---- the manuscript ---- revised, it will not be published.",
+          "options": [
+            "Provided / is",
+            "Unless / is",
+            "In case / is",
+            "As long as / isn't",
+            "Provided / isn't"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Unless...is...will not': 'Makale revize edilmezse, yayınlanmayacak.' 'Unless = if not', yani 'if the manuscript is not revised'. A ve E şıkları 'provided' olumlu şart kullanıyor (revize edilirse yayınlanmayacak? - mantıksız). C şıkkı 'in case' önlem. D şıkkı 'isn't' ile çift olumsuz (unless ile olumsuz fiil kullanılmaz)."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "section": "3.3",
+  "title": "Phrasal Verbs ve Çok Sözcüklü Birimler",
+  "topics": [
+    {
+      "id": "3.3.1",
+      "title": "Phrasal Verbs: Literal Anlamlardan Ayrışma",
+      "content": "Phrasal verbs (deyimsel fiiller), bir fiil ile bir veya birden fazla edatın (preposition/particle) birleşerek oluşturduğu ve genellikle literal (kelime anlamı) anlamından farklı bir anlam kazanan yapılardır. YDS/YÖKDİL sınavlarında phrasal verbs hem akademik metinlerde hem de günlük akademik dilde sıkça kullanılır ve test edilir.\n\nLiteral vs. İdiomatic (Deyimsel) Kullanım: Bazı phrasal verbs hem literal hem de idiomatic anlamda kullanılabilir. TAKE UP: Literal: 'yukarı kaldırmak' (He took up the book from the table), Idiomatic: 'bir hobi/aktivite başlatmak' (She took up painting last year) veya 'yer kaplamak' (The sofa takes up too much space). BRING ABOUT: Literal anlam zayıf, Idiomatic: 'neden olmak, meydana getirmek' (Technological advances brought about significant changes in communication). SET OUT: Literal: 'dışarı koymak', Idiomatic: 'yola çıkmak' (They set out at dawn) veya 'amaçlamak' (The study sets out to investigate the relationship between X and Y).\n\nAkademik Metinlerde Sık Kullanılan Phrasal Verbs: CARRY OUT: 'yürütmek, gerçekleştirmek' (carry out research/experiment/study/analysis/investigation), POINT OUT: 'dikkat çekmek, belirtmek' (The author points out that...), BRING ABOUT: 'neden olmak' (Climate change brings about ecosystem disruption), COME UP WITH: 'ortaya atmak, bulmak' (Researchers came up with a novel approach), ACCOUNT FOR: 'açıklamak, sebep olmak' (These factors account for 60% of the variance), GIVE RISE TO: 'yol açmak, neden olmak' (The findings give rise to important questions), BUILD ON/UPON: 'üzerine inşa etmek, geliştirmek' (This study builds on previous research), RULE OUT: 'eleyip çıkarmak, olasılıktan çıkarmak' (We cannot rule out alternative explanations), TURN OUT: 'ortaya çıkmak, sonuçlanmak' (The hypothesis turned out to be incorrect).\n\nÇok Sözcüklü Birimler (Multi-word Units): Phrasal verbs dışında akademik İngilizce'de sıkça kullanılan çok sözcüklü yapılar vardır. Prepositional phrases: IN TERMS OF (açısından), WITH RESPECT TO (ile ilgili olarak), IN LIGHT OF (ışığında), BY MEANS OF (vasıtasıyla), FOR THE SAKE OF (uğruna), ON THE BASIS OF (temelinde). Conjunctive phrases: IN ORDER TO (amacıyla), SO AS TO (amacıyla), AS LONG AS (sürdükçe), PROVIDED THAT (koşuluyla). Fixed expressions: TAKE INTO ACCOUNT (göz önünde bulundurmak), MAKE SENSE OF (anlamlandırmak), PUT FORWARD (öne sürmek), SHED LIGHT ON (ışık tutmak).",
+      "examples": [
+        "The research team carried out extensive experiments over a two-year period.",
+        "The author points out several limitations in the previous methodology.",
+        "Technological innovations have brought about fundamental changes in education.",
+        "Scientists came up with a groundbreaking solution to the energy crisis.",
+        "Social factors account for much of the variation in language learning success.",
+        "The contradictory findings give rise to questions about methodological validity.",
+        "This study builds on earlier work by Johnson and Smith (2015).",
+        "We cannot rule out the possibility of confounding variables affecting the results.",
+        "The hypothesis turned out to be correct when tested under controlled conditions.",
+        "She took up linguistics as her major field of study in her second year.",
+        "The study sets out to investigate the cognitive processes involved in reading.",
+        "In terms of statistical significance, the results were highly robust.",
+        "The theory was developed in light of recent neurological findings.",
+        "Data were collected by means of structured interviews and questionnaires.",
+        "Researchers must take into account individual differences when interpreting results."
+      ],
+      "exercises": [
+        {
+          "question": "The research team ---- a series of controlled experiments to test the effectiveness of the new teaching method.",
+          "options": [
+            "carried out",
+            "took up",
+            "brought about",
+            "came up with",
+            "turned out"
+          ],
+          "correct": 0,
+          "explanation": "'Carry out' experiments/research/studies akademik yazıda standart bir phrasal verb'dür ve 'yürütmek, gerçekleştirmek' anlamına gelir."
+        },
+        {
+          "question": "The author ---- that previous studies failed to consider the impact of socioeconomic factors on the results.",
+          "options": [
+            "points out",
+            "takes up",
+            "brings about",
+            "rules out",
+            "turns out"
+          ],
+          "correct": 0,
+          "explanation": "'Point out' akademik söylemde 'dikkat çekmek, belirtmek' anlamında sıkça kullanılan bir phrasal verb'dür ve genellikle 'point out that...' yapısıyla gelir."
+        },
+        {
+          "question": "The Industrial Revolution ---- dramatic changes in social structure and economic organization.",
+          "options": [
+            "brought about",
+            "carried out",
+            "took up",
+            "came up with",
+            "pointed out"
+          ],
+          "correct": 0,
+          "explanation": "'Bring about' 'neden olmak, meydana getirmek' anlamında kullanılan bir phrasal verb'dür ve genellikle significant/major/dramatic changes ile eşleşir."
+        },
+        {
+          "question": "After analyzing the data, the researchers ---- an innovative framework for understanding second language acquisition.",
+          "options": [
+            "came up with",
+            "carried out",
+            "brought about",
+            "turned out",
+            "ruled out"
+          ],
+          "correct": 0,
+          "explanation": "'Come up with' 'ortaya atmak, bulmak, geliştirmek' anlamında kullanılır ve genellikle solution/idea/approach/framework gibi kelimelerle eşleşir."
+        },
+        {
+          "question": "Genetic factors ---- approximately 40% of the variance in intelligence test scores according to twin studies.",
+          "options": [
+            "account for",
+            "carry out",
+            "bring about",
+            "take up",
+            "come up with"
+          ],
+          "correct": 0,
+          "explanation": "'Account for' 'açıklamak, sebep olmak' anlamında kullanılır ve istatistiksel bağlamlarda variance/variation ile sıkça eşleşir."
+        },
+        {
+          "question": "The unexpected findings ---- important questions about the validity of the theoretical model.",
+          "options": [
+            "give rise to",
+            "carry out",
+            "take up",
+            "come up with",
+            "turn out"
+          ],
+          "correct": 0,
+          "explanation": "'Give rise to' 'yol açmak, neden olmak' anlamında formal bir phrasal verb'dür ve genellikle questions/concerns/problems gibi kelimelerle kullanılır."
+        },
+        {
+          "question": "This current study ---- previous research by extending the investigation to different language groups.",
+          "options": [
+            "builds on",
+            "carries out",
+            "brings about",
+            "rules out",
+            "takes up"
+          ],
+          "correct": 0,
+          "explanation": "'Build on/upon' akademik yazıda 'üzerine inşa etmek, geliştirmek' anlamında kullanılır ve genellikle previous research/work/findings ile eşleşir."
+        },
+        {
+          "question": "Although the evidence is not conclusive, we cannot ---- the possibility of measurement error affecting the results.",
+          "options": [
+            "rule out",
+            "carry out",
+            "bring about",
+            "take up",
+            "point out"
+          ],
+          "correct": 0,
+          "explanation": "'Rule out' 'eleyip çıkarmak, olasılıktan çıkarmak' anlamında kullanılır ve genellikle possibility/option/explanation gibi kelimelerle eşleşir."
+        },
+        {
+          "question": "Contrary to initial expectations, the intervention ---- to be less effective than the traditional approach.",
+          "options": [
+            "turned out",
+            "carried out",
+            "brought about",
+            "took up",
+            "came up with"
+          ],
+          "correct": 0,
+          "explanation": "'Turn out' 'ortaya çıkmak, sonuçlanmak' anlamında kullanılır ve genellikle 'turn out to be + adjective' yapısıyla gelir."
+        },
+        {
+          "question": "She ---- cognitive linguistics during her graduate studies and has been researching it ever since.",
+          "options": [
+            "took up",
+            "carried out",
+            "brought about",
+            "ruled out",
+            "accounted for"
+          ],
+          "correct": 0,
+          "explanation": "'Take up' bir hobi, çalışma alanı veya aktivite 'başlatmak' anlamında kullanılır. 'Take up + subject/field' yaygın bir kullanımdır."
+        },
+        {
+          "question": "The study ---- to examine the relationship between metacognitive awareness and reading comprehension.",
+          "options": [
+            "sets out",
+            "carries out",
+            "brings about",
+            "comes up with",
+            "accounts for"
+          ],
+          "correct": 0,
+          "explanation": "'Set out to + verb' 'amaçlamak, niyetinde olmak' anlamında akademik yazıda sıkça kullanılır ve genellikle çalışmanın amacını ifade eder."
+        },
+        {
+          "question": "---- statistical significance, the effect size was relatively small and may not be practically meaningful.",
+          "options": [
+            "In terms of",
+            "In spite of",
+            "Because of",
+            "Instead of",
+            "On behalf of"
+          ],
+          "correct": 0,
+          "explanation": "'In terms of' 'açısından, bakımından' anlamında akademik yazıda çok sık kullanılan bir prepositional phrase'dir ve genellikle comparison veya specification için kullanılır."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "section": "5.4",
+  "title": "Sık Hata Noktaları",
+  "topics": [
+    {
+      "id": "5.4.1",
+      "title": "Artikel Zorunluluğu ve Sayılabilirlik",
+      "content": "İngilizce'de artikel sistemi (a/an, the, Ø) Türkçe'de olmayan bir özellik olduğundan Türk öğrenciler için en zorlayıcı konulardan biridir. YDS/YÖKDİL çevirilerinde artikel hataları sıkça görülür ve puanı düşürür. Sayılabilir/sayılamaz (countable/uncountable) ayrımı artikel seçimini belirler.\n\n**1. TEMEL KURAL**: Tekil sayılabilir isim (singular countable noun) MUTLAKA artikel/determiner alır. 'Student attended the class' → YANLIŞ, 'A student attended the class' → DOĞRU. Türkçe'den çevirirken: 'Öğrenci derse katıldı' → 'A/The student attended the class' (bağlama göre a veya the). Çoğul veya sayılamaz isimler artikel olmadan kullanılabilir: 'Students attended' (doğru), 'Water is essential' (doğru).\n\n**2. A/AN (Belirsiz Artikel)**: İlk kez bahsedilen, genel bir örnekten bahsederken. 'A researcher conducted a study' → 'Bir araştırmacı bir çalışma yürüttü'. Genelleme: 'A child needs attention' (= all children). Profession/nationality: 'She is a linguist' (not 'she is linguist'). Dikkat: Unique olmayan, sınıfın herhangi bir üyesi.\n\n**3. THE (Belirli Artikel)**: Daha önce bahsedilen, belli olan, unique olan. Önceden bahsedilmiş: 'A study was conducted. The study revealed...' → 'Bir çalışma yürütüldü. Çalışma... ortaya koydu' (Türkçe'de ikinci kullanımda da artikel yok ama İngilizce'de THE zorunlu). Unique/superlative: 'the sun, the best method, the first study'. Belirli grup: 'the participants (çalışmadaki katılımcılar), the data (toplanan veri)'. Of-phrase: 'the cause of the problem' (belirli problem).\n\n**4. Ø (Artikel Yok)**: Çoğul sayılabilir genelleme: 'Researchers believe...' (= araştırmacılar genel olarak). Sayılamaz isim genelleme: 'Research shows...' (araştırma genel kavram), 'Knowledge is power' (bilgi genel). Abstract kavramlar: 'education, science, language' (genel anlamda). Ancak belirli bağlamda THE alır: 'the education system (belirli sistem), the science of linguistics (özel bilim dalı)'. İsimler/ülkeler: 'Turkey, Dr. Smith' (ama: 'the United States, the Netherlands' - plural form ülkeler).\n\n**5. SAYILABILIR vs. SAYILAMAZ**: \n- Sayılabilir: book/books, study/studies, participant/participants → a book, two books, the books. \n- Sayılamaz: research, information, evidence, advice, furniture, equipment, knowledge → 'research was conducted' (NOT 'a research'), 'information is available' (NOT 'informations'). \n- İkisi de olabilir: paper (sayılamaz: kağıt, sayılabilir: makale), work (sayılamaz: iş, sayılabilir: eser), study (sayılabilir: çalışma, sayılamaz: öğrenim/bilim dalı). \n- Türkçe'de çoğul: 'bilgiler' ama İngilizce sayılamaz: 'information' (NOT informations). 'Araştırmalar' → 'studies/research' (studies sayılabilir, research sayılamaz).\n\n**6. Türkçe'den Çeviride Yaygın Hatalar**: \n- 'Araştırma yapıldı' → YANLIŞ: 'A research was conducted', DOĞRU: 'Research was conducted' veya 'A study was conducted'. \n- 'Bilgiler toplandı' → YANLIŞ: 'Informations were collected', DOĞRU: 'Information was collected'. \n- 'Öğrenci başarılı oldu' → YANLIŞ: 'Student was successful', DOĞRU: 'The/A student was successful'. \n- 'Çalışmanın amacı' → DOĞRU: 'The aim of the study' (belirli çalışma, THE zorunlu).\n\n**Stratejik Notlar**: (a) Tekil sayılabilir → MUTLAKA a/an/the, (b) Çoğul/sayılamaz → genelleme ise Ø, belirli ise THE, (c) Research/information/evidence → sayılamaz (plural yok), (d) İlk bahis → a/an, tekrar bahis → the, (e) Unique/superlative → the, (f) Türkçe'de çoğul ≠ İngilizce'de sayılabilir (örn: bilgiler → information).",
+      "examples": [
+        "Countable singular needs article: 'A researcher analyzed the data' (NOT 'Researcher analyzed')",
+        "First mention → a, second → the: 'A study was conducted. The study found...'",
+        "Uncountable no article: 'Research shows that...' (NOT 'A research shows')",
+        "Plural generalization: 'Students learn differently' (no article, general)",
+        "Specific group: 'The students in the class performed well' (specific students, THE required)",
+        "Unique noun: 'The sun provides energy' (only one sun, THE)",
+        "Superlative: 'The best method was selected' (THE with superlative)",
+        "Profession: 'She is a linguist' (NOT 'she is linguist')",
+        "Uncountable with determiner: 'The information provided was helpful' (specific information)",
+        "Of-phrase: 'The cause of the problem' (specific problem → THE)",
+        "Abstract general: 'Education is important' (no article, general concept)",
+        "Abstract specific: 'The education system needs reform' (specific system → THE)",
+        "Turkish error 1: 'Bilgiler toplandı' → WRONG: 'Informations were collected', RIGHT: 'Information was collected'",
+        "Turkish error 2: 'Araştırma yapıldı' → WRONG: 'A research was done', RIGHT: 'Research was conducted' OR 'A study was conducted'",
+        "Turkish error 3: 'Katılımcı anketi doldurdu' → WRONG: 'Participant completed survey', RIGHT: 'A/The participant completed the survey'"
+      ],
+      "exercises": [
+        {
+          "question": "'Araştırma yapıldı ve sonuçlar analiz edildi.'\n\nBu cümlenin doğru İngilizce çevirisi:",
+          "options": [
+            "Research was conducted and the results were analyzed.",
+            "A research was conducted and results were analyzed.",
+            "The research was conducted and the results were analyzed.",
+            "Research was conducted and results were analyzed.",
+            "A research was done and the results were analyzed."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Research' sayılamaz (uncountable), artikel almaz ilk kullanımda. 'The results' → sonuçlar belirli (yapılan araştırmanın sonuçları), THE gerekli. B 'a research' yanlış (research sayılamaz), C 'the research' ilk bahiste yanlış (unique değil), D 'results' belirli olmalı (THE eksik), E 'a research' + 'done' yanlış (conduct kullanılır)."
+        },
+        {
+          "question": "'Öğrenci başarılı oldu ve ödül kazandı.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "The student was successful and won an award.",
+            "Student was successful and won award.",
+            "A student was successful and won the award.",
+            "The student was successful and won award.",
+            "Student succeeded and won an award."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Bağlamda belirli bir öğrenciden bahsedildiği varsayılırsa 'the student' (eğer ilk bahis olsaydı 'a student'). 'An award' → herhangi bir ödül, ilk bahis, belirsiz. B her iki isim de artikel eksik (tekil sayılabilir → artikel zorunlu), C 'a student' olası ama 'the award' belirli bir ödül demek (metinde öyle belirtilmemiş), D 'award' artikel eksik, E 'student' artikel eksik."
+        },
+        {
+          "question": "'Bilgiler toplandı ve analiz edildi.'\n\nBu cümlenin en doğru İngilizce çevirisi:",
+          "options": [
+            "Information was collected and analyzed.",
+            "Informations were collected and analyzed.",
+            "The informations were collected and analyzed.",
+            "Information were collected and analyzed.",
+            "The information was collected and analyzed."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Information' sayılamaz (uncountable), çoğul formu yok ('informations' yanlış), singular verb alır ('was'). Genel veri toplamadan bahsediliyorsa artikel yok. B 'informations' yanlış (sayılamaz isim), C 'informations' yanlış, D 'were' yanlış (information singular), E 'the information' belirli bilgiler anlamında (bağlamda belirtilmemişse gereksiz)."
+        },
+        {
+          "question": "'Çalışmanın amacı hipotezi test etmekti.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "The aim of the study was to test the hypothesis.",
+            "Aim of study was to test hypothesis.",
+            "An aim of the study was to test a hypothesis.",
+            "The aim of study was to test the hypothesis.",
+            "Aim of the study was testing the hypothesis."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The aim' (belirli çalışmanın amacı), 'the study' (belirli çalışma), 'the hypothesis' (belirli hipotez - çalışmanın hipotezi). B her yerde artikel eksik, C 'an aim' + 'a hypothesis' belirsiz (metinde belirli), D 'study' artikel eksik (of-phrase → the), E 'aim' artikel eksik + 'testing' yanlış form (to test gerekli)."
+        },
+        {
+          "question": "'Katılımcılar gönüllüydü ve anketleri doldurdu.'\n\nBu cümlenin doğru İngilizce çevirisi:",
+          "options": [
+            "The participants were volunteers and completed the surveys.",
+            "Participants were volunteers and completed surveys.",
+            "The participants were volunteers and completed surveys.",
+            "Participants were volunteers and completed the surveys.",
+            "The participants were volunteer and completed the survey."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The participants' (çalışmadaki belirli katılımcılar → THE), 'the surveys' (katılımcıların doldurduğu belirli anketler → THE). B 'participants' belirli grup için THE gerekli, C 'surveys' belirli anketler için THE gerekli, D her iki yerde THE eksik, E 'volunteer' singular (plural olmalı: volunteers) + 'survey' singular (metinde çoğul: anketler)."
+        },
+        {
+          "question": "'Araştırmacı yeni bir yöntem geliştirdi.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "The researcher developed a new method.",
+            "Researcher developed new method.",
+            "A researcher developed new method.",
+            "The researcher developed new method.",
+            "Researcher developed a new method."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The researcher' (bağlamda belirli araştırmacı veya ilk bahis için 'a researcher' da olabilir, ama seçeneklerde en iyi A), 'a new method' (yeni geliştirilen, ilk bahis → a). B her iki isim artikel eksik, C 'method' artikel eksik, D 'method' artikel eksik, E 'researcher' artikel eksik."
+        },
+        {
+          "question": "'Verilerin analizi önemli örüntüler ortaya koydu.'\n\nBu cümlenin en doğru İngilizce çevirisi:",
+          "options": [
+            "The analysis of the data revealed significant patterns.",
+            "Analysis of data revealed significant patterns.",
+            "The analysis of data revealed significant patterns.",
+            "Analysis of the data revealed significant patterns.",
+            "An analysis of the data revealed significant patterns."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The analysis' (belirli analiz), 'the data' (toplanan belirli veriler → THE), 'significant patterns' (çoğul genelleme, ilk bahis → Ø veya 'the patterns' eğer belirli örüntülerden bahsediliyorsa, ama metinde genel). B 'analysis' ve 'data' artikel eksik (belirli olmalı), C 'data' artikel eksik, D 'analysis' artikel eksik, E 'an analysis' belirsiz (belirli analiz olmalı)."
+        },
+        {
+          "question": "'Eğitim önemlidir ve toplumsal gelişmeyi etkiler.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "Education is important and affects social development.",
+            "The education is important and affects social development.",
+            "Education is important and affects the social development.",
+            "An education is important and affects social development.",
+            "The education is important and affects the social development."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Education' (abstract noun, genel kavram → Ø), 'social development' (abstract, genel → Ø). B 'the education' belirli sistem demek (genel kavram değil), C 'the social development' belirli gelişme (genel değil), D 'an education' yanlış (education abstract/uncountable), E her ikisi de THE ile yanlış."
+        },
+        {
+          "question": "'En iyi yöntem seçildi ve uygulandı.'\n\nBu cümlenin doğru İngilizce çevirisi:",
+          "options": [
+            "The best method was selected and implemented.",
+            "Best method was selected and implemented.",
+            "A best method was selected and implemented.",
+            "The best method was selected and the implemented.",
+            "The better method was selected and implemented."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The best method' (superlative → THE zorunlu). B 'best method' artikel eksik (superlative → the), C 'a best' yanlış (superlative a/an almaz), D 'the implemented' yanlış (verb olmalı), E 'better' comparative (best değil, metinde 'en iyi' → superlative)."
+        },
+        {
+          "question": "'Güneş enerji sağlar ve yaşamı destekler.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "The sun provides energy and sustains life.",
+            "Sun provides energy and sustains life.",
+            "A sun provides energy and sustains life.",
+            "The sun provides the energy and sustains the life.",
+            "The sun provides an energy and sustains life."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The sun' (unique object → THE zorunlu), 'energy' (uncountable, genel → Ø), 'life' (abstract, genel → Ø). B 'sun' artikel eksik (unique → the), C 'a sun' yanlış (tek güneş var → the), D 'the energy' ve 'the life' belirli olmak yerine genel kavram (THE gereksiz), E 'an energy' yanlış (energy uncountable)."
+        },
+        {
+          "question": "'Türkiye'de eğitim sistemi reform gerektiriyor.'\n\nBu cümlenin en doğru İngilizce çevirisi:",
+          "options": [
+            "The education system in Turkey requires reform.",
+            "Education system in Turkey requires reform.",
+            "The education system in Turkey requires a reform.",
+            "Education system in Turkey requires a reform.",
+            "The education system in the Turkey requires reform."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The education system' (belirli sistem → THE), 'in Turkey' (ülke ismi → Ø), 'reform' (uncountable/abstract, genel → Ø). B 'education system' artikel eksik, C 'a reform' gereksiz (reform genellikle uncountable), D 'education system' artikel eksik + 'a reform' gereksiz, E 'the Turkey' yanlış (ülke isimleri artikel almaz: Turkey, NOT the Turkey)."
+        },
+        {
+          "question": "'Deney başarısız oldu çünkü ekipman arızalıydı.'\n\nDoğru İngilizce karşılık:",
+          "options": [
+            "The experiment failed because the equipment was faulty.",
+            "Experiment failed because equipment was faulty.",
+            "The experiment failed because equipment was faulty.",
+            "An experiment failed because the equipment was faulty.",
+            "The experiment failed because an equipment was faulty."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'The experiment' (belirli deney → THE), 'the equipment' (deneydeki ekipman, belirli → THE, ayrıca equipment uncountable → singular). B her iki isim artikel eksik, C 'equipment' artikel eksik, D 'an experiment' belirsiz (bağlamda belirli olmalı), E 'an equipment' yanlış (equipment uncountable, a/an almaz)."
+        }
+      ]
+    },
+    {
+      "id": "5.4.2",
+      "title": "Preposition Hataları ve Türkçedeki İlgeçlerin Aktarımı",
+      "content": "Prepositions (edatlar/ilgeçler) İngilizce'de anlam farklılıkları yaratan kritik unsurlardır. Türkçe'de ilgeç sistemi farklı olduğundan (durum ekleri: -de/-da, -den/-dan, -e/-a) Türk öğrenciler sıkça preposition hataları yapar. YDS/YÖKDİL çevirilerinde doğru preposition seçimi esastır.\n\n**1. Zaman Prepositions**: \n- **IN**: Uzun zaman (in 2024, in March, in the morning, in the 20th century) → 'de/-da'. \n- **ON**: Gün/tarih (on Monday, on March 15th, on the weekend) → 'de/-da'. \n- **AT**: Saat/anlaşma noktası (at 3 PM, at night, at the moment) → 'de/-da, -de'. \n- **FOR**: Süre (for three years, for a long time) → 'boyunca, süresince'. \n- **SINCE**: Başlangıç noktası (since 2010, since childhood) → '-den/-dan beri'. \n- **DURING**: Süre zarfında (during the study, during the war) → 'sırasında, boyunca'. \n- Türkçe'den çeviri: 'sabah' → in the morning, 'Pazartesi' → on Monday, 'saat 3'te' → at 3 o'clock, '3 yıl boyunca' → for 3 years, '2010'dan beri' → since 2010.\n\n**2. Yer Prepositions**: \n- **IN**: Kapalı alan (in the room, in Turkey, in the study) → 'de/-da, içinde'. \n- **ON**: Yüzey (on the table, on the page) → 'üzerinde, üstünde'. \n- **AT**: Nokta/yer (at the university, at home, at the conference) → 'de/-da'. \n- **TO**: Yön (go to school, move to the city) → 'e/-a, -ye/-ya'. \n- **FROM**: Kaynak (from Turkey, from the study) → 'den/-dan'. \n- Türkçe'den çeviri: 'üniversitede' → at the university (NOT in), 'masada' → on the table, 'Türkiye'de' → in Turkey, 'evde' → at home.\n\n**3. Sık Karıştırılan Prepositions**: \n- **DEPEND ON** (bağlı olmak): 'Success depends on effort' → 'Başarı çabaya bağlıdır' (NOT depend of/from). \n- **CONSIST OF** (oluşmak): 'The sample consists of 200 participants' → 'Örneklem 200 katılımcıdan oluşur' (NOT consist in/with). \n- **FOCUS ON** (odaklanmak): 'The study focuses on language acquisition' → 'Çalışma dil edinme konusuna odaklanır' (NOT focus in/at). \n- **DIFFER FROM** (farklı olmak): 'This approach differs from previous methods' → 'Bu yaklaşım önceki yöntemlerden farklıdır' (NOT differ than/with). \n- **COMPLY WITH** (uymak): 'Researchers complied with ethical guidelines' → 'Araştırmacılar etik kurallara uydu' (NOT comply to). \n- **RESULT IN** (sonuçlanmak - sonuç): 'The intervention resulted in improvement' → 'Müdahale iyileşmeyle sonuçlandı'. \n- **RESULT FROM** (kaynaklanmak - neden): 'The problem results from poor design' → 'Sorun kötü tasarımdan kaynaklanır'.\n\n**4. Adjective + Preposition Collocations**: \n- **DIFFERENT FROM** (farklı): 'X is different from Y' (NOT different than/with). \n- **SIMILAR TO** (benzer): 'X is similar to Y' (NOT similar with/as). \n- **CONSISTENT WITH** (tutarlı): 'The findings are consistent with the hypothesis' (NOT consistent to). \n- **RESPONSIBLE FOR** (sorumlu): 'Researchers are responsible for data accuracy' (NOT responsible of). \n- **FAMILIAR WITH** (aşina): 'Participants were familiar with the procedure' (NOT familiar to). \n- **CAPABLE OF** (yetenekli): 'The method is capable of detecting errors' (NOT capable to). \n- **INDEPENDENT OF** (bağımsız): 'X is independent of Y' (NOT independent from).\n\n**5. Verb + Preposition Collocations**: \n- **ACCOUNT FOR** (açıklamak, oluşturmak): 'These factors account for 60% of the variance' (NOT account of). \n- **CONTRIBUTE TO** (katkıda bulunmak): 'Multiple variables contributed to the outcome' (NOT contribute in). \n- **REFER TO** (atıfta bulunmak): 'The term refers to a specific concept' (NOT refer at). \n- **ATTRIBUTE TO** (atfetmek): 'The success was attributed to careful planning' (NOT attribute with). \n- **EMERGE FROM** (ortaya çıkmak): 'Themes emerged from the analysis' (NOT emerge in).\n\n**6. Türkçe İlgeç → İngilizce Preposition Eşleştirmeleri**: \n- '-de/-da' (bulunma) → IN (alan), AT (nokta), ON (yüzey): 'odada' → in the room, 'üniversitede' → at university, 'sayfada' → on the page. \n- '-e/-a' (yönelme) → TO: 'okula' → to school. \n- '-den/-dan' (ayrılma/kaynak) → FROM: 'evden' → from home. \n- '-le/-la' (birliktelik) → WITH: 'arkadaşla' → with a friend. \n- '-siz/-sız' (yoksunluk) → WITHOUT: 'parasız' → without money. \n- 'için' → FOR (amaç), OF (sebep): 'öğrenmek için' → for learning, 'gurur duyma nedeni' → cause of pride.\n\n**Stratejik Notlar**: (a) Time: IN (yıl/ay/morning), ON (gün), AT (saat), (b) Place: IN (alan), AT (nokta), ON (yüzey), (c) Depend ON, consist OF, focus ON, differ FROM (ezberlenmeli), (d) Different FROM, similar TO, consistent WITH (collocation), (e) Türkçe durum ekleri ≠ doğrudan İngilizce preposition (bağlam önemli).",
+      "examples": [
+        "Time IN: The study was conducted in 2023 → Çalışma 2023'te yürütüldü.",
+        "Time ON: The conference is on Monday → Konferans Pazartesi günü.",
+        "Time AT: The session starts at 9 AM → Oturum saat 9'da başlıyor.",
+        "Duration FOR: Participants were observed for six months → Katılımcılar altı ay boyunca gözlemlendi.",
+        "Since: Researchers have studied this topic since 1990 → Araştırmacılar 1990'dan beri bu konuyu çalışıyor.",
+        "Place IN: The experiment took place in the laboratory → Deney laboratuvarda gerçekleşti.",
+        "Place AT: Researchers met at the university → Araştırmacılar üniversitede buluştu.",
+        "Place ON: The data are displayed on the table → Veriler tabloda gösterilmiş.",
+        "Depend ON: The outcome depends on multiple factors → Sonuç birden fazla faktöre bağlıdır.",
+        "Consist OF: The sample consists of 300 students → Örneklem 300 öğrenciden oluşur.",
+        "Focus ON: The analysis focuses on verb usage → Analiz fiil kullanımına odaklanıyor.",
+        "Differ FROM: This method differs from traditional approaches → Bu yöntem geleneksel yaklaşımlardan farklıdır.",
+        "Result IN: The intervention resulted in significant improvement → Müdahale önemli iyileşmeyle sonuçlandı.",
+        "Result FROM: The error resulted from inadequate training → Hata yetersiz eğitimden kaynaklandı.",
+        "Consistent WITH: The findings are consistent with predictions → Bulgular öngörülerle tutarlıdır.",
+        "Different FROM: The new approach is different from previous ones → Yeni yaklaşım öncekilerden farklıdır.",
+        "Similar TO: The pattern is similar to that observed earlier → Örüntü daha önce gözlemlenenle benzer.",
+        "Responsible FOR: The committee is responsible for ethical approval → Komite etik onaydan sorumludur.",
+        "Account FOR: These variables account for 70% of the variance → Bu değişkenler varyansın %70'ini oluşturuyor.",
+        "Attribute TO: The success was attributed to teamwork → Başarı takım çalışmasına atfedildi."
+      ],
+      "exercises": [
+        {
+          "question": "The study was conducted ---- 2020 and data were collected ---- three months.\n\nFill in the blanks:",
+          "options": [
+            "in / for",
+            "on / for",
+            "at / during",
+            "in / during",
+            "on / since"
+          ],
+          "correct": 0,
+          "explanation": "'In / for' doğrudur: 'in 2020' (yıl → IN), 'for three months' (süre → FOR). 'On' gün için, 'at' saat için, 'during' belirli olay/dönem için ('during the study'), 'since' başlangıç noktası için ('since 2020')."
+        },
+        {
+          "question": "The success of the project depends ---- careful planning and adequate resources.\n\nWhich preposition is correct?",
+          "options": [
+            "on",
+            "from",
+            "to",
+            "with",
+            "of"
+          ],
+          "correct": 0,
+          "explanation": "'On' doğrudur: 'depend ON' sabit collocation. 'Depend from/to/with/of' gramatik olarak yanlış."
+        },
+        {
+          "question": "The sample consists ---- 500 participants from diverse backgrounds.\n\nComplete the blank:",
+          "options": [
+            "of",
+            "in",
+            "with",
+            "from",
+            "by"
+          ],
+          "correct": 0,
+          "explanation": "'Of' doğrudur: 'consist OF' sabit collocation (oluşmak). 'Consist in' farklı anlam (özünde bulunmak, nadir), 'consist with/from/by' yanlış."
+        },
+        {
+          "question": "This approach differs ---- traditional methods in several important ways.\n\nWhich preposition completes the sentence?",
+          "options": [
+            "from",
+            "than",
+            "with",
+            "to",
+            "of"
+          ],
+          "correct": 0,
+          "explanation": "'From' doğrudur: 'differ FROM' sabit collocation. 'Differ than' Amerikan İngilizcesi'nde nadiren kullanılır ama formal yazıda 'from' tercih edilir. 'Differ with/to/of' yanlış."
+        },
+        {
+          "question": "The findings are consistent ---- the predictions made at the outset of the study.\n\nFill in the blank:",
+          "options": [
+            "with",
+            "to",
+            "of",
+            "in",
+            "for"
+          ],
+          "correct": 0,
+          "explanation": "'With' doğrudur: 'consistent WITH' sabit adjective+preposition collocation. 'Consistent to/of/in/for' yanlış."
+        },
+        {
+          "question": "Researchers have been investigating this phenomenon ---- the 1980s.\n\nWhich preposition is appropriate?",
+          "options": [
+            "since",
+            "for",
+            "in",
+            "during",
+            "from"
+          ],
+          "correct": 0,
+          "explanation": "'Since' doğrudur: başlangıç noktası (the 1980s'ten beri devam eden). 'For' süre (for 40 years), 'in' yıl için ama süregelen eylem için değil, 'during' belirli dönem/olay, 'from' başlangıç ama 'since' ile süregelen yapılar kullanılır."
+        },
+        {
+          "question": "The new policy is different ---- the previous regulations.\n\nComplete the sentence:",
+          "options": [
+            "from",
+            "than",
+            "with",
+            "to",
+            "of"
+          ],
+          "correct": 0,
+          "explanation": "'From' doğrudur: 'different FROM' standart İngilizce'de doğru form. 'Different than' Amerikan İngilizcesi'nde kullanılabilir ama formal yazıda 'from' tercih edilir. 'Different with/to/of' yanlış."
+        },
+        {
+          "question": "The experiment was conducted ---- the laboratory ---- Monday morning.\n\nFill in the blanks:",
+          "options": [
+            "in / on",
+            "at / in",
+            "in / in",
+            "at / at",
+            "on / in"
+          ],
+          "correct": 0,
+          "explanation": "'In / on' doğrudur: 'in the laboratory' (kapalı alan → IN), 'on Monday morning' (gün → ON, ama 'morning' varsa 'on Monday morning' veya 'in the morning'). 'At' nokta/bina için ('at the university') ama 'laboratory' alan, 'in' daha uygun."
+        },
+        {
+          "question": "These factors account ---- approximately 65% of the observed variance.\n\nWhich preposition is correct?",
+          "options": [
+            "for",
+            "of",
+            "to",
+            "in",
+            "with"
+          ],
+          "correct": 0,
+          "explanation": "'For' doğrudur: 'account FOR' sabit verb+preposition collocation (açıklamak, oluşturmak). 'Account of/to/in/with' yanlış."
+        },
+        {
+          "question": "The error resulted ---- inadequate calibration of the equipment.\n\nComplete the blank:",
+          "options": [
+            "from",
+            "in",
+            "to",
+            "with",
+            "by"
+          ],
+          "correct": 0,
+          "explanation": "'From' doğrudur: 'result FROM' (neden - kaynaklanmak). 'Result IN' sonuç (result in improvement). 'Result to/with/by' yanlış."
+        },
+        {
+          "question": "The research team focused ---- identifying the underlying mechanisms.\n\nWhich preposition fits?",
+          "options": [
+            "on",
+            "in",
+            "at",
+            "to",
+            "with"
+          ],
+          "correct": 0,
+          "explanation": "'On' doğrudur: 'focus ON' sabit collocation. 'Focus in/at/to/with' yanlış."
+        },
+        {
+          "question": "The outcomes are similar ---- those reported in previous studies.\n\nFill in the blank:",
+          "options": [
+            "to",
+            "with",
+            "as",
+            "from",
+            "like"
+          ],
+          "correct": 0,
+          "explanation": "'To' doğrudur: 'similar TO' sabit adjective+preposition collocation. 'Similar with' yanlış, 'similar as' yanlış, 'similar from' zıt anlam (different from), 'like' preposition olarak kullanılabilir ama 'similar to' formal yazıda standart."
+        }
+      ]
+    },
+    {
+      "id": "5.4.3",
+      "title": "Paralel Yapı ve Eşgüdüm",
+      "content": "Paralel yapı (parallel structure/parallelism), bir cümlede birden fazla öğe (kelime, ifade, cümle) sıralanırken aynı dilbilgisel formun kullanılması ilkesidir. YDS/YÖKDİL çevirilerinde paralel yapı bozuklukları sık görülen hatalardandır ve akademik yazıda okunabilirliği ciddi şekilde etkiler. Eşgüdüm bağlaçları (and, or, but) ve korelasyonlu bağlaçlar (both...and, not only...but also) paralel yapı gerektirir.\n\n**1. Temel İlke**: Liste/sıralama yapılarında tüm öğeler aynı dilbilgisel formda olmalı. \n- DOĞRU: 'The study involved collecting data, analyzing patterns, and writing reports' (üç gerund: collecting, analyzing, writing). \n- YANLIŞ: 'The study involved collecting data, analyzed patterns, and to write reports' (karışık formlar). \n- DOĞRU: 'Participants were asked to read, to summarize, and to evaluate the text' (üç to-infinitive). \n- YANLIŞ: 'Participants were asked to read, summarizing, and evaluation of the text'.\n\n**2. Noun Parallelism**: İsimler listelenirken hepsi aynı yapıda. \n- DOĞRU: 'The research examined motivation, achievement, and persistence' (üç abstract noun). \n- YANLIŞ: 'The research examined motivation, achieving, and how students persist' (noun + gerund + clause). \n- DOĞRU: 'Factors include age, proficiency, and learning style' (üç noun). \n- YANLIŞ: 'Factors include age, being proficient, and how they learn'.\n\n**3. Verb Parallelism**: Fiiller aynı formda (infinitive, gerund, veya finite verb). \n- DOĞRU: 'Researchers collected, analyzed, and reported the data' (üç past simple). \n- YANLIŞ: 'Researchers collected, analyzing, and have reported the data'. \n- DOĞRU: 'The method involves observing behavior, recording responses, and coding patterns' (üç gerund). \n- YANLIŞ: 'The method involves observing behavior, to record responses, and codes patterns'.\n\n**4. Adjective/Adverb Parallelism**: Sıfat/zarf yapıları paralel. \n- DOĞRU: 'The results were clear, consistent, and significant' (üç adjective). \n- YANLIŞ: 'The results were clear, showed consistency, and significantly different'. \n- DOĞRU: 'The intervention was implemented quickly, carefully, and effectively' (üç adverb). \n- YANLIŞ: 'The intervention was implemented quickly, with care, and in an effective manner'.\n\n**5. Clause Parallelism**: Yan cümleler aynı yapıda. \n- DOĞRU: 'The study found that motivation increases engagement and that feedback improves performance' (iki 'that'-clause). \n- YANLIŞ: 'The study found that motivation increases engagement and feedback improving performance'. \n- DOĞRU: 'Researchers asked whether participants understood the task and whether they needed clarification' (iki 'whether'-clause). \n- YANLIŞ: 'Researchers asked whether participants understood and did they need clarification'.\n\n**6. Korelasyonlu Bağlaçlar (Correlative Conjunctions)**: Bağlaçlardan sonra gelen yapılar paralel olmalı. \n- **BOTH...AND**: 'Both the methodology and the analysis were rigorous' (iki noun phrase). YANLIŞ: 'Both the methodology and analyzing were rigorous'. \n- **NOT ONLY...BUT ALSO**: 'The theory is not only elegant but also empirically supported' (iki adjective phrase). YANLIŞ: 'The theory is not only elegant but also has empirical support'. \n- **EITHER...OR**: 'Participants could either complete the survey online or return a paper version' (iki verb phrase). YANLIŞ: 'Participants could either complete the survey online or a paper version'. \n- **NEITHER...NOR**: 'The results were neither expected nor easily explained' (iki past participle). YANLIŞ: 'The results were neither expected nor could be explained easily'.\n\n**7. Comparison Parallelism**: Karşılaştırmalarda paralel yapı. \n- DOĞRU: 'Reading fiction is more engaging than reading textbooks' (iki gerund phrase). \n- YANLIŞ: 'Reading fiction is more engaging than to read textbooks'. \n- DOĞRU: 'It is easier to analyze quantitative data than to interpret qualitative findings' (iki to-infinitive phrase). \n- YANLIŞ: 'It is easier analyzing quantitative data than interpretation of qualitative findings'.\n\n**8. Türkçe'den Çeviride Paralel Yapı Bozukluğu**: Türkçe'de paralel yapı kuralları İngilizce kadar katı değildir, bu nedenle çeviride dikkat gerekir. \n- Türkçe: 'Çalışma veri toplamayı, analiz etmeyi ve raporlama yapmayı içerdi' → İngilizce: 'The study involved collecting data, analyzing them, and reporting findings' (üç gerund) → YANLIŞ: 'collecting data, to analyze, and made reports'. \n- Türkçe: 'Sonuçlar açık, tutarlı ve önemliydi' → İngilizce: 'The results were clear, consistent, and significant' → DOĞRU (üç adjective).\n\n**Stratejik Notlar**: (a) Liste/sıralama → tüm öğeler aynı form (noun, verb, adjective, gerund, infinitive, clause), (b) Both...and, not only...but also, either...or, neither...nor → her iki taraf paralel, (c) Comparison (than, as...as) → her iki taraf paralel, (d) Türkçe'den çeviride paralel yapıyı İngilizce'ye uyarla, (e) Paralel yapı okunabilirlik ve profesyonellik sağlar.",
+      "examples": [
+        "Correct gerund list: The research involves collecting, analyzing, and interpreting data.",
+        "Wrong mixed list: The research involves collecting, to analyze, and interpretation of data. (WRONG)",
+        "Correct infinitive list: Participants were asked to read, to summarize, and to critique the article.",
+        "Wrong mixed list: Participants were asked to read, summarizing, and a critique of the article. (WRONG)",
+        "Correct noun list: Factors include age, gender, and proficiency level.",
+        "Wrong mixed list: Factors include age, being female, and how proficient they are. (WRONG)",
+        "Correct verb list: Researchers identified, categorized, and analyzed the patterns.",
+        "Wrong mixed list: Researchers identified, were categorizing, and have analyzed the patterns. (WRONG)",
+        "Correct adjective list: The findings were surprising, significant, and robust.",
+        "Wrong mixed list: The findings were surprising, had significance, and robustly supported. (WRONG)",
+        "Correct both...and: Both the sample size and the methodology were adequate.",
+        "Wrong both...and: Both the sample size and having good methodology were adequate. (WRONG)",
+        "Correct not only...but also: The intervention was not only cost-effective but also easy to implement.",
+        "Wrong not only...but also: The intervention was not only cost-effective but also had easy implementation. (WRONG)",
+        "Correct either...or: Students could either attend in person or participate online.",
+        "Wrong either...or: Students could either attend in person or online participation. (WRONG)",
+        "Correct neither...nor: The theory is neither well-supported nor widely accepted.",
+        "Wrong neither...nor: The theory is neither well-supported nor has wide acceptance. (WRONG)",
+        "Correct comparison: Conducting qualitative research is more time-consuming than conducting quantitative studies.",
+        "Wrong comparison: Conducting qualitative research is more time-consuming than quantitative studies. (WRONG - missing 'conducting')",
+        "Correct that-clause list: The study found that motivation affects performance and that feedback enhances learning.",
+        "Wrong that-clause list: The study found that motivation affects performance and feedback enhancing learning. (WRONG)"
+      ],
+      "exercises": [
+        {
+          "question": "Which sentence demonstrates correct parallel structure?\n\nSelect the grammatically correct option:",
+          "options": [
+            "The study involved recruiting participants, collecting data, and analyzing results.",
+            "The study involved recruiting participants, to collect data, and analysis of results.",
+            "The study involved recruiting participants, data collection, and analyzing results.",
+            "The study involved recruiting participants, collected data, and the analysis of results.",
+            "The study involved to recruit participants, collecting data, and analyzed results."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç gerund (recruiting, collecting, analyzing) paralel yapı. B mixed (gerund + infinitive + noun), C mixed (gerund + noun + gerund), D mixed (gerund + past + noun), E mixed (infinitive + gerund + past)."
+        },
+        {
+          "question": "'Katılımcılardan metni okuma, özetleme ve değerlendirme istendi.'\n\nBu cümlenin paralel yapılı İngilizce çevirisi:",
+          "options": [
+            "Participants were asked to read, to summarize, and to evaluate the text.",
+            "Participants were asked to read, summarizing, and evaluation of the text.",
+            "Participants were asked reading, to summarize, and evaluating the text.",
+            "Participants were asked to read, summary, and to evaluate the text.",
+            "Participants were asked to read the text, summarize it, and evaluation."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç to-infinitive (to read, to summarize, to evaluate) paralel. B mixed (infinitive + gerund + noun), C mixed (gerund + infinitive + gerund), D mixed (infinitive + noun + infinitive), E mixed (infinitive + imperative + noun)."
+        },
+        {
+          "question": "Which sentence has correct parallel structure with 'both...and'?",
+          "options": [
+            "Both the methodology and the analysis were carefully designed.",
+            "Both the methodology and analyzing were carefully designed.",
+            "Both the methodology and to analyze were carefully designed.",
+            "Both methodology and that analysis were carefully designed.",
+            "Both the methodology and there was careful analysis."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Both the methodology (noun phrase) and the analysis (noun phrase)' paralel. B mixed (noun + gerund), C mixed (noun + infinitive), D second part awkward, E mixed (noun phrase + clause)."
+        },
+        {
+          "question": "'Sonuçlar açık, tutarlı ve önemliydi.'\n\nParalel yapılı doğru İngilizce çeviri:",
+          "options": [
+            "The results were clear, consistent, and significant.",
+            "The results were clear, showed consistency, and significant.",
+            "The results were clear, consistent, and had significance.",
+            "The results were clarity, consistent, and significant.",
+            "The results were clear, being consistent, and significant."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç adjective (clear, consistent, significant) paralel. B mixed (adj + verb + adj), C mixed (adj + adj + verb), D mixed (noun + adj + adj), E mixed (adj + participle + adj)."
+        },
+        {
+          "question": "The intervention was not only cost-effective ---- easy to implement.\n\nWhich phrase maintains parallel structure?",
+          "options": [
+            "but also",
+            "and also",
+            "but it was also",
+            "and was",
+            "however it was"
+          ],
+          "correct": 0,
+          "explanation": "'But also' doğrudur: 'not only... but also' correlative conjunction. 'Cost-effective' (adjective) ve 'easy to implement' (adjective phrase) paralel. Diğer seçenekler bu korelasyonu bozmaz ama B 'and also' yanlış form (but also gerekli), C, D, E extra kelimeler ekler (paralel yapı bozulur)."
+        },
+        {
+          "question": "Which sentence demonstrates correct parallel structure?",
+          "options": [
+            "The researchers identified patterns, categorized themes, and reported findings.",
+            "The researchers identified patterns, were categorizing themes, and reported findings.",
+            "The researchers identified patterns, categorization of themes, and reported findings.",
+            "The researchers identified patterns, to categorize themes, and reported findings.",
+            "The researchers identified patterns, theme categorization, and findings reporting."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç past simple verb (identified, categorized, reported) paralel. B mixed (past + past continuous + past), C mixed (verb + noun + verb), D mixed (past + infinitive + past), E mixed (verb + noun + noun)."
+        },
+        {
+          "question": "'Araştırma motivasyonun, başarının ve devamlılığın incelenmesini içerdi.'\n\nParalel yapılı İngilizce çeviri:",
+          "options": [
+            "The research involved examining motivation, achievement, and persistence.",
+            "The research involved examining motivation, to achieve, and persistence.",
+            "The research involved examining motivation, achieving, and being persistent.",
+            "The research involved motivation examination, achievement, and persistence.",
+            "The research involved examining motivation, achievement analysis, and persistence."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Examining' + üç noun object (motivation, achievement, persistence) paralel. B mixed (noun + infinitive + noun), C mixed (noun + gerund + gerund phrase), D awkward nominalization, E mixed (noun + noun phrase + noun)."
+        },
+        {
+          "question": "Participants could either complete the survey online ---- return a paper version.\n\nWhich completes the parallel structure?",
+          "options": [
+            "or",
+            "and",
+            "but",
+            "or they could",
+            "or to"
+          ],
+          "correct": 0,
+          "explanation": "'Or' doğrudur: 'either... or' correlative conjunction. 'Complete' (verb) ve 'return' (verb) paralel. D 'or they could' ekstra kelimeler ekler (paralel yapı bozulur), E 'or to' infinitive marker ekler (gereksiz, 'complete' zaten base form)."
+        },
+        {
+          "question": "Which sentence has correct parallel structure?",
+          "options": [
+            "The findings were unexpected, difficult to explain, and theoretically important.",
+            "The findings were unexpected, difficult to explain, and had theoretical importance.",
+            "The findings were unexpected, explaining them was difficult, and theoretically important.",
+            "The findings were unexpected, difficulty in explanation, and theoretically important.",
+            "The findings were unexpected, to explain was difficult, and theoretically important."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç adjective phrase (unexpected, difficult to explain, theoretically important) paralel. B mixed (adj + adj phrase + verb phrase), C mixed (adj + clause + adj), D mixed (adj + noun phrase + adj), E mixed (adj + infinitive clause + adj)."
+        },
+        {
+          "question": "'Yöntemi hızlı, dikkatli ve etkili şekilde uygulandı.'\n\nParalel yapılı İngilizce çeviri:",
+          "options": [
+            "The method was implemented quickly, carefully, and effectively.",
+            "The method was implemented quickly, with care, and effectively.",
+            "The method was implemented quickly, carefully, and in an effective manner.",
+            "The method was implemented with speed, carefully, and effectively.",
+            "The method was implemented quickly, careful implementation, and effectively."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Üç adverb (quickly, carefully, effectively) paralel. B mixed (adverb + prepositional phrase + adverb), C mixed (adverb + adverb + prepositional phrase), D mixed (prepositional phrase + adverb + adverb), E mixed (adverb + noun phrase + adverb)."
+        },
+        {
+          "question": "The theory is neither well-documented ---- widely accepted.\n\nWhich word maintains parallel structure?",
+          "options": [
+            "nor",
+            "or",
+            "and",
+            "nor is it",
+            "nor it is"
+          ],
+          "correct": 0,
+          "explanation": "'Nor' doğrudur: 'neither... nor' correlative conjunction. 'Well-documented' (adjective) ve 'widely accepted' (adjective) paralel. D 'nor is it' ekstra kelimeler (inversion gereksiz burada, paralel yapı bozulur), E yanlış sıralama."
+        },
+        {
+          "question": "Which sentence demonstrates correct parallel structure in comparison?",
+          "options": [
+            "Analyzing qualitative data is more time-consuming than analyzing quantitative data.",
+            "Analyzing qualitative data is more time-consuming than quantitative data.",
+            "Analyzing qualitative data is more time-consuming than to analyze quantitative data.",
+            "Analyzing qualitative data is more time-consuming than quantitative analysis.",
+            "To analyze qualitative data is more time-consuming than analyzing quantitative data."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: İki gerund phrase (analyzing qualitative data, analyzing quantitative data) paralel. B ikinci kısımda verb eksik (sadece noun), C mixed (gerund + infinitive), D mixed (gerund phrase + noun), E mixed (infinitive + gerund)."
+        }
+      ]
+    }
+  ]
+}

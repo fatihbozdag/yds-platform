@@ -1,0 +1,336 @@
+{
+  "section": "2.10",
+  "title": "Sözdizimi ve Bilgi Yapısı (Syntax and Information Structure)",
+  "topics": [
+    {
+      "id": "2.10.1",
+      "title": "It-Cleft/Wh-Cleft, Fronting, Inversion for Emphasis",
+      "content": "YDS'de bilgi yapısı ve vurgulama mekanizmaları akademik İngilizce'nin önemli bir parçasıdır. Cleft cümleler (yarık cümleler) belirli bir ögeyi vurgulamak için kullanılır. It-cleft yapısı: 'It is/was + vurgulanan öge + that/who + kalan cümle'. Örnek: 'It was Einstein who developed the theory of relativity' (Einstein'ı vurgular). Normal cümle: 'Einstein developed the theory'. Wh-cleft (pseudo-cleft) yapısı: 'What/Where/When + cümle + is/was + vurgulanan öge'. Örnek: 'What we need is more data' (more data vurgulanır). Fronting, normalde cümle sonunda olan ögeyi başa almaktır: 'This theory I cannot accept' (normal: I cannot accept this theory). Inversion (devrik cümle), özellikle olumsuz zarflarla kullanılır: 'Never have I seen such results', 'Seldom does she make mistakes', 'Not only did he complete the study, but he also published it'. YDS'de bu yapılar paragraf tamamlama ve cümle sıralama sorularında test edilir. Türk öğrencilerin yaygın hatası, inversion'da fiil sırasını karıştırmaktır: 'Never I have seen' (yanlış) yerine 'Never have I seen' (doğru). Stratejiler: It-cleft vurgu için; negative adverbs ile inversion zorunlu; wh-cleft cevap/sonuç vurgusu için.",
+      "examples": [
+        "It was the methodology that raised concerns among reviewers. (metodoloji vurgulanır)",
+        "It is collaboration that drives innovation. (işbirliği vurgulanır)",
+        "What researchers need most is adequate funding. (funding vurgulanır, wh-cleft)",
+        "What surprised us was the consistency of the results. (consistency vurgulanır)",
+        "Never have I encountered such a complex dataset. (inversion, olumsuz zarf)",
+        "Seldom does a study achieve such comprehensive coverage. (inversion)",
+        "Not only did she complete her PhD, but she also published three articles. (inversion + correlative)",
+        "Rarely do researchers have access to such rich data. (inversion)",
+        "This hypothesis I find difficult to accept. (fronting, hypothesis vurgulanır)",
+        "Only after extensive revision was the manuscript accepted. (inversion, 'only' sonrası)",
+        "Under no circumstances should the data be manipulated. (inversion, olumsuz ifade)",
+        "Little did they know that their findings would revolutionize the field. (inversion)"
+      ],
+      "exercises": [
+        {
+          "question": "It ---- that led to the breakthrough in the research.",
+          "options": [
+            "was the new methodology",
+            "the new methodology was",
+            "was it the new methodology",
+            "the new methodology",
+            "were the new methodology"
+          ],
+          "correctAnswer": 0,
+          "explanation": "It-cleft yapısı: 'It was + vurgulanan öge + that...'. 'It was the new methodology that...' doğru."
+        },
+        {
+          "question": "---- is more rigorous data collection procedures.",
+          "options": [
+            "What the field needs",
+            "That the field needs",
+            "Which the field needs",
+            "The field needs what",
+            "Needs the field what"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Wh-cleft yapısı: 'What + özne + fiil + is + vurgulanan öge'. 'What the field needs is...' doğru."
+        },
+        {
+          "question": "Never ---- such compelling evidence in support of this theory.",
+          "options": [
+            "I have seen",
+            "have I seen",
+            "I saw",
+            "saw I",
+            "have seen I"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Olumsuz zarf 'never' cümle başında inversion gerektirir. 'Never have I seen' doğru."
+        },
+        {
+          "question": "Rarely ---- that produce such significant results.",
+          "options": [
+            "researchers conduct studies",
+            "do researchers conduct studies",
+            "researchers do conduct studies",
+            "conduct researchers studies",
+            "studies researchers conduct"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Olumsuz zarf 'rarely' ile inversion: 'do researchers conduct'. Doğru."
+        },
+        {
+          "question": "It ---- who first proposed this hypothesis in 1995.",
+          "options": [
+            "was Dr. Smith",
+            "Dr. Smith was",
+            "were Dr. Smith",
+            "is Dr. Smith",
+            "Dr. Smith"
+          ],
+          "correctAnswer": 0,
+          "explanation": "It-cleft: 'It was Dr. Smith who...'. Past tense (1995) ve tekil özne (was). Doğru."
+        },
+        {
+          "question": "---- was the lack of adequate controls in the experimental design.",
+          "options": [
+            "That concerned the reviewers",
+            "What concerned the reviewers",
+            "Which concerned the reviewers",
+            "The reviewers concerned what",
+            "Concerned the reviewers what"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Wh-cleft: 'What concerned the reviewers was...'. Doğru."
+        },
+        {
+          "question": "Not only ---- the article, but she also presented it at a major conference.",
+          "options": [
+            "she published",
+            "did she publish",
+            "she did publish",
+            "published she",
+            "she has published"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Not only' cümle başında inversion gerektirir. 'Did she publish' doğru."
+        },
+        {
+          "question": "Under no circumstances ---- the integrity of the research be compromised.",
+          "options": [
+            "should",
+            "it should",
+            "should it",
+            "must",
+            "it must"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Olumsuz ifade 'under no circumstances' ile inversion. 'Should' modal fiili özne olmadan başa gelir. Doğru."
+        },
+        {
+          "question": "Seldom ---- with such diverse methodological approaches.",
+          "options": [
+            "one encounters a study",
+            "does one encounter a study",
+            "one does encounter a study",
+            "encounters one a study",
+            "a study one encounters"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Olumsuz zarf 'seldom' ile inversion: 'does one encounter'. Doğru."
+        },
+        {
+          "question": "It ---- that distinguishes this approach from previous ones.",
+          "options": [
+            "is the theoretical framework",
+            "the theoretical framework is",
+            "are the theoretical framework",
+            "the theoretical framework are",
+            "were the theoretical framework"
+          ],
+          "correctAnswer": 0,
+          "explanation": "It-cleft: 'It is + vurgulanan öge + that...'. Present tense ve tekil 'is'. Doğru."
+        },
+        {
+          "question": "Only after extensive peer review ---- for publication.",
+          "options": [
+            "the manuscript was accepted",
+            "was the manuscript accepted",
+            "the manuscript accepted",
+            "accepted the manuscript",
+            "was accepted the manuscript"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Only after' sonrası inversion gerekir. 'Was the manuscript accepted' doğru."
+        },
+        {
+          "question": "---- is a more comprehensive understanding of the phenomenon.",
+          "options": [
+            "What this research provides",
+            "That this research provides",
+            "This research provides what",
+            "Provides this research what",
+            "Which this research provides"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Wh-cleft: 'What this research provides is...'. Doğru."
+        }
+      ]
+    },
+    {
+      "id": "2.10.2",
+      "title": "Ellipsis ve Substitution; Bağlaşıklık Araçları",
+      "content": "YDS'de ellipsis (eksiltme) ve substitution (yerine koyma) akademik metinlerde tekrardan kaçınmak ve akıcılık sağlamak için kullanılır. Ellipsis, bağlamdan anlaşılan ögelerin çıkarılmasıdır: 'Some researchers support the theory; others [support the theory] oppose it'. Substitution, tekrar eden ögelerin yerine başka bir sözcük koymaktır: 'one/ones' (isim yerine), 'do/does/did' (fiil yerine), 'so' (cümle yerine). Örnek: 'I need a pen. Do you have one?' (one = a pen). 'She works harder than he does' (does = works). 'Will it rain? I hope not' (not = it won't rain). Bağlaşıklık araçları (cohesive devices) metinde fikir akışını sağlar: (1) Reference: this, that, these, those, such; (2) Conjunction: however, therefore, moreover, nevertheless; (3) Substitution/Ellipsis; (4) Lexical cohesion: synonym/antonym tekrarı. YDS'de bu yapılar özellikle paragraf tamamlama, cümle sıralama ve boşluk doldurma sorularında test edilir. Türk öğrencilerin yaygın hatası, aşırı tekrar yapmak veya yanlış reference kullanmaktır: 'this' (tekil) vs. 'these' (çoğul) karışıklığı. Stratejiler: One/ones isim tekrarı yerine; so/not cümle yerine; reference ögeleri (this, that, such) önceki bilgiyi gösterir; cohesive devices paragraf akışını organize eder.",
+      "examples": [
+        "Some theories are well-supported; others are not. (ellipsis: are not [well-supported])",
+        "The first study used qualitative methods; the second one used quantitative. (one = study)",
+        "He completed the analysis faster than she did. (did = completed)",
+        "Will the theory be accepted? I believe so. (so = the theory will be accepted)",
+        "These findings contrast with previous ones. (ones = findings)",
+        "Such an approach requires careful consideration. (such = this type of)",
+        "The results were unexpected. This surprised the research team. (this = that the results were unexpected)",
+        "The hypothesis was tested. However, the results were inconclusive. (however: contrast)",
+        "The methodology was rigorous. Therefore, the findings are reliable. (therefore: result)",
+        "Several factors influence acquisition. Moreover, they interact in complex ways. (moreover: addition)",
+        "The theory predicts X. Nevertheless, the data suggest Y. (nevertheless: concession)",
+        "Early studies focused on form; recent ones examine meaning. (ones = studies)"
+      ],
+      "exercises": [
+        {
+          "question": "The first experiment yielded significant results; the second ---- did not.",
+          "options": [
+            "experiment",
+            "one",
+            "it",
+            "that",
+            "which"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'One' tekil ismin (experiment) yerine kullanılır. 'The second one' doğru."
+        },
+        {
+          "question": "Will the committee approve the proposal? We hope ----.",
+          "options": [
+            "yes",
+            "it",
+            "so",
+            "that",
+            "this"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Hope so' = the committee will approve the proposal. 'So' cümle yerine. Doğru."
+        },
+        {
+          "question": "The findings contradicted the hypothesis. ---- surprised the researchers.",
+          "options": [
+            "These",
+            "This",
+            "Those",
+            "It",
+            "That"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'This' bir önceki cümlenin tüm durumunu gösterir (findings contradicted hypothesis). Tekil 'this' doğru."
+        },
+        {
+          "question": "Several methods were available. The team chose the most efficient ----.",
+          "options": [
+            "method",
+            "one",
+            "it",
+            "that",
+            "those"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'One' tekil ismin (method) yerine. 'The most efficient one' doğru."
+        },
+        {
+          "question": "The study was comprehensive. ----, some limitations existed.",
+          "options": [
+            "Therefore",
+            "Moreover",
+            "However",
+            "Thus",
+            "Consequently"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Karşıtlık ilişkisi: kapsamlı ama sınırlamalar var. 'However' (ancak) doğru."
+        },
+        {
+          "question": "The data were analyzed thoroughly. ----, the conclusions were reliable.",
+          "options": [
+            "However",
+            "Nevertheless",
+            "Therefore",
+            "Although",
+            "Despite"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Sebep-sonuç ilişkisi: veriler detaylı analiz edildi, bu yüzden sonuçlar güvenilir. 'Therefore' doğru."
+        },
+        {
+          "question": "---- findings require further investigation before definitive conclusions can be drawn.",
+          "options": [
+            "This",
+            "That",
+            "These",
+            "Such",
+            "So"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Such findings' = bu tür bulgular. 'Such' vurgulu reference. Doğru."
+        },
+        {
+          "question": "Did the experiment succeed? Unfortunately, it ----.",
+          "options": [
+            "didn't",
+            "wasn't",
+            "hasn't",
+            "not",
+            "doesn't"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Ellipsis: 'it didn't [succeed]'. Past tense ve 'succeed' fiili 'did' yardımcı fiili gerektirir. Doğru."
+        },
+        {
+          "question": "Early theories emphasized form; recent ---- focus on meaning.",
+          "options": [
+            "theory",
+            "theories",
+            "one",
+            "ones",
+            "that"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Ones' çoğul ismin (theories) yerine. 'Recent ones' doğru."
+        },
+        {
+          "question": "The hypothesis was confirmed by multiple studies. ----, skepticism remained.",
+          "options": [
+            "Therefore",
+            "Thus",
+            "Consequently",
+            "Nevertheless",
+            "Hence"
+          ],
+          "correctAnswer": 3,
+          "explanation": "İmtina/karşıtlık: hipotez doğrulandı ama yine de şüphe var. 'Nevertheless' (yine de) doğru."
+        },
+        {
+          "question": "The methodology was sound. ----, additional controls were added.",
+          "options": [
+            "However",
+            "Therefore",
+            "Moreover",
+            "Thus",
+            "Consequently"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Ekleme ilişkisi: metodoloji sağlam + ek kontroller eklendi (güçlendirme). 'Moreover' (ayrıca) doğru."
+        },
+        {
+          "question": "---- an interpretation is not supported by the available evidence.",
+          "options": [
+            "This",
+            "These",
+            "So",
+            "Such",
+            "That"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Such an interpretation' = böyle bir yorum. 'Such' vurgulu reference, tekil isim için 'an' gerekir. Doğru."
+        }
+      ]
+    }
+  ]
+}

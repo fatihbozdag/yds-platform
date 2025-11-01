@@ -1,0 +1,1524 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "Climate Science & Global Warming",
+      "topic": "Climate Science",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The phenomenon of global warming has become one of the most pressing challenges facing humanity in the 21st century. Scientific consensus indicates that the Earth's average surface temperature has risen by approximately 1.1 degrees Celsius since the pre-industrial era, primarily due to anthropogenic greenhouse gas emissions. This warming trend, while seemingly modest, has triggered a cascade of environmental consequences that threaten ecosystems worldwide. The primary culprit behind this temperature increase is carbon dioxide, released predominantly through the combustion of fossil fuels for energy production and transportation. Methane, another potent greenhouse gas, is emitted from agricultural activities, particularly livestock farming and rice cultivation. The accumulation of these gases in the atmosphere creates a thermal blanket effect, trapping heat that would otherwise escape into space. Climate scientists employ sophisticated computer models to project future scenarios, and their findings are alarming: without significant intervention, global temperatures could rise by 3-4 degrees Celsius by the end of this century. Such an increase would likely result in catastrophic consequences, including widespread species extinction, displacement of human populations due to rising sea levels, and severe disruptions to global food security. Despite the overwhelming scientific evidence, implementing effective mitigation strategies remains politically contentious. The transition from fossil fuel-dependent economies to renewable energy systems requires substantial investment and international cooperation, challenges that test the limits of global governance.",
+        "wordCount": 217
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The history of climate research methodologies",
+            "The causes and potential consequences of global warming",
+            "The political debates surrounding environmental policies",
+            "The role of renewable energy in modern economies",
+            "The accuracy of computer climate models"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasaj, küresel ısınmanın nedenlerini (sera gazı emisyonları) ve olası sonuçlarını (tür yok oluşu, deniz seviyesi yükselmesi, gıda güvenliği sorunları) ele almaktadır. Diğer seçenekler pasajda bahsedilse de, ana odak nokta değildir."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best summarizes the author's central argument?",
+          "options": [
+            "Climate change is a natural phenomenon that requires no intervention",
+            "Global warming poses serious threats that demand immediate action despite political challenges",
+            "Computer models are unreliable for predicting future climate scenarios",
+            "Renewable energy systems are economically unfeasible for most nations",
+            "Agricultural activities are the sole cause of greenhouse gas emissions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, küresel ısınmanın ciddi tehditler oluşturduğunu ve politik zorluklara rağmen acil müdahale gerektirdiğini vurgulamaktadır. Pasajın genelinde bu tema işlenmektedir."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "According to the passage, how much has the Earth's average surface temperature increased since the pre-industrial era?",
+          "options": [
+            "0.5 degrees Celsius",
+            "1.1 degrees Celsius",
+            "3 degrees Celsius",
+            "4 degrees Celsius",
+            "2.5 degrees Celsius"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda açıkça belirtildiği üzere: 'the Earth's average surface temperature has risen by approximately 1.1 degrees Celsius since the pre-industrial era.'"
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "Which TWO greenhouse gases are specifically mentioned in the passage?",
+          "options": [
+            "Nitrogen and oxygen",
+            "Carbon dioxide and methane",
+            "Ozone and nitrous oxide",
+            "Water vapor and carbon monoxide",
+            "Sulfur dioxide and chlorofluorocarbons"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda karbon dioksit (carbon dioxide) ve metan (methane) olmak üzere iki sera gazı özellikle belirtilmektedir."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What temperature increase do climate models project by the end of this century without intervention?",
+          "options": [
+            "1-2 degrees Celsius",
+            "2-3 degrees Celsius",
+            "3-4 degrees Celsius",
+            "4-5 degrees Celsius",
+            "5-6 degrees Celsius"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda belirtildiği üzere: 'without significant intervention, global temperatures could rise by 3-4 degrees Celsius by the end of this century.'"
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the relationship between scientific evidence and political action on climate change?",
+          "options": [
+            "Political leaders universally accept and act upon scientific findings",
+            "Scientific evidence is insufficient to guide policy decisions",
+            "There is a disconnect between scientific consensus and political implementation",
+            "Climate scientists actively participate in policy-making processes",
+            "Political challenges have been completely overcome in recent years"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajın son kısmında 'Despite the overwhelming scientific evidence, implementing effective mitigation strategies remains politically contentious' ifadesi, bilimsel kanıtlar ile politik uygulama arasında bir kopukluk olduğuna işaret etmektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, which sector appears to be a major contributor to greenhouse gas emissions?",
+          "options": [
+            "Healthcare and pharmaceuticals",
+            "Technology and telecommunications",
+            "Energy production and transportation",
+            "Education and research institutions",
+            "Entertainment and media industries"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'carbon dioxide, released predominantly through the combustion of fossil fuels for energy production and transportation' ifadesi, enerji üretimi ve ulaşımın başlıca katkıda bulunan sektörler olduğunu göstermektedir."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "In the context of the passage, what does 'anthropogenic' mean?",
+          "options": [
+            "Naturally occurring",
+            "Caused by human activity",
+            "Related to ancient civilizations",
+            "Beneficial to the environment",
+            "Unpredictable and random"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Anthropogenic' kelimesi 'insan kaynaklı' anlamına gelir. Pasajda 'anthropogenic greenhouse gas emissions' ifadesi, sera gazı emisyonlarının insan faaliyetlerinden kaynaklandığını belirtmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'contentious' mean as used in the final sentence?",
+          "options": [
+            "Peaceful and harmonious",
+            "Widely accepted and uncontroversial",
+            "Causing disagreement or debate",
+            "Easily implementable",
+            "Scientifically proven"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Contentious' kelimesi 'tartışmalı, ihtilaf yaratan' anlamına gelir. Pasajda iklim politikalarının uygulanmasının politik olarak tartışmalı kaldığını ifade etmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's primary purpose in writing this passage?",
+          "options": [
+            "To dismiss climate change as a minor concern",
+            "To inform readers about the seriousness of global warming and its challenges",
+            "To promote specific renewable energy companies",
+            "To criticize climate scientists for inaccurate predictions",
+            "To argue that climate change is entirely natural"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazarın amacı, okuyucuları küresel ısınmanın ciddiyeti ve beraberinde getirdiği zorluklar hakkında bilgilendirmektir. Pasaj boyunca nesnel bir ton kullanılarak bilimsel veriler ve olası sonuçlar aktarılmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Artificial Intelligence & Ethics",
+      "topic": "AI & Ethics",
+      "timeLimit": 15,
+      "passage": {
+        "text": "As artificial intelligence systems become increasingly sophisticated and integrated into daily life, society faces unprecedented ethical dilemmas that challenge traditional moral frameworks. Modern AI algorithms can now perform tasks once thought to be exclusively human domains: diagnosing diseases with greater accuracy than experienced physicians, composing music that resonates emotionally with audiences, and even generating written content indistinguishable from human authorship. However, this technological prowess raises profound questions about accountability, bias, and the future of human agency. One of the most pressing concerns involves algorithmic bias. Machine learning systems are trained on historical data, which often reflects existing societal prejudices regarding race, gender, and socioeconomic status. Consequently, AI systems can perpetuate and even amplify these biases, leading to discriminatory outcomes in critical areas such as criminal justice, employment, and financial services. For instance, facial recognition technologies have demonstrated significantly lower accuracy rates when identifying individuals with darker skin tones, a deficiency that has serious implications for law enforcement applications. The question of accountability presents another ethical minefield. When an autonomous vehicle causes a fatal accident, who bears responsibility—the manufacturer, the programmer, the vehicle owner, or the AI system itself? Current legal frameworks struggle to address these scenarios, as they were designed for a world where human decision-making was always in the loop. Furthermore, the increasing capability of AI to make decisions independently raises existential questions about human purpose and dignity. If machines can outperform humans in most cognitive tasks, what role remains for human workers, and how should society reorganize itself to maintain meaningful employment and social cohesion?",
+        "wordCount": 264
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the central theme of this passage?",
+          "options": [
+            "The technical superiority of AI over human intelligence",
+            "The ethical challenges posed by advancing AI technology",
+            "The benefits of AI in medical diagnosis",
+            "The history of artificial intelligence development",
+            "The economic advantages of automation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın ana teması, gelişen yapay zeka teknolojisinin ortaya çıkardığı etik zorluklardır. Önyargı, hesap verebilirlik ve insan rolü gibi etik meseleler ele alınmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which best describes the author's overall approach to the topic?",
+          "options": [
+            "Enthusiastically promoting AI adoption without reservation",
+            "Presenting ethical concerns while acknowledging AI capabilities",
+            "Completely rejecting AI technology as harmful",
+            "Focusing solely on technical specifications of AI systems",
+            "Dismissing ethical concerns as unfounded"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, yapay zekanın yeteneklerini kabul ederken aynı zamanda beraberinde getirdiği etik kaygıları da dengeli bir şekilde sunmaktadır."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "According to the passage, which areas are mentioned as being affected by algorithmic bias?",
+          "options": [
+            "Entertainment, sports, and recreation",
+            "Criminal justice, employment, and financial services",
+            "Agriculture, manufacturing, and construction",
+            "Tourism, hospitality, and retail",
+            "Arts, literature, and music"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda açıkça belirtildiği üzere, algoritma önyargısı 'critical areas such as criminal justice, employment, and financial services' alanlarını etkilemektedir."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What specific problem with facial recognition technology is mentioned?",
+          "options": [
+            "It is too expensive to implement widely",
+            "It shows lower accuracy for individuals with darker skin tones",
+            "It cannot distinguish between identical twins",
+            "It requires too much computational power",
+            "It violates privacy laws in most countries"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'facial recognition technologies have demonstrated significantly lower accuracy rates when identifying individuals with darker skin tones' ifadesi yer almaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "According to the passage, on what are machine learning systems trained?",
+          "options": [
+            "Purely theoretical mathematical models",
+            "Historical data reflecting existing societal prejudices",
+            "Random generated datasets",
+            "Future predictions and forecasts",
+            "Ethical guidelines and moral principles"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'Machine learning systems are trained on historical data, which often reflects existing societal prejudices' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about current legal systems regarding AI accountability?",
+          "options": [
+            "They are perfectly equipped to handle AI-related incidents",
+            "They were not designed to address scenarios involving autonomous AI decisions",
+            "They universally prohibit autonomous AI systems",
+            "They assign all responsibility to AI manufacturers",
+            "They have been completely updated for the AI era"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'Current legal frameworks struggle to address these scenarios, as they were designed for a world where human decision-making was always in the loop' ifadesi, mevcut yasal sistemlerin otonom yapay zeka kararlarını ele almak için tasarlanmadığını göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, what concern does AI superiority in cognitive tasks raise?",
+          "options": [
+            "Computers will become too expensive",
+            "Technology companies will monopolize the market",
+            "Questions about human purpose and meaningful employment",
+            "AI will consume too much energy",
+            "Programming languages will become obsolete"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajın sonunda 'raises existential questions about human purpose and dignity' ve 'how should society reorganize itself to maintain meaningful employment' ifadeleri, insan amacı ve anlamlı istihdam konularındaki endişeleri yansıtmaktadır."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'perpetuate' mean in the context of the passage?",
+          "options": [
+            "To eliminate completely",
+            "To continue or cause to continue indefinitely",
+            "To temporarily suspend",
+            "To carefully analyze",
+            "To randomly generate"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Perpetuate' kelimesi 'sürdürmek, devam ettirmek' anlamına gelir. Pasajda yapay zeka sistemlerinin önyargıları devam ettirebildiğini ifade etmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'minefield' mean as used in the passage?",
+          "options": [
+            "A literal area with explosive devices",
+            "A situation with many potential dangers or difficulties",
+            "A profitable business opportunity",
+            "A carefully planned strategy",
+            "A well-organized system"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Minefield' kelimesi mecazi olarak 'birçok potansiyel tehlike veya zorluk içeren durum' anlamında kullanılmıştır. Hesap verebilirlik meselesinin karmaşıklığını vurgulamaktadır."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's tone throughout this passage?",
+          "options": [
+            "Optimistic and carefree",
+            "Thoughtful and concerned",
+            "Hostile and dismissive",
+            "Humorous and lighthearted",
+            "Indifferent and detached"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, yapay zekanın etik boyutlarını düşünceli ve endişeli bir tonla ele almaktadır. Ciddi sorunları objektif bir şekilde sunmakta ancak çözüm önerileri konusunda kaygılı bir tutum sergilemektedir."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Public Health & Pandemics",
+      "topic": "Public Health",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The COVID-19 pandemic has fundamentally altered our understanding of public health infrastructure and global disease surveillance systems. Prior to 2020, pandemic preparedness existed largely as theoretical exercises conducted by epidemiologists and public health officials, with limited practical implementation despite warnings from experts about the inevitability of a global health crisis. The rapid spread of SARS-CoV-2 exposed critical vulnerabilities in healthcare systems worldwide, from insufficient hospital capacity and medical supply chains to inadequate testing capabilities and contact tracing mechanisms. Wealthier nations, despite their advanced medical technologies and substantial healthcare budgets, struggled to contain the virus's transmission, revealing that economic prosperity alone does not guarantee effective pandemic response. Developing countries faced even more severe challenges, lacking not only medical resources but also the social safety nets necessary to implement lockdown measures without causing widespread economic devastation. The pandemic underscored the interconnected nature of global health; a virus emerging in one locality can rapidly become a worldwide threat in our era of international travel and commerce. Furthermore, the crisis highlighted the crucial role of clear, science-based communication from public health authorities. Misinformation spread through social media platforms often as quickly as the virus itself, undermining public trust and compliance with preventive measures such as mask-wearing and social distancing. The development and distribution of COVID-19 vaccines represented an unprecedented scientific achievement, with multiple effective vaccines created in under a year—a process that typically requires a decade or more. However, vaccine distribution revealed stark global inequalities, as wealthy nations secured supplies for their populations while many developing countries struggled to obtain initial doses, raising ethical questions about vaccine nationalism and global solidarity.",
+        "wordCount": 269
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The medical symptoms and treatment of COVID-19",
+            "The lessons learned about public health systems from the pandemic",
+            "The economic impact of lockdown measures",
+            "The history of previous pandemics",
+            "The development process of vaccines"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasaj, COVID-19 pandemisinin halk sağlığı sistemleri hakkında öğrettiği derslere odaklanmaktadır. Sağlık altyapısındaki zaaflar, küresel bağlantılılık ve aşı dağıtımındaki eşitsizlikler gibi konular ele alınmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best captures the author's central argument?",
+          "options": [
+            "COVID-19 was completely unpredictable and unavoidable",
+            "The pandemic exposed systemic weaknesses in global health preparedness and equity",
+            "Wealthy nations successfully managed the pandemic without issues",
+            "Vaccine development was the only important aspect of pandemic response",
+            "Social media had no impact on pandemic management"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazarın temel argümanı, pandeminin küresel sağlık hazırlığı ve eşitliğindeki sistemsel zayıflıkları ortaya çıkardığıdır. Bu tema pasaj boyunca işlenmektedir."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "According to the passage, how long does vaccine development typically require?",
+          "options": [
+            "Under one year",
+            "Two to three years",
+            "Five years",
+            "A decade or more",
+            "Several months"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Pasajda açıkça belirtildiği üzere: 'a process that typically requires a decade or more.' COVID-19 aşıları bir yıldan kısa sürede geliştirildiği için bu olağanüstü bir başarı olarak nitelendirilmektedir."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What vulnerabilities in healthcare systems are specifically mentioned?",
+          "options": [
+            "Insufficient insurance coverage and high costs",
+            "Lack of trained medical personnel",
+            "Insufficient hospital capacity, supply chains, testing, and contact tracing",
+            "Outdated medical equipment and facilities",
+            "Poor sanitation and hygiene standards"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'insufficient hospital capacity and medical supply chains to inadequate testing capabilities and contact tracing mechanisms' olarak sıralanan zaaflar bulunmaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What problem did developing countries face regarding lockdown measures?",
+          "options": [
+            "Citizens refused to comply with any restrictions",
+            "They lacked social safety nets to prevent economic devastation",
+            "They had no legal authority to implement lockdowns",
+            "Their populations were too large to manage",
+            "They had superior healthcare systems"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'lacking not only medical resources but also the social safety nets necessary to implement lockdown measures without causing widespread economic devastation' ifadesi yer almaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about pandemic preparedness before 2020?",
+          "options": [
+            "It was comprehensively implemented in all countries",
+            "It was mostly theoretical with limited practical application",
+            "It was completely ignored by health experts",
+            "It focused exclusively on vaccine development",
+            "It was only practiced in developing nations"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'pandemic preparedness existed largely as theoretical exercises conducted by epidemiologists and public health officials, with limited practical implementation' ifadesi, hazırlığın büyük ölçüde teorik kaldığını göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, what relationship exists between economic prosperity and pandemic response?",
+          "options": [
+            "Economic prosperity guarantees effective pandemic response",
+            "There is no relationship between the two",
+            "Economic prosperity alone does not ensure effective response",
+            "Only poor countries struggled with the pandemic",
+            "Economic factors are irrelevant to health outcomes"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'economic prosperity alone does not guarantee effective pandemic response' ifadesi, zengin ülkelerin de virüsü kontrol etmekte zorlandığını belirterek bu çıkarımı desteklemektedir."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'underscored' mean in the context of the passage?",
+          "options": [
+            "Contradicted or disproved",
+            "Ignored or dismissed",
+            "Emphasized or highlighted",
+            "Minimized or reduced",
+            "Confused or obscured"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Underscored' kelimesi 'vurgulamak, altını çizmek' anlamına gelir. Pasajda pandeminin küresel sağlığın birbirine bağlı doğasını vurguladığı belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'compliance' mean as used in the passage?",
+          "options": [
+            "Resistance to rules or guidelines",
+            "The act of obeying rules or standards",
+            "Scientific research methodology",
+            "Medical treatment protocols",
+            "Government corruption"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Compliance' kelimesi 'uyum, kurallara uyma' anlamına gelir. Pasajda halkın maske takma ve sosyal mesafe gibi önleyici tedbirlere uyumundan bahsedilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's primary purpose in writing this passage?",
+          "options": [
+            "To criticize vaccine development efforts",
+            "To analyze the multifaceted challenges revealed by the pandemic",
+            "To promote specific public health policies",
+            "To praise wealthy nations' pandemic responses",
+            "To discourage international travel permanently"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazarın amacı, pandeminin ortaya çıkardığı çok yönlü zorlukları analiz etmektir. Sağlık sistemlerindeki zaaflar, küresel eşitsizlikler ve iletişim sorunları gibi farklı boyutlar ele alınmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Economics & Globalization",
+      "topic": "Economics",
+      "timeLimit": 15,
+      "passage": {
+        "text": "Globalization, the process by which businesses and other organizations develop international influence or start operating on an international scale, has fundamentally transformed the world economy over the past several decades. Proponents argue that this integration of markets has lifted hundreds of millions of people out of poverty, particularly in East Asian countries like China and South Korea, which leveraged access to global markets to achieve rapid economic development. The free flow of goods, services, capital, and technology across borders has created unprecedented opportunities for economic growth and innovation. Multinational corporations can now optimize their production processes by locating different stages of manufacturing in countries where costs are lowest, a practice known as global value chains. Consumers in developed nations benefit from access to cheaper products manufactured abroad, while workers in developing countries gain employment opportunities that often pay better than local alternatives. However, critics of globalization point to significant downsides that challenge this optimistic narrative. The same forces that create opportunities for some workers destroy livelihoods for others, particularly in manufacturing sectors of developed countries where jobs have been outsourced to lower-wage economies. This economic disruption has contributed to rising inequality within nations, even as inequality between nations has decreased. Furthermore, the pursuit of lower production costs has often led to environmental degradation and worker exploitation in countries with weak regulatory frameworks. The 2008 financial crisis demonstrated how interconnected global financial systems can transmit economic shocks rapidly across borders, turning local problems into worldwide recessions. Recent trends suggest a potential shift away from unrestricted globalization toward a more managed approach, as countries increasingly prioritize domestic employment and supply chain resilience over pure economic efficiency.",
+        "wordCount": 281
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the central theme of this passage?",
+          "options": [
+            "The superiority of globalization over local economies",
+            "The historical development of international trade",
+            "The benefits and drawbacks of economic globalization",
+            "The rise of multinational corporations",
+            "The causes of the 2008 financial crisis"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasaj, ekonomik küreselleşmenin hem faydalarını (yoksulluktan kurtulma, ekonomik büyüme) hem de dezavantajlarını (eşitsizlik, çevresel bozulma, istihdam kaybı) dengeli bir şekilde sunmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "How does the author present the topic of globalization?",
+          "options": [
+            "By focusing exclusively on its positive aspects",
+            "By presenting both supportive and critical perspectives",
+            "By completely rejecting globalization as harmful",
+            "By discussing only its historical origins",
+            "By examining only financial market integration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, küreselleşme savunucularının ve eleştirmenlerinin görüşlerini dengeli bir şekilde sunmaktadır. Hem destekleyici hem de eleştirel perspektifler yer almaktadır."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "Which East Asian countries are mentioned as examples of rapid economic development?",
+          "options": [
+            "Japan and Taiwan",
+            "China and South Korea",
+            "Vietnam and Thailand",
+            "Malaysia and Singapore",
+            "India and Pakistan"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda açıkça 'particularly in East Asian countries like China and South Korea' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What is the practice of locating different manufacturing stages in countries with lowest costs called?",
+          "options": [
+            "Economic optimization",
+            "Industrial revolution",
+            "Global value chains",
+            "Market integration",
+            "Supply and demand"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'a practice known as global value chains' ifadesi bu uygulamayı tanımlamaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "According to the passage, what did the 2008 financial crisis demonstrate?",
+          "options": [
+            "The superiority of isolated national economies",
+            "How interconnected systems can rapidly transmit economic shocks",
+            "The ineffectiveness of banking regulations",
+            "The stability of global financial markets",
+            "The need for more international trade"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'The 2008 financial crisis demonstrated how interconnected global financial systems can transmit economic shocks rapidly across borders' ifadesi yer almaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about inequality trends from the passage?",
+          "options": [
+            "Inequality has decreased both within and between nations",
+            "Inequality has increased both within and between nations",
+            "Inequality within nations has risen while inequality between nations has fallen",
+            "Inequality has remained completely unchanged",
+            "Only wealthy nations experience inequality"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'rising inequality within nations, even as inequality between nations has decreased' ifadesi, ülkeler içindeki eşitsizliğin arttığını ancak ülkeler arası eşitsizliğin azaldığını göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, what shift in approach to globalization is occurring?",
+          "options": [
+            "Complete abandonment of international trade",
+            "Movement toward completely unrestricted markets",
+            "Shift from unrestricted globalization to a more managed approach",
+            "Return to colonial economic systems",
+            "Universal adoption of protectionist policies"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajın sonunda 'a potential shift away from unrestricted globalization toward a more managed approach' ifadesi, sınırsız küreselleşmeden daha yönetilen bir yaklaşıma geçiş eğilimini göstermektedir."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'leveraged' mean in the context of the passage?",
+          "options": [
+            "Ignored or avoided",
+            "Used to maximum advantage",
+            "Accidentally discovered",
+            "Completely rejected",
+            "Minimized or reduced"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Leveraged' kelimesi 'maksimum avantaj sağlamak için kullanmak' anlamına gelir. Pasajda Çin ve Güney Kore'nin küresel pazarlara erişimi ekonomik kalkınma için kullandığı belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'outsourced' mean as used in the passage?",
+          "options": [
+            "Improved or enhanced internally",
+            "Contracted out to external suppliers, typically abroad",
+            "Automated using advanced technology",
+            "Eliminated completely",
+            "Regulated by government agencies"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Outsourced' kelimesi 'dış kaynak kullanımı, taşeronlaştırma' anlamına gelir. Pasajda gelişmiş ülkelerdeki işlerin düşük ücretli ekonomilere taşındığından bahsedilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's overall tone in this passage?",
+          "options": [
+            "Strongly advocating for unrestricted globalization",
+            "Completely opposed to international trade",
+            "Balanced and analytical, presenting multiple perspectives",
+            "Emotional and biased against developing countries",
+            "Indifferent to economic policy issues"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Yazar, küreselleşme konusunda dengeli ve analitik bir ton kullanmaktadır. Hem faydaları hem de dezavantajları objektif bir şekilde sunarak farklı perspektifleri yansıtmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Psychology & Human Behavior",
+      "topic": "Psychology",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The concept of cognitive biases—systematic patterns of deviation from rationality in judgment—has revolutionized our understanding of human decision-making processes. For centuries, economists and philosophers operated under the assumption that humans are fundamentally rational actors who make decisions by carefully weighing costs and benefits. This notion of *homo economicus*, the perfectly rational economic agent, dominated Western thought until psychologists Daniel Kahneman and Amos Tversky conducted groundbreaking research in the 1970s that demonstrated how consistently humans deviate from rational decision-making. Their work identified numerous cognitive biases that affect how people process information and make choices. Confirmation bias, perhaps the most pervasive of these mental shortcuts, describes our tendency to search for, interpret, and recall information in ways that confirm our preexisting beliefs while dismissing contradictory evidence. This bias has profound implications in the age of social media, where algorithms often create echo chambers that reinforce users' existing viewpoints, rarely exposing them to alternative perspectives. The availability heuristic represents another common bias, whereby people judge the probability of events based on how easily examples come to mind rather than on actual statistical likelihood. For instance, after seeing news coverage of airplane crashes, individuals often overestimate the dangers of air travel despite it being statistically one of the safest forms of transportation. The anchoring effect demonstrates how arbitrary initial values can influence subsequent judgments; studies have shown that even completely random numbers presented before a decision can significantly affect the choices people make. Understanding these biases is crucial not only for individual self-awareness but also for designing better systems in fields ranging from public policy to user interface design. However, recognizing that we possess these biases does not automatically eliminate their influence—they operate largely at an unconscious level, making them resistant to simple awareness or willpower.",
+        "wordCount": 304
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The history of economic theory development",
+            "The biography of Kahneman and Tversky",
+            "How cognitive biases affect human decision-making",
+            "The dangers of social media algorithms",
+            "Statistical analysis of transportation safety"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasaj, bilişsel önyargıların insan karar verme süreçlerini nasıl etkilediğine odaklanmaktadır. Çeşitli önyargı türleri ve etkileri detaylı olarak ele alınmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best summarizes the passage's central argument?",
+          "options": [
+            "Humans are perfectly rational decision-makers",
+            "Cognitive biases systematically distort human judgment and are difficult to overcome",
+            "Social media is the primary cause of irrational behavior",
+            "Economic theory accurately predicts human behavior",
+            "Awareness of biases completely eliminates their influence"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın temel argümanı, bilişsel önyargıların insan yargısını sistematik olarak çarpıttığı ve bilinçli farkındalıkla bile üstesinden gelinmesinin zor olduğudur."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "When did Kahneman and Tversky conduct their groundbreaking research?",
+          "options": [
+            "1950s",
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda açıkça 'conducted groundbreaking research in the 1970s' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "According to the passage, what does confirmation bias describe?",
+          "options": [
+            "Our tendency to forget important information",
+            "Our tendency to seek information that confirms existing beliefs",
+            "Our tendency to make quick decisions under pressure",
+            "Our tendency to follow majority opinions",
+            "Our tendency to avoid making any decisions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'our tendency to search for, interpret, and recall information in ways that confirm our preexisting beliefs' ifadesi doğrulama önyargısını tanımlamaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What example is given to illustrate the availability heuristic?",
+          "options": [
+            "Social media echo chambers",
+            "Economic decision-making",
+            "Overestimating airplane crash dangers after news coverage",
+            "Random number influence on decisions",
+            "Political polling accuracy"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda uçak kazalarıyla ilgili haber görüntüleri sonrasında insanların hava yolculuğunun tehlikelerini abartması, erişilebilirlik sezgisine örnek olarak verilmektedir."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the concept of *homo economicus*?",
+          "options": [
+            "It accurately describes human decision-making",
+            "It has been supported by recent psychological research",
+            "It was an oversimplified model challenged by cognitive bias research",
+            "It originated in the work of Kahneman and Tversky",
+            "It only applies to economic decisions"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda *homo economicus* kavramının, Kahneman ve Tversky'nin insanların rasyonel karar vermeden nasıl sapma gösterdiğini kanıtlayan araştırmaları tarafından sorgulandığı belirtilmektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, why is understanding cognitive biases important?",
+          "options": [
+            "Only for academic research purposes",
+            "For designing better systems in various fields and individual self-awareness",
+            "Exclusively for social media companies",
+            "Only for psychologists and therapists",
+            "To completely eliminate biased thinking"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'Understanding these biases is crucial not only for individual self-awareness but also for designing better systems in fields ranging from public policy to user interface design' ifadesi yer almaktadır."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'pervasive' mean in the context of the passage?",
+          "options": [
+            "Rare and uncommon",
+            "Spreading widely and affecting many areas",
+            "Temporary and fleeting",
+            "Easily controllable",
+            "Scientifically disputed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Pervasive' kelimesi 'yaygın, her yere yayılan' anlamına gelir. Pasajda doğrulama önyargısının en yaygın zihinsel kısayol olduğu belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'arbitrary' mean as used in the passage?",
+          "options": [
+            "Carefully calculated and precise",
+            "Based on random choice rather than reason",
+            "Scientifically proven",
+            "Politically motivated",
+            "Highly significant"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Arbitrary' kelimesi 'keyfi, rastgele' anlamına gelir. Pasajda tamamen rastgele sayıların bile sonraki kararları etkileyebildiği belirtilerek çıpalama etkisi açıklanmaktadır."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's primary purpose in writing this passage?",
+          "options": [
+            "To criticize economic theory",
+            "To educate readers about cognitive biases and their impact",
+            "To promote specific psychological treatments",
+            "To discourage the use of social media",
+            "To argue against scientific research methods"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazarın amacı, okuyucuları bilişsel önyargılar ve bunların karar verme üzerindeki etkileri hakkında bilgilendirmektir. Nesnel ve eğitici bir ton kullanılmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "History & Archaeology",
+      "topic": "History",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The discovery of Göbekli Tepe in southeastern Turkey has fundamentally challenged archaeologists' understanding of the Neolithic Revolution and the development of human civilization. Unearthed in the 1990s by German archaeologist Klaus Schmidt, this archaeological site dates to approximately 9600 BCE, making it older than Stonehenge by some 6,000 years and predating the invention of writing, pottery, and even agriculture. What makes Göbekli Tepe particularly extraordinary is that it appears to be the world's first monumental architecture—massive T-shaped limestone pillars, some weighing up to 16 tons, arranged in circular formations and decorated with intricate carvings of animals including lions, snakes, and vultures. The conventional narrative of human development suggested that agriculture came first, leading to permanent settlements, which eventually allowed surplus food production that freed some individuals to pursue specialized activities like monumental construction. Göbekli Tepe turns this sequence on its head: here we have hunter-gatherers, with no evidence of domesticated plants or animals, somehow organizing themselves to quarry, transport, and erect massive stone monuments. This discovery has led researchers to propose a radical revision of our understanding: perhaps the desire to construct sacred spaces and gather for ritual purposes actually preceded and motivated the development of agriculture, rather than the reverse. The social organization required to build Göbekli Tepe would have necessitated coordinating the labor of hundreds of people, suggesting complex social hierarchies existed earlier than previously thought. Furthermore, the site's apparent deliberate burial around 8000 BCE—covered with tons of soil for reasons unknown—adds another layer of mystery. Some archaeologists speculate that shifting belief systems or environmental changes led to the site's abandonment, while others suggest the burial itself may have held ritual significance. Regardless, Göbekli Tepe serves as a profound reminder that human history contains far more complexity than linear narratives can capture.",
+        "wordCount": 303
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the central theme of this passage?",
+          "options": [
+            "The archaeological techniques used in Turkey",
+            "How Göbekli Tepe challenges traditional theories of civilization development",
+            "The comparison between Göbekli Tepe and Stonehenge",
+            "The biography of Klaus Schmidt",
+            "Ancient animal carvings in the Middle East"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın ana teması, Göbekli Tepe'nin geleneksel uygarlık gelişimi teorilerini nasıl sorguladığıdır. Tarım öncesi toplumların anıtsal yapılar inşa edebilmesi, konvansiyonel anlatıyı tersine çevirmektedir."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which best describes the significance of Göbekli Tepe according to the passage?",
+          "options": [
+            "It proves agriculture was invented in Turkey",
+            "It suggests monumental construction and ritual may have preceded agriculture",
+            "It demonstrates that writing existed earlier than believed",
+            "It shows that pottery was invented before agriculture",
+            "It confirms the conventional narrative of human development"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'perhaps the desire to construct sacred spaces and gather for ritual purposes actually preceded and motivated the development of agriculture' ifadesi, Göbekli Tepe'nin önemini vurgulamaktadır."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "When was Göbekli Tepe discovered?",
+          "options": [
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s",
+            "2000s"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Pasajda açıkça 'Unearthed in the 1990s by German archaeologist Klaus Schmidt' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "Approximately how old is Göbekli Tepe?",
+          "options": [
+            "3000 BCE",
+            "5000 BCE",
+            "7000 BCE",
+            "9600 BCE",
+            "11000 BCE"
+          ],
+          "correctAnswer": 3,
+          "explanation": "Pasajda 'this archaeological site dates to approximately 9600 BCE' ifadesi yer almaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What animals are mentioned as being carved on the pillars?",
+          "options": [
+            "Horses, sheep, and cattle",
+            "Lions, snakes, and vultures",
+            "Bears, wolves, and eagles",
+            "Deer, boars, and foxes",
+            "Camels, goats, and birds"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'decorated with intricate carvings of animals including lions, snakes, and vultures' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the social organization of Göbekli Tepe's builders?",
+          "options": [
+            "They lived in complete isolation from other groups",
+            "They had simple, egalitarian social structures",
+            "They possessed complex social hierarchies capable of coordinating large labor forces",
+            "They had no religious or ritual practices",
+            "They were primarily agricultural communities"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'The social organization required to build Göbekli Tepe would have necessitated coordinating the labor of hundreds of people, suggesting complex social hierarchies existed' ifadesi bu çıkarımı desteklemektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, what does the conventional narrative of human development suggest?",
+          "options": [
+            "Monumental architecture came before agriculture",
+            "Agriculture led to settlements, which enabled specialized activities like construction",
+            "Hunter-gatherers never built permanent structures",
+            "Writing was invented before agriculture",
+            "Ritual spaces were built only after cities developed"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'The conventional narrative of human development suggested that agriculture came first, leading to permanent settlements, which eventually allowed surplus food production that freed some individuals to pursue specialized activities' ifadesi geleneksel anlatıyı açıklamaktadır."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'monumental' mean in the context of 'monumental architecture'?",
+          "options": [
+            "Small and portable",
+            "Temporary and easily dismantled",
+            "Large, impressive, and built to last",
+            "Purely decorative with no function",
+            "Underground and hidden"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Monumental' kelimesi 'anıtsal, büyük ve etkileyici' anlamına gelir. Pasajda devasa taş sütunlardan oluşan yapılar tanımlanmaktadır."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'necessitated' mean as used in the passage?",
+          "options": [
+            "Prevented or blocked",
+            "Made unnecessary",
+            "Made necessary or required",
+            "Simplified or reduced",
+            "Discouraged or opposed"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Necessitated' kelimesi 'gerektirmek, zorunlu kılmak' anlamına gelir. Pasajda Göbekli Tepe'nin inşasının yüzlerce insanın emeğinin koordinasyonunu gerektirdiği belirtilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's tone throughout this passage?",
+          "options": [
+            "Skeptical and dismissive of archaeological findings",
+            "Enthusiastic about how discoveries challenge existing theories",
+            "Critical of previous archaeological work",
+            "Indifferent to historical significance",
+            "Humorous and lighthearted"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, Göbekli Tepe'nin mevcut teorileri nasıl sorguladığı konusunda hevesli ve ilgili bir ton kullanmaktadır. Keşfin önemi ve karmaşıklığı vurgulanarak bilimsel merak uyandırılmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Literature & Philosophy",
+      "topic": "Literature",
+      "timeLimit": 15,
+      "passage": {
+        "text": "Existentialism, a philosophical movement that flourished in mid-20th century Europe, particularly in France, confronts fundamental questions about human existence, freedom, and responsibility in a universe seemingly devoid of inherent meaning. Unlike many previous philosophical traditions that sought to discover universal truths or divine purposes, existentialist thinkers like Jean-Paul Sartre, Albert Camus, and Simone de Beauvoir argued that existence precedes essence—meaning that humans are born without predetermined nature or purpose and must create their own meaning through choices and actions. This perspective emerged partly as a response to the horrors of two world wars, which had shattered faith in rational progress and divine providence. Sartre famously declared that humans are 'condemned to be free,' suggesting that freedom is not merely a privilege but a burden; we cannot escape the responsibility for our choices by appealing to God, fate, or social determinism. This radical freedom generates anxiety, or what Sartre called 'anguish,' as we confront the weight of our decisions without any external authority to guide us. Camus explored similar themes through his concept of the absurd—the conflict between humanity's desire for meaning and the universe's apparent indifference to our concerns. In his essay 'The Myth of Sisyphus,' Camus uses the Greek mythological figure condemned to eternally roll a boulder up a mountain, only to watch it roll back down, as a metaphor for human existence. Yet rather than advocating despair, Camus argued we must imagine Sisyphus happy, finding meaning not in achieving final goals but in the struggle itself. Existentialism profoundly influenced literature, with writers like Franz Kafka, Fyodor Dostoevsky, and Samuel Beckett exploring themes of alienation, freedom, and the search for meaning in their works. Critics of existentialism argue that its emphasis on radical individual freedom ignores social constraints and responsibilities, and that its rejection of universal values leads to moral relativism. Despite these criticisms, existentialist insights about authenticity, freedom, and responsibility continue to resonate in contemporary discussions of ethics and identity.",
+        "wordCount": 326
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The biography of Jean-Paul Sartre",
+            "The core principles and significance of existentialism",
+            "The history of 20th century European philosophy",
+            "The differences between French and German philosophy",
+            "The literary techniques of existentialist writers"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasaj, varoluşçuluğun temel ilkelerini (varoluş özden önce gelir, özgürlük, sorumluluk) ve önemini ele almaktadır. Çeşitli düşünürler ve kavramlar bu çerçevede tartışılmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best captures the central existentialist idea presented?",
+          "options": [
+            "Human existence has predetermined meaning given by divine authority",
+            "Humans must create their own meaning through choices and actions",
+            "Social structures determine individual identity completely",
+            "Universal truths exist independent of human experience",
+            "Reason and science provide all answers to life's questions"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın temel varoluşçu fikri, insanların önceden belirlenmiş bir doğası veya amacı olmadığı ve kendi anlamlarını seçimler ve eylemler yoluyla yaratmaları gerektiğidir."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "Which existentialist thinkers are specifically mentioned in the passage?",
+          "options": [
+            "Nietzsche, Heidegger, and Kierkegaard",
+            "Sartre, Camus, and de Beauvoir",
+            "Marx, Engels, and Lenin",
+            "Plato, Aristotle, and Socrates",
+            "Kant, Hegel, and Schopenhauer"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda Jean-Paul Sartre, Albert Camus ve Simone de Beauvoir açıkça bahsedilmektedir."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "According to the passage, what does the myth of Sisyphus represent?",
+          "options": [
+            "The triumph of human will over nature",
+            "The punishment for disobeying the gods",
+            "A metaphor for human existence and the struggle for meaning",
+            "The futility of all human endeavors",
+            "The importance of achieving final goals"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda Camus'nün Sisifos mitini 'as a metaphor for human existence' kullandığı ve anlam bulmanın son hedeflere ulaşmakta değil mücadelenin kendisinde olduğunu savunduğu belirtilmektedir."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What term did Sartre use to describe the anxiety caused by radical freedom?",
+          "options": [
+            "The absurd",
+            "Bad faith",
+            "Anguish",
+            "Alienation",
+            "Despair"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'This radical freedom generates anxiety, or what Sartre called \"anguish\"' ifadesi yer almaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the historical context of existentialism's emergence?",
+          "options": [
+            "It developed during a time of optimism and faith in progress",
+            "It emerged partly in response to the trauma and disillusionment of world wars",
+            "It was unrelated to contemporary historical events",
+            "It reflected universal belief in divine providence",
+            "It originated from economic prosperity"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'This perspective emerged partly as a response to the horrors of two world wars, which had shattered faith in rational progress and divine providence' ifadesi, varoluşçuluğun savaş travması ve hayal kırıklığına tepki olarak ortaya çıktığını göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, what is Camus's view on how humans should respond to the absurd?",
+          "options": [
+            "Embrace despair and give up on life",
+            "Seek religious salvation",
+            "Find meaning in the struggle itself rather than final achievements",
+            "Deny that the absurd exists",
+            "Escape through distractions and entertainment"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'Camus argued we must imagine Sisyphus happy, finding meaning not in achieving final goals but in the struggle itself' ifadesi, Camus'nün görüşünü yansıtmaktadır."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'inherent' mean in the context of the passage?",
+          "options": [
+            "Temporary and changeable",
+            "Existing as a natural or essential characteristic",
+            "Created by human society",
+            "Imposed by external authority",
+            "Learned through education"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Inherent' kelimesi 'doğal, içsel, özünde var olan' anlamına gelir. Pasajda evrenin doğal/özsel bir anlam içermediği belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'relativism' mean as used in the passage?",
+          "options": [
+            "The belief in absolute, universal moral truths",
+            "The view that moral values vary and have no absolute standard",
+            "The practice of comparing different philosophical systems",
+            "The theory that all perspectives are equally valid",
+            "The rejection of all ethical principles"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Relativism' (görecilik) kelimesi, ahlaki değerlerin değişken olduğu ve mutlak bir standardı olmadığı görüşünü ifade eder. Pasajda varoluşçuluğun eleştirilerinden biri olarak bahsedilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's overall tone in this passage?",
+          "options": [
+            "Strongly advocating for existentialism without criticism",
+            "Completely dismissing existentialist philosophy",
+            "Informative and balanced, presenting both strengths and criticisms",
+            "Satirical and mocking toward philosophers",
+            "Emotional and personally invested"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Yazar, varoluşçuluk felsefesini dengeli bir şekilde sunmaktadır. Hem temel fikirlerini açıklayıp önemini vurgulamakta hem de eleştirileri objektif olarak aktarmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Space Exploration & Astronomy",
+      "topic": "Space Science",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The James Webb Space Telescope (JWST), launched in December 2021, represents humanity's most ambitious attempt to peer into the earliest epochs of cosmic history and answer fundamental questions about the universe's origins. Unlike its predecessor, the Hubble Space Telescope, which primarily observes visible and ultraviolet light, JWST specializes in infrared wavelengths, allowing it to detect light from the universe's first galaxies, which has been redshifted into the infrared spectrum by cosmic expansion over billions of years. Positioned at the second Lagrange point (L2), approximately 1.5 million kilometers from Earth, JWST orbits the Sun while maintaining alignment with Earth, enabling continuous observation without the interference of Earth's heat and light. The telescope's primary mirror, composed of 18 hexagonal beryllium segments coated in gold, spans 6.5 meters in diameter—nearly three times larger than Hubble's mirror—providing unprecedented light-gathering capability. This enhanced sensitivity enables JWST to detect extremely faint objects, including potentially habitable exoplanets orbiting distant stars. One of JWST's primary objectives involves studying the period known as the Cosmic Dawn, occurring between 100 million and 250 million years after the Big Bang, when the first stars and galaxies began to form. By analyzing the chemical composition of these ancient celestial bodies, scientists hope to understand how the universe transitioned from a dark, hydrogen-filled void to the rich tapestry of galaxies we observe today. Additionally, JWST will investigate the atmospheres of exoplanets using spectroscopy, searching for biosignatures—chemical indicators that might suggest the presence of life. The telescope's infrared capabilities also allow it to penetrate cosmic dust clouds that obscure visible light, revealing stellar nurseries where new stars are born. Early results from JWST have already challenged existing cosmological models, with observations suggesting that galaxies formed earlier and evolved faster than previously thought possible, prompting scientists to reconsider fundamental assumptions about cosmic evolution.",
+        "wordCount": 307
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The technical specifications of telescope mirrors",
+            "The capabilities and scientific objectives of the James Webb Space Telescope",
+            "The comparison between all space telescopes",
+            "The history of astronomy from ancient times",
+            "The process of launching satellites into orbit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasaj, James Webb Uzay Teleskopu'nun yeteneklerine (kızılötesi gözlem, duyarlılık) ve bilimsel hedeflerine (ilk galaksiler, ötegezegen atmosferleri, Kozmik Şafak dönemi) odaklanmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best summarizes JWST's significance?",
+          "options": [
+            "It is identical to previous telescopes but located farther from Earth",
+            "It represents a major advancement in observing early universe and exoplanets",
+            "It only studies planets within our solar system",
+            "It has confirmed all existing theories about cosmic evolution",
+            "It focuses exclusively on visible light observation"
+          ],
+          "correctAnswer": 1,
+          "explanation": "JWST'nin önemi, erken evreni gözlemleme (ilk galaksiler, Kozmik Şafak) ve ötegezegenleri inceleme konusundaki büyük ilerlemeyi temsil etmesidir."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "When was the James Webb Space Telescope launched?",
+          "options": [
+            "December 2019",
+            "December 2020",
+            "December 2021",
+            "December 2022",
+            "December 2023"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda açıkça 'launched in December 2021' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What is the diameter of JWST's primary mirror?",
+          "options": [
+            "2.4 meters",
+            "4.5 meters",
+            "6.5 meters",
+            "8.5 meters",
+            "10.5 meters"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'spans 6.5 meters in diameter' ifadesi yer almaktadır."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "According to the passage, when did the Cosmic Dawn period occur?",
+          "options": [
+            "1-50 million years after the Big Bang",
+            "50-100 million years after the Big Bang",
+            "100-250 million years after the Big Bang",
+            "250-500 million years after the Big Bang",
+            "500 million-1 billion years after the Big Bang"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'the period known as the Cosmic Dawn, occurring between 100 million and 250 million years after the Big Bang' ifadesi bulunmaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about JWST's infrared capabilities?",
+          "options": [
+            "They limit the telescope's usefulness",
+            "They provide multiple advantages including detecting early galaxies and penetrating dust",
+            "They are identical to Hubble's capabilities",
+            "They only work for nearby objects",
+            "They prevent the study of exoplanets"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajdan kızılötesi yeteneklerin çoklu avantajlar sağladığı çıkarılabilir: erken galaksilerin algılanması (kırmızıya kayma), toz bulutlarına nüfuz etme ve ötegezegen atmosferlerinin incelenmesi."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on early JWST results mentioned in the passage, what impact has the telescope had on cosmological models?",
+          "options": [
+            "It has confirmed all existing theories without any changes",
+            "It has challenged theories by showing galaxies formed earlier than expected",
+            "It has proven the Big Bang theory incorrect",
+            "It has shown that no galaxies existed in early universe",
+            "It has had no impact on scientific understanding"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın sonunda 'Early results from JWST have already challenged existing cosmological models, with observations suggesting that galaxies formed earlier and evolved faster than previously thought possible' ifadesi yer almaktadır."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'redshifted' mean in the context of the passage?",
+          "options": [
+            "Changed to appear more red in color",
+            "Light wavelengths stretched toward the red/infrared end of the spectrum",
+            "Completely blocked by cosmic dust",
+            "Increased in intensity and brightness",
+            "Reflected off planetary surfaces"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Redshifted' terimi, kozmik genişleme nedeniyle ışık dalgaboylarının kızıl/kızılötesi spektrum ucuna doğru uzamasını ifade eder. Pasajda ilk galaksilerden gelen ışığın milyarlarca yıl içinde kızılötesi spektruma kaydığı belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What are 'biosignatures' as mentioned in the passage?",
+          "options": [
+            "Autographs of famous biologists",
+            "Chemical indicators that might suggest the presence of life",
+            "Geological formations on planets",
+            "Telescope calibration markers",
+            "Astronomical distance measurements"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Biosignatures' (biyobelirteçler) 'chemical indicators that might suggest the presence of life' olarak tanımlanmaktadır. JWST'nin ötegezegen atmosferlerinde bu belirteçleri aradığı belirtilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's primary purpose in writing this passage?",
+          "options": [
+            "To criticize the cost of space exploration",
+            "To inform readers about JWST's capabilities and scientific importance",
+            "To argue against funding space telescopes",
+            "To compare all existing telescopes in detail",
+            "To promote a specific space agency"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazarın amacı, okuyucuları JWST'nin teknik yetenekleri ve bilimsel önemi hakkında bilgilendirmektir. Objektif ve bilgilendirici bir ton kullanılmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Education Reform & Learning",
+      "topic": "Education",
+      "timeLimit": 15,
+      "passage": {
+        "text": "The traditional classroom model, characterized by teacher-centered instruction with students arranged in rows facing forward, has dominated formal education for over a century, yet mounting evidence suggests this approach may not align with contemporary understanding of how humans learn most effectively. Cognitive science research reveals that active learning strategies—where students engage directly with material through problem-solving, discussion, and hands-on activities—produce significantly better retention and deeper understanding than passive lecture-based instruction. Despite this evidence, educational institutions often resist implementing pedagogical reforms, partly due to institutional inertia, inadequate teacher training, and the logistical challenges of transforming established systems. The concept of personalized learning has gained traction as technology enables customization of educational experiences to individual students' needs, abilities, and interests. Adaptive learning software can assess a student's current knowledge level and adjust the difficulty and type of content accordingly, potentially addressing the long-standing challenge that traditional classrooms struggle to accommodate students with diverse learning speeds and styles simultaneously. However, critics warn that over-reliance on technology risks exacerbating educational inequality, as schools in affluent areas gain access to cutting-edge tools while under-resourced institutions fall further behind. Moreover, excessive screen time and reduced human interaction may impair social-emotional development, which research increasingly recognizes as crucial for long-term success. The debate over standardized testing exemplifies broader tensions in education reform. Proponents argue that standardized assessments provide objective measures of student achievement and hold schools accountable for educational outcomes, while opponents contend that such tests encourage teaching to the test, narrow the curriculum by emphasizing easily measurable skills, and disadvantage students from diverse cultural and linguistic backgrounds. Finland's education system, frequently cited as a model of success, takes a notably different approach: minimal standardized testing, highly trained teachers granted substantial professional autonomy, and emphasis on student well-being alongside academic achievement. Ultimately, effective education reform requires balancing innovation with evidence-based practices, ensuring equitable access to resources, and recognizing that learning is a complex, multifaceted process that cannot be reduced to any single methodology or metric.",
+        "wordCount": 340
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the central theme of this passage?",
+          "options": [
+            "The superiority of traditional classroom methods",
+            "The challenges and considerations in modernizing education systems",
+            "The history of educational institutions",
+            "The benefits of standardized testing",
+            "The technological innovations in schools"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın ana teması, eğitim sistemlerini modernleştirmedeki zorluklar ve dikkat edilmesi gereken hususlardır. Aktif öğrenme, kişiselleştirilmiş eğitim, teknoloji kullanımı ve standardize testler gibi konular bu çerçevede tartışılmaktadır."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which best describes the author's overall position on education reform?",
+          "options": [
+            "Complete rejection of all traditional methods",
+            "Uncritical embrace of all technological solutions",
+            "Balanced approach recognizing both opportunities and challenges",
+            "Focus solely on standardized testing improvements",
+            "Advocacy for eliminating teacher autonomy"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Yazar, eğitim reformuna dengeli bir yaklaşım sergilemektedir. Hem yeniliklerin fırsatlarını hem de zorluklarını (eşitsizlik, sosyal-duygusal gelişim) ele alarak kanıta dayalı uygulamaların önemini vurgulamaktadır."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "According to the passage, what does cognitive science research reveal about active learning?",
+          "options": [
+            "It is less effective than passive lecture-based instruction",
+            "It produces significantly better retention and deeper understanding",
+            "It only works for advanced students",
+            "It requires no teacher involvement",
+            "It is identical to traditional methods"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'Cognitive science research reveals that active learning strategies...produce significantly better retention and deeper understanding than passive lecture-based instruction' ifadesi yer almaktadır."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What characteristics of Finland's education system are mentioned?",
+          "options": [
+            "Extensive standardized testing and strict teacher oversight",
+            "Minimal standardized testing, teacher autonomy, and emphasis on well-being",
+            "Complete reliance on technology for instruction",
+            "Elimination of all traditional teaching methods",
+            "Focus exclusively on academic achievement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda Finlandiya eğitim sisteminin özellikleri olarak 'minimal standardized testing, highly trained teachers granted substantial professional autonomy, and emphasis on student well-being alongside academic achievement' belirtilmektedir."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What challenge does adaptive learning software aim to address?",
+          "options": [
+            "Teacher shortages in schools",
+            "High costs of education",
+            "Accommodating students with diverse learning speeds and styles",
+            "Lack of textbooks and materials",
+            "School building infrastructure"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda adaptif öğrenme yazılımının 'potentially addressing the long-standing challenge that traditional classrooms struggle to accommodate students with diverse learning speeds and styles simultaneously' hedeflendiği belirtilmektedir."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the relationship between technology and educational equality?",
+          "options": [
+            "Technology automatically creates educational equality",
+            "Technology has no impact on educational equality",
+            "Technology can potentially worsen inequality if access is unequal",
+            "Only wealthy schools oppose using technology",
+            "Technology is universally accessible to all students"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda 'over-reliance on technology risks exacerbating educational inequality, as schools in affluent areas gain access to cutting-edge tools while under-resourced institutions fall further behind' ifadesi, eşitsiz erişimin eşitsizliği kötüleştirebileceğini göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, why do educational institutions resist implementing reforms?",
+          "options": [
+            "All reforms are proven to be ineffective",
+            "Teachers universally oppose any changes",
+            "Institutional inertia, inadequate training, and logistical challenges",
+            "Students prefer traditional methods",
+            "Research supports only traditional approaches"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda reform direncinin nedenleri olarak 'institutional inertia, inadequate teacher training, and the logistical challenges of transforming established systems' belirtilmektedir."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'pedagogical' mean in the context of the passage?",
+          "options": [
+            "Related to school buildings and facilities",
+            "Related to teaching methods and educational practices",
+            "Related to student behavior management",
+            "Related to educational funding",
+            "Related to school administration"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Pedagogical' kelimesi 'pedagojik, öğretim yöntemleri ve eğitim uygulamalarıyla ilgili' anlamına gelir. Pasajda 'pedagogical reforms' ifadesi öğretim reformlarını ifade etmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'exacerbating' mean as used in the passage?",
+          "options": [
+            "Solving or eliminating",
+            "Making worse or more severe",
+            "Carefully analyzing",
+            "Maintaining at current level",
+            "Slightly improving"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Exacerbating' kelimesi 'kötüleştirmek, ağırlaştırmak' anlamına gelir. Pasajda teknolojiye aşırı bağımlılığın eğitimsel eşitsizliği kötüleştirme riski taşıdığı belirtilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's tone throughout this passage?",
+          "options": [
+            "Strongly advocating for complete elimination of traditional education",
+            "Thoughtful and nuanced, presenting multiple perspectives",
+            "Dismissive of all educational research",
+            "Enthusiastically promoting technology without reservations",
+            "Cynical about any possibility of improvement"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Yazar, düşünceli ve nüanslı bir ton kullanarak eğitim reformunun farklı yönlerini ele almaktadır. Hem fırsatları hem de riskleri objektif bir şekilde sunarak çoklu perspektifler yansıtılmaktadır."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Sociology & Urban Development",
+      "topic": "Sociology",
+      "timeLimit": 15,
+      "passage": {
+        "text": "Gentrification, the process by which urban neighborhoods undergo transformation as wealthier residents move in, property values increase, and long-standing lower-income communities are displaced, has become one of the most contentious issues in contemporary urban sociology. This phenomenon typically begins when artists, students, or young professionals, attracted by affordable rents and bohemian character, settle in working-class or economically depressed neighborhoods. Their presence often catalyzes a cycle of urban renewal: renovated buildings, new cafes and boutiques, improved public spaces, and eventually, rising property values that price out original residents. Proponents of gentrification argue that it revitalizes neglected urban areas, reduces crime, improves infrastructure, and increases tax revenue that can fund public services. They contend that economic development benefits all residents by creating jobs and improving quality of life. However, critics emphasize the profound social costs that accompany physical improvements. Long-term residents, often from marginalized communities who have maintained neighborhood cohesion through economic hardship, find themselves unable to afford rising rents and property taxes, forcing them to relocate and severing community bonds built over generations. This displacement disproportionately affects elderly residents, people of color, and low-income families, exacerbating existing patterns of urban inequality. The cultural dimension of gentrification extends beyond economics; as demographic composition shifts, neighborhood character transforms, with locally-owned businesses replaced by chain stores and authentic cultural institutions giving way to commercialized versions designed to appeal to newcomers' aesthetic preferences. Some urban planners advocate for inclusive development strategies that balance neighborhood improvement with measures to protect existing residents, such as rent control, affordable housing requirements, and community land trusts. These approaches aim to capture gentrification's benefits while mitigating its harmful effects. Yet implementing such policies faces significant obstacles: powerful real estate interests often resist regulations that limit profitability, while the complex interactions of market forces, government policies, and individual choices make outcomes difficult to predict or control. The debate over gentrification reflects broader questions about urban space, belonging, and justice: who has the right to the city, whose vision of urban life should prevail, and how can cities accommodate growth and change while preserving community and equity?",
+        "wordCount": 357
+      },
+      "questions": [
+        {
+          "id": 1,
+          "type": "main_idea",
+          "question": "What is the primary focus of this passage?",
+          "options": [
+            "The history of urban planning in America",
+            "The complex effects and debates surrounding gentrification",
+            "The benefits of real estate investment",
+            "The design of public spaces in cities",
+            "The migration patterns of artists"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasaj, soylulaştırmanın karmaşık etkilerini ve çevresindeki tartışmaları ele almaktadır. Hem savunucuların hem de eleştirmenlerin görüşleri, sosyal maliyetler ve olası çözümler incelenmektedir."
+        },
+        {
+          "id": 2,
+          "type": "main_idea",
+          "question": "Which statement best captures the central tension discussed in the passage?",
+          "options": [
+            "Whether urban areas should exist at all",
+            "The conflict between neighborhood improvement and resident displacement",
+            "Whether artists should live in cities",
+            "The debate over public versus private property",
+            "The superiority of urban versus rural living"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajın ana gerilimi, mahalle iyileştirmesi ile mevcut sakinlerin yerinden edilmesi arasındaki çatışmadır. Bu tema tüm pasaj boyunca işlenmektedir."
+        },
+        {
+          "id": 3,
+          "type": "detail",
+          "question": "According to the passage, who typically initiates the gentrification process?",
+          "options": [
+            "Large corporations and chain stores",
+            "Government urban planners",
+            "Artists, students, or young professionals seeking affordable rents",
+            "Elderly residents and retirees",
+            "Real estate developers"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda soylulaştırma sürecinin genellikle 'when artists, students, or young professionals, attracted by affordable rents and bohemian character, settle in working-class or economically depressed neighborhoods' şeklinde başladığı belirtilmektedir."
+        },
+        {
+          "id": 4,
+          "type": "detail",
+          "question": "What benefits of gentrification do proponents cite?",
+          "options": [
+            "Preservation of all original residents",
+            "Elimination of all economic development",
+            "Revitalization, crime reduction, infrastructure improvement, and increased tax revenue",
+            "Maintenance of low property values",
+            "Prevention of any neighborhood changes"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda savunucuların argümanları olarak 'revitalizes neglected urban areas, reduces crime, improves infrastructure, and increases tax revenue' belirtilmektedir."
+        },
+        {
+          "id": 5,
+          "type": "detail",
+          "question": "What strategies for inclusive development are mentioned?",
+          "options": [
+            "Complete prohibition of all new development",
+            "Unrestricted market-driven growth",
+            "Rent control, affordable housing requirements, and community land trusts",
+            "Elimination of all existing residents",
+            "Mandatory gentrification in all neighborhoods"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Pasajda kapsayıcı kalkınma stratejileri olarak 'rent control, affordable housing requirements, and community land trusts' sayılmaktadır."
+        },
+        {
+          "id": 6,
+          "type": "inference",
+          "question": "What can be inferred about the relationship between gentrification and inequality?",
+          "options": [
+            "Gentrification eliminates all forms of inequality",
+            "Gentrification can exacerbate existing patterns of urban inequality",
+            "Inequality has no connection to gentrification",
+            "Only wealthy residents are affected by gentrification",
+            "Gentrification only occurs in equal societies"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda 'This displacement disproportionately affects elderly residents, people of color, and low-income families, exacerbating existing patterns of urban inequality' ifadesi, soylulaştırmanın mevcut eşitsizlik kalıplarını kötüleştirebileceğini göstermektedir."
+        },
+        {
+          "id": 7,
+          "type": "inference",
+          "question": "Based on the passage, why is implementing inclusive development policies difficult?",
+          "options": [
+            "All residents unanimously oppose such policies",
+            "Real estate interests resist regulations and market forces are complex",
+            "Such policies have never been attempted",
+            "Government has no authority to implement them",
+            "They are too simple to be effective"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Pasajda politika uygulamanın zorluğu olarak 'powerful real estate interests often resist regulations that limit profitability, while the complex interactions of market forces, government policies, and individual choices make outcomes difficult to predict or control' belirtilmektedir."
+        },
+        {
+          "id": 8,
+          "type": "vocabulary",
+          "question": "What does 'catalyzes' mean in the context of the passage?",
+          "options": [
+            "Prevents or blocks",
+            "Triggers or accelerates a process",
+            "Slowly diminishes",
+            "Carefully analyzes",
+            "Completely stops"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Catalyzes' kelimesi 'katalizlemek, hızlandırmak, tetiklemek' anlamına gelir. Pasajda yeni sakinlerin varlığının kentsel yenileme döngüsünü tetiklediği belirtilmektedir."
+        },
+        {
+          "id": 9,
+          "type": "vocabulary",
+          "question": "What does 'marginalized' mean as used in the passage?",
+          "options": [
+            "Centrally located and privileged",
+            "Treated as insignificant or pushed to the edges of society",
+            "Highly educated and wealthy",
+            "Politically powerful",
+            "Culturally dominant"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Marginalized' kelimesi 'marjinalleşmiş, toplumun kenarına itilmiş, önemsiz görülen' anlamına gelir. Pasajda uzun süreli sakinlerin genellikle marjinalleşmiş topluluklardan olduğu belirtilmektedir."
+        },
+        {
+          "id": 10,
+          "type": "purpose_tone",
+          "question": "What is the author's overall approach to the topic of gentrification?",
+          "options": [
+            "Strongly advocating for unrestricted gentrification",
+            "Completely opposing all urban development",
+            "Presenting multiple perspectives and raising broader questions about urban justice",
+            "Focusing exclusively on economic benefits",
+            "Dismissing social concerns as irrelevant"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Yazar, soylulaştırma konusunda çoklu perspektifler sunmakta ve kentsel adalet hakkında daha geniş sorular ortaya koymaktadır. Dengeli ve analitik bir yaklaşım sergilenmektedir."
+        }
+      ]
+    }
+  ]
+}

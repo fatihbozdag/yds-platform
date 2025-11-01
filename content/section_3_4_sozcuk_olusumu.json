@@ -1,0 +1,342 @@
+{
+  "section": "3.4",
+  "title": "Sözcük Oluşumu (Word Formation)",
+  "topics": [
+    {
+      "id": "3.4.1",
+      "title": "Prefix Anlam Grupları: un-, dis-, mis-, over-, under-",
+      "content": "Prefixler (önekler), kelimenin başına eklenerek anlamını değiştiren veya genişleten yapılardır. YDS/YÖKDİL sınavlarında prefix bilgisi hem kelime seçimi sorularında hem de word formation bölümlerinde test edilir. Prefix'leri anlam gruplarına göre öğrenmek, bilinmeyen kelimelerin anlamını tahmin etmeyi kolaylaştırır.\n\nUN- (Olumsuzluk/Tersine Çevirme): En yaygın olumsuzluk prefix'idir ve genellikle sıfat ve fiillere eklenir. Sıfatlara: UNABLE (yeteneksiz), UNCLEAR (belirsiz), UNCOMMON (nadir), UNACCEPTABLE (kabul edilemez), UNNECESSARY (gereksiz), UNAWARE (farkında değil), UNFAIR (adil değil), UNLIKELY (olası değil), UNSTABLE (kararsız), UNPRECEDENTED (emsalsiz, benzeri görülmemiş). Fiillere: UNDO (geri almak), UNLOCK (kilidini açmak), UNCOVER (ortaya çıkarmak), UNDERMINE (baltalamak - ancak bu 'under-' prefix'i değil), UNFOLD (açılmak, gelişmek).\n\nDIS- (Olumsuzluk/Ayrılma/Tersine Çevirme): Genellikle fiil ve isimlere eklenir ve 'olmama, ayrılma, tersine yapma' anlamları verir. DISAGREE (aynı fikirde olmamak), DISAPPEAR (kaybolmak), DISAPPROVE (onaylamamak), DISCOURAGE (cesaretini kırmak), DISCOVER (keşfetmek), DISORDER (düzensizlik, bozukluk), DISADVANTAGE (dezavantaj), DISCONTINUE (durdurmak), DISPLACE (yerini değiştirmek), DISRUPT (bozmak), DISSATISFACTION (memnuniyetsizlik), DISTINGUISH (ayırt etmek - ancak bu 'dis-' prefix değil, Latince kökten gelir).\n\nMIS- (Yanlış/Hatalı): Genellikle fiillere eklenir ve 'yanlış yapma, hatalı anlama' anlamı verir. MISUNDERSTAND (yanlış anlamak), MISINTERPRET (yanlış yorumlamak), MISLEAD (yanıltmak), MISINFORM (yanlış bilgilendirmek), MISUSE (yanlış kullanmak), MISBEHAVE (kötü davranmak), MISPLACE (yanlış yere koymak), MISREPRESENT (yanlış temsil etmek), MISCALCULATE (yanlış hesaplamak), MISCONCEPTION (yanlış kanı), MISTAKE (hata), MISJUDGE (yanlış değerlendirmek).\n\nOVER- (Aşırı/Fazla/Üzerinde): 'Aşırı, fazla, üzerinde' anlamları verir. OVERESTIMATE (olduğundan fazla tahmin etmek), OVERSTATE (abartmak), OVERLOOK (gözden kaçırmak), OVERCOME (üstesinden gelmek), OVERWHELMING (ezici), OVERLOAD (aşırı yüklemek), OVERPOPULATION (aşırı nüfus), OVERREACT (aşırı tepki vermek), OVERTAKE (geçmek, sollamak), OVERWEIGHT (fazla kilolu), OVERSEAS (deniz aşırı, yurtdışı).\n\nUNDER- (Yetersiz/Altında): 'Yetersiz, az, altında' anlamları verir. UNDERESTIMATE (küçümsemek, az tahmin etmek), UNDERSTATE (küçümsemek, hafife almak), UNDERLYING (altında yatan, temel), UNDERGO (maruz kalmak, geçirmek), UNDERGRADUATE (lisans öğrencisi), UNDERSTAND (anlamak - ancak bu prefix anlamıyla ilgisiz), UNDERDEVELOPED (az gelişmiş), UNDERMINE (baltalamak), UNDERNEATH (altında), UNDERPERFORM (beklenenin altında performans göstermek).",
+      "examples": [
+        "The results were unprecedented in the history of cognitive science research.",
+        "It is unacceptable to submit plagiarized work in academic contexts.",
+        "The committee disagreed on the proposed changes to the curriculum.",
+        "Climate change may cause the displacement of millions of people.",
+        "Students often misinterpret complex grammatical structures in academic texts.",
+        "The study addresses common misconceptions about second language acquisition.",
+        "Critics argue that the report overstates the benefits of the new policy.",
+        "Researchers should not overlook the importance of cultural factors.",
+        "The evidence is overwhelming that early intervention improves outcomes.",
+        "The results underestimate the true extent of the problem.",
+        "The underlying causes of the phenomenon remain poorly understood.",
+        "Participants underwent extensive training before the experiment began.",
+        "The theory was unable to account for the unexpected findings.",
+        "The sudden policy change caused considerable disruption to the program.",
+        "There is a widespread misunderstanding about the purpose of the study."
+      ],
+      "exercises": [
+        {
+          "question": "The earthquake caused ---- damage to the infrastructure, leaving thousands homeless.",
+        "options": [
+            "unprecedented",
+            "precedented",
+            "unpreceded",
+            "disprecedented",
+            "misprecedented"
+          ],
+          "correct": 0,
+          "explanation": "'Unprecedented' (UN- + precedent + -ED) 'emsalsiz, benzeri görülmemiş' anlamına gelir ve disaster/damage/scale gibi kelimelerle güçlü bir kollokasyon oluşturur."
+        },
+        {
+          "question": "The professor's explanation was ---- and left many students confused about the topic.",
+          "options": [
+            "unclear",
+            "unclearly",
+            "clearless",
+            "disclear",
+            "misclear"
+          ],
+          "correct": 0,
+          "explanation": "'Unclear' (UN- + clear) 'belirsiz, anlaşılmaz' anlamına gelir. UN- prefix'i sıfatlara eklenerek olumsuz anlam verir."
+        },
+        {
+          "question": "The two linguists ---- on the interpretation of the experimental data.",
+          "options": [
+            "disagreed",
+            "unagreed",
+            "misagreed",
+            "overagreed",
+            "underagreed"
+          ],
+          "correct": 0,
+          "explanation": "'Disagree' (DIS- + agree) 'aynı fikirde olmamak' anlamına gelir. DIS- prefix'i olumsuzluk ve ayrılma anlamı verir."
+        },
+        {
+          "question": "Many people ---- the complexity of learning a second language as an adult.",
+          "options": [
+            "underestimate",
+            "overestimate",
+            "misestimate",
+            "unestimate",
+            "disestimate"
+          ],
+          "correct": 0,
+          "explanation": "'Underestimate' (UNDER- + estimate) 'küçümsemek, az tahmin etmek' anlamına gelir. UNDER- prefix'i 'yetersiz, az' anlamı verir."
+        },
+        {
+          "question": "Students frequently ---- academic texts due to unfamiliar vocabulary and complex syntax.",
+          "options": [
+            "misinterpret",
+            "uninterpret",
+            "disinterpret",
+            "overinterpret",
+            "underinterpret"
+          ],
+          "correct": 0,
+          "explanation": "'Misinterpret' (MIS- + interpret) 'yanlış yorumlamak' anlamına gelir. MIS- prefix'i 'yanlış, hatalı' anlamı verir."
+        },
+        {
+          "question": "The study revealed a common ---- that grammar instruction is unnecessary for language acquisition.",
+          "options": [
+            "misconception",
+            "unconception",
+            "disconception",
+            "overconception",
+            "underconception"
+          ],
+          "correct": 0,
+          "explanation": "'Misconception' (MIS- + conception) 'yanlış kanı, yanlış anlayış' anlamına gelir ve akademik yazıda sıkça kullanılır."
+        },
+        {
+          "question": "The media tends to ---- the negative effects of social media on mental health.",
+          "options": [
+            "overstate",
+            "understate",
+            "misstate",
+            "unstate",
+            "disstate"
+          ],
+          "correct": 0,
+          "explanation": "'Overstate' (OVER- + state) 'abartmak, olduğundan fazla göstermek' anlamına gelir. OVER- prefix'i 'aşırı, fazla' anlamı verir."
+        },
+        {
+          "question": "It would be ---- to ignore the role of motivation in language learning success.",
+          "options": [
+            "unwise",
+            "diswise",
+            "miswise",
+            "overwise",
+            "underwise"
+          ],
+          "correct": 0,
+          "explanation": "'Unwise' (UN- + wise) 'akıllıca olmayan' anlamına gelir. UN- prefix'i sıfatlara eklenerek olumsuz anlam verir."
+        },
+        {
+          "question": "The sudden change in policy caused ---- to the research project's timeline.",
+          "options": [
+            "disruption",
+            "unruption",
+            "misruption",
+            "overruption",
+            "underruption"
+          ],
+          "correct": 0,
+          "explanation": "'Disruption' (DIS- + rupt + -ION) 'bozulma, aksama' anlamına gelir. DIS- prefix'i 'ayrılma, bozma' anlamı verir."
+        },
+        {
+          "question": "The evidence supporting the theory is ----, making it difficult to reject the hypothesis.",
+          "options": [
+            "overwhelming",
+            "underwhelming",
+            "miswhelming",
+            "unwhelming",
+            "diswhelming"
+          ],
+          "correct": 0,
+          "explanation": "'Overwhelming' (OVER- + whelming) 'ezici, çok güçlü' anlamına gelir ve evidence/support gibi kelimelerle sıkça kullanılır."
+        },
+        {
+          "question": "Researchers should not ---- the importance of replication studies in validating findings.",
+          "options": [
+            "overlook",
+            "underlook",
+            "mislook",
+            "unlook",
+            "dislook"
+          ],
+          "correct": 0,
+          "explanation": "'Overlook' (OVER- + look) 'gözden kaçırmak, görmezden gelmek' anlamına gelir ve akademik söylemde sıkça kullanılır."
+        },
+        {
+          "question": "The ---- causes of language learning difficulties are often related to cognitive factors.",
+          "options": [
+            "underlying",
+            "overlying",
+            "mislying",
+            "unlying",
+            "dislying"
+          ],
+          "correct": 0,
+          "explanation": "'Underlying' (UNDER- + lying) 'altında yatan, temel' anlamına gelir ve causes/factors/principles gibi kelimelerle akademik yazıda çok sık kullanılır."
+        }
+      ]
+    },
+    {
+      "id": "3.4.2",
+      "title": "Suffix Anlam Grupları: -tion, -ment, -ity",
+      "content": "Suffixler (sonekler), kelimenin sonuna eklenerek kelime türünü değiştiren veya anlam ekleyen yapılardır. YDS/YÖKDİL sınavlarında suffix bilgisi, word formation sorularında ve cloze test bölümlerinde kritik öneme sahiptir. Doğru suffix'i seçmek, cümledeki dilbilgisel rolü (noun, verb, adjective, adverb) anlamayı gerektirir.\n\n-TION / -SION / -ATION (İsim Yapıcı): Fiillerden isim türetir ve genellikle 'eylem, süreç, sonuç' anlamı verir. Bu en yaygın akademik isim suffix'idir. -TION: EDUCATION (eğitim), COMMUNICATION (iletişim), INFORMATION (bilgi), CREATION (yaratma), DEFINITION (tanım), EXPLANATION (açıklama), INTERPRETATION (yorum), OBSERVATION (gözlem), INVESTIGATION (araştırma), PUBLICATION (yayın). -SION: DECISION (karar), CONCLUSION (sonuç), DISCUSSION (tartışma), EXPRESSION (ifade), EXPANSION (genişleme), REVISION (gözden geçirme), DIVISION (bölme), CONFUSION (karışıklık), PRECISION (kesinlik). -ATION: MOTIVATION (motivasyon), VARIATION (değişim), CALCULATION (hesaplama), REALIZATION (farkına varma), SPECIALIZATION (uzmanlaşma), IMPLEMENTATION (uygulama), EXAMINATION (sınav, inceleme).\n\n-MENT (İsim Yapıcı): Fiillerden isim türetir ve 'eylem, süreç, sonuç, durum' anlamı verir. DEVELOPMENT (gelişme), IMPROVEMENT (iyileşme), ACHIEVEMENT (başarı), AGREEMENT (anlaşma), ARGUMENT (tartışma), ASSESSMENT (değerlendirme), ASSIGNMENT (ödev), ATTACHMENT (bağlanma), COMMITMENT (bağlılık), DEPARTMENT (bölüm), EMPLOYMENT (istihdam), ENVIRONMENT (çevre), ESTABLISHMENT (kuruluş), GOVERNMENT (hükümet), JUDGMENT/JUDGEMENT (yargı), MANAGEMENT (yönetim), MEASUREMENT (ölçüm), MOVEMENT (hareket), PAYMENT (ödeme), REQUIREMENT (gereklilik), STATEMENT (ifade), TREATMENT (tedavi, işlem).\n\n-ITY / -TY (İsim Yapıcı): Sıfatlardan isim türetir ve 'kalite, durum, özellik' anlamı verir. Bu akademik yazıda çok yaygın bir suffix'tir. -ITY: ABILITY (yetenek), ACTIVITY (etkinlik), COMPLEXITY (karmaşıklık), CREDIBILITY (güvenilirlik), DIVERSITY (çeşitlilik), IDENTITY (kimlik), POSSIBILITY (olasılık), PROBABILITY (olasılık), QUALITY (kalite), QUANTITY (miktar), REALITY (gerçeklik), RELIABILITY (güvenilirlik), SIMILARITY (benzerlik), STABILITY (istikrar), VALIDITY (geçerlilik), VISIBILITY (görünürlük), ACCESSIBILITY (erişilebilirlik), AVAILABILITY (ulaşılabilirlik), PRODUCTIVITY (üretkenlik). -TY: CERTAINTY (kesinlik), DIFFICULTY (zorluk), SAFETY (güvenlik), PROPERTY (mülkiyet, özellik), CLARITY (açıklık), NOVELTY (yenilik).\n\nDiğer Önemli İsim Suffixleri: -NESS (sıfattan isim): AWARENESS (farkındalık), EFFECTIVENESS (etkililik), WEAKNESS (zayıflık), ILLNESS (hastalık). -ANCE/-ENCE: IMPORTANCE (önem), PERFORMANCE (performans), DIFFERENCE (fark), EVIDENCE (kanıt), INFLUENCE (etki). -ISM: CRITICISM (eleştiri), MECHANISM (mekanizma), ORGANISM (organizma). -IST: LINGUIST (dilbilimci), SCIENTIST (bilim insanı), SPECIALIST (uzman).",
+      "examples": [
+        "The implementation of the new curriculum requires careful planning and teacher training.",
+        "Recent developments in neuroscience have transformed our understanding of language.",
+        "The validity of the research findings depends on the reliability of the measurement tools.",
+        "Cultural diversity in the classroom presents both opportunities and challenges for educators.",
+        "There is a strong correlation between motivation and academic achievement.",
+        "The complexity of syntactic structures increases as learners advance in proficiency.",
+        "The government's decision to reduce funding caused considerable controversy.",
+        "Effective communication skills are essential for success in academic environments.",
+        "The researcher's interpretation of the data was challenged by several critics.",
+        "Environmental factors play a crucial role in language acquisition.",
+        "The similarity between the two languages facilitated the learning process.",
+        "Awareness of grammatical structures improves with explicit instruction.",
+        "The effectiveness of the intervention was demonstrated through rigorous testing.",
+        "There is growing evidence that early exposure enhances language learning outcomes.",
+        "The stability of the results across multiple studies increases their credibility."
+      ],
+      "exercises": [
+        {
+          "question": "The research team's main ---- was to determine the factors affecting language retention.",
+          "options": [
+            "objective",
+            "objection",
+            "objectivity",
+            "objectivism",
+            "objectiveness"
+          ],
+          "correct": 0,
+          "explanation": "'Objective' burada isim olarak 'amaç, hedef' anlamında kullanılır. 'Objection' 'itiraz' demektir. Bağlam 'amaç' gerektiriyor."
+        },
+        {
+          "question": "The ---- of the new teaching method showed significant improvements in student performance.",
+          "options": [
+            "implementation",
+            "implement",
+            "implementary",
+            "implementing",
+            "implementive"
+          ],
+          "correct": 0,
+          "explanation": "'Implementation' (implement + -ATION) 'uygulama' anlamında isimdir. 'The' artikel'inden sonra isim gereklidir."
+        },
+        {
+          "question": "The study examined the ---- between socioeconomic status and academic achievement.",
+          "options": [
+            "relationship",
+            "relate",
+            "relating",
+            "relational",
+            "relatively"
+          ],
+          "correct": 0,
+          "explanation": "'Relationship' (relate + -SHIP) 'ilişki' anlamında isimdir. 'The' artikel ve 'examined' fiilinden sonra isim gereklidir."
+        },
+        {
+          "question": "The ---- of the experimental design ensured that the results were reliable.",
+          "options": [
+            "validity",
+            "valid",
+            "validate",
+            "validly",
+            "validation"
+          ],
+          "correct": 0,
+          "explanation": "'Validity' (valid + -ITY) 'geçerlilik' anlamında isimdir ve akademik araştırmalarda temel bir terimdir. Cümlenin öznesi olarak isim gereklidir."
+        },
+        {
+          "question": "Cultural ---- in the classroom requires teachers to adapt their instructional strategies.",
+          "options": [
+            "diversity",
+            "diverse",
+            "diversify",
+            "diversely",
+            "diversification"
+          ],
+          "correct": 0,
+          "explanation": "'Diversity' (diverse + -ITY) 'çeşitlilik' anlamında isimdir. 'Cultural' sıfatından sonra ve özne konumunda isim gereklidir."
+        },
+        {
+          "question": "The ---- between the two research groups led to collaborative publications.",
+          "options": [
+            "cooperation",
+            "cooperate",
+            "cooperative",
+            "cooperatively",
+            "cooperating"
+          ],
+          "correct": 0,
+          "explanation": "'Cooperation' (cooperate + -TION) 'işbirliği' anlamında isimdir. 'The' artikel'inden sonra ve özne konumunda isim gereklidir."
+        },
+        {
+          "question": "The researcher's ---- of the phenomenon provided new insights into the underlying mechanisms.",
+          "options": [
+            "examination",
+            "examine",
+            "examinable",
+            "examining",
+            "examinative"
+          ],
+          "correct": 0,
+          "explanation": "'Examination' (examine + -ATION) 'inceleme' anlamında isimdir. İyelik yapısından (researcher's) sonra isim gereklidir."
+        },
+        {
+          "question": "The study's findings demonstrate the ---- of early intervention in language development.",
+          "options": [
+            "importance",
+            "important",
+            "importantly",
+            "importing",
+            "importable"
+          ],
+          "correct": 0,
+          "explanation": "'Importance' (important + -ANCE) 'önem' anlamında isimdir. 'The' artikel'inden sonra ve 'demonstrate' fiilinin nesnesi olarak isim gereklidir."
+        },
+        {
+          "question": "Recent ---- in technology have transformed the way we conduct linguistic research.",
+          "options": [
+            "developments",
+            "develop",
+            "developing",
+            "developmental",
+            "developmentally"
+          ],
+          "correct": 0,
+          "explanation": "'Developments' (develop + -MENT + -S) 'gelişmeler' anlamında çoğul isimdir. 'Recent' sıfatından sonra ve özne konumunda isim gereklidir."
+        },
+        {
+          "question": "The ---- of grammatical structures varies considerably across different languages.",
+          "options": [
+            "complexity",
+            "complex",
+            "complicate",
+            "complexly",
+            "complexify"
+          ],
+          "correct": 0,
+          "explanation": "'Complexity' (complex + -ITY) 'karmaşıklık' anlamında isimdir. 'The' artikel'inden sonra ve özne konumunda isim gereklidir."
+        },
+        {
+          "question": "The committee's ---- to approve the funding was based on the project's potential impact.",
+          "options": [
+            "decision",
+            "decide",
+            "decisive",
+            "decisively",
+            "deciding"
+          ],
+          "correct": 0,
+          "explanation": "'Decision' (decide + -SION) 'karar' anlamında isimdir. İyelik yapısından (committee's) sonra ve özne konumunda isim gereklidir."
+        },
+        {
+          "question": "The ---- of the theory requires rigorous experimental testing across multiple contexts.",
+          "options": [
+            "validation",
+            "valid",
+            "validate",
+            "validly",
+            "validity"
+          ],
+          "correct": 0,
+          "explanation": "'Validation' (validate + -TION) 'doğrulama' anlamında isimdir. 'The' artikel'inden sonra ve özne konumunda isim gereklidir. 'Validity' 'geçerlilik' demektir ve burada bağlama uymaz."
+        }
+      ]
+    }
+  ]
+}

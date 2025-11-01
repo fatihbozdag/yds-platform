@@ -1,0 +1,510 @@
+{
+  "section": "5.1",
+  "title": "Zaman/Kip Eşleştirmeleri (EN↔TR)",
+  "topics": [
+    {
+      "id": "5.1.1",
+      "title": "Present Perfect ↔ Türkçede Bitmişlik ve Sonuç Değeri",
+      "content": "Present Perfect (have/has + V3) İngilizce'de geçmişte başlayıp şimdiye bağlanan eylemleri, deneyimleri veya sonuçları ifade eder. Türkçe'ye çeviride iki temel strategi vardır: -mIş/-dI eklerinin seçimi ve zamansal bağlamın korunması. YDS/YÖKDİL çeviri sorularında bu yapının doğru aktarımı kritiktir.\n\n**1. Deneyim/Tecrübe (Experience)**: 'I have visited Paris twice' → 'Paris'i iki kez ziyaret ettim' (-dI eki, çünkü deneyim tamamlanmış). Türkçe'de -mIş deneyimler için nadiren kullanılır, -dI daha doğaldır. Örnek: 'Scientists have discovered new species' → 'Bilim insanları yeni türler keşfetti/keşfettiler' (keşfetmiş değil).\n\n**2. Sonuç Değeri (Result/Relevance to Present)**: 'The ice has melted' → 'Buz eridi/ermiş' (her iki ek de olası). Sonuç şimdiki durumu etkiliyorsa -mIş daha vurgulu: 'Buz ermiş' (şimdi sıvı halinde). Örnek: 'Researchers have identified the cause' → 'Araştırmacılar nedeni belirlemiş/belirledi' (belirlemiş: bulgular şimdi mevcut).\n\n**3. Henüz/Yakın Geçmiş (Recent Past with 'just/recently')**: 'The study has just been published' → 'Çalışma yeni/henüz yayımlandı' (-dI daha doğal). 'Just' Türkçe'de 'yeni, henüz, daha yeni' ile karşılanır. Örnek: 'Scientists have recently confirmed' → 'Bilim insanları yakın zamanda doğruladı/doğrulamış'.\n\n**4. Süregelen Durum (Unfinished Time - since/for)**: 'I have lived here for 10 years' → 'Burada 10 yıldır yaşıyorum' (şimdiki zaman + -dIr eki). Türkçe'de süregelen eylemler present tense ile ifade edilir, perfect değil. Örnek: 'Researchers have studied this phenomenon since 1995' → 'Araştırmacılar 1995'ten beri bu fenomeni çalışıyor/inceliyor' (çalışmış değil).\n\n**5. Olumsuz Present Perfect**: 'They haven't found a solution' → 'Bir çözüm bulamadılar/bulamamışlar' (both OK). Örnek: 'The theory has not been confirmed' → 'Teori doğrulanmamış/doğrulanmadı' (doğrulanmamış: hâlâ doğrulanmamış durumda).\n\n**6. Soru Formları**: 'Have you ever visited...?' → 'Hiç ... ziyaret ettiniz mi?' (ever = hiç). 'How long have you...?' → 'Ne zamandır/Ne kadar süredir...?' (present continuous in Turkish).\n\n**Stratejik Notlar**: (a) Türkçe'de -mIş rivayet/dolaylılık da içerdiğinden dikkatli seçilmeli, (b) Akademik metinlerde -dI genellikle tercih edilir (daha nötr), (c) Since/for varsa Türkçe present continuous kullan, (d) 'Already/yet/just/recently' işaretçileri zaman seçimini etkiler.",
+      "examples": [
+        "Experience: Scientists have discovered more than 50 exoplanets → Bilim insanları 50'den fazla ötegezegenbaşkenti keşfetti.",
+        "Result: The ice caps have melted significantly → Buz örtüleri önemli ölçüde eridi/ermiş. (ermiş: sonuç vurgusu)",
+        "Recent: The study has just been published in Nature → Çalışma Nature dergisinde yeni yayımlandı.",
+        "Duration (since): Researchers have investigated this topic since 2005 → Araştırmacılar 2005'ten beri bu konuyu araştırıyor.",
+        "Duration (for): The debate has continued for decades → Tartışma onlarca yıldır sürüyor.",
+        "Negative: The hypothesis has not been tested empirically → Hipotez deneysel olarak test edilmemiş/edilmedi.",
+        "Question: Have linguists identified universal grammar principles? → Dilbilimciler evrensel dilbilgisi ilkeleri belirledi mi?",
+        "Already: The data have already been analyzed → Veriler zaten analiz edildi/edilmiş.",
+        "Yet (negative): The results have not yet been replicated → Sonuçlar henüz tekrarlanmadı/tekrarlanmamış.",
+        "Ever: Has anyone ever observed this phenomenon before? → Daha önce biri hiç bu fenomeni gözlemledi mi?",
+        "Multiple actions: Researchers have collected data, analyzed patterns, and published findings → Araştırmacılar veri topladı, örüntüleri analiz etti ve bulguları yayımladı.",
+        "Passive: The theory has been widely accepted → Teori geniş çapta kabul edildi/edilmiş.",
+        "Passive + agent: New evidence has been discovered by archaeologists → Arkeologlar tarafından yeni kanıtlar keşfedildi.",
+        "Complex: Climate change has affected ecosystems in ways we have only recently begun to understand → İklim değişikliği ekosistemleri ancak yakın zamanda anlamaya başladığımız şekillerde etkiledi.",
+        "Unfinished action: The committee has been reviewing the proposal (and still is) → Komite öneriyi inceliyor (hâlâ). (Present continuous in TR)"
+      ],
+      "exercises": [
+        {
+          "question": "Scientists have discovered a new species of deep-sea fish.\n\nEn doğal Türkçe karşılığı:",
+          "options": [
+            "Bilim insanları yeni bir derin deniz balığı türü keşfetti.",
+            "Bilim insanları yeni bir derin deniz balığı türü keşfetmiştir.",
+            "Bilim insanları yeni bir derin deniz balığı türü keşfediyorlar.",
+            "Bilim insanları yeni bir derin deniz balığı türü keşfetmişlerdir.",
+            "Bilim insanları yeni bir derin deniz balığı türü keşfetmektedirler."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have discovered' (deneyim/tamamlanmış eylem) → 'keşfetti' (-dI eki en doğal). 'Keşfetmiştir' çok resmi, 'keşfetmişlerdir' rivayet tonu (uygunsuz), 'keşfediyorlar' süregelen eylem (metinle çelişir), 'keşfetmektedirler' aşırı resmi ve uygunsuz zaman."
+        },
+        {
+          "question": "The ice has melted completely, threatening coastal communities.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Buz tamamen eridi/ermiş, kıyı toplulukları için tehdit oluşturuyor.",
+            "Buz tamamen eriyor, kıyı toplulukları için tehdit oluşturuyor.",
+            "Buz tamamen erimektedir, kıyı toplulukları için tehdit oluşturmaktadır.",
+            "Buz tamamen eriyecek, kıyı toplulukları için tehdit oluşturacak.",
+            "Buz tamamen eriyordu, kıyı toplulukları için tehdit oluşturuyordu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'has melted' (sonuç vurgusu: buzun erimesi tamamlanmış, şimdi sıvı) → 'eridi/ermiş' (her ikisi OK). İkinci kısım present continuous ('threatening') → 'oluşturuyor'. B erime devam ediyormuş gibi, C çok resmi, D gelecek zaman (yanlış), E geçmiş zaman (yanlış)."
+        },
+        {
+          "question": "Researchers have studied this phenomenon for over two decades.\n\nDoğru Türkçe karşılık:",
+          "options": [
+            "Araştırmacılar yirmi yılı aşkın süredir bu fenomeni çalışıyor/inceliyor.",
+            "Araştırmacılar yirmi yılı aşkın süre bu fenomeni çalıştı.",
+            "Araştırmacılar yirmi yılı aşkın süre bu fenomeni çalışmış.",
+            "Araştırmacılar yirmi yılı aşkın süre bu fenomeni çalışmıştır.",
+            "Araştırmacılar yirmi yılı aşkın süre bu fenomeni çalışacak."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have studied... for two decades' süregelen eylem → Türkçe present continuous + -dIr eki ('çalışıyor/inceliyor'). 'Süredir' kullanımı zorunlu. B-C-D bitmiş eylem gibi (süreğen değil), E gelecek zaman (yanlış)."
+        },
+        {
+          "question": "The study has just been published in a leading journal.\n\nBu cümlenin en doğal Türkçe çevirisi:",
+          "options": [
+            "Çalışma önde gelen bir dergide yeni/henüz yayımlandı.",
+            "Çalışma önde gelen bir dergide yayımlanmış.",
+            "Çalışma önde gelen bir dergide yayımlanıyor.",
+            "Çalışma önde gelen bir dergide yayımlanacak.",
+            "Çalışma önde gelen bir dergide yayımlanmıştır."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'has just been published' (yakın geçmiş) → 'yeni/henüz yayımlandı'. 'Just' → 'yeni, henüz'. B 'yayımlanmış' olası ama 'yeni/henüz' eksik (anlamsal kayıp), C süregelen (yanlış), D gelecek (yanlış), E çok resmi."
+        },
+        {
+          "question": "Linguists have not yet identified the universal principles of grammar.\n\nTürkçe karşılığı:",
+          "options": [
+            "Dilbilimciler henüz dilbilgisinin evrensel ilkelerini belirlemedi/belirleyemedi.",
+            "Dilbilimciler henüz dilbilgisinin evrensel ilkelerini belirliyor.",
+            "Dilbilimciler henüz dilbilgisinin evrensel ilkelerini belirleyecek.",
+            "Dilbilimciler henüz dilbilgisinin evrensel ilkelerini belirlemişti.",
+            "Dilbilimciler henüz dilbilgisinin evrensel ilkelerini belirlemekte."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have not yet identified' (henüz tamamlanmamış eylem) → 'henüz belirlemedi/belirleyemedi' (olumsuz -dI eki). 'Yet' → 'henüz'. B süregelen (uygunsuz), C gelecek (yanlış), D past perfect (uygunsuz), E çok resmi ve belirsiz."
+        },
+        {
+          "question": "Have you ever encountered this problem in your research?\n\nTürkçe çevirisi:",
+          "options": [
+            "Araştırmanızda hiç bu sorunla karşılaştınız mı?",
+            "Araştırmanızda hiç bu sorunla karşılaşıyor musunuz?",
+            "Araştırmanızda hiç bu sorunla karşılaşacak mısınız?",
+            "Araştırmanızda hiç bu sorunla karşılaşmış mıydınız?",
+            "Araştırmanızda hiç bu sorunla karşılaşmaktasınız."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'Have you ever encountered' (deneyim sorusu) → 'hiç... karşılaştınız mı?' (geçmiş zaman sorusu). 'Ever' → 'hiç'. B present continuous (süregelen, uygunsuz), C gelecek (yanlış), D past perfect (uygunsuz), E present continuous bildirme (soru değil)."
+        },
+        {
+          "question": "The theory has been widely accepted in the scientific community.\n\nTürkçe karşılık:",
+          "options": [
+            "Teori bilimsel toplulukta geniş çapta kabul edildi/edilmiş.",
+            "Teori bilimsel toplulukta geniş çapta kabul ediliyor.",
+            "Teori bilimsel toplulukta geniş çapta kabul edilecek.",
+            "Teori bilimsel toplulukta geniş çapta kabul edilmekteydi.",
+            "Teori bilimsel toplulukta geniş çapta kabul edilmektedir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'has been accepted' (tamamlanmış pasif eylem, şimdiki sonuç) → 'kabul edildi/edilmiş' (her ikisi OK, 'edilmiş' durum vurgusu). B süregelen (kabul süreci değil, sonuç), C gelecek (yanlış), D past continuous (uygunsuz), E present continuous çok resmi (bitmiş eylem için uygunsuz)."
+        },
+        {
+          "question": "Climate scientists have warned about rising temperatures since the 1980s.\n\nDoğru çeviri:",
+          "options": [
+            "İklim bilimcileri 1980'lerden beri yükselen sıcaklıklar konusunda uyarıyor.",
+            "İklim bilimcileri 1980'lerden beri yükselen sıcaklıklar konusunda uyardı.",
+            "İklim bilimcileri 1980'lerden beri yükselen sıcaklıklar konusunda uyarmış.",
+            "İklim bilimcileri 1980'lerden beri yükselen sıcaklıklar konusunda uyaracak.",
+            "İklim bilimcileri 1980'lerden beri yükselen sıcaklıklar konusunda uyarmıştır."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have warned... since 1980s' (süregelen eylem) → Türkçe present continuous + 'beri' ('uyarıyor'). 1980'lerden başlayıp hâlâ devam eden eylem. B-C bitmiş gibi (süreğen değil), D gelecek (yanlış), E çok resmi ve bitmiş eylem ima eder."
+        },
+        {
+          "question": "Researchers have already analyzed the preliminary data and identified key trends.\n\nTürkçe çeviri:",
+          "options": [
+            "Araştırmacılar ön verileri zaten analiz etti ve temel eğilimleri belirledi.",
+            "Araştırmacılar ön verileri zaten analiz ediyor ve temel eğilimleri belirliyor.",
+            "Araştırmacılar ön verileri zaten analiz edecek ve temel eğilimleri belirleyecek.",
+            "Araştırmacılar ön verileri zaten analiz etmişti ve temel eğilimleri belirlemişti.",
+            "Araştırmacılar ön verileri zaten analiz etmektedir ve temel eğilimleri belirlemektedir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have already analyzed' ve 'identified' (tamamlanmış eylemler) → 'analiz etti' ve 'belirledi' (-dI eki). 'Already' → 'zaten'. B present continuous (devam ediyor gibi, yanlış), C gelecek (yanlış), D past perfect (uygunsuz), E present continuous çok resmi ve bitmiş eylem için uygunsuz."
+        },
+        {
+          "question": "The committee has been reviewing the proposal for three months and will announce its decision soon.\n\nBu cümlenin Türkçe karşılığı:",
+          "options": [
+            "Komite üç aydır öneriyi inceliyor ve yakında kararını açıklayacak.",
+            "Komite üç ay öneriyi inceledi ve yakında kararını açıklayacak.",
+            "Komite üç aydır öneriyi incelemiş ve yakında kararını açıklayacak.",
+            "Komite üç ay boyunca öneriyi inceleyecek ve yakında kararını açıklayacak.",
+            "Komite üç ay öneriyi incelemişti ve yakında kararını açıklayacaktı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'has been reviewing... for three months' (present perfect continuous, hâlâ devam eden) → 'üç aydır inceliyor' (present continuous + -dIr). 'Will announce' → 'açıklayacak' (future). B bitmiş eylem gibi (hâlâ devam ediyor), C '-miş' eki uygunsuz, D gelecek zaman ilk kısım için yanlış, E past perfect (uygunsuz)."
+        },
+        {
+          "question": "How long have scientists been aware of climate change?\n\nTürkçe soru formu:",
+          "options": [
+            "Bilim insanları ne zamandır/ne kadar süredir iklim değişikliğinin farkında?",
+            "Bilim insanları ne zaman iklim değişikliğinin farkına vardı?",
+            "Bilim insanları ne zamandır iklim değişikliğinin farkına varmış?",
+            "Bilim insanları ne zaman iklim değişikliğinin farkında olacak?",
+            "Bilim insanları ne kadar süre iklim değişikliğinin farkındaydı?"
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'How long have... been aware' (süre sorusu, hâlâ devam eden durum) → 'ne zamandır/ne kadar süredir farkında?' (present tense). B 'ne zaman' tek seferlik eylem sorusu (yanlış), C '-miş' eki uygunsuz, D gelecek (yanlış), E geçmiş zaman ve bitmiş (yanlış)."
+        },
+        {
+          "question": "New evidence has recently emerged that challenges the prevailing theory.\n\nTürkçe karşılık:",
+          "options": [
+            "Geçerli teoriyi sorgulayan yeni kanıtlar yakın zamanda ortaya çıktı/çıkmış.",
+            "Geçerli teoriyi sorgulayan yeni kanıtlar yakın zamanda ortaya çıkıyor.",
+            "Geçerli teoriyi sorgulayan yeni kanıtlar yakın zamanda ortaya çıkacak.",
+            "Geçerli teoriyi sorgulayan yeni kanıtlar yakın zamanda ortaya çıkmıştı.",
+            "Geçerli teoriyi sorgulayan yeni kanıtlar yakın zamanda ortaya çıkmaktadır."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'has recently emerged' (yakın geçmiş, sonuç şimdi mevcut) → 'ortaya çıktı/çıkmış' (her ikisi OK, 'çıkmış' sonuç vurgusu). 'Recently' → 'yakın zamanda'. B present continuous (devam eden süreç değil, tamamlanmış eylem), C gelecek (yanlış), D past perfect (uygunsuz), E present continuous çok resmi ve uygunsuz."
+        }
+      ]
+    },
+    {
+      "id": "5.1.2",
+      "title": "Continuous ↔ Süreklilik/Alışkanlık Karşılıkları",
+      "content": "Continuous/Progressive tenses (be + V-ing) İngilizce'de eylemin devam ettiğini, geçici olduğunu veya belirli bir anda sürdüğünü gösterir. Türkçe'ye çeviride zamansal bağlam ve eylemin doğası (momentary vs. durative) kritiktir.\n\n**1. Present Continuous (am/is/are + V-ing)**: İki ana anlam: (a) Şimdi devam eden eylem: 'I am writing' → 'Yazıyorum' (-Iyor eki). (b) Geçici durum/değişen durum: 'Temperatures are rising' → 'Sıcaklıklar yükseliyor'. Örnek: 'Researchers are analyzing the data' → 'Araştırmacılar verileri analiz ediyor'. Dikkat: Durum fiilleri (know, understand, believe) Türkçe'de continuous olarak çevrilmez: 'I am understanding' (nonstandard) → 'Anlıyorum' (but typically 'anladım').\n\n**2. Past Continuous (was/were + V-ing)**: Geçmişte devam eden eylem veya kesilen eylem. 'I was reading when she called' → 'O aradığında kitap okuyordum' (-Iyordu eki). Örnek: 'The experiment was proceeding smoothly until the equipment failed' → 'Deney, ekipman arızalanana kadar sorunsuz ilerliyordu'. Dikkat: İki simultane eylem: 'While researchers were collecting data, participants were completing surveys' → 'Araştırmacılar veri toplarken katılımcılar anketleri dolduruyordu'.\n\n**3. Present Perfect Continuous (have/has been + V-ing)**: Geçmişte başlayıp şimdi devam eden veya yeni biten süregelen eylem. 'I have been working here for 5 years' → 'Burada 5 yıldır çalışıyorum' (NOT: çalışmışım/çalışmış oluyorum). Türkçe present continuous + -dIr eki kullan. Örnek: 'Scientists have been investigating this phenomenon since 2010' → 'Bilim insanları 2010'dan beri bu fenomeni araştırıyor'. Dikkat: Since/for işaretçileri bu yapıyı tetikler.\n\n**4. Alışkanlık/Tekrar (Continuous with 'always/constantly')**: 'He is always complaining' → 'Sürekli/hep şikayet ediyor' (olumsuz çağrışım). Continuous alışkanlık için kullanılınca rahatsızlık/eleştiri tonu taşır. Örnek: 'Critics are constantly questioning the validity' → 'Eleştirmenler sürekli geçerliliği sorguluyorlar'.\n\n**5. Future Continuous (will be + V-ing)**: Gelecekte belirli anda devam edecek eylem. 'Tomorrow at 3 PM, I will be teaching' → 'Yarın saat 3'te ders veriyor olacağım' (-Iyor olacak yapısı). Örnek: 'Next year, researchers will be analyzing the results' → 'Gelecek yıl araştırmacılar sonuçları analiz ediyor olacak'. Alternatif: 'analiz edecekler' (simple future, daha yaygın).\n\n**6. Durum Fiilleri Sorunu**: Know, believe, understand, seem, appear, possess, contain, belong → Bu fiiller genellikle continuous alamaz. Ancak Türkçe'de '-Iyor' eki zorunlu: 'I know' → 'Biliyorum' (NOT: 'bilirim'). 'Scientists believe' → 'Bilim insanları inanıyor/düşünüyor'.\n\n**Stratejik Notlar**: (a) Continuous → Türkçe -Iyor eki (en yaygın), (b) Since/for varsa present continuous + -dIr, (c) Durum fiilleri Türkçe'de -Iyor alır ama İngilizce'de almaz, (d) Alışkanlık için 'sürekli/daima/hep' ekle, (e) Future continuous → '-Iyor olacak' veya basit gelecek.",
+      "examples": [
+        "Present continuous (now): Scientists are conducting experiments in the laboratory → Bilim insanları laboratuvarda deneyler yapıyor/yürütüyor.",
+        "Present continuous (changing state): Global temperatures are increasing rapidly → Küresel sıcaklıklar hızla artıyor.",
+        "Present continuous (temporary): She is working on her dissertation this semester → Bu dönem tezi üzerinde çalışıyor.",
+        "Past continuous (interrupted): Researchers were analyzing data when new evidence emerged → Yeni kanıtlar ortaya çıktığında araştırmacılar verileri analiz ediyordu.",
+        "Past continuous (simultaneous): While one group was completing surveys, the other was participating in interviews → Bir grup anketleri doldururken diğeri mülakatara katılıyordu.",
+        "Present perfect continuous (duration): Linguists have been studying this language family for decades → Dilbilimciler onlarca yıldır bu dil ailesini çalışıyor/inceliyor.",
+        "Present perfect continuous (recently stopped): I have been reading about climate change (and just finished) → İklim değişikliği hakkında okuyordum (yeni bitirdim).",
+        "Future continuous: This time next year, we will be presenting our findings → Gelecek yıl bu zaman bulgularımızı sunuyor olacağız.",
+        "Habitual criticism: Critics are always pointing out flaws → Eleştirmenler sürekli/hep kusur buluyor.",
+        "Stative verb (TR needs continuous): I understand your concern → Endişenizi anlıyorum (NOT: anlarım).",
+        "Stative verb passive: The theory is being questioned by experts → Teori uzmanlar tarafından sorgulanıyor.",
+        "Progressive passive: New treatments are being developed → Yeni tedaviler geliştirilmekte/geliştiriliyor.",
+        "Past continuous background: The sun was shining and birds were singing → Güneş parlıyordu ve kuşlar ötüyordu.",
+        "Near future continuous: I am meeting the supervisor tomorrow (planned future) → Yarın danışmanla görüşüyorum (planlı gelecek).",
+        "Contrast simple vs. continuous: Water boils at 100°C (fact: kaynar) vs. Water is boiling (now: kaynıyor)."
+      ],
+      "exercises": [
+        {
+          "question": "Researchers are currently analyzing the collected data to identify patterns.\n\nTürkçe karşılık:",
+          "options": [
+            "Araştırmacılar şu anda örüntüleri belirlemek için toplanan verileri analiz ediyor.",
+            "Araştırmacılar şu anda örüntüleri belirlemek için toplanan verileri analiz eder.",
+            "Araştırmacılar şu anda örüntüleri belirlemek için toplanan verileri analiz etmiş.",
+            "Araştırmacılar şu anda örüntüleri belirlemek için toplanan verileri analiz edecek.",
+            "Araştırmacılar şu anda örüntüleri belirlemek için toplanan verileri analiz etmektedir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'are analyzing' (present continuous, şimdi devam eden) → 'analiz ediyor' (-Iyor eki). 'Currently' → 'şu anda'. B present simple (süregelen eylem değil, alışkanlık/genel gerçek), C geçmiş zaman (yanlış), D gelecek zaman (yanlış), E çok resmi '-mektedir' yapısı (konuşma/yazı dilinde az kullanılır)."
+        },
+        {
+          "question": "While participants were completing the questionnaire, the researchers were preparing the next phase.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Katılımcılar anketi doldururken araştırmacılar bir sonraki aşamayı hazırlıyordu.",
+            "Katılımcılar anketi doldurdu ve araştırmacılar bir sonraki aşamayı hazırladı.",
+            "Katılımcılar anketi doldururken araştırmacılar bir sonraki aşamayı hazırlayacak.",
+            "Katılımcılar anketi doldurduktan sonra araştırmacılar bir sonraki aşamayı hazırlıyordu.",
+            "Katılımcılar anketi dolduruyorken araştırmacılar bir sonraki aşamayı hazırlar."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: İki simultane past continuous → 'doldururken' (-Irken) + 'hazırlıyordu' (-Iyordu). B simple past (eş zamanlılık yok, sıralı eylemler gibi), C gelecek zaman ikinci kısımda (yanlış), D 'doldurduktan sonra' sıralı eylem yapar (eş zamanlı değil), E present simple ikinci kısımda (yanlış zaman)."
+        },
+        {
+          "question": "Scientists have been studying the effects of climate change on coral reefs for over a decade.\n\nDoğru Türkçe karşılık:",
+          "options": [
+            "Bilim insanları on yılı aşkın süredir iklim değişikliğinin mercan resifleri üzerindeki etkilerini çalışıyor/inceliyor.",
+            "Bilim insanları on yılı aşkın süre iklim değişikliğinin mercan resifleri üzerindeki etkilerini çalıştı.",
+            "Bilim insanları on yılı aşkın süredir iklim değişikliğinin mercan resifleri üzerindeki etkilerini çalışmış.",
+            "Bilim insanları on yılı aşkın süre iklim değişikliğinin mercan resifleri üzerindeki etkilerini çalışacak.",
+            "Bilim insanları on yılı aşkın süre iklim değişikliğinin mercan resifleri üzerindeki etkilerini çalışıyordu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'have been studying... for over a decade' (present perfect continuous, hâlâ devam eden) → present continuous + -dIr eki ('süredir... çalışıyor/inceliyor'). B simple past (bitmiş gibi, yanlış), C '-miş' eki uygunsuz, D future (yanlış), E past continuous (yanlış zaman)."
+        },
+        {
+          "question": "The debate is becoming increasingly polarized along ideological lines.\n\nTürkçe çeviri:",
+          "options": [
+            "Tartışma ideolojik çizgiler boyunca giderek daha kutuplaşıyor.",
+            "Tartışma ideolojik çizgiler boyunca giderek daha kutuplaştı.",
+            "Tartışma ideolojik çizgiler boyunca giderek daha kutuplaşacak.",
+            "Tartışma ideolojik çizgiler boyunca giderek daha kutuplaşır.",
+            "Tartışma ideolojik çizgiler boyunca giderek daha kutuplaşmış."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'is becoming' (present continuous, değişen durum) → 'kutuplaşıyor' (-Iyor eki). Continuous değişim/gelişim sürecini vurgular. B simple past (tamamlanmış gibi), C future (yanlış), D present simple (genel gerçek değil, devam eden süreç), E past participle (yanlış form)."
+        },
+        {
+          "question": "I understand your concerns about the methodology.\n\nBu cümlenin Türkçe karşılığı:",
+          "options": [
+            "Metodoloji hakkındaki endişelerinizi anlıyorum.",
+            "Metodoloji hakkındaki endişelerinizi anlarım.",
+            "Metodoloji hakkındaki endişelerinizi anladım.",
+            "Metodoloji hakkındaki endişelerinizi anlayacağım.",
+            "Metodoloji hakkındaki endişelerinizi anlıyordum."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'I understand' (stative verb, şimdiki durum) → 'anlıyorum' (Türkçe'de -Iyor eki zorunlu, durum fiilleri için de). B 'anlarım' alışkanlık/genel yetenek (uygunsuz), C 'anladım' geçmiş/tamamlanmış (şimdiki durumu ifade etmiyor), D future (yanlış), E past continuous (yanlış)."
+        },
+        {
+          "question": "Critics are constantly questioning the validity of the findings.\n\nTürkçe karşılık:",
+          "options": [
+            "Eleştirmenler bulguların geçerliliğini sürekli/daima sorguluyorlar.",
+            "Eleştirmenler bulguların geçerliliğini sorguladı.",
+            "Eleştirmenler bulguların geçerliliğini sorgular.",
+            "Eleştirmenler bulguların geçerliliğini sorgulayacak.",
+            "Eleştirmenler bulguların geçerliliğini sorgulamış."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'are constantly questioning' (present continuous + constantly = alışkanlık/tekrar + eleştiri tonu) → 'sürekli/daima sorguluyorlar' (-Iyor eki + 'sürekli/daima'). B past simple (yanlış zaman), C present simple (alışkanlık ama 'sürekli' vurgusu eksik), D future (yanlış), E past (yanlış)."
+        },
+        {
+          "question": "This time next week, we will be presenting our research at the conference.\n\nDoğru Türkçe çeviri:",
+          "options": [
+            "Gelecek hafta bu zaman konferansta araştırmamızı sunuyor olacağız.",
+            "Gelecek hafta bu zaman konferansta araştırmamızı sunduk.",
+            "Gelecek hafta bu zaman konferansta araştırmamızı sunuyoruz.",
+            "Gelecek hafta bu zaman konferansta araştırmamızı sunarız.",
+            "Gelecek hafta bu zaman konferansta araştırmamızı sunmuş olacağız."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'will be presenting' (future continuous, gelecekte belirli anda devam edecek) → 'sunuyor olacağız' (-Iyor olacak yapısı). B past (yanlış), C present (gelecek ifade etmiyor), D present simple (gelecek değil), E future perfect (farklı anlam: o zamana kadar tamamlanmış olacak)."
+        },
+        {
+          "question": "The experiment was proceeding as planned until an unexpected variable emerged.\n\nTürkçe karşılık:",
+          "options": [
+            "Beklenmeyen bir değişken ortaya çıkana kadar deney planlandığı gibi ilerliyordu.",
+            "Beklenmeyen bir değişken ortaya çıkana kadar deney planlandığı gibi ilerledi.",
+            "Beklenmeyen bir değişken ortaya çıktığında deney planlandığı gibi ilerler.",
+            "Beklenmeyen bir değişken ortaya çıkacağında deney planlandığı gibi ilerliyordu.",
+            "Beklenmeyen bir değişken ortaya çıkmışken deney planlandığı gibi ilerliyordu."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'was proceeding' (past continuous, kesilen eylem) → 'ilerliyordu' (-Iyordu eki). 'Until' → '-ana kadar'. B simple past (kesinti/süreğenlik vurgusu zayıf), C present simple (yanlış zaman), D future yan cümlede (uygunsuz), E '-mişken' yanlış bağlaç (until değil)."
+        },
+        {
+          "question": "New technologies are rapidly changing the way we conduct research.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Yeni teknolojiler araştırma yapma şeklimizi hızla değiştiriyor.",
+            "Yeni teknolojiler araştırma yapma şeklimizi hızla değiştirdi.",
+            "Yeni teknolojiler araştırma yapma şeklimizi hızla değiştirir.",
+            "Yeni teknolojiler araştırma yapma şeklimizi hızla değiştirecek.",
+            "Yeni teknolojiler araştırma yapma şeklimizi hızla değiştirmiş."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'are changing' (present continuous, devam eden değişim) → 'değiştiriyor' (-Iyor eki). Continuous şimdi yaşanan süreci vurgular. B past (tamamlanmış gibi), C present simple (genel gerçek değil, süreç), D future (henüz olmamış gibi), E past participle (yanlış)."
+        },
+        {
+          "question": "The theory appears to be gaining acceptance among researchers.\n\nTürkçe karşılık:",
+          "options": [
+            "Teori araştırmacılar arasında kabul görmeye başlıyor gibi görünüyor.",
+            "Teori araştırmacılar arasında kabul gördü gibi görünüyor.",
+            "Teori araştırmacılar arasında kabul görecek gibi görünüyor.",
+            "Teori araştırmacılar arasında kabul görür gibi görünüyor.",
+            "Teori araştırmacılar arasında kabul görmüş gibi görünüyor."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'appears to be gaining' (stative verb + continuous infinitive, devam eden süreç) → 'kabul görmeye başlıyor gibi görünüyor' (başlıyor + görünüyor). B past (süreç bitmemiş), C future (henüz değil, şimdi oluyor), D present simple (süreç vurgusu yok), E past participle (tamamlanmış gibi)."
+        },
+        {
+          "question": "I was thinking about your suggestion and find it very useful.\n\nDoğru Türkçe çeviri:",
+          "options": [
+            "Öneriniz hakkında düşünüyordum ve çok yararlı buluyorum.",
+            "Öneriniz hakkında düşündüm ve çok yararlı buldum.",
+            "Öneriniz hakkında düşünüyorum ve çok yararlı buldum.",
+            "Öneriniz hakkında düşüneceğim ve çok yararlı bulacağım.",
+            "Öneriniz hakkında düşünmüştüm ve çok yararlı bulmuştum."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'was thinking' (past continuous, devam eden düşünme süreci) → 'düşünüyordum' + 'find' (present simple) → 'buluyorum'. İki farklı zaman uygun şekilde çevrilmiş. B her ikisi past (ikinci kısım şimdiki bulgu), C first part present (past olmalı), D future (yanlış), E past perfect (uygunsuz)."
+        },
+        {
+          "question": "Linguists are increasingly recognizing the importance of corpus-based methods.\n\nTürkçe karşılık:",
+          "options": [
+            "Dilbilimciler derlem-tabanlı yöntemlerin önemini giderek daha fazla kabul ediyor.",
+            "Dilbilimciler derlem-tabanlı yöntemlerin önemini giderek daha fazla kabul etti.",
+            "Dilbilimciler derlem-tabanlı yöntemlerin önemini giderek daha fazla kabul eder.",
+            "Dilbilimciler derlem-tabanlı yöntemlerin önemini giderek daha fazla kabul edecek.",
+            "Dilbilimciler derlem-tabanlı yöntemlerin önemini giderek daha fazla kabul etmiş."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'are increasingly recognizing' (present continuous, artan trend) → 'giderek daha fazla kabul ediyor' (-Iyor eki + 'giderek daha fazla'). Continuous değişimi vurgular. B past (tamamlanmış gibi), C present simple (süreç vurgusu yok), D future (henüz değil), E past participle (yanlış)."
+        }
+      ]
+    },
+    {
+      "id": "5.1.3",
+      "title": "Modality ve Kanıt Değeri: must have V-ed, may/might",
+      "content": "Modal fiiller (can, could, may, might, must, should, would) kesinlik derecesini, olasılığı, yükümlülüğü ve geçmiş olaylarla ilgili çıkarımları ifade eder. Türkçe'ye çeviride modal'in işlevi (ability, permission, possibility, deduction) net anlaşılmalı ve uygun Türkçe karşılık seçilmelidir.\n\n**1. MUST HAVE + V3 (Geçmiş Çıkarım - Kesinlik)**: Geçmişteki bir olaydan eminiz (strong deduction). 'She must have forgotten' → 'Unutmuş olmalı' (-mIş olmalı - güçlü tahmin). Örnek: 'The experiment must have failed due to contamination' → 'Deney kontaminasyon nedeniyle başarısız olmuş olmalı'. Dikkat: %90-95 kesinlik, dolaylı kanıta dayalı çıkarım.\n\n**2. CAN'T/COULDN'T HAVE + V3 (Geçmiş Çıkarım - Olumsuz Kesinlik)**: Geçmişteki olayın imkansız olduğundan eminiz. 'He can't have said that' → 'Bunu söylemiş olamaz' (-mIş olamaz). Örnek: 'The results can't have been accurate given the flawed methodology' → 'Hatalı metodoloji göz önüne alındığında sonuçlar doğru olmuş olamaz'.\n\n**3. MAY/MIGHT HAVE + V3 (Geçmiş Olasılık - Belirsizlik)**: Geçmiş olaydan emin değiliz (%50 olasılık). 'They may have missed the deadline' → 'Son tarihi kaçırmış olabilirler' (-mIş olabilir). Might biraz daha düşük olasılık. Örnek: 'Participants might have misunderstood the instructions' → 'Katılımcılar talimatları yanlış anlamış olabilir'. Dikkat: May ve might çeviri farkı genellikle zayıf.\n\n**4. SHOULD/OUGHT TO HAVE + V3 (Geçmiş Beklenti/Pişmanlık)**: Yapılması gerektiği halde yapılmayan eylem. 'They should have controlled for confounds' → 'Karıştırıcı değişkenleri kontrol etmeliydi(ler)' (-meli idi). Örnek: 'Researchers should have used a larger sample' → 'Araştırmacılar daha büyük bir örneklem kullanmalıydı'.\n\n**5. COULD HAVE + V3 (Geçmiş Yetenek/Alternatif - Yapılmayan)**: Yapılabilirdi ama yapılmadı. 'The study could have included qualitative data' → 'Çalışma nitel veri içerebilirdi' (-ebilirdi). Örnek: 'This limitation could have been avoided' → 'Bu sınırlama önlenebilirdi'.\n\n**6. WOULD HAVE + V3 (Koşullu Geçmiş)**: If-clause ile: 'If X had happened, Y would have happened' → 'X olsaydı, Y olurdu' (-sA idi, -Ir idi/olurdu). Örnek: 'If researchers had used random assignment, the results would have been more valid' → 'Araştırmacılar rastgele atama kullansaydı, sonuçlar daha geçerli olurdu'.\n\n**7. Şimdiki Modals (Possibility/Ability)**: CAN (yetenek/izin): 'Researchers can access the data' → 'Araştırmacılar verilere erişebilir' (-ebilir). MAY/MIGHT (olasılık): 'The theory may be incorrect' → 'Teori yanlış olabilir'. MUST (zorunluluk/güçlü çıkarım): 'Participants must complete the consent form' → 'Katılımcılar onay formunu doldurmalı' (-meli). 'She must be tired' (çıkarım) → 'Yorgun olmalı'.\n\n**8. Evidentiality (Kanıt Türü)**: Must have: dolaylı kanıta dayalı güçlü çıkarım. May/might have: belirsiz/spekülasyon. Can't have: dolaylı kanıta dayalı olumsuz çıkarım. Türkçe -mIş eki rivayet/dolaylılık da taşır, bu nedenle modal + -mIş uyumludur.\n\n**Stratejik Notlar**: (a) Must have → -mIş olmalı, (b) May/might have → -mIş olabilir, (c) Can't have → -mIş olamaz, (d) Should have → -meli idi, (e) Could have → -ebilirdi, (f) Would have (conditional) → -Ir idi/olurdu, (g) Present modals: can → -ebilir, may → olabilir, must → -meli/-malı.",
+      "examples": [
+        "Must have (strong deduction): The sample size must have been insufficient given the inconclusive results → Yetersiz sonuçlar göz önüne alındığında örneklem büyüklüğü yetersiz olmuş olmalı.",
+        "Can't have (negative deduction): The participants can't have understood the complex instructions → Katılımcılar karmaşık talimatları anlamış olamaz.",
+        "May have (possibility): The discrepancy may have resulted from measurement error → Tutarsızlık ölçüm hatasından kaynaklanmış olabilir.",
+        "Might have (weaker possibility): Researchers might have overlooked this variable → Araştırmacılar bu değişkeni gözden kaçırmış olabilir.",
+        "Should have (unfulfilled obligation): The study should have included a control group → Çalışma bir kontrol grubu içermeliydi.",
+        "Could have (past possibility - not realized): The intervention could have been more effective with better implementation → Müdahale daha iyi uygulama ile daha etkili olabilirdi.",
+        "Would have (conditional): If the data had been normally distributed, parametric tests would have been appropriate → Veriler normal dağılsaydı, parametrik testler uygun olurdu.",
+        "Must (present deduction): Based on the evidence, the theory must be flawed → Kanıtlara dayanarak teori kusurlu olmalı.",
+        "May (present possibility): The findings may indicate a broader trend → Bulgular daha geniş bir eğilimi gösteriyor olabilir.",
+        "Can (ability): Modern technology can detect minute variations → Modern teknoloji minörbüyük değişimleri tespit edebilir.",
+        "Should (recommendation): Researchers should replicate the study → Araştırmacılar çalışmayı tekrarlamalı.",
+        "Could (present possibility): This approach could yield better results → Bu yaklaşım daha iyi sonuçlar verebilir.",
+        "Might (tentative present): The theory might explain some anomalies → Teori bazı anormallikleri açıklayabilir.",
+        "Cannot (impossibility): These results cannot be explained by chance alone → Bu sonuçlar sadece şansla açıklanamaz.",
+        "Would (conditional present): If resources were available, we would expand the research → Kaynaklar mevcut olsaydı, araştırmayı genişletirdik."
+      ],
+      "exercises": [
+        {
+          "question": "The experiment must have failed due to equipment malfunction.\n\nTürkçe karşılık:",
+          "options": [
+            "Deney ekipman arızası nedeniyle başarısız olmuş olmalı.",
+            "Deney ekipman arızası nedeniyle başarısız olabilir.",
+            "Deney ekipman arızası nedeniyle başarısız oldu.",
+            "Deney ekipman arızası nedeniyle başarısız olacak.",
+            "Deney ekipman arızası nedeniyle başarısız olmalı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'must have failed' (güçlü geçmiş çıkarım, %90+ kesinlik) → 'olmuş olmalı' (-mIş olmalı yapısı). B 'olabilir' zayıf olasılık (may/might için), C kesin geçmiş (modal yok), D future (yanlış), E present modal (geçmiş çıkarım değil)."
+        },
+        {
+          "question": "Participants may have misunderstood the instructions, leading to inconsistent responses.\n\nDoğru Türkçe çeviri:",
+          "options": [
+            "Katılımcılar talimatları yanlış anlamış olabilir, bu da tutarsız yanıtlara yol açmıştır.",
+            "Katılımcılar talimatları yanlış anlamış olmalı, bu da tutarsız yanıtlara yol açmıştır.",
+            "Katılımcılar talimatları yanlış anladı, bu da tutarsız yanıtlara yol açtı.",
+            "Katılımcılar talimatları yanlış anlayabilir, bu da tutarsız yanıtlara yol açar.",
+            "Katılımcılar talimatları yanlış anlamış olamaz, bu da tutarsız yanıtlara yol açmıştır."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'may have misunderstood' (geçmiş olasılık, %50 belirsizlik) → 'yanlış anlamış olabilir' (-mIş olabilir). 'Leading to' (present participle sonuç) → 'yol açmıştır' (geçmiş). B 'olmalı' güçlü çıkarım (must için), C modal yok (kesin ifade), D present (geçmiş değil), E 'olamaz' olumsuz çıkarım (can't için)."
+        },
+        {
+          "question": "The results can't have been accurate given the small sample size.\n\nTürkçe karşılık:",
+          "options": [
+            "Küçük örneklem büyüklüğü göz önüne alındığında sonuçlar doğru olmuş olamaz.",
+            "Küçük örneklem büyüklüğü göz önüne alındığında sonuçlar doğru olmuş olabilir.",
+            "Küçük örneklem büyüklüğü göz önüne alındığında sonuçlar doğru olmuş olmalı.",
+            "Küçük örneklem büyüklüğü göz önüne alındığında sonuçlar doğru oldu.",
+            "Küçük örneklem büyüklüğü göz önüne alındığında sonuçlar doğru olamaz."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'can't have been' (olumsuz güçlü çıkarım, imkansız) → 'olmuş olamaz' (-mIş olamaz). B 'olabilir' olumlu olasılık (yanlış), C 'olmalı' olumlu çıkarım (yanlış), D modal yok (kesin ifade), E present modal (geçmiş çıkarım değil)."
+        },
+        {
+          "question": "Researchers should have controlled for confounding variables in the design.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Araştırmacılar tasarımda karıştırıcı değişkenleri kontrol etmeliydi.",
+            "Araştırmacılar tasarımda karıştırıcı değişkenleri kontrol etmiş olmalı.",
+            "Araştırmacılar tasarımda karıştırıcı değişkenleri kontrol edebilirdi.",
+            "Araştırmacılar tasarımda karıştırıcı değişkenleri kontrol etti.",
+            "Araştırmacılar tasarımda karıştırıcı değişkenleri kontrol etmeli."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'should have controlled' (yapılması gerektiği halde yapılmayan, pişmanlık/eleştiri) → 'kontrol etmeliydi' (-meli idi yapısı). B 'olmalı' çıkarım (must için), C 'edebilirdi' alternatif/yetenek (could için), D modal yok (kesin geçmiş), E present modal (geçmiş değil)."
+        },
+        {
+          "question": "The study could have included qualitative methods for richer data.\n\nTürkçe karşılık:",
+          "options": [
+            "Çalışma daha zengin veri için nitel yöntemler içerebilirdi.",
+            "Çalışma daha zengin veri için nitel yöntemler içermeliydi.",
+            "Çalışma daha zengin veri için nitel yöntemler içermiş olmalı.",
+            "Çalışma daha zengin veri için nitel yöntemler içerdi.",
+            "Çalışma daha zengin veri için nitel yöntemler içerebilir."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'could have included' (yapılabilirdi ama yapılmadı, gerçekleşmemiş alternatif) → 'içerebilirdi' (-ebilir idi yapısı). B 'meliydi' zorunluluk (should için), C 'olmalı' çıkarım (must için), D simple past (modal yok), E present modal (geçmiş değil)."
+        },
+        {
+          "question": "If the data had been collected carefully, the analysis would have been more reliable.\n\nDoğru Türkçe çeviri:",
+          "options": [
+            "Veriler dikkatlice toplanmış olsaydı, analiz daha güvenilir olurdu.",
+            "Veriler dikkatlice toplanırsa, analiz daha güvenilir olur.",
+            "Veriler dikkatlice toplandığında, analiz daha güvenilir oldu.",
+            "Veriler dikkatlice toplanmalıydı, analiz daha güvenilir olmalıydı.",
+            "Veriler dikkatlice toplanabilseydi, analiz daha güvenilir olabilirdi."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: Past unreal conditional (if + past perfect, would have + V3) → 'olsaydı... olurdu' (-mIş olsa idi, -Ir idi/olurdu). B present real conditional (yanlış), C past simple (conditional değil), D should have (farklı anlam), E could have (farklı yapı)."
+        },
+        {
+          "question": "The theory might have been disproven if more rigorous tests had been conducted.\n\nTürkçe karşılık:",
+          "options": [
+            "Daha titiz testler yapılmış olsaydı teori çürütülmüş olabilirdi.",
+            "Daha titiz testler yapılırsa teori çürütülebilir.",
+            "Daha titiz testler yapıldığında teori çürütüldü.",
+            "Daha titiz testler yapılmalıydı ve teori çürütülmeliydi.",
+            "Daha titiz testler yapılmış olmalı ve teori çürütülmüş olmalı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'might have been' + conditional (olasılık + koşul) → 'olsaydı... olabilirdi' (zayıf modal + koşullu). B present conditional (yanlış), C past simple (conditional yok), D should have (farklı anlam), E must have (güçlü çıkarım, conditional yok)."
+        },
+        {
+          "question": "Based on the evidence, the participants must be experiencing cognitive overload.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Kanıtlara dayanarak katılımcılar bilişsel aşırı yük yaşıyor olmalı.",
+            "Kanıtlara dayanarak katılımcılar bilişsel aşırı yük yaşamış olmalı.",
+            "Kanıtlara dayanarak katılımcılar bilişsel aşırı yük yaşayabilir.",
+            "Kanıtlara dayanarak katılımcılar bilişsel aşırı yük yaşıyor.",
+            "Kanıtlara dayanarak katılımcılar bilişsel aşırı yük yaşamalı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'must be experiencing' (present continuous modal, şimdiki güçlü çıkarım) → 'yaşıyor olmalı' (-Iyor olmalı yapısı). B past modal (geçmiş çıkarım, metinde present), C 'olabilir' zayıf (may için), D modal yok (kesin ifade), E 'yaşamalı' zorunluluk (uygunsuz)."
+        },
+        {
+          "question": "The discrepancy may indicate a systematic error in the measurement process.\n\nTürkçe karşılık:",
+          "options": [
+            "Tutarsızlık ölçüm sürecinde sistematik bir hatayı gösteriyor olabilir.",
+            "Tutarsızlık ölçüm sürecinde sistematik bir hatayı göstermiş olabilir.",
+            "Tutarsızlık ölçüm sürecinde sistematik bir hatayı göstermelidir.",
+            "Tutarsızlık ölçüm sürecinde sistematik bir hatayı gösteriyor.",
+            "Tutarsızlık ölçüm sürecinde sistematik bir hatayı göstermiş olmalı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'may indicate' (present modal, şimdiki olasılık) → 'gösteriyor olabilir' (present continuous + modal). B past modal (yanlış zaman), C 'melidir' zorunluluk (uygunsuz), D modal yok (kesin ifade), E 'olmalı' güçlü çıkarım (must için)."
+        },
+        {
+          "question": "Researchers cannot ignore the limitations of the study.\n\nDoğru Türkçe çeviri:",
+          "options": [
+            "Araştırmacılar çalışmanın sınırlılıklarını görmezden gelemez.",
+            "Araştırmacılar çalışmanın sınırlılıklarını görmezden gelmemiş olabilir.",
+            "Araştırmacılar çalışmanın sınırlılıklarını görmezden gelmeliydi.",
+            "Araştırmacılar çalışmanın sınırlılıklarını görmezden gelmeyecek.",
+            "Araştırmacılar çalışmanın sınırlılıklarını görmezden gelmiyor."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'cannot ignore' (present impossibility/prohibition) → 'gelemez' (-emez eki, olumsuz yetenek/imkan). B past modal (yanlış), C past obligation (farklı anlam), D future (yanlış), E present continuous olumsuz (modal yok, farklı ton)."
+        },
+        {
+          "question": "The intervention should be implemented across all educational levels.\n\nTürkçe karşılık:",
+          "options": [
+            "Müdahale tüm eğitim seviyelerinde uygulanmalı.",
+            "Müdahale tüm eğitim seviyelerinde uygulanmış olmalı.",
+            "Müdahale tüm eğitim seviyelerinde uygulanabilir.",
+            "Müdahale tüm eğitim seviyelerinde uygulanıyor.",
+            "Müdahale tüm eğitim seviyelerinde uygulanmalıydı."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'should be implemented' (present modal, tavsiye/önerme) → 'uygulanmalı' (-meli eki). B past deduction (yanlış), C 'olabilir' olasılık (may için), D modal yok (kesin ifade), E past obligation (geçmiş yapılmayan eylem, metinde future recommendation)."
+        },
+        {
+          "question": "This approach could revolutionize the field if properly implemented.\n\nBu cümlenin Türkçe çevirisi:",
+          "options": [
+            "Bu yaklaşım düzgün uygulanırsa alanı değiştirebilir/devrim yaratabilir.",
+            "Bu yaklaşım düzgün uygulandığında alanı değiştirdi.",
+            "Bu yaklaşım düzgün uygulanmalıydı ve alanı değiştirmeliydi.",
+            "Bu yaklaşım düzgün uygulanmış olsaydı alanı değiştirmiş olurdu.",
+            "Bu yaklaşım düzgün uygulanacaksa alanı değiştirecek."
+          ],
+          "correct": 0,
+          "explanation": "A doğrudur: 'could revolutionize' (present possibility) + 'if implemented' (conditional) → 'değiştirebilir/devrim yaratabilir' (-ebilir) + 'uygulanırsa' (present conditional). B past (yanlış), C past unfulfilled obligation (farklı yapı), D past unreal conditional (metinde present), E future simple (modal yok)."
+        }
+      ]
+    }
+  ]
+}

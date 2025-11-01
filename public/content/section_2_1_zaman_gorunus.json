@@ -1,0 +1,501 @@
+{
+  "section": "2.1",
+  "title": "Zaman-Görünüş (Tense-Aspect)",
+  "topics": [
+    {
+      "id": "2.1.1",
+      "title": "Present/Past/Future: Simple vs. Continuous vs. Perfect",
+      "content": "YDS sınavında zaman uyumu soruları, adayların İngilizcede zaman-görünüş sistemini ne kadar iyi kavradığını ölçer. Türkçede tek bir geçmiş zaman (-dı/-di) varken, İngilizcede simple past, past continuous, past perfect ve past perfect continuous gibi çeşitli yapılar bulunur. Bu ayrım sadece 'zaman' değil, aynı zamanda eylemin 'görünüşünü' (aspect) de ifade eder: eylemin tamamlanıp tamamlanmadığı, sürmekte olup olmadığı veya geçmiş bir zamanda zaten bitmiş olup olmadığı gibi. YDS'de özellikle karmaşık akademik metinlerde, araştırma süreçlerini anlatan cümlelerde (örn: 'The study had been conducted before the results were published') doğru zaman seçimi kritiktir. Türk öğrencilerin en yaygın hatası, tüm geçmiş olayları simple past ile anlatmak ve perfect/continuous formlarını kullanmamaktır. Örneğin, 'When I arrived, they already left' yerine 'When I arrived, they had already left' demek gerekir. Sınavda zaman seçimini belirleyen ipuçları: zaman zarfları (already, yet, still, just), sıralı olaylar (before, after, by the time), ve bağlamsal mantık. Strateji olarak, cümledeki tüm zamanları işaretleyip, olayların kronolojik sırasını zihinsel bir zaman çizgisinde konumlandırın. Hangi olay daha önce gerçekleştiyse, o had done yapısını; hangisi devam ediyorsa was/were doing yapısını; hangisi sonuca odaklanıyorsa have/has done yapısını gerektirir.",
+      "examples": [
+        "When the researchers arrived at the site, the excavation had already begun. (Kazı daha önce başlamıştı)",
+        "YANLIŞ: When the researchers arrived, the excavation already began. (Türkçe düşünce yapısının etkisi)",
+        "By the time the committee reviews the proposal, we will have completed the pilot study. (Önce pilot çalışma biter, sonra inceleme olur)",
+        "She has been working on her dissertation for three years, but she hasn't finished yet. (Halen devam eden ve tamamlanmamış eylem)",
+        "YANLIŞ: She works on her dissertation for three years. (Başlangıçtan beri devam eden eylem için present perfect continuous gerekli)",
+        "The theory was gaining acceptance until new evidence was discovered. (Geçmişte devam eden bir süreç, başka bir olayla kesildi)",
+        "YANLIŞ: The theory gained acceptance until new evidence was discovered. (Süreklilik ifade etmek için past continuous gerekli)",
+        "Scientists have discovered over 400 exoplanets since 1992. (Geçmişte başlayıp günümüze kadar devam eden buluş süreci)",
+        "YANLIŞ: Scientists discovered over 400 exoplanets since 1992. ('Since' ile present perfect kullanılmalı)",
+        "While the data was being analyzed, the team prepared the manuscript. (İki paralel devam eden eylem)",
+        "The professor has taught this course every semester since 2010. (Geçmişten bugüne tekrar eden eylem)",
+        "By next month, he will have been teaching here for twenty years. (Gelecekte tamamlanacak süre)"
+      ],
+      "exercises": [
+        {
+          "question": "Scientists ---- the effects of climate change for decades, yet definitive solutions ---- elusive.",
+          "options": [
+            "studied / remained",
+            "have been studying / remain",
+            "are studying / have remained",
+            "had studied / were remaining",
+            "will study / are remaining"
+          ],
+          "correct_answer": 1,
+          "explanation": "İlk boşlukta 'for decades' ifadesi geçmişten bugüne devam eden eylemi gösterir, bu yüzden 'have been studying' (present perfect continuous) doğrudur. İkinci boşlukta 'yet' bağlacıyla güncel durumu ifade etmek için 'remain' (simple present) kullanılır. A şıkkı geçmiş zamanda kalır ve devam eden eylemi ifade etmez. C, D, E şıkları da zaman uyumu ve bağlam açısından yanlıştır."
+        },
+        {
+          "question": "When the expedition team reached the summit, they realized that another group ---- there several hours earlier.",
+          "options": [
+            "arrives",
+            "arrived",
+            "has arrived",
+            "had arrived",
+            "was arriving"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Had arrived' (past perfect) doğrudur çünkü diğer grubun varışı, keşif ekibinin zirveye ulaşmasından ÖNCE gerçekleşmiştir. İki geçmiş olay varsa ve biri diğerinden önce olmuşsa, daha önceki için past perfect kullanılır. B şıkkı (simple past) iki olayı aynı zaman düzleminde bırakır, bu da yanlıştır. C şıkkı (present perfect) geçmiş zamandaki 'realized' ile uyumsuz. A ve E şıkları zaman uyumsuz."
+        },
+        {
+          "question": "The committee ---- the applications since last Monday, but they still ---- a final decision.",
+          "options": [
+            "reviews / don't make",
+            "has reviewed / didn't make",
+            "has been reviewing / haven't made",
+            "reviewed / haven't made",
+            "is reviewing / don't make"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Since last Monday' ile başlayıp halen devam eden eylem için 'has been reviewing' (present perfect continuous) gerekir. 'Still' ile güncel durumu ifade eden ikinci boşlukta 'haven't made' (present perfect negative) kullanılmalıdır. A şıkkı simple present kullanarak zamansal bağlamı yok sayar. B şıkkındaki 'didn't make' past tense olduğu için 'still' ile uyumsuz. D ve E şıkları ilk boşlukta süreklilik ifade etmiyor."
+        },
+        {
+          "question": "By the time the new regulations come into effect, most companies ---- the necessary changes.",
+          "options": [
+            "made",
+            "have made",
+            "will make",
+            "will have made",
+            "are making"
+          ],
+          "correct_answer": 3,
+          "explanation": "'By the time + present tense' gelecekte bir referans noktası oluşturur. Bu noktadan ÖNCE tamamlanacak eylem için 'will have made' (future perfect) kullanılır. Bu yapı, gelecekte bir zamanda zaten tamamlanmış olacak eylemi ifade eder. A şıkkı past tense, B şıkkı present perfect - ikisi de gelecek için uygun değil. C şıkkı 'will make' sadece gelecekteki eylemi gösterir ama tamamlanma vurgusunu kaybeder. E şıkkı present continuous gelecek bağlamı için yetersiz."
+        },
+        {
+          "question": "The archaeological findings suggest that the ancient city ---- a major trading center long before the Roman conquest.",
+          "options": [
+            "is",
+            "was",
+            "has been",
+            "had been",
+            "would be"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Before the Roman conquest' ifadesi geçmişteki bir referans noktasıdır. Şehrin ticaret merkezi olması bu noktadan da ÖNCE gerçekleşmiş, yani 'had been' (past perfect) gereklidir. Bu, geçmişin geçmişi ifade eder. B şıkkı 'was' sadece geçmişte olduğunu söyler ama Roma öncesi süreci vurgulamaz. C şıkkı present perfect geçmiş referans noktasıyla ('before the Roman conquest') uyumsuz. A ve E şıkları bağlamsal olarak yanlış."
+        },
+        {
+          "question": "The patient's condition ---- steadily until the doctors introduced the new treatment protocol.",
+          "options": [
+            "deteriorates",
+            "deteriorated",
+            "has deteriorated",
+            "was deteriorating",
+            "had been deteriorating"
+          ],
+          "correct_answer": 4,
+          "explanation": "'Until' bağlacı bir süreklilik gösterir ve bu süreklilik 'introduced' (past simple) olayına kadar devam eder. Geçmişte belirli bir noktaya kadar devam eden eylem için 'was deteriorating' (past continuous) veya 'had been deteriorating' (past perfect continuous) kullanılır. E şıkkı da gramatik olarak doğru olabilir ama bağlamda D daha yaygındır. B şıkkı simple past, sürekliliği ifade etmez. A şıkkı present tense, C şıkkı present perfect - ikisi de 'introduced' past ile uyumsuz."
+        },
+        {
+          "question": "Researchers ---- various hypotheses before they finally ---- the correct explanation.",
+          "options": [
+            "tested / found",
+            "had tested / found",
+            "have tested / find",
+            "were testing / found",
+            "test / have found"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Before' bağlacı iki geçmiş olayın sırasını gösterir. Önce test yapıldı (had tested - past perfect), sonra açıklama bulundu (found - simple past). Bu sıralama past perfect + simple past kombinasyonunu gerektirir. A şıkkı her iki eylemi de simple past yaparak zamansal önceliği belirsiz bırakır. C ve E şıkları present tense kullanarak geçmiş bağlamıyla uyumsuz. D şıkkı past continuous kullanımı bağlamda yanlış."
+        },
+        {
+          "question": "The theory ---- widespread acceptance in academic circles since it was first proposed in 2015.",
+          "options": [
+            "gains",
+            "gained",
+            "has gained",
+            "had gained",
+            "was gaining"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Since 2015' ifadesi geçmişte başlayıp günümüze kadar devam eden süreci gösterir, bu nedenle 'has gained' (present perfect) doğrudur. 'Since + past time' yapısı present perfect ile kullanılır. B şıkkı 'gained' simple past, sadece geçmişte olduğunu söyler ama günümüze kadar devam eden etkiyi ifade etmez. A şıkkı simple present bu bağlamda yanlış. D şıkkı past perfect güncel bağlamla uyumsuz. E şıkkı past continuous bu yapıda kullanılmaz."
+        },
+        {
+          "question": "If current trends continue, global temperatures ---- by at least 2 degrees Celsius by the end of the century.",
+          "options": [
+            "rise",
+            "rose",
+            "have risen",
+            "will rise",
+            "will have risen"
+          ],
+          "correct_answer": 4,
+          "explanation": "'By the end of the century' gelecekte bir zaman noktasıdır ve bu noktada tamamlanmış olacak değişim için 'will have risen' (future perfect) kullanılır. Bu yapı gelecekteki bir anda zaten gerçekleşmiş olacak eylemi ifade eder. D şıkkı 'will rise' sadece gelecekte yükselecek anlamını verir ama '2 derece artmış olacak' vurgusunu kaybeder. A, B, C şıkları gelecek zaman bağlamı için uygun değil."
+        },
+        {
+          "question": "While the industrial revolution ---- in Britain, similar changes ---- across Europe.",
+          "options": [
+            "occurred / happened",
+            "was occurring / were happening",
+            "has occurred / have happened",
+            "had occurred / happened",
+            "occurs / happen"
+          ],
+          "correct_answer": 1,
+          "explanation": "'While' bağlacı aynı anda devam eden iki paralel eylemi gösterir. Geçmişte eş zamanlı devam eden eylemler için 'was occurring / were happening' (past continuous for both) kullanılır. A şıkkı simple past kullanarak eş zamanlılık ve süreklilik vurgusunu kaybeder. C şıkkı present perfect geçmiş paralel eylemler için uygun değil. D şıkkı zaman sıralama vurgusu yapıyor ama 'while' eş zamanlılık gerektirir. E şıkkı present tense geçmiş bağlamla uyumsuz."
+        },
+        {
+          "question": "The manuscript ---- to the publisher last month, but we still ---- a response.",
+          "options": [
+            "was sent / don't receive",
+            "has been sent / didn't receive",
+            "was sent / haven't received",
+            "is sent / haven't received",
+            "had been sent / don't receive"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Last month' kesin geçmiş zaman belirteci olduğu için 'was sent' (past simple passive) kullanılır. 'Still' ile günümüze kadar devam eden durum için 'haven't received' (present perfect negative) doğrudur. A şıkkındaki 'don't receive' present tense, geçmişten günümüze uzanan süreci ifade etmez. B şıkkındaki 'has been sent' 'last month' kesin zaman belirteciyle kullanılmaz. D ve E şıkları ilk boşlukta yanlış zaman kullanıyor."
+        },
+        {
+          "question": "The species ---- endangered for years before conservationists ---- to take action.",
+          "options": [
+            "was / decided",
+            "has been / decide",
+            "had been / decided",
+            "is / have decided",
+            "was being / decide"
+          ],
+          "correct_answer": 2,
+          "explanation": "'For years before' ifadesi, korumacıların karar vermesinden (decided - simple past) ÖNCE süregelen durumu gösterir. Bu nedenle 'had been' (past perfect) kullanılır. Geçmişte bir referans noktasından önce devam eden durum past perfect gerektirir. A şıkkı her iki eylemi aynı zaman düzleminde bırakır. B şıkkı present perfect + present tense geçmiş bağlamla uyumsuz. D ve E şıkları de zaman uyumu yanlış."
+        }
+      ]
+    },
+    {
+      "id": "2.1.2",
+      "title": "Durumsal Uyum: Zaman Zarfları ve Sıralı Olaylar",
+      "content": "YDS sorularında zaman seçimi, sadece fiil formlarını değil, cümledeki zaman zarflarını (time adverbials) ve olayların mantıksal sırasını da dikkate alır. 'Already', 'yet', 'still', 'just', 'recently', 'lately', 'ever', 'never' gibi zarflar belirli zamanlarla birlikte kullanılır. Örneğin, 'already' ve 'just' genellikle present perfect ile (have already done, have just finished), 'yet' olumsuz cümlelerde ve sorularda present perfect ile, 'still' devam eden durumları göstermek için present continuous veya present perfect continuous ile kullanılır. Türk öğrencilerin yaygın hatası, bu zarfları simple past ile kullanmaktır: 'I already finished' yerine 'I have already finished' demek gerekir. Sıralı olaylarda (sequencing) ise 'before', 'after', 'once', 'as soon as', 'until', 'when' gibi bağlaçlar zamanlar arası ilişkiyi netleştirir. Özellikle akademik metinlerde araştırma süreçlerini anlatan cümlelerde bu yapılar çok yaygındır: 'After the data was collected, it was analyzed' veya 'Before publishing the results, the researchers verified their findings'. YDS'de bu yapıları içeren cümlelerde, hangi eylemin daha önce gerçekleştiğini belirlemek ve buna göre doğru zamanı seçmek kritiktir. Strateji: Cümledeki tüm zaman ipuçlarını (zarflar, bağlaçlar, tarihler) işaretleyin ve olayları kronolojik sıraya koyun. Hangi olay önce, hangisi sonra, hangisi eş zamanlı? Bu analiz doğru fiil zamanını seçmenizi sağlar.",
+      "examples": [
+        "The experiment has already been conducted, so we can now analyze the results. ('already' + present perfect)",
+        "YANLIŞ: The experiment already conducted. ('already' simple past ile kullanılmaz, auxiliary gerekli)",
+        "Have you finished the report yet? ('yet' soru cümlesinde present perfect ile)",
+        "No, I haven't submitted it yet. ('yet' olumsuz cümlede present perfect ile)",
+        "YANLIŞ: Did you finish the report yet? (Türk öğrenciler 'yet'i past ile kullanır, yanlış)",
+        "The team is still working on the analysis. ('still' devam eden eylem, present continuous)",
+        "She has just returned from the conference. ('just' yakın geçmiş, present perfect)",
+        "YANLIŞ: She just returned. (Türkçe etkisiyle auxiliary düşürülür, yanlış)",
+        "After they had reviewed the literature, they designed the study. (Önce inceleme, sonra tasarım - past perfect + simple past)",
+        "Before the theory was accepted, numerous experiments had been performed. (Önce deneyler, sonra kabul - past perfect passive + simple past passive)",
+        "The data will be processed once it has been collected. (Gelecekte: önce toplama, sonra işleme)",
+        "By the time you arrive, we will have already left. ('by the time' + future perfect)"
+      ],
+      "exercises": [
+        {
+          "question": "The researchers have ---- completed the initial phase of the study, and they are now preparing for the next stage.",
+          "options": [
+            "yet",
+            "already",
+            "still",
+            "never",
+            "ever"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Already' (zaten/şimdiden) olumlu cümlede tamamlanmış eylemi vurgulamak için kullanılır ve present perfect ile uyumludur. 'Yet' olumsuz cümlelerde ve sorularda kullanılır. 'Still' devam eden eylemi gösterir ama burada eylem tamamlanmış. 'Never' ve 'ever' bu bağlamda anlamsal olarak uygun değil. Cümlenin anlamı: Araştırmacılar çalışmanın ilk aşamasını zaten tamamladılar."
+        },
+        {
+          "question": "---- the samples had been collected, the laboratory analysis could begin.",
+          "options": [
+            "During",
+            "While",
+            "Once",
+            "Until",
+            "Since"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Once' (bir kez/sonra) burada 'after' anlamında kullanılır ve 'örnekler toplandıktan sonra' anlamını verir. Past perfect ('had been collected') ile uyumludur. 'During' ve 'while' eş zamanlılık gösterir, burada sıralı olaylar var. 'Until' '-e kadar' anlamında ama mantıksal sıra ters: toplama bitince analiz başlar. 'Since' sebep veya zaman başlangıcı gösterir, burada uygun değil."
+        },
+        {
+          "question": "Have you ---- read the latest article on quantum computing?",
+          "options": [
+            "yet",
+            "already",
+            "still",
+            "ever",
+            "just"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Ever' soru cümlelerinde 'hiç (şimdiye kadar)' anlamında kullanılır ve present perfect ile sorar: 'Hiç okudun mu?' 'Yet' olumsuz cümlede ve soru cümlesinde kullanılabilir ama burada 'already' karşıtı olarak 'henüz' anlamı yanlış. 'Already' soru cümlesinde 'şimdiden mi?' diye şaşkınlık ifadesi taşır, burada uygun değil. 'Still' ve 'just' bu yapıda kullanılmaz."
+        },
+        {
+          "question": "The committee hasn't reached a consensus ----.",
+          "options": [
+            "already",
+            "still",
+            "yet",
+            "just",
+            "ever"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Yet' olumsuz cümlede 'henüz (şimdiye kadar)' anlamında cümle sonunda kullanılır. 'Komite henüz bir fikir birliğine varmadı.' 'Already' olumlu cümlelerde kullanılır. 'Still' genellikle cümle ortasında kullanılır (hasn't still - yanlış sıra). 'Just' yakın geçmiş olumlu cümlelerde kullanılır. 'Ever' olumsuz cümlede 'asla' anlamına gelir ama burada 'yet' daha doğal."
+        },
+        {
+          "question": "---- the funding was approved, the project team began recruiting participants.",
+          "options": [
+            "As soon as",
+            "Until",
+            "Before",
+            "While",
+            "Since then"
+          ],
+          "correct_answer": 0,
+          "explanation": "'As soon as' (hemen sonra) fonun onaylanmasıyla ekibin çalışmaya başlaması arasındaki yakın zamansal ilişkiyi gösterir. 'Until' '-e kadar' anlamında ama mantık ters: fon onaylanınca başlarlar, onaylanana kadar değil. 'Before' öncelik gösterir ama burada sonralık var. 'While' eş zamanlılık, burada uygun değil. 'Since then' cümle başında yanlış kullanım."
+        },
+        {
+          "question": "The species had been evolving for millions of years ---- humans appeared on Earth.",
+          "options": [
+            "after",
+            "before",
+            "as soon as",
+            "once",
+            "since"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Before' (önce) türün evriminin insanlardan ÖNCE gerçekleştiğini gösterir. Past perfect ('had been evolving') daha önceki olayı, simple past ('appeared') sonraki olayı ifade eder. 'After' mantıksal sırayı tersine çevirir. 'As soon as' ve 'once' yakın zamanlı ardışık eylemler için kullanılır, milyonlarca yıllık süreçte uygun değil. 'Since' başlangıç noktası gösterir ama burada son nokta gösterilmeli."
+        },
+        {
+          "question": "The manuscript is ---- under review by the editorial board.",
+          "options": [
+            "yet",
+            "already",
+            "still",
+            "just",
+            "ever"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Still' (hala/halen) devam eden durumu gösterir ve present continuous ile uyumludur. 'Makale halen inceleme sürecinde.' 'Yet' olumsuz cümlelerde kullanılır. 'Already' tamamlanmış eylemi gösterir ama burada eylem devam ediyor. 'Just' yakın geçmişte tamamlanan eylem için. 'Ever' bu bağlamda uygun değil."
+        },
+        {
+          "question": "---- conducting the interviews, the researchers transcribed and coded the responses.",
+          "options": [
+            "While",
+            "During",
+            "After",
+            "Before",
+            "Since"
+          ],
+          "correct_answer": 2,
+          "explanation": "'After' (sonra) mantıksal sırayı doğru gösterir: önce mülakatlar yapıldı, sonra transkript yapılıp kodlandı. 'While' ve 'during' eş zamanlılık gösterir ama transkripsiyon mülakattan sonra yapılır. 'Before' sırayı tersine çevirir: mülakatlardan önce transkript yapılamaz. 'Since' sebep veya başlangıç noktası gösterir, burada sıralı eylemler var."
+        },
+        {
+          "question": "Have you ---- received the laboratory results?",
+          "options": [
+            "yet",
+            "still",
+            "already",
+            "ever",
+            "never"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Already' soru cümlesinde 'şimdiden/çoktan' anlamında hafif şaşkınlık veya beklentiden erken gerçekleşme hissi verir. 'Laboratuvar sonuçlarını şimdiden aldınız mı?' 'Yet' de kullanılabilir ama daha nötr ('henüz aldınız mı?'). 'Still' soru cümlesinde bu yapıda kullanılmaz. 'Ever' 'hiç (hayatınızda)' diye sorar, burada uygun değil. 'Never' olumsuz, soru değil."
+        },
+        {
+          "question": "The patient must wait ---- the medication takes effect.",
+          "options": [
+            "after",
+            "until",
+            "once",
+            "before",
+            "as soon as"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Until' (kadar) hastanın ilaç etkili olana kadar beklemesi gerektiğini gösterir. 'After' mantıksal olarak yanlış: ilaç etki ettikten sonra beklemez. 'Once' ve 'as soon as' ilaç etki edince beklemesi biter, yani sonucu gösterir ama 'wait until' kalıbı daha doğal. 'Before' ilaç etki etmeden önce beklemek kısmen mantıklı ama 'until' burada standart kullanım."
+        },
+        {
+          "question": "The data has ---- arrived, so we can begin the statistical analysis.",
+          "options": [
+            "yet",
+            "still",
+            "just",
+            "already",
+            "ever"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Just' (henüz/biraz önce) yakın geçmişte tamamlanan eylemi ifade eder ve present perfect ile kullanılır. 'Veri henüz/az önce geldi, istatistiksel analiz başlayabiliriz.' 'Already' de benzer anlam verir ama 'just' daha yakın zamanlı vurgular. 'Yet' olumsuz cümle gerektirir. 'Still' devam eden eylem için. 'Ever' bu bağlamda uygun değil."
+        },
+        {
+          "question": "The theory remained controversial ---- new supporting evidence emerged.",
+          "options": [
+            "after",
+            "until",
+            "once",
+            "since",
+            "before"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Until' (kadar) teorinin yeni kanıt çıkana kadar tartışmalı kaldığını gösterir. Yeni kanıt çıktıktan sonra tartışmalı olmaktan çıkar. 'After' mantıksal sırayı tersine çevirir. 'Once' 'bir kez olunca' anlamında ama 'until' daha doğal. 'Since' sebep gösterir, burada zamansal sınır var. 'Before' yeni kanıt çıkmadan önce tartışmalı demenin mantıksal bir katkısı yok."
+        }
+      ]
+    },
+    {
+      "id": "2.1.3",
+      "title": "Aktarım: by the time, no sooner...than, hardly...when",
+      "content": "YDS'de ileri düzey zaman yapıları arasında aktarım (time sequencing) yapıları önemli yer tutar. 'By the time' hem geçmiş hem gelecek bağlamında kullanılır ve bir referans noktasını gösterir: 'By the time he arrived, the meeting had finished' (o varınca toplantı çoktan bitmişti - past perfect). Gelecekte: 'By the time you read this, I will have left' (bunu okuduğunda ben çoktan gitmiş olacağım - future perfect). 'No sooner...than' ve 'hardly/scarcely...when' yapıları 'bir şey olur olmaz hemen ardından başka bir şey oldu' anlamını verir ve genellikle past perfect + simple past kombinasyonuyla kullanılır: 'No sooner had the lecture ended than the students left' veya 'Hardly had we begun the experiment when the power went out'. Bu yapılarda inversion (devrik cümle) kullanımı yaygındır: yardımcı fiil öznenin önüne gelir. Türk öğrenciler bu yapıları nadiren kullanır ve İngilizceye çevirirken hata yapar. Örneğin, 'He no sooner arrived than he left' yerine 'No sooner had he arrived than he left' demek gerekir. YDS'de bu yapılar hem boşluk doldurma hem cümle tamamlama sorularında çıkar. Strateji: Bu kalıpları ezberleyin ve 'by the time' gördüğünüzde gelecekte future perfect, geçmişte past perfect kullanımını hatırlayın. 'No sooner / hardly' gördüğünüzde inversion ve past perfect + than/when yapısını bekleyin.",
+      "examples": [
+        "By the time the rescue team arrived, the survivors had been waiting for hours. (Kurtarma ekibi varınca, hayatta kalanlar saatlerdir bekliyordu)",
+        "By the time this article is published, the policy will have changed. (Bu makale yayınlandığında, politika değişmiş olacak)",
+        "No sooner had the results been announced than the controversy began. (Sonuçlar açıklanır açıklanmaz tartışma başladı)",
+        "Hardly had the experiment started when unexpected problems emerged. (Deney başlar başlamaz beklenmedik sorunlar ortaya çıktı)",
+        "YANLIŞ: No sooner the results announced than controversy began. (Inversion ve past perfect eksik)",
+        "Scarcely had the researchers finished one study when they began another. (Bir araştırma biter bitmez diğerine başladılar)",
+        "YANLIŞ: By the time he will arrive, we will finish. ('By the time' sonrası present tense gerekir)",
+        "By the time the committee reviews the proposal, the deadline will have passed. (Komite öneriyi incelediğinde, son tarih geçmiş olacak)",
+        "No sooner had the medication been administered than the patient's condition improved. (İlaç verilir verilmez hastanın durumu düzeldi)",
+        "Hardly had the theory been proposed when it was challenged by critics. (Teori öne sürülür sürülmez eleştirmenler tarafından sorgulandı)",
+        "By the time we realized the error, it was too late to correct it. (Hatayı fark ettiğimizde, düzeltmek için çok geçti)",
+        "Scarcely had the conference ended when delegates began discussing the outcomes. (Konferans biter bitmez delegeler sonuçları tartışmaya başladı)"
+      ],
+      "exercises": [
+        {
+          "question": "By the time the research findings ----, the scientific community ---- the methodology.",
+          "options": [
+            "were published / already questioned",
+            "have been published / has already questioned",
+            "are published / will already question",
+            "were published / had already questioned",
+            "will be published / already questions"
+          ],
+          "correct_answer": 3,
+          "explanation": "'By the time' geçmiş bağlamında kullanıldığında, referans noktası (were published - simple past), ardından gelen eylem bundan ÖNCE gerçekleşir (had questioned - past perfect). 'Bulgular yayınlanana kadar, bilim dünyası zaten metodolojiyi sorgulamıştı.' A şıkkı her iki eylemi de simple past yaparak zamansal önceliği belirsiz bırakır. B, C, E şıkları zaman uyumu yanlış."
+        },
+        {
+          "question": "No sooner ---- the new policy ---- than objections were raised.",
+          "options": [
+            "was / announced",
+            "had / been announced",
+            "has / been announced",
+            "did / announce",
+            "is / announced"
+          ],
+          "correct_answer": 1,
+          "explanation": "'No sooner...than' yapısında inversion kullanılır ve past perfect gerekir: 'had been announced' (passive). 'Yeni politika açıklanır açıklanmaz itirazlar yapıldı.' A şıkkı simple past kullanıyor ve inversion yanlış. C şıkkı present perfect geçmiş bağlamla uyumsuz. D şıkkı 'did announce' active yapı ama cümle passive olmalı. E şıkkı present tense yanlış."
+        },
+        {
+          "question": "Hardly ---- the experiment ---- when technical difficulties arose.",
+          "options": [
+            "did / start",
+            "was / starting",
+            "had / started",
+            "has / started",
+            "does / start"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Hardly...when' yapısında inversion kullanılır ve past perfect gerekir: 'had started'. 'Deney başlar başlamaz teknik zorluklar ortaya çıktı.' A şıkkı simple past auxiliary kullanıyor ama past perfect gerekli. B şıkkı past continuous yanlış form. C şıkkı present perfect geçmiş bağlamla uyumsuz. E şıkkı present tense yanlış."
+        },
+        {
+          "question": "By the time the treatment protocol is approved, several months ---- passed.",
+          "options": [
+            "have",
+            "had",
+            "will have",
+            "will",
+            "would have"
+          ],
+          "correct_answer": 2,
+          "explanation": "'By the time + present tense' gelecekte bir referans noktası oluşturur. Bu noktada tamamlanmış olacak durum için 'will have passed' (future perfect) kullanılır. 'Tedavi protokolü onaylandığında, birkaç ay geçmiş olacak.' A şıkkı present perfect gelecek için yanlış. B şıkkı past perfect geçmiş bağlamda doğru olurdu ama burada gelecek var. D şıkkı simple future tamamlanma vurgusunu kaybeder. E şıkkı conditional yanlış."
+        },
+        {
+          "question": "Scarcely ---- the data ---- when the researchers noticed a significant pattern.",
+          "options": [
+            "was / analyzed",
+            "had / been analyzed",
+            "has / been analyzed",
+            "did / analyze",
+            "is / analyzed"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Scarcely...when' ('hardly...when' ile aynı anlam) yapısında inversion ve past perfect passive kullanılır: 'had been analyzed'. 'Veri analiz edilir edilmez araştırmacılar önemli bir örüntü fark etti.' A şıkkı simple past kullanıyor. C şıkkı present perfect geçmiş bağlamla uyumsuz. D şıkkı active yapı ama passive gerekli. E şıkkı present tense yanlış."
+        },
+        {
+          "question": "By the time we ---- the laboratory, the experiment ---- for three hours.",
+          "options": [
+            "reached / was running",
+            "reach / will run",
+            "reached / had been running",
+            "have reached / has been running",
+            "will reach / runs"
+          ],
+          "correct_answer": 2,
+          "explanation": "'By the time' geçmiş bağlamında: referans noktası (reached - simple past), bundan önce başlayıp devam eden eylem (had been running - past perfect continuous). 'Laboratuvara ulaştığımızda, deney üç saattir sürüyordu.' A şıkkı past continuous kullanıyor ama 'for three hours' past perfect continuous gerektirir. B, D, E şıkları zaman uyumu yanlış."
+        },
+        {
+          "question": "No sooner ---- the vaccine ---- than demand exceeded supply.",
+          "options": [
+            "was / developed",
+            "has / been developed",
+            "had / been developed",
+            "did / develop",
+            "is / developing"
+          ],
+          "correct_answer": 2,
+          "explanation": "'No sooner...than' yapısında inversion ve past perfect passive: 'had been developed'. 'Aşı geliştirilir geliştirilmez talep arzı aştı.' A şıkkı simple past yanlış. B şıkkı present perfect geçmiş bağlamla uyumsuz. D şıkkı simple past auxiliary + active yapı yanlış. E şıkkı present continuous ve active yapı yanlış."
+        },
+        {
+          "question": "By the time the authorities respond, the situation ---- worse.",
+          "options": [
+            "became",
+            "becomes",
+            "will become",
+            "will have become",
+            "had become"
+          ],
+          "correct_answer": 3,
+          "explanation": "'By the time + present tense' (respond) gelecekte referans noktasıdır. Bu noktada zaten gerçekleşmiş olacak durum için 'will have become' (future perfect) kullanılır. 'Yetkililer yanıt verene kadar, durum daha da kötüleşmiş olacak.' A ve E şıkları past tense gelecek bağlamla uyumsuz. B şıkkı simple present bu yapıda yanlış. C şıkkı simple future tamamlanma vurgusunu kaybeder."
+        },
+        {
+          "question": "Hardly ---- the presentation ---- when questions began pouring in.",
+          "options": [
+            "did / finish",
+            "was / finished",
+            "has / finished",
+            "had / finished",
+            "does / finish"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Hardly...when' yapısında inversion ve past perfect: 'had finished'. 'Sunum biter bitmez sorular yağmaya başladı.' A şıkkı simple past auxiliary yanlış. B şıkkı simple past passive yanlış. C şıkkı present perfect geçmiş bağlamla uyumsuz. E şıkkı present tense yanlış."
+        },
+        {
+          "question": "By the time the article ----, the controversy ---- died down.",
+          "options": [
+            "appears / has",
+            "appeared / has",
+            "appeared / had",
+            "will appear / has",
+            "appears / had"
+          ],
+          "correct_answer": 2,
+          "explanation": "'By the time' geçmiş bağlamında: referans noktası (appeared - simple past), bundan önce gerçekleşen eylem (had died down - past perfect). 'Makale yayınlandığında, tartışma çoktan dinmişti.' A, B, D, E şıkları zaman uyumu yanlış. Past perfect referans noktasından önce tamamlanmış eylemi gösterir."
+        },
+        {
+          "question": "No sooner ---- the regulations ---- into effect than businesses began adapting.",
+          "options": [
+            "did / come",
+            "had / come",
+            "have / come",
+            "do / come",
+            "were / coming"
+          ],
+          "correct_answer": 1,
+          "explanation": "'No sooner...than' yapısında inversion ve past perfect: 'had come'. 'Düzenlemeler yürürlüğe girer girmez işletmeler adapte olmaya başladı.' A şıkkı simple past auxiliary yanlış. C şıkkı present perfect geçmiş bağlamla uyumsuz. D şıkkı present tense yanlış. E şıkkı past continuous bu yapıda kullanılmaz."
+        },
+        {
+          "question": "By the time you receive this message, the decision ---- already ----.",
+          "options": [
+            "has / been made",
+            "had / been made",
+            "will / have been made",
+            "was / made",
+            "is / being made"
+          ],
+          "correct_answer": 2,
+          "explanation": "'By the time + present tense' (receive) gelecekte referans noktasıdır. Bu noktada zaten tamamlanmış olacak eylem için 'will have been made' (future perfect passive) kullanılır. 'Bu mesajı aldığınızda, karar çoktan verilmiş olacak.' A ve B şıkları present/past perfect gelecek bağlamla uyumsuz. D ve E şıkları tamamlanma vurgusunu kaybeder."
+        }
+      ]
+    }
+  ]
+}

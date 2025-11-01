@@ -1,0 +1,342 @@
+{
+  "section": "3.1",
+  "title": "Akademik Kelime Listesi (AWL)",
+  "topics": [
+    {
+      "id": "3.1.1",
+      "title": "Alt-listeler Halinde Çalışma",
+      "content": "Academic Word List (AWL), akademik metinlerde en sık karşılaşılan 570 kelime ailesini içeren sistematik bir listedir. Averil Coxhead tarafından geliştirilen bu liste, genel İngilizce'de çok sık kullanılmayan ancak akademik bağlamda kritik öneme sahip kelimeleri içerir. AWL 10 alt-listeye ayrılmıştır ve her liste frekans sırasına göre düzenlenmiştir.\n\nSublist 1, akademik metinlerde en sık görülen kelimelerden oluşur (analysis, approach, area, assess, assume, authority, available, benefit, concept, consistent, constitutional, context, contract, create, data, definition, derived, distribution, economic, environment). Bu kelimeler tüm disiplinlerde yaygın kullanılır ve YDS/YÖKDİL sınavlarında sıkça test edilir.\n\nSublist 2-4 kelimeleri orta frekanstadır ve disiplinler arası geçişlilik gösterir (achieve, acquire, administrate, affect, appropriate, aspect, assist, category, chapter, commission, community, complex, compute, conclude, consequent, construct, consume, credit, culture, design). Bu kelimeler hem sosyal hem de fen bilimlerinde kullanılır.\n\nSublist 5-10 kelimeleri daha spesifik akademik bağlamlarda görülür ve ileri seviye akademik okuma için gereklidir (abstract, accurate, acknowledge, aggregate, allocate, amend, anticipate, arbitrary, automate, bias, chart, clarify, commodity, compensate, component, concurrent, confine, contradict, core, corporate). Sınavlarda bu kelimeler genellikle reading comprehension ve cloze test bölümlerinde test edilir.\n\nAWL çalışırken sistematik bir yaklaşım benimseyin: her alt-listeyi tamamlayın, kelime ailelerini (derive → derivation → derivative → derived) öğrenin ve akademik metinlerde bu kelimeleri tanımaya başlayın.",
+      "examples": [
+        "The analysis (Sublist 1) revealed significant patterns in the data.",
+        "Researchers need to assess (Sublist 1) the validity of their findings.",
+        "The concept (Sublist 1) of sustainability has gained considerable attention.",
+        "Environmental (Sublist 1) factors play a crucial role in economic development.",
+        "The study adopted a comprehensive approach (Sublist 1) to the problem.",
+        "Achieve (Sublist 2) your academic goals through systematic preparation.",
+        "The research design (Sublist 2) was carefully constructed to minimize bias.",
+        "Cultural (Sublist 2) differences affect communication patterns significantly.",
+        "The commission (Sublist 2) was established to investigate the allegations.",
+        "Computing (Sublist 2) technology has transformed academic research.",
+        "Clarify (Sublist 8) the relationship between variables in your hypothesis.",
+        "The commodity (Sublist 8) market experienced unprecedented volatility.",
+        "Concurrent (Sublist 9) events made it difficult to establish causation.",
+        "Corporate (Sublist 10) governance principles ensure accountability.",
+        "Arbitrary (Sublist 8) decisions undermine the credibility of institutions."
+      ],
+      "exercises": [
+        {
+          "question": "The government's new policy aims to ---- economic growth while maintaining environmental sustainability.",
+          "options": [
+            "promote",
+            "demolish",
+            "restrict",
+            "abandon",
+            "ignore"
+          ],
+          "correct": 0,
+          "explanation": "'Promote' (AWL Sublist 4) akademik bağlamda 'teşvik etmek, desteklemek' anlamında kullanılır ve economic growth ile doğal bir kollokasyon oluşturur."
+        },
+        {
+          "question": "Researchers must ---- their findings to ensure the results can be replicated by other scientists.",
+          "options": [
+            "document",
+            "conceal",
+            "fabricate",
+            "distort",
+            "neglect"
+          ],
+          "correct": 0,
+          "explanation": "'Document' (AWL Sublist 3) akademik araştırmalarda 'belgelemek' anlamında kritik bir kelimedir ve findings ile sıkça kullanılır."
+        },
+        {
+          "question": "The study's methodology was criticized for its ---- to account for confounding variables.",
+          "options": [
+            "failure",
+            "success",
+            "tendency",
+            "ability",
+            "eagerness"
+          ],
+          "correct": 0,
+          "explanation": "'Failure' burada 'failure to + verb' yapısıyla kullanılmış olup metodolojik bir eksikliği ifade eder."
+        },
+        {
+          "question": "The theoretical ---- underlying this research draws on social constructivist principles.",
+          "options": [
+            "framework",
+            "decoration",
+            "entertainment",
+            "confusion",
+            "distraction"
+          ],
+          "correct": 0,
+          "explanation": "'Framework' (AWL Sublist 3) akademik yazıda 'çerçeve' anlamında temel bir terimdir ve theoretical ile güçlü bir kollokasyon oluşturur."
+        },
+        {
+          "question": "Scientists have yet to ---- a definitive explanation for the phenomenon observed in the experiment.",
+          "options": [
+            "establish",
+            "destroy",
+            "question",
+            "reject",
+            "mock"
+          ],
+          "correct": 0,
+          "explanation": "'Establish' (AWL Sublist 1) bilimsel bağlamda 'ortaya koymak, kanıtlamak' anlamında kullanılır ve explanation ile doğal bir eşleşme oluşturur."
+        },
+        {
+          "question": "The research team sought to ---- the relationship between sleep deprivation and cognitive performance.",
+          "options": [
+            "investigate",
+            "ignore",
+            "destroy",
+            "celebrate",
+            "mock"
+          ],
+          "correct": 0,
+          "explanation": "'Investigate' (AWL Sublist 4) araştırma bağlamında temel bir fiildir ve 'araştırmak, incelemek' anlamını taşır."
+        },
+        {
+          "question": "The findings ---- previous research suggesting that early intervention is crucial for language development.",
+          "options": [
+            "confirm",
+            "contradict",
+            "ignore",
+            "demolish",
+            "mock"
+          ],
+          "correct": 0,
+          "explanation": "'Confirm' (AWL Sublist 7) akademik yazıda 'doğrulamak' anlamında kullanılır ve previous research ile sıkça eşleşir. 'Contradict' de AWL kelimesidir ancak bağlam 'desteklemek' anlamını gerektiriyor."
+        },
+        {
+          "question": "The author ---- that further studies are necessary to validate these preliminary results.",
+          "options": [
+            "acknowledges",
+            "denies",
+            "ridicules",
+            "celebrates",
+            "fabricates"
+          ],
+          "correct": 0,
+          "explanation": "'Acknowledge' (AWL Sublist 6) akademik söylemde 'kabul etmek, onaylamak' anlamında kritik bir kelimedir."
+        },
+        {
+          "question": "Economic inequality has ---- as a major concern in contemporary policy debates.",
+          "options": [
+            "emerged",
+            "disappeared",
+            "weakened",
+            "diminished",
+            "vanished"
+          ],
+          "correct": 0,
+          "explanation": "'Emerge' (AWL Sublist 4) 'ortaya çıkmak' anlamında akademik metinlerde sıkça kullanılan bir fiildir ve concern ile doğal bir kollokasyon oluşturur."
+        },
+        {
+          "question": "The research design was modified to ---- for the limitations identified in the pilot study.",
+          "options": [
+            "compensate",
+            "celebrate",
+            "ignore",
+            "amplify",
+            "worsen"
+          ],
+          "correct": 0,
+          "explanation": "'Compensate' (AWL Sublist 9) 'telafi etmek' anlamında kullanılır ve 'compensate for' yapısıyla limitations ile eşleşir."
+        },
+        {
+          "question": "The theory ---- that language acquisition follows universal developmental stages regardless of the native language.",
+          "options": [
+            "postulates",
+            "rejects",
+            "mocks",
+            "celebrates",
+            "ignores"
+          ],
+          "correct": 0,
+          "explanation": "'Postulate' (AWL Sublist 9) teorik önerilerde 'varsaymak, öne sürmek' anlamında kullanılan ileri seviye bir akademik kelimedir."
+        },
+        {
+          "question": "Participants were ---- into three groups based on their proficiency level to ensure balanced comparison.",
+          "options": [
+            "allocated",
+            "confused",
+            "dismissed",
+            "ignored",
+            "celebrated"
+          ],
+          "correct": 0,
+          "explanation": "'Allocate' (AWL Sublist 6) araştırma metodolojisinde 'tahsis etmek, dağıtmak' anlamında kullanılır ve into groups ile doğal bir yapı oluşturur."
+        }
+      ]
+    },
+    {
+      "id": "3.1.2",
+      "title": "Kök-Ek Analizi, Türevler",
+      "content": "AWL kelimelerinin çoğu kelime aileleri (word families) halinde öğrenilmelidir çünkü bir kökten türetilen farklı kelime türleri (noun, verb, adjective, adverb) akademik metinlerde yaygın olarak kullanılır. Kök-ek analizi, hem kelime dağarcığını genişletir hem de okuma hızını artırır.\n\nBir kelime ailesine örnek: ANALYZE (fiil) → ANALYSIS (isim) → ANALYTICAL (sıfat) → ANALYTICALLY (zarf) → ANALYST (isim - kişi). Bu ailedeki her kelime farklı dilbilgisel bağlamlarda kullanılır: 'We analyzed the data' (fiil), 'The analysis revealed patterns' (isim), 'An analytical approach is necessary' (sıfat), 'Think analytically' (zarf), 'The analyst concluded' (kişi ismi).\n\nSık görülen接头词 (prefixes): UN- (olumsuz: unacceptable, unstable), DIS- (olumsuz/ayrılma: disagree, displace), RE- (tekrar: reassess, redefine), PRE- (önce: predict, precede), IN-/IM-/IL-/IR- (olumsuz: inadequate, impossible, illegal, irregular), OVER- (aşırı: overestimate, overlook), UNDER- (yetersiz: underestimate, underlying), MIS- (yanlış: misinterpret, mislead).\n\nSık görülen sonek'ler (suffixes): -TION/-SION (isim: interpretation, conclusion), -MENT (isim: assessment, establishment), -ITY/-TY (isim: validity, certainty), -NESS (isim: awareness, effectiveness), -ABLE/-IBLE (sıfat: available, visible), -AL (sıfat: environmental, cultural), -IVE (sıfat: positive, relative), -ANT/-ENT (sıfat: significant, consistent), -LY (zarf: significantly, approximately), -IZE/-ISE (fiil: analyze, emphasize).\n\nTürev örnekleri: SIGNIFY → SIGNIFICANT → SIGNIFICANCE → SIGNIFICANTLY, RESPOND → RESPONSE → RESPONSIBLE → RESPONSIBILITY → RESPONSIBLY, DEFINE → DEFINITION → DEFINITE → DEFINITELY → DEFINITIVE. Bu türev zincirleri YDS/YÖKDİL sınavlarında word formation ve cloze test sorularında sıkça test edilir.",
+      "examples": [
+        "VARY: vary (v) → variable (n/adj) → variation (n) → varied (adj) → invariably (adv)",
+        "CONCLUDE: conclude (v) → conclusion (n) → conclusive (adj) → conclusively (adv)",
+        "SIGNIFY: signify (v) → significance (n) → significant (adj) → significantly (adv)",
+        "STABLE: stable (adj) → stability (n) → stabilize (v) → unstable (adj) → instability (n)",
+        "THEORY: theory (n) → theoretical (adj) → theoretically (adv) → theorist (n) → theorize (v)",
+        "PREDICT: predict (v) → prediction (n) → predictable (adj) → unpredictable (adj) → predictably (adv)",
+        "INTERPRET: interpret (v) → interpretation (n) → interpretive (adj) → misinterpret (v)",
+        "CONSIST: consist (v) → consistent (adj) → consistency (n) → consistently (adv) → inconsistent (adj)",
+        "RESPOND: respond (v) → response (n) → responsible (adj) → responsibility (n) → irresponsible (adj)",
+        "ASSUME: assume (v) → assumption (n) → assumed (adj) → presumably (adv) → presumption (n)",
+        "CREATE: create (v) → creation (n) → creative (adj) → creativity (n) → recreate (v)",
+        "DEFINE: define (v) → definition (n) → definite (adj) → definitely (adv) → redefine (v)",
+        "ENVIRONMENT: environment (n) → environmental (adj) → environmentally (adv) → environmentalist (n)",
+        "ADEQUATE: adequate (adj) → adequacy (n) → adequately (adv) → inadequate (adj) → inadequacy (n)",
+        "VALID: valid (adj) → validity (n) → validate (v) → validation (n) → invalid (adj)"
+      ],
+      "exercises": [
+        {
+          "question": "The research team conducted a thorough ---- of the data before drawing any conclusions.",
+          "options": [
+            "analysis",
+            "analyze",
+            "analytical",
+            "analytically",
+            "analyst"
+          ],
+          "correct": 0,
+          "explanation": "Boşluktan önce 'a thorough' (sıfat + artikel) geldiği için isim gereklidir. 'Analysis' (AWL Sublist 1) doğru isim formudur."
+        },
+        {
+          "question": "The findings were ---- different from what previous studies had suggested.",
+          "options": [
+            "significantly",
+            "significant",
+            "significance",
+            "signify",
+            "signification"
+          ],
+          "correct": 0,
+          "explanation": "Boşluk 'different' sıfatını niteleyen bir zarf konumundadır. 'Significantly' (AWL Sublist 1) doğru zarf formudur ve akademik yazıda çok sık kullanılır."
+        },
+        {
+          "question": "The ---- of the research methodology raised concerns about the reliability of the results.",
+          "options": [
+            "validity",
+            "valid",
+            "validate",
+            "validly",
+            "validation"
+          ],
+          "correct": 0,
+          "explanation": "Cümlenin öznesi olarak isim gereklidir. 'Validity' (AWL Sublist 7) 'geçerlilik' anlamında akademik araştırmalarda kritik bir terimdir."
+        },
+        {
+          "question": "It is important to ---- between correlation and causation in statistical analysis.",
+          "options": [
+            "distinguish",
+            "distinction",
+            "distinctive",
+            "distinctly",
+            "distinguished"
+          ],
+          "correct": 0,
+          "explanation": "'To' infinitive yapısından sonra fiil gereklidir. 'Distinguish' (AWL Sublist 3) 'ayırt etmek' anlamında kullanılır ve 'distinguish between X and Y' kalıbı yaygındır."
+        },
+        {
+          "question": "The study's ---- can be applied to various educational contexts beyond the original setting.",
+          "options": [
+            "implications",
+            "imply",
+            "implicit",
+            "implicitly",
+            "implicated"
+          ],
+          "correct": 0,
+          "explanation": "Özne konumunda ve 'The study's' iyelik yapısından sonra isim gereklidir. 'Implications' (AWL Sublist 4) 'çıkarımlar, sonuçlar' anlamında akademik söylemde temel bir kelimedir."
+        },
+        {
+          "question": "The theory has been ---- challenged by recent experimental findings.",
+          "options": [
+            "fundamentally",
+            "fundamental",
+            "fundamentals",
+            "fundamentalism",
+            "fundamentalist"
+          ],
+          "correct": 0,
+          "explanation": "Boşluk 'challenged' fiilini niteleyen zarf konumundadır. 'Fundamentally' 'temelden, köklü biçimde' anlamında kullanılır."
+        },
+        {
+          "question": "The author's ---- of the data led to incorrect conclusions about the phenomenon.",
+          "options": [
+            "misinterpretation",
+            "interpretation",
+            "interpret",
+            "interpretive",
+            "interpreter"
+          ],
+          "correct": 0,
+          "explanation": "İyelik yapısından (author's) sonra isim gereklidir. 'Misinterpretation' (MIS- prefix + AWL Sublist 1 'interpret') 'yanlış yorumlama' anlamına gelir ve 'incorrect conclusions' ile tutarlıdır."
+        },
+        {
+          "question": "The research design was ---- flawed, rendering the results unreliable.",
+          "options": [
+            "inherently",
+            "inherent",
+            "inherit",
+            "inheritance",
+            "inheritor"
+          ],
+          "correct": 0,
+          "explanation": "Boşluk 'flawed' sıfatını niteleyen zarf konumundadır. 'Inherently' (AWL Sublist 9) 'doğası gereği, özünde' anlamında akademik eleştirilerde kullanılır."
+        },
+        {
+          "question": "The committee's decision to ---- additional funds to the project was based on its potential impact.",
+          "options": [
+            "allocate",
+            "allocation",
+            "allocated",
+            "allocating",
+            "allocable"
+          ],
+          "correct": 0,
+          "explanation": "'To' infinitive yapısından sonra fiilin yalın hali gereklidir. 'Allocate' (AWL Sublist 6) 'tahsis etmek' anlamında idari bağlamlarda kullanılır."
+        },
+        {
+          "question": "The study demonstrates a clear ---- between socioeconomic status and academic achievement.",
+          "options": [
+            "correlation",
+            "correlate",
+            "correlated",
+            "correlating",
+            "correlative"
+          ],
+          "correct": 0,
+          "explanation": "'A clear' (artikel + sıfat) yapısından sonra isim gereklidir. 'Correlation' (AWL Sublist 9) istatistiksel analizlerde 'korelasyon' anlamında temel bir terimdir."
+        },
+        {
+          "question": "The findings were ---- with the hypothesis proposed at the beginning of the study.",
+          "options": [
+            "consistent",
+            "consist",
+            "consistency",
+            "consistently",
+            "consisted"
+          ],
+          "correct": 0,
+          "explanation": "'Were' linking verb'ünden sonra sıfat gereklidir. 'Consistent' (AWL Sublist 1) 'tutarlı' anlamında ve 'consistent with' yapısı akademik yazıda çok yaygındır."
+        },
+        {
+          "question": "The researchers sought to ---- the theory through rigorous experimental testing.",
+          "options": [
+            "validate",
+            "valid",
+            "validity",
+            "validation",
+            "validly"
+          ],
+          "correct": 0,
+          "explanation": "'To' infinitive yapısından sonra fiil gereklidir. 'Validate' (AWL Sublist 7) 'doğrulamak' anlamında bilimsel araştırmalarda kritik bir terimdir."
+        }
+      ]
+    }
+  ]
+}

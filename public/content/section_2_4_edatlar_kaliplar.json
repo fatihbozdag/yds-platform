@@ -1,0 +1,501 @@
+{
+  "section": "2.4",
+  "title": "Edatlar ve Kalıplar (Prepositions)",
+  "topics": [
+    {
+      "id": "2.4.1",
+      "title": "Preposition + Noun/Verb/Adjective Kalıpları",
+      "content": "İngilizcede edatlar (prepositions) sadece yer/zaman göstermekle kalmaz, belirli kelimelerle sabit kalıplar oluşturur. YDS'de **preposition + noun** kalıpları çok yaygındır: 'by accident' (kazara), 'on purpose' (kasıtlı), 'in detail' (ayrıntılı), 'at risk' (risk altında), 'under pressure' (baskı altında), 'with regard to' (ile ilgili olarak). **Adjective + preposition** kalıpları: 'interested in', 'responsible for', 'familiar with', 'capable of', 'dependent on', 'aware of', 'concerned about', 'sensitive to'. **Verb + preposition** kalıpları: 'depend on', 'rely on', 'consist of', 'result in/from', 'contribute to', 'focus on', 'suffer from', 'succeed in'. Türk öğrencilerin yaygın hatası, Türkçe edatları birebir çevirmektir. Örneğin, Türkçede 'bir şeye bağlı olmak' -e hali kullanırken, İngilizce 'depend ON' kullanır. YDS'de akademik metinlerde bu kalıplar sürekli geçer: 'The study focuses ON language acquisition', 'Researchers are concerned ABOUT ethical issues', 'The results depend ON the sample size'. Strateji: Yaygın kalıpları ezberleyin. Bir kelimeyle hangi edatın kullanıldığını Türkçe mantığından değil, İngilizce kullanımdan öğrenin. Boşluk doldurma sorularında, önce kelimenin ne gerektirdiğini (verb/adjective/noun) belirleyin, sonra standart edatı seçin.",
+      "examples": [
+        "The researchers conducted the experiment with great care. (Preposition + noun: 'with care')",
+        "Scientists are concerned about the environmental impact. (Adjective + preposition: 'concerned about')",
+        "The theory depends on several key assumptions. (Verb + preposition: 'depend on')",
+        "YANLIŞ: The theory depends from assumptions. (Türkçe '-den' etkisiyle yanlış edat)",
+        "Participants were interested in the study's objectives. (Adjective + preposition: 'interested in')",
+        "The findings resulted in a paradigm shift. (Verb + preposition: 'result in' - sonuçlanmak)",
+        "YANLIŞ: The findings resulted from a paradigm shift. ('result from' = kaynaklanmak, farklı anlam)",
+        "The patient is at risk of developing complications. (Preposition + noun: 'at risk')",
+        "Researchers focus on identifying patterns. (Verb + preposition: 'focus on')",
+        "The team is responsible for data collection. (Adjective + preposition: 'responsible for')",
+        "Students are capable of critical thinking. (Adjective + preposition: 'capable of')",
+        "The study was conducted in accordance with ethical guidelines. (Preposition + noun: 'in accordance with')"
+      ],
+      "exercises": [
+        {
+          "question": "The success of the project depends ---- the availability of funding.",
+          "options": [
+            "from",
+            "to",
+            "on",
+            "with",
+            "at"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Depend on' sabit kalıp: 'Projenin başarısı fonun bulunabilirliğine bağlıdır.' 'Depend' her zaman 'on' edatıyla kullanılır. A şıkkı 'from' Türkçe '-den' etkisiyle yapılan yaygın hata. B, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "Researchers are concerned ---- the ethical implications of the study.",
+          "options": [
+            "about",
+            "with",
+            "for",
+            "to",
+            "of"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Concerned about' sabit kalıp: 'Araştırmacılar çalışmanın etik sonuçları hakkında endişeli.' 'Concerned' adjective + 'about' preposition kombinasyonu. B şıkkı 'concerned with' 'ile ilgilenmek' anlamında farklı. C, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The participants were not familiar ---- the testing procedures.",
+          "options": [
+            "to",
+            "with",
+            "about",
+            "of",
+            "in"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Familiar with' sabit kalıp: 'Katılımcılar test prosedürlerine aşina değildi.' 'Familiar' adjective + 'with' preposition kombinasyonu. A, C, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The experiment was conducted ---- accordance ---- international standards.",
+          "options": [
+            "in / with",
+            "on / to",
+            "at / for",
+            "with / of",
+            "by / to"
+          ],
+          "correct_answer": 0,
+          "explanation": "'In accordance with' sabit kalıp: 'Deney uluslararası standartlara uygun olarak yürütüldü.' 'In accordance with' = 'uygun olarak/göre'. B, C, D, E şıkları bu kalıpta yanlış edat kombinasyonları."
+        },
+        {
+          "question": "The research team is responsible ---- ensuring data accuracy.",
+          "options": [
+            "to",
+            "of",
+            "with",
+            "for",
+            "about"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Responsible for' sabit kalıp: 'Araştırma ekibi veri doğruluğunu sağlamaktan sorumludur.' 'Responsible' adjective + 'for' preposition kombinasyonu. A, B, C, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The findings resulted ---- a major breakthrough in the field.",
+          "options": [
+            "from",
+            "in",
+            "to",
+            "with",
+            "at"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Result in' = 'sonuçlanmak/neden olmak': 'Bulgular alanda büyük bir atılımla sonuçlandı.' A şıkkı 'result from' = 'kaynaklanmak' (ters yön, farklı anlam). C, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "Students should be capable ---- independent research by the end of the program.",
+          "options": [
+            "to",
+            "for",
+            "of",
+            "with",
+            "in"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Capable of' sabit kalıp: 'Öğrenciler programın sonunda bağımsız araştırma yapabilecek kapasitede olmalıdır.' 'Capable' adjective + 'of' preposition kombinasyonu. A, B, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The patient suffers ---- chronic migraines.",
+          "options": [
+            "with",
+            "from",
+            "of",
+            "by",
+            "to"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Suffer from' sabit kalıp: 'Hasta kronik migrenden muzdarip.' 'Suffer' verb + 'from' preposition kombinasyonu. A şıkkı 'with' yaygın hata. C, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The study focuses ---- the relationship between diet and health.",
+          "options": [
+            "to",
+            "in",
+            "at",
+            "on",
+            "with"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Focus on' sabit kalıp: 'Çalışma diyet ve sağlık arasındaki ilişkiye odaklanıyor.' 'Focus' verb + 'on' preposition kombinasyonu. A, B, C, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The theory consists ---- several interconnected components.",
+          "options": [
+            "from",
+            "with",
+            "of",
+            "by",
+            "in"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Consist of' sabit kalıp: 'Teori birbirine bağlı birkaç bileşenden oluşur.' 'Consist' verb + 'of' preposition kombinasyonu. A şıkkı Türkçe '-den' etkisiyle yaygın hata. B, D, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "Researchers must be aware ---- potential biases in their studies.",
+          "options": [
+            "about",
+            "to",
+            "with",
+            "of",
+            "for"
+          ],
+          "correct_answer": 3,
+          "explanation": "'Aware of' sabit kalıp: 'Araştırmacılar çalışmalarındaki potansiyel yanlılıkların farkında olmalıdır.' 'Aware' adjective + 'of' preposition kombinasyonu. A şıkkı 'about' yaygın hata. B, C, E şıkları bu kalıpta kullanılmaz."
+        },
+        {
+          "question": "The outcome of the experiment was achieved ---- purpose, not by accident.",
+          "options": [
+            "with",
+            "in",
+            "on",
+            "by",
+            "at"
+          ],
+          "correct_answer": 2,
+          "explanation": "'On purpose' sabit kalıp: 'Deneyin sonucu kasıtlı olarak elde edildi, kazara değil.' 'On purpose' = 'kasıtlı', 'by accident' = 'kazara'. A, B, D, E şıkları 'purpose' ile bu anlamda kullanılmaz."
+        }
+      ]
+    },
+    {
+      "id": "2.4.2",
+      "title": "Zaman, Yer, Araç ve Sebep Edatları",
+      "content": "YDS'de edatların temel kullanımları - zaman, yer, araç ve sebep - sıkça test edilir. **Zaman edatları**: 'at' belirli saat için (at 3 pm), 'on' gün/tarih için (on Monday, on July 5th), 'in' ay/yıl/mevsim için (in March, in 2023, in summer), 'during' bir süre boyunca (during the experiment), 'for' süre (for three hours), 'since' başlangıç noktası (since 2020), 'by' son tarih (by Friday). **Yer edatları**: 'at' nokta (at the university), 'on' yüzey (on the table), 'in' içinde (in the laboratory), 'above/below' üstünde/altında, 'between' ikisi arasında, 'among' üçten fazla arasında. **Araç/Yöntem edatları**: 'by' araç/yöntem (by train, by email, by using), 'with' araç/nesne (with a microscope), 'through' vasıta (through analysis). **Sebep edatları**: 'because of', 'due to', 'owing to' hepsi sebep ifade eder ama 'because' bağlaç olduğu için cümle gerektirir, diğerleri noun phrase alır. Türk öğrencilerin yaygın hatası, Türkçe hâl eklerini birebir çevirmektir. Örneğin, 'in the morning' ama 'at night', 'on Monday morning'. YDS'de akademik metinlerde zamansal ve mekansal ilişkiler bu edatlarla ifade edilir. Strateji: Zaman edatlarında spesifiklik artar: year (in) → month (in) → day (on) → hour (at). Yer edatlarında boyut önemlidir: nokta (at) → yüzey (on) → hacim (in).",
+      "examples": [
+        "The study was conducted in 2022. (Zaman: yıl için 'in')",
+        "The conference will be held on March 15th. (Zaman: tarih için 'on')",
+        "Participants arrived at 9:00 am. (Zaman: saat için 'at')",
+        "YANLIŞ: Participants arrived in 9:00 am. (Saat için 'at' gerekli)",
+        "The experiment took place during the summer semester. (Zaman: süre boyunca 'during')",
+        "Researchers have been working on this project for five years. (Zaman: süre 'for')",
+        "The theory has been debated since the 1990s. (Zaman: başlangıç 'since')",
+        "The report must be submitted by Friday. (Zaman: son tarih 'by')",
+        "The laboratory is located at the university. (Yer: nokta 'at')",
+        "The samples are kept in the refrigerator. (Yer: içinde 'in')",
+        "The data was collected through surveys. (Araç: vasıta 'through')",
+        "The experiment was cancelled due to technical problems. (Sebep: 'due to' + noun phrase)"
+      ],
+      "exercises": [
+        {
+          "question": "The research project began ---- 2020 and will continue ---- 2025.",
+          "options": [
+            "in / until",
+            "at / by",
+            "on / until",
+            "in / by",
+            "at / until"
+          ],
+          "correct_answer": 0,
+          "explanation": "'In' yıl için, 'until' '-e kadar' anlamında bitiş noktası: 'Araştırma projesi 2020'de başladı ve 2025'e kadar devam edecek.' B ve E şıkları 'at' yıl için yanlış. C şıkkı 'on' yıl için yanlış. D şıkkı 'by' son tarih anlamında ama cümle süreklilik ('continue') ifade ediyor, 'until' daha uygun."
+        },
+        {
+          "question": "The conference will take place ---- Monday morning ---- 10:00 am.",
+          "options": [
+            "in / in",
+            "on / at",
+            "at / at",
+            "on / in",
+            "in / at"
+          ],
+          "correct_answer": 1,
+          "explanation": "'On' gün için (Monday morning), 'at' saat için (10:00 am): 'Konferans Pazartesi sabahı saat 10:00'da gerçekleşecek.' A, D, E şıkları 'in' kullanıyor ama gün için 'on' gerekli. C şıkkı 'at Monday' yanlış, gün için 'on' gerekir."
+        },
+        {
+          "question": "The study has been ongoing ---- three years, specifically ---- 2021.",
+          "options": [
+            "for / since",
+            "since / for",
+            "during / since",
+            "for / from",
+            "since / from"
+          ],
+          "correct_answer": 0,
+          "explanation": "'For' süre (three years), 'since' başlangıç noktası (2021): 'Çalışma üç yıldır devam ediyor, özellikle 2021'den beri.' B şıkkı ters sıra: 'since three years' yanlış (süre ile 'for' gerekli). C şıkkı 'during' belirli süre boyunca ama 'three years' genel süre. D ve E şıkları 'from' başlangıç noktası ama present perfect ile 'since' standart."
+        },
+        {
+          "question": "The samples were collected ---- the experiment, which lasted ---- two months.",
+          "options": [
+            "during / for",
+            "for / during",
+            "in / for",
+            "during / during",
+            "for / for"
+          ],
+          "correct_answer": 0,
+          "explanation": "'During' belirli süre boyunca (the experiment), 'for' süre (two months): 'Örnekler deney boyunca toplandı, bu da iki ay sürdü.' B şıkkı ters sıra. C şıkkı 'in' deney boyunca için uygun değil. D şıkkı 'during two months' yanlış (süre ile 'for' gerekli). E şıkkı 'for the experiment' anlamsız."
+        },
+        {
+          "question": "The report must be submitted ---- the deadline, which is ---- Friday.",
+          "options": [
+            "until / in",
+            "by / on",
+            "until / at",
+            "by / at",
+            "before / in"
+          ],
+          "correct_answer": 1,
+          "explanation": "'By' son tarih (the deadline), 'on' gün için (Friday): 'Rapor son tarihe kadar gönderilmeli, yani Cuma günü.' A ve C şıkları 'until' '-e kadar' ama 'by' son tarih anlamında daha uygun. D şıkkı 'at Friday' yanlış, gün için 'on' gerekir. E şıkkı 'in Friday' yanlış."
+        },
+        {
+          "question": "The laboratory is located ---- the third floor ---- the Science Building.",
+          "options": [
+            "in / at",
+            "at / in",
+            "on / in",
+            "in / on",
+            "on / at"
+          ],
+          "correct_answer": 2,
+          "explanation": "'On' kat/seviye için (third floor), 'in' bina içinde (Science Building): 'Laboratuvar Bilim Binasının üçüncü katında bulunur.' A ve D şıkları 'in the third floor' yanlış, kat için 'on' gerekli. B ve E şıkları 'at the Science Building' nokta olarak gösterir ama burada içinde olma vurgusu var, 'in' daha uygun."
+        },
+        {
+          "question": "Data was collected ---- questionnaires and analyzed ---- statistical software.",
+          "options": [
+            "by / with",
+            "with / by",
+            "through / with",
+            "by / by",
+            "with / with"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Through' vasıta/yöntem (questionnaires), 'with' araç/nesne (software): 'Veri anketler aracılığıyla toplandı ve istatistik yazılımıyla analiz edildi.' A ve D şıkları 'by questionnaires' yanlış ('by' genellikle insan faili veya genel yöntem için). B ve E şıkları her ikisinde de 'with' veya 'by' kullanıyor ama 'through' anket gibi araçlar için daha uygun."
+        },
+        {
+          "question": "The experiment was postponed ---- technical difficulties.",
+          "options": [
+            "because",
+            "due to",
+            "because of that",
+            "owing",
+            "since"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Due to' + noun phrase sebep ifadesi: 'Deney teknik zorluklar nedeniyle ertelendi.' A şıkkı 'because' bağlaç olduğu için cümle gerektirir. C şıkkı 'because of that' yanlış yapı. D şıkkı 'owing' tek başına kullanılmaz, 'owing to' olmalı. E şıkkı 'since' bağlaç olduğu için cümle gerektirir."
+        },
+        {
+          "question": "The conference starts ---- the morning and continues ---- the evening.",
+          "options": [
+            "in / until",
+            "at / by",
+            "in / by",
+            "on / until",
+            "at / until"
+          ],
+          "correct_answer": 0,
+          "explanation": "'In the morning' (sabahleyin), 'until the evening' (akşama kadar): 'Konferans sabahleyin başlar ve akşama kadar devam eder.' B, C, E şıkları 'at' sabah için yanlış. D şıkkı 'on' sabah için yanlış. 'Until' devam eden süreci gösterir."
+        },
+        {
+          "question": "Participants were divided ---- two groups: one ---- the control group and one ---- the experimental group.",
+          "options": [
+            "into / in / in",
+            "in / at / at",
+            "into / at / at",
+            "in / in / in",
+            "to / in / in"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Divided into' (gruplara bölmek), 'in the control/experimental group' (grupta/içinde): 'Katılımcılar iki gruba bölündü: biri kontrol grubunda, diğeri deney grubunda.' 'Divide into' sabit kalıp. B, C, D, E şıkları 'into' yerine başka edat kullanıyor."
+        },
+        {
+          "question": "The study was conducted ---- collaboration ---- several universities.",
+          "options": [
+            "in / with",
+            "with / in",
+            "by / with",
+            "in / by",
+            "with / by"
+          ],
+          "correct_answer": 0,
+          "explanation": "'In collaboration with' sabit kalıp: 'Çalışma birkaç üniversite ile işbirliği içinde yürütüldü.' B, C, D, E şıkları bu kalıpta yanlış edat kombinasyonları."
+        },
+        {
+          "question": "The patient has been receiving treatment ---- 2022 and will continue ---- 2024.",
+          "options": [
+            "from / to",
+            "since / until",
+            "for / by",
+            "in / until",
+            "since / by"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Since' başlangıç noktası (2022), 'until' bitiş noktası (2024): 'Hasta 2022'den beri tedavi görüyor ve 2024'e kadar devam edecek.' Present perfect continuous ile 'since' kullanılır. A şıkkı 'from...to' daha çok simple past ile. C şıkkı 'for' süre için, tarih değil. D şıkkı 'in' başlangıç noktası için yanlış. E şıkkı 'by' son tarih ama cümle süreklilik ifade ediyor."
+        }
+      ]
+    },
+    {
+      "id": "2.4.3",
+      "title": "Phrasal Verbs ile Çakışma",
+      "content": "Phrasal verbs (deyimsel fiiller) fiil + edat/partikül kombinasyonlarıdır ve anlamları genellikle kelimelerin toplamından farklıdır. YDS'de phrasal verbs ile normal preposition kullanımı arasındaki farkı anlamak kritiktir. Bazı yapılarda edat fiilin parçasıdır (phrasal verb), bazılarında ise normal preposition'dır. Örneğin: 'look at' (bakmak - phrasal verb), 'look into' (araştırmak - phrasal verb), 'look for' (aramak - phrasal verb) vs. 'look through the window' (pencereden bakmak - 'through' preposition). Akademik İngilizcede yaygın phrasal verbs: 'carry out' (yürütmek), 'point out' (işaret etmek), 'find out' (öğrenmek/keşfetmek), 'bring about' (neden olmak), 'set up' (kurmak), 'take into account' (göz önünde bulundurmak), 'deal with' (ele almak), 'result from' (kaynaklanmak), 'account for' (açıklamak). Türk öğrenciler phrasal verbs'ü kelime kelime çevirmeye çalışır ve yanlış anlar. 'Put off' = 'ertelemek' (kelimelerin toplamı 'koymak + kapalı' değil). YDS'de phrasal verbs genellikle formal eşanlamlılarıyla test edilir: 'carry out = conduct', 'find out = discover', 'bring about = cause', 'point out = indicate'. Strateji: Yaygın akademik phrasal verbs'leri formal eşanlamlılarıyla birlikte ezberleyin. Cümlede fiil + preposition gördüğünüzde, bunun phrasal verb mi yoksa normal preposition mı olduğunu bağlamdan anlayın.",
+      "examples": [
+        "Researchers carried out an extensive study. (Phrasal verb: 'carried out' = conducted)",
+        "The theory accounts for the observed phenomena. (Phrasal verb: 'accounts for' = explains)",
+        "YANLIŞ: The theory accounts the observed phenomena. ('for' eksik)",
+        "Scientists pointed out several flaws in the methodology. (Phrasal verb: 'pointed out' = indicated)",
+        "The experiment was set up in accordance with ethical guidelines. (Phrasal verb: 'set up' = established)",
+        "Researchers must take into account all variables. (Phrasal verb: 'take into account' = consider)",
+        "YANLIŞ: Researchers must take in account. ('into' eksik)",
+        "The delay brought about significant changes in the project timeline. (Phrasal verb: 'brought about' = caused)",
+        "The study deals with complex linguistic issues. (Phrasal verb: 'deals with' = addresses)",
+        "The results resulted from methodological limitations. (Phrasal verb: 'resulted from' = stemmed from)",
+        "The committee put off the decision until next week. (Phrasal verb: 'put off' = postponed)",
+        "Researchers found out that the hypothesis was incorrect. (Phrasal verb: 'found out' = discovered)"
+      ],
+      "exercises": [
+        {
+          "question": "The researchers ---- a comprehensive survey to collect data.",
+          "options": [
+            "carried out",
+            "carried off",
+            "carried on",
+            "carried with",
+            "carried in"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Carried out' = 'yürütmek/gerçekleştirmek' (phrasal verb): 'Araştırmacılar veri toplamak için kapsamlı bir anket yürüttüler.' B şıkkı 'carried off' = 'kaçırıp götürmek'. C şıkkı 'carried on' = 'devam etmek'. D ve E şıkları phrasal verb değil, anlamsız."
+        },
+        {
+          "question": "The professor ---- that there were errors in the calculations.",
+          "options": [
+            "pointed at",
+            "pointed to",
+            "pointed out",
+            "pointed in",
+            "pointed with"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Pointed out' = 'işaret etmek/belirtmek' (phrasal verb): 'Profesör hesaplamalarda hatalar olduğunu belirtti.' A şıkkı 'pointed at' = 'parmakla göstermek' (fiziksel eylem). B şıkkı 'pointed to' = 'kanıt göstermek'. D ve E şıkları phrasal verb değil."
+        },
+        {
+          "question": "Scientists must ---- into ---- all environmental factors.",
+          "options": [
+            "take / account",
+            "take / consideration",
+            "bring / account",
+            "put / account",
+            "give / account"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Take into account' sabit kalıp (phrasal verb): 'Bilim insanları tüm çevresel faktörleri göz önünde bulundurmalıdır.' B şıkkı 'take into consideration' da doğru ama seçeneklerde 'into' yok. C, D, E şıkları yanlış phrasal verb."
+        },
+        {
+          "question": "The new policy ---- significant changes in the research community.",
+          "options": [
+            "brought up",
+            "brought about",
+            "brought in",
+            "brought on",
+            "brought with"
+          ],
+          "correct_answer": 1,
+          "explanation": "'Brought about' = 'neden olmak/meydana getirmek' (phrasal verb): 'Yeni politika araştırma camiasında önemli değişikliklere neden oldu.' A şıkkı 'brought up' = 'gündeme getirmek/büyütmek'. C şıkkı 'brought in' = 'getirmek/dahil etmek'. D ve E şıkları bu bağlamda uygun değil."
+        },
+        {
+          "question": "The study ---- the complex relationship between language and cognition.",
+          "options": [
+            "deals at",
+            "deals in",
+            "deals with",
+            "deals for",
+            "deals about"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Deals with' = 'ele almak/다루다' (phrasal verb): 'Çalışma dil ve biliş arasındaki karmaşık ilişkiyi ele alıyor.' A, B, D, E şıkları bu anlamda phrasal verb oluşturmaz."
+        },
+        {
+          "question": "The researchers ---- that the initial hypothesis was incorrect.",
+          "options": [
+            "found at",
+            "found in",
+            "found out",
+            "found with",
+            "found by"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Found out' = 'öğrenmek/keşfetmek' (phrasal verb): 'Araştırmacılar ilk hipotezin yanlış olduğunu öğrendiler.' A, B, D, E şıkları bu anlamda phrasal verb oluşturmaz."
+        },
+        {
+          "question": "This theory ---- the majority of observed cases.",
+          "options": [
+            "accounts to",
+            "accounts with",
+            "accounts for",
+            "accounts in",
+            "accounts at"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Accounts for' = 'açıklamak/hesaba katmak' (phrasal verb): 'Bu teori gözlemlenen vakaların çoğunluğunu açıklıyor.' A, B, D, E şıkları bu anlamda phrasal verb oluşturmaz."
+        },
+        {
+          "question": "The committee decided to ---- the meeting until next week.",
+          "options": [
+            "put off",
+            "put on",
+            "put out",
+            "put in",
+            "put at"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Put off' = 'ertelemek' (phrasal verb): 'Komite toplantıyı gelecek haftaya ertelemeye karar verdi.' B şıkkı 'put on' = 'giymek/başlatmak'. C şıkkı 'put out' = 'söndürmek'. D ve E şıkları bu bağlamda uygun değil."
+        },
+        {
+          "question": "A new laboratory was ---- to conduct advanced research.",
+          "options": [
+            "set out",
+            "set in",
+            "set up",
+            "set off",
+            "set with"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Set up' = 'kurmak/oluşturmak' (phrasal verb): 'İleri düzey araştırma yapmak için yeni bir laboratuvar kuruldu.' A şıkkı 'set out' = 'yola çıkmak/amaçlamak'. D şıkkı 'set off' = 'yola çıkmak/tetiklemek'. B ve E şıkları bu bağlamda uygun değil."
+        },
+        {
+          "question": "The unexpected findings ---- a major revision of the theory.",
+          "options": [
+            "resulted in",
+            "resulted from",
+            "resulted at",
+            "resulted with",
+            "resulted to"
+          ],
+          "correct_answer": 0,
+          "explanation": "'Result in' = 'sonuçlanmak/neden olmak' (phrasal verb): 'Beklenmedik bulgular teorinin büyük bir revizyonuyla sonuçlandı.' B şıkkı 'result from' = 'kaynaklanmak' (ters yön). C, D, E şıkları phrasal verb oluşturmaz."
+        },
+        {
+          "question": "The research team is ---- on identifying the root cause of the problem.",
+          "options": [
+            "focusing in",
+            "focusing at",
+            "focusing on",
+            "focusing to",
+            "focusing with"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Focusing on' = 'odaklanmak' (phrasal verb): 'Araştırma ekibi problemin temel nedenini belirlemeye odaklanıyor.' A, B, D, E şıkları bu anlamda phrasal verb oluşturmaz."
+        },
+        {
+          "question": "The experiment ---- methodological flaws that compromised the results.",
+          "options": [
+            "suffered at",
+            "suffered with",
+            "suffered from",
+            "suffered in",
+            "suffered to"
+          ],
+          "correct_answer": 2,
+          "explanation": "'Suffered from' = 'çekmek/muzdarip olmak' (phrasal verb): 'Deney sonuçları tehlikeye atan metodolojik kusurlardan etkilendi.' A, B, D, E şıkları bu anlamda phrasal verb oluşturmaz."
+        }
+      ]
+    }
+  ]
+}

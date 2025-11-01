@@ -1,0 +1,342 @@
+{
+  "section": "6.1",
+  "title": "YÖKDİL Sosyal Bilimler",
+  "topics": [
+    {
+      "id": "6.1.1",
+      "title": "Söylem Belirteçleri ve Argümantasyon İşaretleri",
+      "content": "YÖKDİL Sosyal Bilimler sınavında akademik metinlerin yapısını anlamak için söylem belirteçlerini (discourse markers) tanımak kritik önem taşır. Bu işaretleyiciler yazarın düşüncesini nasıl organize ettiğini, hangi fikirlerin birbirine karşıt ya da destekleyici olduğunu gösterir. Argümantasyon işaretleri ise yazarın iddialarını nasıl güçlendirdiğini veya sınırlandırdığını ortaya koyar.\n\nGiriş işaretleri (introducing): 'This paper argues that...', 'The present study examines...', 'It is widely acknowledged that...' gibi kalıplar metnin ana tezini sunar. Karşılaştırma işaretleri: 'Similarly', 'In contrast', 'On the other hand', 'By comparison' iki veya daha fazla yaklaşımı yan yana getirir. Örnekleme: 'For instance', 'To illustrate', 'A case in point' iddiaları somutlaştırır.\n\nNiteleme ve sınırlandırma ifadeleri akademik dürüstlüğün göstergesidir: 'arguably', 'to some extent', 'relatively', 'may', 'might', 'could' kesin yargılardan kaçınır. Vurgulama: 'Indeed', 'Undoubtedly', 'It is crucial/essential that' önemli noktaları belirtir. Sebep-sonuç zinciri: 'Given that', 'In light of', 'Consequently', 'As a result' mantıksal bağlantıları kurar.\n\nOkuyucu yönlendirme: 'As noted earlier', 'As will be discussed', 'The following section' metnin iç yapısına referans verir. Sonuç ve sentez: 'In conclusion', 'To sum up', 'Overall', 'In summary' bulguları toplar. Eleştiri ve karşı argüman: 'However', 'Nevertheless', 'Critics argue that', 'Despite these claims' alternatif görüşleri sunar.\n\nBu işaretleyicilerin paragraf ve cümle düzeyinde işlevini kavramak, okuma hızını artırır ve paragraf tamamlama sorularında doğru mantıksal akışı bulmayı kolaylaştırır. Sosyal bilim metinlerinde yazar genellikle tarafsız görünmeye çalışır, bu nedenle modal fiiller ve niteleme zarfları yoğun kullanılır.",
+      "examples": [
+        "This paper argues that globalization has fundamentally altered traditional notions of sovereignty. (Ana tez sunumu)",
+        "Similarly, recent studies in cultural anthropology support this view. (Benzerlik)",
+        "In contrast, earlier research emphasized economic factors over cultural ones. (Zıtlık)",
+        "For instance, the case of post-colonial India illustrates this tension clearly. (Örnekleme)",
+        "It is arguably the most significant shift in political theory since the Enlightenment. (Niteleme)",
+        "Indeed, this phenomenon is not limited to Western democracies. (Vurgulama)",
+        "Given that identity is socially constructed, we must reconsider traditional categories. (Sebep)",
+        "As noted earlier, the concept of 'public sphere' has been contested. (Geri gönderim)",
+        "Critics argue that this approach overlooks structural inequalities. (Karşı argüman)",
+        "Nevertheless, the framework remains useful for comparative analysis. (Karşıt kabul)",
+        "To some extent, these findings challenge conventional wisdom. (Sınırlandırma)",
+        "The following section examines the methodological implications. (İleriye gönderim)",
+        "In conclusion, the relationship between discourse and power warrants further investigation. (Sonuç)",
+        "On the other hand, postmodern theorists reject such binary distinctions. (Alternatif görüş)",
+        "Consequently, policy-makers must adopt more nuanced strategies. (Sonuç)"
+      ],
+      "exercises": [
+        {
+          "question": "Social identity theory ---- that individuals derive part of their self-concept from membership in social groups. ----, this has implications for understanding intergroup conflict.",
+          "options": {
+            "A": "suggests / Moreover",
+            "B": "rejects / Similarly",
+            "C": "proposes / However",
+            "D": "denies / Therefore",
+            "E": "questions / Nevertheless"
+          },
+          "correct": "A",
+          "explanation": "'suggests' akademik metinde uygun modal güç taşır. 'Moreover' ek bilgi eklediği için mantıksal olarak doğru."
+        },
+        {
+          "question": "---- the concept of 'habitus' has been influential, critics argue that it underestimates individual agency.",
+          "options": {
+            "A": "Because",
+            "B": "Although",
+            "C": "Since",
+            "D": "Unless",
+            "E": "Whereas"
+          },
+          "correct": "B",
+          "explanation": "'Although' karşıt kabul yapısı oluşturur: kavram etkili OLMASINA RAĞMEN eleştiriler var."
+        },
+        {
+          "question": "The study examines how narrative structures shape collective memory. ----, it draws on archival sources from three different countries.",
+          "options": {
+            "A": "In contrast",
+            "B": "On the contrary",
+            "C": "To this end",
+            "D": "By comparison",
+            "E": "Nevertheless"
+          },
+          "correct": "C",
+          "explanation": "'To this end' = bu amaçla. Araştırma sorusunu desteklemek için arşiv kaynakları kullanılıyor."
+        },
+        {
+          "question": "---- is widely acknowledged that gender inequality persists across most societies.",
+          "options": {
+            "A": "It",
+            "B": "There",
+            "C": "What",
+            "D": "Which",
+            "E": "That"
+          },
+          "correct": "A",
+          "explanation": "'It is acknowledged that...' yapısında 'it' formal özne görevindedir."
+        },
+        {
+          "question": "The discourse of human rights, ---- universal in principle, is applied selectively in practice.",
+          "options": {
+            "A": "despite",
+            "B": "although",
+            "C": "because",
+            "D": "unless",
+            "E": "whereas"
+          },
+          "correct": "B",
+          "explanation": "Virgüller arası yan cümle 'although it is universal' kısaltması."
+        },
+        {
+          "question": "---- earlier research focused on economic determinism, recent studies emphasize cultural factors.",
+          "options": {
+            "A": "Since",
+            "B": "Whereas",
+            "C": "Because",
+            "D": "Unless",
+            "E": "Whether"
+          },
+          "correct": "B",
+          "explanation": "'Whereas' iki yaklaşımı karşılaştırır: eskisi ekonomik, yenisi kültürel."
+        },
+        {
+          "question": "The concept of 'intersectionality' has ---- transformed feminist scholarship.",
+          "options": {
+            "A": "arguably",
+            "B": "absolutely",
+            "C": "never",
+            "D": "rarely",
+            "E": "always"
+          },
+          "correct": "A",
+          "explanation": "'arguably' akademik niteleme; kesin yargıdan kaçınma."
+        },
+        {
+          "question": "---- these methodological limitations, the findings provide valuable insights into social mobility patterns.",
+          "options": {
+            "A": "Because of",
+            "B": "Despite",
+            "C": "Owing to",
+            "D": "Thanks to",
+            "E": "In case of"
+          },
+          "correct": "B",
+          "explanation": "'Despite' = rağmen. Sınırlılıklara rağmen bulgular değerli."
+        },
+        {
+          "question": "The following section ---- the implications of these findings for policy-making.",
+          "options": {
+            "A": "will discuss",
+            "B": "discussed",
+            "C": "had discussed",
+            "D": "discusses",
+            "E": "was discussing"
+          },
+          "correct": "A",
+          "explanation": "'The following section' ileriye gönderim yapar, future tense gerektirir."
+        },
+        {
+          "question": "Critics ---- that the theory fails to account for historical contingency.",
+          "options": {
+            "A": "propose",
+            "B": "support",
+            "C": "argue",
+            "D": "agree",
+            "E": "confirm"
+          },
+          "correct": "C",
+          "explanation": "'Critics argue that' = eleştirmenler öne sürer. Karşı argüman kalıbı."
+        },
+        {
+          "question": "In light of recent developments in digital communication, traditional theories of the public sphere ---- revision.",
+          "options": {
+            "A": "require",
+            "B": "reject",
+            "C": "prevent",
+            "D": "avoid",
+            "E": "refuse"
+          },
+          "correct": "A",
+          "explanation": "'require revision' = gözden geçirme gerektirir. Yeni gelişmeler eski teorilerin güncellenmesini zorunlu kılıyor."
+        },
+        {
+          "question": "The study draws ---- Foucault's concept of 'governmentality' to analyze modern forms of power.",
+          "options": {
+            "A": "from",
+            "B": "on",
+            "C": "in",
+            "D": "at",
+            "E": "with"
+          },
+          "correct": "B",
+          "explanation": "'draw on' = yararlanmak, dayandırmak. Akademik metinlerde sık kullanılan phrasal verb."
+        }
+      ]
+    },
+    {
+      "id": "6.1.2",
+      "title": "Kavram Kümeleri: Identity, Inequality, Policy, Institution, Narrative",
+      "content": "YÖKDİL Sosyal Bilimler sınavında belirli kavram kümeleri etrafında örgütlenen kelime aileleri tekrar eder. Bu kümeleri tanımak hem kelime bilgisini artırır hem de paragraf konusunu hızla belirlemeyi sağlar.\n\n**Identity (kimlik)**: social identity, collective identity, identity formation, identity politics, self-identity, cultural identity. Fiil formları: identify, self-identify. Sıfatlar: identifiable, identificatory. Bu küme 'self', 'group', 'belonging', 'recognition', 'othering' gibi kelimelerle birlikte gelir. Örnek: 'Identity is not fixed but continuously constructed through social interaction.'\n\n**Inequality (eşitsizlik)**: social inequality, economic inequality, gender inequality, structural inequality, inequality of opportunity. İlgili terimler: disparity, stratification, marginalization, exclusion, discrimination, privilege. Fiiller: marginalize, exclude, discriminate. Sıfatlar: unequal, marginalized, disadvantaged, privileged. Örnek: 'Structural inequalities are reproduced through institutional practices.'\n\n**Policy (politika)**: public policy, social policy, policy-making, policy implementation, policy intervention, evidence-based policy. Fiiller: formulate, implement, evaluate, reform. Sıfatlar: policy-relevant, policy-oriented. Örnek: 'Effective policy interventions require thorough understanding of local contexts.'\n\n**Institution (kurum)**: social institution, political institution, institutional framework, institutional change, institutionalization. Sıfatlar: institutional, institutionalized, institutionalizing. Fiiller: institutionalize, legitimize. Örnek: 'Institutions shape individual behavior through formal and informal rules.'\n\n**Narrative (anlatı)**: master narrative, counter-narrative, narrative identity, dominant narrative, narrative structure. Fiiller: narrate, narrativize. Sıfatlar: narrative, narratological. Bu küme 'story', 'discourse', 'representation', 'voice' kavramlarıyla birlikte gelir. Örnek: 'Counter-narratives challenge dominant representations of historical events.'\n\nBu kavram kümelerinin yan yana kullanımı: 'Institutions reproduce inequality through policy mechanisms that reinforce dominant narratives about social identity.' Sosyal bilim metinlerinde bu kavramlar sıklıkla iç içe geçer; bir metnin birkaç cümlesini okuyarak hangi kavram kümesinin merkezi olduğunu belirlemek paragrafın genel yönünü tahmin etmeyi sağlar.",
+      "examples": [
+        "Social identity is shaped by institutional practices and policy frameworks. (Kavram birleşimi)",
+        "Inequalities in educational outcomes reflect broader structural disparities. (Inequality kümesi)",
+        "Policy interventions must address both symptoms and root causes. (Policy kümesi)",
+        "Narrative structures influence how individuals construct their identity. (Narrative + Identity)",
+        "Institutions legitimize certain forms of knowledge while marginalizing others. (Institution + Inequality)",
+        "Identity politics has reshaped contemporary social movements. (Identity kümesi)",
+        "The institutionalization of gender norms perpetuates inequality. (Institution + Inequality)",
+        "Counter-narratives provide alternative frameworks for understanding history. (Narrative kümesi)",
+        "Policy-makers often overlook the lived experiences of marginalized communities. (Policy + Inequality)",
+        "Collective identities are formed through shared narratives. (Identity + Narrative)",
+        "Institutional reform is necessary but insufficient to address structural inequality. (Institution + Inequality)",
+        "Evidence-based policy requires rigorous evaluation of social interventions. (Policy kümesi)",
+        "Dominant narratives naturalize existing power relations. (Narrative + Institution)",
+        "Self-identity is not independent of social context and institutional structures. (Identity + Institution)",
+        "Policy implementation faces challenges when institutional capacity is limited. (Policy + Institution)"
+      ],
+      "exercises": [
+        {
+          "question": "The ---- of gender norms through educational institutions perpetuates social inequalities across generations.",
+          "options": {
+            "A": "formation",
+            "B": "institutionalization",
+            "C": "identification",
+            "D": "narration",
+            "E": "marginalization"
+          },
+          "correct": "B",
+          "explanation": "'institutionalization' = kurumsallaşma. Eğitim kurumları aracılığıyla toplumsal cinsiyet normlarının kalıcılaşması."
+        },
+        {
+          "question": "Effective policy ---- requires understanding both quantitative data and qualitative narratives.",
+          "options": {
+            "A": "formation",
+            "B": "construction",
+            "C": "formulation",
+            "D": "narration",
+            "E": "identification"
+          },
+          "correct": "C",
+          "explanation": "'policy formulation' = politika oluşturma. Standart kollokasyon."
+        },
+        {
+          "question": "---- identities are constructed through participation in social movements and collective action.",
+          "options": {
+            "A": "Individual",
+            "B": "Personal",
+            "C": "Collective",
+            "D": "Private",
+            "E": "Isolated"
+          },
+          "correct": "C",
+          "explanation": "'Collective identities' = kolektif kimlikler. Sosyal hareketler ve toplumsal eylem bağlamında uygun."
+        },
+        {
+          "question": "The study examines how dominant ---- shape public understanding of immigration.",
+          "options": {
+            "A": "policies",
+            "B": "institutions",
+            "C": "narratives",
+            "D": "inequalities",
+            "E": "identities"
+          },
+          "correct": "C",
+          "explanation": "'dominant narratives' = baskın anlatılar. Göç konusunda kamusal anlayışı şekillendirme bağlamında doğru."
+        },
+        {
+          "question": "Structural ---- cannot be addressed through individual-level interventions alone.",
+          "options": {
+            "A": "identities",
+            "B": "narratives",
+            "C": "policies",
+            "D": "inequalities",
+            "E": "formations"
+          },
+          "correct": "D",
+          "explanation": "'Structural inequalities' = yapısal eşitsizlikler. Bireysel müdahalelerle çözülemez vurgusu."
+        },
+        {
+          "question": "The ---- framework determines which issues receive policy attention.",
+          "options": {
+            "A": "narrative",
+            "B": "institutional",
+            "C": "collective",
+            "D": "marginal",
+            "E": "individual"
+          },
+          "correct": "B",
+          "explanation": "'institutional framework' = kurumsal çerçeve. Politika gündemine neyin gireceğini belirler."
+        },
+        {
+          "question": "Counter-narratives challenge the ---- representations of historical events.",
+          "options": {
+            "A": "alternative",
+            "B": "marginal",
+            "C": "dominant",
+            "D": "collective",
+            "E": "institutional"
+          },
+          "correct": "C",
+          "explanation": "'dominant representations' karşıt anlatıların ('counter-narratives') hedefi."
+        },
+        {
+          "question": "The process of identity ---- is continuous rather than fixed.",
+          "options": {
+            "A": "policy",
+            "B": "inequality",
+            "C": "formation",
+            "D": "institution",
+            "E": "narrative"
+          },
+          "correct": "C",
+          "explanation": "'identity formation' = kimlik oluşumu. Sürekli bir süreç olduğu vurgulanıyor."
+        },
+        {
+          "question": "Evidence-based ---- requires rigorous evaluation of social programs.",
+          "options": {
+            "A": "identity",
+            "B": "inequality",
+            "C": "narrative",
+            "D": "policy",
+            "E": "institution"
+          },
+          "correct": "D",
+          "explanation": "'evidence-based policy' = kanıta dayalı politika. Sosyal programların değerlendirilmesi bağlamında."
+        },
+        {
+          "question": "Marginalized communities often lack the institutional ---- to challenge dominant narratives.",
+          "options": {
+            "A": "inequality",
+            "B": "identity",
+            "C": "capacity",
+            "D": "narrative",
+            "E": "policy"
+          },
+          "correct": "C",
+          "explanation": "'institutional capacity' = kurumsal kapasite. Baskın anlatılara meydan okuma gücü."
+        },
+        {
+          "question": "The ---- of inequality through institutional practices is often invisible to privileged groups.",
+          "options": {
+            "A": "formation",
+            "B": "reproduction",
+            "C": "identification",
+            "D": "narration",
+            "E": "institutionalization"
+          },
+          "correct": "B",
+          "explanation": "'reproduction of inequality' = eşitsizliğin yeniden üretimi. Kurumsal pratikler aracılığıyla."
+        },
+        {
+          "question": "Social movements construct ---- identities that transcend individual interests.",
+          "options": {
+            "A": "personal",
+            "B": "private",
+            "C": "collective",
+            "D": "isolated",
+            "E": "independent"
+          },
+          "correct": "C",
+          "explanation": "'collective identities' sosyal hareketlerin bireysel çıkarları aşan kimlikler oluşturması."
+        }
+      ]
+    }
+  ]
+}

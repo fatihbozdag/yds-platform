@@ -1,0 +1,471 @@
+{
+  "section": "1.7",
+  "title": "Okuduğunu Anlama (Reading Comprehension)",
+  "subtopics": [
+    {
+      "id": "1.7.1",
+      "title": "Ana Fikir, Çıkarım, Ayrıntı, Yazarın Tutumu",
+      "content": "YDS ve YÖKDİL okuduğunu anlama sorularında dört temel soru türü vardır: ana fikir (main idea), çıkarım (inference), ayrıntı (detail), ve yazarın tutumu (author's attitude/tone). Her tür farklı okuma stratejisi gerektirir.\n\n**1. Ana Fikir Soruları (Main Idea Questions):**\n\n*Soru kalıpları:*\n- \"What is the main idea/point of the passage?\"\n- \"The passage primarily discusses...\"\n- \"The author's main purpose is to...\"\n- \"Which best summarizes the passage?\"\n\n*Strateji:*\n- İlk ve son paragrafı dikkatle okuyun (genellikle tez/sonuç)\n- Her paragrafın topic sentence'ını belirleyin\n- Detayları değil, genel mesajı arayın\n- Çok spesifik veya çok geniş seçenekleri eleyip\n- Ana fikir tüm pasajı kapsamalı (sadece bir paragrafı değil)\n\n*Yanlış seçenek türleri:*\n- Too narrow (çok dar): Sadece bir detayı veya bir paragrafı kapsar\n- Too broad (çok geniş): Pasajdan daha genel, pasaj kapsamı dışı\n- Not mentioned (bahsedilmemiş): Metinde yok\n- Distortion (çarpıtma): Metindeki fikri yanlış temsil eder\n\n**2. Çıkarım Soruları (Inference Questions):**\n\n*Soru kalıpları:*\n- \"It can be inferred from the passage that...\"\n- \"The author implies that...\"\n- \"It can be concluded that...\"\n- \"The passage suggests that...\"\n\n*Strateji:*\n- Metinde açıkça yazılmayan ama mantıksal olarak türetilebilir bilgiyi bulun\n- \"Satır aralarını okuyun\" (read between the lines)\n- Aşırı uzak çıkarımlardan kaçının (metne dayalı olmalı)\n- İfadelerdeki ima ve ton ipuçlarını değerlendirin\n- Neden-sonuç ilişkilerini takip edin\n\n*Doğru çıkarım:*\n- Metindeki bilgilerle desteklenen\n- Mantıksal olarak türetilebilir\n- Yazarın ifade tarzıyla uyumlu\n\n*Yanlış çıkarım:*\n- Metinde açıkça yazılmış (çıkarım değil, doğrudan bilgi)\n- Metinle çelişen\n- Aşırı varsayım gerektiren\n\n**3. Ayrıntı Soruları (Detail Questions):**\n\n*Soru kalıpları:*\n- \"According to the passage...\"\n- \"The passage states that...\"\n- \"Which of the following is mentioned...\"\n- \"The author mentions X in order to...\"\n\n*Strateji:*\n- Soru kelimelerini metinde locate edin (scanning)\n- İlgili cümle/paragrafı dikkatlice okuyun\n- Paraphrase edilmiş cevabı arayın (aynı kelimeler olmayabilir)\n- \"According to\" = metinde açıkça yazılmalı\n- Tüm seçenekleri metinle doğrulayın\n\n*Dikkat:*\n- Doğru cevap genellikle paraphrase edilir (farklı kelimelerle ifade)\n- Metindeki aynı kelimeler kullanılan seçenek her zaman doğru değildir (distractor olabilir)\n\n**4. Yazarın Tutumu Soruları (Author's Attitude/Tone):**\n\n*Soru kalıpları:*\n- \"The author's tone can be described as...\"\n- \"The author's attitude toward X is...\"\n- \"The passage is written in a ____ manner.\"\n\n*Yaygın tutum/ton kelimeleri:*\n- **Positive:** enthusiastic, optimistic, approving, supportive\n- **Negative:** critical, skeptical, pessimistic, disapproving\n- **Neutral:** objective, impartial, informative, factual, analytical\n- **Nuanced:** cautious, ambivalent, balanced, tentative\n\n*Strateji:*\n- Değerlendirici kelimeler arayın (important, significant, unfortunately, remarkably)\n- Modal ve hedging language'e dikkat (may, might, clearly, undoubtedly)\n- Olumlu/olumsuz sıfat ve fiilleri not edin\n- Genel ton: akademik metinler genellikle objective/analytical\n- Aşırı duygusal tonlar (angry, ecstatic) nadiren doğrudur\n\n**Genel Okuma Stratejisi:**\n1. Soruları önce okuyun (ne aranacağını bilin)\n2. Pasajı aktif olarak okuyun (main idea, supporting details, tone)\n3. Paragraf yapısını anlayın (topic sentence, support, conclusion)\n4. Zaman yönetimi: detay sorularına daha az, çıkarım/ana fikir sorularına daha çok zaman",
+      "examples": [
+        {
+          "passage": "The concept of artificial intelligence has evolved dramatically over the past decades. Early AI systems relied on rule-based programming, where computers followed explicit instructions to solve specific problems. However, modern machine learning approaches enable computers to learn from data without being explicitly programmed for every scenario. This shift has led to remarkable advances in fields like image recognition, natural language processing, and autonomous vehicles. Despite these achievements, current AI systems still lack general intelligence—the ability to understand, learn, and apply knowledge across diverse domains as humans do. The path to achieving artificial general intelligence remains uncertain, with researchers debating whether incremental improvements or fundamentally new approaches will be necessary.",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "Early AI systems used rule-based programming.",
+            "Machine learning has enabled significant progress in AI applications.",
+            "AI has evolved from rule-based systems to learning-based approaches, though general intelligence remains elusive.",
+            "Researchers disagree on how to achieve artificial general intelligence.",
+            "Modern AI excels at image recognition and language processing."
+          ],
+          "correct": 2,
+          "explanation": "Ana fikir C: Tüm pasajı kapsıyor (evolution from early to modern, achievements, limitation). A-B-D-E hepsi detaylar, tüm pasajı özetlemiyor. C both progress ve limitation'ı kapsıyor."
+        },
+        {
+          "passage": "Urban green spaces provide numerous benefits beyond aesthetics. Studies have shown that parks and gardens improve air quality by filtering pollutants and producing oxygen. They also reduce urban heat island effects, as vegetation absorbs less heat than concrete and asphalt. Moreover, green spaces promote physical and mental health by encouraging exercise and providing peaceful environments for relaxation. Economically, properties near parks typically command higher values, benefiting homeowners and increasing municipal tax revenues. Despite these advantages, many rapidly growing cities struggle to preserve green areas amid development pressures.",
+          "question": "It can be inferred from the passage that:",
+          "options": [
+            "All rapidly growing cities lack sufficient green spaces.",
+            "Parks improve air quality by producing oxygen.",
+            "Urban development priorities sometimes conflict with environmental conservation.",
+            "Properties near parks are more expensive than other properties.",
+            "Green spaces have both environmental and economic benefits."
+          ],
+          "correct": 2,
+          "explanation": "Çıkarım C: Son cümle 'struggle to preserve...amid development pressures' → conflict between development and conservation (implied, not stated). A too extreme (all), B-E directly stated (not inference)."
+        },
+        {
+          "passage": "The Mediterranean diet, rich in olive oil, fish, fruits, and vegetables, has been extensively studied for its health benefits. Research indicates that this dietary pattern reduces the risk of cardiovascular disease, type 2 diabetes, and certain cancers. The diet's protective effects are attributed to high levels of monounsaturated fats, omega-3 fatty acids, and antioxidants. Additionally, the Mediterranean lifestyle includes regular physical activity and social meals, which may contribute to the observed health outcomes.",
+          "question": "According to the passage, the health benefits of the Mediterranean diet are due to:",
+          "options": [
+            "The elimination of meat from the diet.",
+            "High levels of beneficial fats and antioxidants.",
+            "Eating meals with family and friends.",
+            "Living in Mediterranean climate regions.",
+            "Consuming large amounts of olive oil exclusively."
+          ],
+          "correct": 1,
+          "explanation": "Ayrıntı B: Metinde açıkça 'attributed to high levels of monounsaturated fats, omega-3 fatty acids, and antioxidants'. A yanlış (fish mentioned), C contributing factor ama not primary, D not mentioned, E partial (olive oil mentioned but not exclusively)."
+        },
+        {
+          "passage": "Recent archaeological discoveries have challenged long-held assumptions about the development of early civilizations. The Göbekli Tepe site in Turkey, dating to approximately 9600 BCE, features massive stone structures created by hunter-gatherer societies—a feat previously thought to require settled agricultural communities. This finding suggests that complex social organization and monumental architecture may have preceded, rather than followed, the agricultural revolution. Such revelations force scholars to reconsider the linear narratives that have dominated historical understanding.",
+          "question": "The author's tone in this passage can best be described as:",
+          "options": [
+            "Skeptical and dismissive",
+            "Neutral and informative",
+            "Enthusiastic and promotional",
+            "Critical and disapproving",
+            "Confused and uncertain"
+          ],
+          "correct": 1,
+          "explanation": "Ton B: Objective, factual reporting (discoveries, findings, suggests). No strong evaluative language, no personal opinion expressed. Academic/informative tone. A-D-E wrong: no skepticism, criticism, enthusiasm, or confusion evident."
+        },
+        {
+          "passage": "While renewable energy sources offer environmental advantages, their implementation faces significant practical obstacles. Solar and wind power generation fluctuates with weather conditions, creating grid stability challenges. Energy storage technologies, though improving, remain expensive and insufficient for large-scale deployment. Furthermore, the manufacturing of solar panels and wind turbines requires rare materials and energy-intensive processes, somewhat offsetting their environmental benefits. Transitioning to renewable energy is undoubtedly necessary, but policymakers must address these technical and economic hurdles realistically.",
+          "question": "The author's attitude toward renewable energy can best be described as:",
+          "options": [
+            "Completely opposed",
+            "Uncritically supportive",
+            "Cautiously balanced",
+            "Indifferent and neutral",
+            "Optimistically enthusiastic"
+          ],
+          "correct": 2,
+          "explanation": "Tutum C: Balanced - acknowledges benefits ('environmental advantages', 'necessary') AND challenges ('obstacles', 'hurdles'). 'Cautiously' fits 'must address...realistically'. Not opposed (A), not uncritical (B), not indifferent (D), not overly enthusiastic (E)."
+        }
+      ],
+      "exercises": [
+        {
+          "passage": "Microplastic pollution has emerged as a pervasive environmental threat. These tiny plastic fragments, less than five millimeters in size, originate from the breakdown of larger plastic items and the release of microbeads from personal care products. Marine ecosystems are particularly affected, as microplastics are consumed by organisms ranging from plankton to whales, entering food chains and potentially reaching human consumers. Research indicates that microplastics can carry toxic chemicals and may disrupt endocrine systems in marine life. The long-term health implications for humans remain unclear, though preliminary studies suggest cause for concern. Addressing this issue requires both reducing plastic production and developing effective filtration technologies.",
+          "question": "What is the main idea of the passage?",
+          "options": [
+            "Microplastics are less than five millimeters in size.",
+            "Marine animals consume microplastics at all levels of the food chain.",
+            "Microplastic pollution poses widespread environmental and potential health risks.",
+            "Personal care products release microbeads into the environment.",
+            "More research is needed on the health effects of microplastics."
+          ],
+          "correct": 2,
+          "explanation": "Ana fikir C: Entire passage discusses pervasive pollution, sources, ecosystem impacts, potential health risks, need for solutions. Captures full scope. A-B-D-E supporting details, too narrow."
+        },
+        {
+          "passage": "The placebo effect demonstrates the mind's remarkable influence on physical health. When patients believe they are receiving treatment, even inactive substances can produce measurable physiological improvements. Brain imaging studies reveal that placebos activate neural pathways associated with pain relief and reward, triggering the release of endorphins and other neurotransmitters. This phenomenon challenges the simplistic separation of mind and body in medical treatment. While placebos cannot cure serious diseases, they can alleviate symptoms and enhance the effectiveness of actual medications, particularly for conditions involving pain, anxiety, and depression.",
+          "question": "It can be inferred from the passage that:",
+          "options": [
+            "Placebos are more effective than real medications.",
+            "The mind and body function independently in medical treatment.",
+            "Psychological factors can produce genuine physiological changes.",
+            "Placebos work only for imaginary conditions.",
+            "Brain imaging studies are unreliable."
+          ],
+          "correct": 2,
+          "explanation": "Çıkarım C: Passage shows belief → physiological improvements, brain activation, neurotransmitter release → psychological produces physical. Not stated directly but clearly implied. A contradicts text, B opposite of 'challenges separation', D contradicts 'measurable improvements', E not suggested."
+        },
+        {
+          "passage": "Vertical farming represents an innovative approach to urban agriculture. By growing crops in stacked layers within controlled indoor environments, this method maximizes space efficiency in densely populated areas. LED lighting replaces sunlight, and hydroponic or aeroponic systems eliminate the need for soil. Proponents argue that vertical farms reduce transportation costs, eliminate pesticide use, and conserve water through recycling systems. Critics counter that the high energy consumption of artificial lighting and climate control undermines environmental benefits, particularly when electricity comes from fossil fuel sources.",
+          "question": "According to the passage, critics of vertical farming are concerned about:",
+          "options": [
+            "The high cost of LED lighting systems.",
+            "The inability to grow certain crop varieties indoors.",
+            "The environmental impact of energy consumption.",
+            "The need for specialized agricultural training.",
+            "The limited space available in urban areas."
+          ],
+          "correct": 2,
+          "explanation": "Ayrıntı C: Clearly stated 'Critics counter that high energy consumption...undermines environmental benefits'. A not mentioned (cost of LEDs), B not mentioned, D not mentioned, E opposite (vertical farming addresses limited space)."
+        },
+        {
+          "passage": "Language extinction occurs when the last native speakers of a language die without passing it to new generations. Linguists estimate that nearly half of the world's approximately 7,000 languages face extinction within this century. This loss represents more than communication tools—each language embodies unique ways of understanding and categorizing the world. When a language disappears, so does accumulated cultural knowledge, from ecological wisdom to philosophical concepts that may not translate into dominant languages. Preservation efforts, including documentation projects and revitalization programs, offer hope, but success requires community commitment and resources often unavailable to marginalized groups.",
+          "question": "The author's tone toward language extinction can best be described as:",
+          "options": [
+            "Alarmist and exaggerated",
+            "Detached and indifferent",
+            "Concerned but measured",
+            "Optimistic and hopeful",
+            "Angry and accusatory"
+          ],
+          "correct": 2,
+          "explanation": "Ton C: Presents serious problem ('extinction', 'loss represents more than'), acknowledges preservation efforts ('offer hope'), but realistic ('requires...often unavailable'). Concerned but balanced, not alarmist (A), not indifferent (B), not purely optimistic (D), not angry (E)."
+        },
+        {
+          "passage": "The gut microbiome—the vast community of bacteria, fungi, and other microorganisms inhabiting the digestive tract—plays a far more significant role in human health than previously recognized. These microbial populations influence digestion, immune function, and even mental health through the gut-brain axis. Imbalances in gut bacteria have been linked to conditions ranging from obesity and diabetes to depression and anxiety. Diet profoundly affects microbiome composition, with fiber-rich plant foods promoting beneficial bacteria while processed foods and antibiotics can disrupt microbial balance. Understanding these relationships opens new therapeutic avenues, from dietary interventions to fecal microbiota transplants.",
+          "question": "The passage suggests that the gut microbiome:",
+          "options": [
+            "Consists only of bacteria.",
+            "Has limited influence on physical health.",
+            "Affects both physical and mental well-being.",
+            "Cannot be altered through dietary changes.",
+            "Is fully understood by medical researchers."
+          ],
+          "correct": 2,
+          "explanation": "Çıkarım C: States 'influence digestion, immune function, and even mental health', 'linked to...obesity and diabetes to depression and anxiety' → both physical and mental. A wrong ('fungi, and other microorganisms'), B opposite ('far more significant'), D contradicts 'diet profoundly affects', E contradicts 'opens new therapeutic avenues' (implies ongoing research)."
+        },
+        {
+          "passage": "Quantum computing harnesses quantum mechanical phenomena like superposition and entanglement to perform calculations impossible for classical computers. While traditional bits exist as either 0 or 1, quantum bits (qubits) can exist in multiple states simultaneously, enabling parallel processing of vast solution spaces. This capability promises breakthroughs in cryptography, drug discovery, and optimization problems. However, qubits are extraordinarily fragile, requiring near absolute zero temperatures and elaborate error correction. Current quantum computers remain experimental, limited to specific tasks, and prohibitively expensive. Whether quantum computing will deliver on its revolutionary potential or remain a specialized tool for narrow applications remains to be seen.",
+          "question": "What is the author's attitude toward the future of quantum computing?",
+          "options": [
+            "Certain that it will revolutionize all computing",
+            "Convinced it will never achieve practical applications",
+            "Uncertain whether it will fulfill its broad promises",
+            "Indifferent to its potential developments",
+            "Enthusiastically supportive without reservations"
+          ],
+          "correct": 2,
+          "explanation": "Tutum C: Acknowledges potential ('promises breakthroughs'), but notes limitations ('fragile', 'experimental', 'prohibitively expensive'), ends with uncertainty ('remains to be seen'). Balanced, uncertain outlook. A too certain (positive), B too certain (negative), D not indifferent (discusses pros/cons), E not unreserved (mentions challenges)."
+        },
+        {
+          "passage": "Sleep deprivation has become epidemic in modern society, with far-reaching consequences. Chronic insufficient sleep impairs cognitive function, including memory consolidation, decision-making, and emotional regulation. Physically, sleep loss weakens immune response, increases inflammation, and elevates risks of cardiovascular disease, obesity, and diabetes. The relationship is bidirectional—poor health also disrupts sleep, creating a vicious cycle. Despite mounting evidence of sleep's importance, cultural attitudes often glorify productivity over rest, and technology intrudes into traditional sleep hours. Addressing this public health crisis requires both individual behavior changes and societal recognition that sleep is a biological necessity, not a luxury.",
+          "question": "According to the passage, sleep deprivation:",
+          "options": [
+            "Affects only cognitive functions.",
+            "Has both mental and physical health consequences.",
+            "Is caused primarily by medical conditions.",
+            "Can be easily addressed through willpower.",
+            "Has become less common in modern society."
+          ],
+          "correct": 1,
+          "explanation": "Ayrıntı B: Explicitly states 'impairs cognitive function' (mental) AND 'weakens immune response, increases inflammation, elevates risks' (physical). A wrong ('only'), C wrong (caused by cultural attitudes/technology), D contradicts 'requires both individual...and societal', E opposite ('epidemic')."
+        },
+        {
+          "passage": "The concept of emotional intelligence (EI) has gained prominence in psychology and organizational behavior. EI encompasses the ability to recognize, understand, and manage one's own emotions while also perceiving and influencing others' emotional states. Proponents argue that EI predicts success in leadership, teamwork, and interpersonal relationships more reliably than traditional IQ measures. However, skeptics point to inconsistent definitions, measurement challenges, and research showing modest correlations between EI and job performance. While emotional awareness clearly matters, whether EI constitutes a distinct form of intelligence or simply a collection of personality traits remains debated.",
+          "question": "The passage indicates that emotional intelligence:",
+          "options": [
+            "Is universally accepted as more important than IQ.",
+            "Has clear, consistent definitions across research.",
+            "Faces both support and criticism in the scientific community.",
+            "Definitely predicts job success better than other factors.",
+            "Has been proven to be merely a personality trait."
+          ],
+          "correct": 2,
+          "explanation": "Ayrıntı C: 'Proponents argue' (support) + 'skeptics point to' (criticism) → both support and criticism. A wrong ('proponents argue', not universal), B contradicts 'inconsistent definitions', D too strong ('definitely'), E wrong ('remains debated')."
+        },
+        {
+          "passage": "Coral reefs, often called the rainforests of the sea, support extraordinary biodiversity despite occupying less than 0.1% of the ocean's surface. These ecosystems provide habitat for approximately 25% of all marine species, offering food, shelter, and breeding grounds. Coral polyps, tiny animals related to jellyfish, build elaborate calcium carbonate structures in symbiosis with photosynthetic algae called zooxanthellae. This partnership allows reefs to thrive in nutrient-poor tropical waters. However, climate change-induced ocean warming causes corals to expel their algae in a stress response called bleaching, potentially leading to starvation and death. Without immediate action to reduce carbon emissions, most of the world's coral reefs could disappear within decades.",
+          "question": "It can be inferred that zooxanthellae:",
+          "options": [
+            "Are harmful parasites that weaken coral.",
+            "Require high nutrient levels to survive.",
+            "Provide energy that helps coral survive in poor conditions.",
+            "Cause coral bleaching during warm periods.",
+            "Comprise 25% of marine biodiversity."
+          ],
+          "correct": 2,
+          "explanation": "Çıkarım C: 'Symbiosis with photosynthetic algae' + 'allows reefs to thrive in nutrient-poor waters' → algae (zooxanthellae) provide energy (photosynthesis) helping coral survive low-nutrient environment. Implied, not stated. A wrong (symbiosis = mutual benefit), B contradicts 'nutrient-poor', D wrong (expelled during bleaching, not cause), E wrong (refers to species, not algae)."
+        },
+        {
+          "passage": "The sharing economy, exemplified by platforms like Uber and Airbnb, has disrupted traditional industries by enabling peer-to-peer transactions. Advocates celebrate increased consumer choice, lower prices, and efficient resource utilization—why own a car that sits idle most of the time when you can share rides? Critics, however, highlight labor exploitation, as gig workers lack employment protections, benefits, and stable income. Additionally, the sharing economy may actually increase consumption and inequality, with platforms extracting value while assets remain concentrated among property owners. The regulatory vacuum surrounding these services exacerbates concerns about safety, taxation, and market power.",
+          "question": "The author's view of the sharing economy can best be characterized as:",
+          "options": [
+            "Unequivocally positive and supportive",
+            "Presenting both benefits and drawbacks",
+            "Completely opposed to its existence",
+            "Focused solely on labor issues",
+            "Indifferent to its social impacts"
+          ],
+          "correct": 1,
+          "explanation": "Tutum B: 'Advocates celebrate' (benefits) BUT 'Critics highlight' (problems). Presents both perspectives without clearly endorsing either. Balanced presentation. A wrong (mentions critics), C wrong (mentions benefits), D wrong (also discusses consumption, inequality, regulation), E wrong (engaged discussion of impacts)."
+        }
+      ]
+    },
+    {
+      "id": "1.7.2",
+      "title": "Metin Yapısı: Problem-Çözüm, Sebep-Sonuç, Karşılaştırma",
+      "content": "Akademik metinler belirli organizasyon kalıplarını takip eder. Bu yapıları tanımak hem okuma hızını artırır hem de soru cevaplamayı kolaylaştırır. YDS ve YÖKDİL'de en yaygın üç yapı: problem-çözüm (problem-solution), sebep-sonuç (cause-effect), ve karşılaştırma (comparison-contrast).\n\n**1. Problem-Çözüm Yapısı (Problem-Solution Pattern):**\n\n*Yapı:*\n1. **Problem tanımı:** Sorunun ne olduğu, neden önemli olduğu\n2. **Sorunun nedenleri/sonuçları:** Neden meydana geldiği, etkileri\n3. **Çözüm(ler):** Önerilen çözümler, stratejiler\n4. **Değerlendirme:** Çözümlerin değerlendirilmesi (bazen)\n\n*İşaret kelimeleri:*\n- Problem: problem, issue, challenge, difficulty, dilemma, crisis\n- Çözüm: solution, answer, remedy, approach, strategy, address, tackle, resolve\n\n*Örnek yapı:*\n\"Climate change poses a serious threat (PROBLEM). Rising temperatures cause...(EFFECTS). To address this, governments should...(SOLUTION).\"\n\n*Soru stratejisi:*\n- \"What problem does the passage discuss?\" → İlk paragraf\n- \"What solution does the author propose?\" → Çözüm paragrafı\n- \"According to the passage, the problem is caused by...\" → Neden kısmı\n\n**2. Sebep-Sonuç Yapısı (Cause-Effect Pattern):**\n\n*Yapı:*\n- **Single cause → multiple effects:** Bir neden birden fazla sonuç\n  * \"Deforestation (CAUSE) leads to soil erosion, biodiversity loss, and climate change (EFFECTS).\"\n- **Multiple causes → single effect:** Birden fazla neden bir sonuç\n  * \"Poverty, lack of education, and unemployment (CAUSES) contribute to crime rates (EFFECT).\"\n- **Causal chain:** Neden-sonuç zinciri\n  * \"A causes B, which causes C, which causes D.\"\n\n*İşaret kelimeleri:*\n- Sebep: because, since, due to, owing to, as a result of, stems from, is attributed to\n- Sonuç: therefore, thus, consequently, as a result, leads to, causes, results in, produces\n\n*Soru stratejisi:*\n- \"Why does X occur?\" → Sebep ara\n- \"What is the effect of X?\" → Sonuç ara\n- Dikkat: Bazen neden-sonuç implicit (ima edilen), signal words olmayabilir\n\n**3. Karşılaştırma-Zıtlık Yapısı (Comparison-Contrast Pattern):**\n\n*Yapı:*\n- **Point-by-point:** Her kritere göre A-B karşılaştırması\n  * Criterion 1: A vs. B\n  * Criterion 2: A vs. B\n- **Block:** Önce A'nın tüm özellikleri, sonra B'nin tüm özellikleri\n  * All about A\n  * All about B\n\n*İşaret kelimeleri:*\n- Benzerlik (similarity): similarly, likewise, in the same way, both, also, too\n- Farklılık (contrast): however, in contrast, on the other hand, whereas, while, unlike, conversely, differ\n\n*Örnek:*\n\"Traditional education relies on lectures (A), while online learning emphasizes self-paced study (B). Similarly, both require assessment (SIMILARITY).\"\n\n*Soru stratejisi:*\n- \"How does A differ from B?\" → Contrast signal words\n- \"What do A and B have in common?\" → Similarity signal words\n- Venn diagram mental olarak yapın (A only, B only, Both)\n\n**4. Diğer Yaygın Yapılar:**\n\n*Chronological/Process (Zaman sıralı/Süreç):*\n- Signal words: first, then, next, after, finally, subsequently, eventually\n- Tarihsel gelişim, süreç açıklamaları\n\n*Classification/Division (Sınıflandırma):*\n- Signal words: types, kinds, categories, classified into, divided into\n- Örnek: \"There are three types of renewable energy: solar, wind, and hydro.\"\n\n*Definition-Example (Tanım-Örnek):*\n- Signal words: is defined as, refers to, means, for example, such as, for instance\n- Terim tanımı + örnekler\n\n**Strateji:**\n1. İlk paragrafta yapıyı tespit edin (problem tanımı mı, karşılaştırma mı?)\n2. Signal words arayın (however → contrast, because → cause, solution → problem-solution)\n3. Paragraf organizasyonunu mental olarak outline yapın\n4. Yapıya göre soru türlerini tahmin edin\n5. Yapı farkında olarak okuyun (daha hızlı ve etkili)",
+      "examples": [
+        {
+          "passage": "Urban air pollution has reached alarming levels in many cities worldwide, causing respiratory diseases, reducing life expectancy, and degrading quality of life. The primary sources include vehicle emissions, industrial activities, and residential heating. To combat this crisis, cities must implement comprehensive strategies. Expanding public transportation reduces car dependency. Establishing low-emission zones restricts polluting vehicles from city centers. Transitioning to renewable energy for electricity and heating eliminates coal and gas emissions. While these measures require significant investment, the long-term health and economic benefits far outweigh the costs.",
+          "structure": "Problem-Solution",
+          "explanation": "Structure: (1) Problem tanımı: air pollution, effects. (2) Causes: vehicle, industry, heating. (3) Solutions: public transport, low-emission zones, renewable energy. (4) Evaluation: benefits outweigh costs. Classic problem-solution pattern."
+        },
+        {
+          "passage": "The Industrial Revolution transformed societies through mechanization and urbanization. Technological innovations like the steam engine enabled mass production, reducing manufacturing costs and increasing output. This economic growth created new wealth but also widened inequality, as factory owners prospered while workers endured low wages and poor conditions. Urbanization followed, as people migrated from rural areas to cities seeking employment. Overcrowded cities faced sanitation crises, leading to disease outbreaks. Thus, the Industrial Revolution triggered a chain of social, economic, and health consequences that reshaped modern civilization.",
+          "structure": "Cause-Effect",
+          "explanation": "Structure: Causal chain - Industrial Revolution (CAUSE) → mechanization → mass production → economic growth → inequality + urbanization → overcrowding → disease (EFFECTS). Multiple interconnected cause-effect relationships forming a chain."
+        },
+        {
+          "passage": "Traditional classroom learning and online education differ significantly in several key aspects. In traditional settings, students attend physical classes with real-time interaction, benefiting from immediate feedback and social engagement. Online learning, conversely, offers flexibility, allowing students to study at their own pace and location. Assessment methods also vary: traditional education typically employs proctored exams, while online courses often use continuous assessment and automated quizzes. However, both approaches require self-discipline and motivation for success, and both can employ multimedia resources to enhance learning.",
+          "structure": "Comparison-Contrast",
+          "explanation": "Structure: Point-by-point comparison. Criterion 1 (interaction): traditional vs. online. Criterion 2 (flexibility): traditional vs. online. Criterion 3 (assessment): different. Similarities: both need discipline, both use multimedia. Clear contrast signal words: 'differ', 'conversely', 'however'."
+        }
+      ],
+      "exercises": [
+        {
+          "passage": "Antibiotic resistance has emerged as one of the most pressing global health threats. Bacteria evolve resistance through natural selection when antibiotics kill susceptible strains, leaving resistant ones to multiply. Overprescription of antibiotics in medicine and their widespread use in agriculture accelerate this process. As resistance spreads, common infections become difficult or impossible to treat, leading to higher mortality rates and healthcare costs. Addressing this requires a multipronged approach: physicians must prescribe antibiotics judiciously, only for bacterial infections. Agricultural practices should eliminate routine antibiotic use in livestock. Public health campaigns can educate people about the dangers of antibiotic misuse. Simultaneously, pharmaceutical companies need incentives to develop new antibiotics. Without coordinated action, we risk returning to a pre-antibiotic era where minor infections prove fatal.",
+          "question": "The organizational pattern of this passage is primarily:",
+          "options": [
+            "Chronological sequence of events",
+            "Comparison of different types of antibiotics",
+            "Problem-solution structure",
+            "Classification of bacterial species",
+            "Cause-effect chain exclusively"
+          ],
+          "correct": 2,
+          "explanation": "Yapı C: Problem-solution. (1) Problem: antibiotic resistance, emerging threat. (2) Causes/effects: evolution, overprescription, mortality. (3) Solutions: judicious prescription, agricultural changes, education, pharmaceutical incentives. (4) Consequence of inaction. Clear problem-solution structure."
+        },
+        {
+          "passage": "The shift from hunter-gatherer societies to agricultural civilizations fundamentally altered human existence. Farming allowed food surpluses, which supported population growth and enabled specialization—not everyone needed to produce food. This specialization led to the development of crafts, trade, and eventually complex social hierarchies. Permanent settlements required governance structures, giving rise to political institutions and legal systems. Food surpluses also allowed the emergence of a leisured class with time for art, philosophy, and science, accelerating cultural development. However, agriculture also introduced new challenges: sedentary life facilitated disease transmission, dependence on crops created vulnerability to famine, and social stratification produced inequality.",
+          "question": "The passage primarily employs which organizational pattern?",
+          "options": [
+            "Comparison between hunters and farmers",
+            "Problem-solution regarding food production",
+            "Cause-effect chain showing consequences of agriculture",
+            "Classification of agricultural methods",
+            "Chronological account of farming techniques"
+          ],
+          "correct": 2,
+          "explanation": "Yapı C: Cause-effect chain. Agriculture (CAUSE) → food surpluses → population growth + specialization → crafts/trade → hierarchies → political institutions → cultural development. Also: agriculture → new challenges (disease, famine, inequality). Clear causal chain structure with signal words: 'allowed', 'led to', 'gave rise to', 'also introduced'."
+        },
+        {
+          "passage": "Intrinsic and extrinsic motivation drive human behavior through fundamentally different mechanisms. Intrinsic motivation arises from internal satisfaction—people engage in activities because they find them inherently enjoyable or meaningful. An artist painting for creative fulfillment exemplifies intrinsic motivation. Extrinsic motivation, in contrast, stems from external rewards or pressures: money, grades, or social approval. A student studying solely to achieve high marks demonstrates extrinsic motivation. Research suggests that intrinsic motivation tends to produce more sustained engagement and creativity, while extrinsic rewards can sometimes undermine intrinsic interest. Nevertheless, both types of motivation can be effective, and most real-world situations involve a combination of internal and external factors.",
+          "question": "How is this passage primarily organized?",
+          "options": [
+            "Problem-solution: addressing motivation issues",
+            "Cause-effect: showing results of motivation",
+            "Comparison-contrast: intrinsic vs. extrinsic motivation",
+            "Chronological: development of motivation theories",
+            "Classification: types of external rewards"
+          ],
+          "correct": 2,
+          "explanation": "Yapı C: Comparison-contrast. Point-by-point: (1) Definition: intrinsic (internal) vs. extrinsic (external). (2) Examples: artist vs. student. (3) Effectiveness: intrinsic better for creativity vs. extrinsic can work. Similarity: both can be effective, combination common. Clear contrast signal words: 'different mechanisms', 'in contrast', 'while', 'nevertheless'."
+        },
+        {
+          "passage": "Ocean acidification results from the absorption of excess atmospheric carbon dioxide by seawater. As CO2 dissolves, it forms carbonic acid, lowering ocean pH. This chemical change reduces the availability of carbonate ions that marine organisms need to build shells and skeletons. Coral reefs, shellfish, and plankton—the foundation of marine food webs—face particular vulnerability. Declining plankton populations threaten fish stocks, affecting both marine ecosystems and human food security. Additionally, acidification may alter fish behavior and reproduction, compounding ecological disruption. The cascade of effects demonstrates how a single environmental change can trigger far-reaching consequences throughout interconnected systems.",
+          "question": "The passage is structured around:",
+          "options": [
+            "A comparison between different ocean pollutants",
+            "A classification of marine organism types",
+            "A causal chain from CO2 absorption to ecosystem effects",
+            "A problem-solution for protecting coral reefs",
+            "A chronological history of ocean acidification"
+          ],
+          "correct": 2,
+          "explanation": "Yapı C: Cause-effect chain. CO2 absorption (CAUSE) → carbonic acid → lower pH → reduced carbonate → organism vulnerability → declining plankton → threatened fish stocks → food security impacts + altered behavior. Clear causal chain with signal words: 'results from', 'reduces', 'threaten', 'affecting', 'trigger'. Final sentence explicitly states 'cascade of effects'."
+        },
+        {
+          "passage": "Sleep deprivation impairs cognitive function through multiple neurobiological mechanisms. Insufficient sleep disrupts the hippocampus, impairing memory consolidation—the process of transferring short-term memories to long-term storage. This explains why students who cram all night often forget material quickly. Sleep loss also affects the prefrontal cortex, which governs decision-making and emotional regulation, leading to poor judgment and irritability. Furthermore, lack of sleep reduces attention span and reaction time, increasing accident risks. Metabolically, sleep deprivation triggers hormonal changes that promote weight gain and insulin resistance. These interconnected effects illustrate why adequate sleep is essential for both mental and physical health.",
+          "question": "Which organizational pattern dominates this passage?",
+          "options": [
+            "Problem-solution about sleep disorders",
+            "Comparison between different sleep stages",
+            "Cause-effect showing impacts of sleep deprivation",
+            "Chronological sequence of sleep research",
+            "Classification of sleep-related conditions"
+          ],
+          "correct": 2,
+          "explanation": "Yapı C: Cause-effect. Sleep deprivation (CAUSE) → multiple effects: (1) hippocampus disruption → memory impairment, (2) prefrontal cortex impact → poor decisions/irritability, (3) attention/reaction reduction → accidents, (4) hormonal changes → weight gain/insulin resistance. Signal words: 'impairs through', 'disrupts', 'affects...leading to', 'reduces', 'triggers'."
+        }
+      ]
+    },
+    {
+      "id": "1.7.3",
+      "title": "Söylem İşaretleri Üzerinden Çözümleme",
+      "content": "Söylem işaretleri (discourse markers), metindeki fikir ilişkilerini gösteren kelime ve ifadelerdir. YDS ve YÖKDİL okuma pasajlarında bu işaretleyicileri tanımak, yazarın mantık akışını takip etmeyi ve soruları doğru cevaplamayı kolaylaştırır.\n\n**1. Ekleme/Devam İşaretleri (Addition/Continuation):**\n\nBir fikre başka fikir ekler, aynı yönde devam eder.\n\n*İşaretleyiciler:*\n- Moreover, furthermore, in addition, additionally, besides, also, too\n- Similarly, likewise, in the same way\n- What's more, not only...but also\n\n*Kullanım:*\n\"Exercise improves cardiovascular health. Moreover, it enhances mental well-being.\"\n(İki pozitif etkisi var, ekleme)\n\n**2. Karşıtlık/Zıtlık İşaretleri (Contrast/Opposition):**\n\nBeklentiye aykırı fikir, zıt bilgi sunar.\n\n*İşaretleyiciler:*\n- However, nevertheless, nonetheless, yet, still\n- In contrast, on the contrary, conversely, on the other hand\n- Although, though, even though, while, whereas\n- Despite, in spite of, regardless of\n- But, yet (daha informal)\n\n*Kullanım:*\n\"The treatment is effective. However, it has serious side effects.\"\n(Pozitif + negatif, karşıtlık)\n\n*Dikkat:*\n- \"On the contrary\" güçlü zıtlık (tamamen yanlış, doğrusu şu)\n- \"On the other hand\" yumuşak zıtlık (alternatif bakış açısı)\n\n**3. Sebep-Sonuç İşaretleri (Cause-Effect):**\n\nNeden-sonuç ilişkisini gösterir.\n\n*Sebep işaretleri (cause):*\n- Because, since, as, due to, owing to, because of\n- Given that, in light of\n\n*Sonuç işaretleri (result/effect):*\n- Therefore, thus, hence, consequently, as a result, as a consequence\n- So, accordingly, for this reason\n- This leads to, this results in, this causes\n\n*Kullanım:*\n\"Global temperatures are rising. Therefore, ice caps are melting.\"\n(Neden → sonuç)\n\n**4. Örnek İşaretleri (Example/Illustration):**\n\nGenel iddiayı spesifik örnekle destekler.\n\n*İşaretleyiciler:*\n- For example, for instance, such as\n- To illustrate, as an illustration\n- Namely, specifically, particularly\n- e.g., i.e. (i.e. = \"that is\", açıklama; e.g. = \"for example\", örnek)\n\n*Kullanım:*\n\"Many animals migrate seasonally. For example, monarch butterflies travel thousands of miles.\"\n(Genel → spesifik örnek)\n\n**5. Açıklama/Yeniden İfade İşaretleri (Clarification/Restatement):**\n\nAynı fikri başka kelimelerle açıklar, netleştirir.\n\n*İşaretleyiciler:*\n- In other words, that is, that is to say\n- Namely, specifically\n- To put it another way, to clarify\n\n*Kullanım:*\n\"The hypothesis was refuted. In other words, it was proven wrong.\"\n(Paraphrase, açıklama)\n\n**6. Vurgu İşaretleri (Emphasis):**\n\nÖnemli fikri vurgular.\n\n*İşaretleyiciler:*\n- Indeed, in fact, actually, as a matter of fact\n- Certainly, undoubtedly, clearly, obviously\n- Significantly, importantly, notably\n- Above all, most importantly, especially\n\n*Kullanım:*\n\"The study has limitations. Most importantly, the sample size was small.\"\n(En önemli nokta vurgusu)\n\n**7. Sıralama İşaretleri (Sequencing):**\n\nFikirleri sıralar veya süreç gösterir.\n\n*İşaretleyiciler:*\n- First(ly), second(ly), third(ly), finally, lastly\n- Next, then, after that, subsequently\n- Initially, eventually, ultimately\n\n*Kullanım:*\n\"First, gather data. Then, analyze it. Finally, draw conclusions.\"\n(Süreç adımları)\n\n**8. Sonuç/Özet İşaretleri (Conclusion/Summary):**\n\nSonuca varır, özetler.\n\n*İşaretleyiciler:*\n- In conclusion, to conclude, in summary, to sum up\n- Overall, on the whole, all in all\n- Ultimately, in the final analysis\n\n*Kullanım:*\n\"In conclusion, the evidence supports the hypothesis.\"\n(Genel sonuç)\n\n**YDS Stratejisi:**\n1. **Hızlı tarama:** Discourse markers'ı circle yapın (however, therefore, for example)\n2. **İlişki anlama:** İşaretleyici fikir akışını gösterir (zıtlık mı, sebep-sonuç mu?)\n3. **Soru ipuçları:** \n   - \"The author mentions X in order to...\" → Örnek işaretleyici ara\n   - \"According to the passage, Y occurs because...\" → Sebep işaretleyici ara\n   - \"Which contradicts...?\" → Karşıtlık işaretleyici ara\n4. **Paragraf yapısı:** İşaretleyiciler paragraf organizasyonunu gösterir\n5. **Ton belirleme:** Vurgu işaretleri (clearly, undoubtedly) yazarın kesinlik derecesini gösterir",
+      "examples": [
+        {
+          "sentence": "Regular exercise provides numerous health benefits. Moreover, it improves mood and reduces stress.",
+          "marker": "Moreover",
+          "function": "Addition/Continuation - Adds another benefit, same positive direction.",
+          "explanation": "'Moreover' signals addition. First benefit (health), second benefit (mood/stress). Both support 'numerous benefits'."
+        },
+        {
+          "sentence": "The medication is effective in treating symptoms. However, it may cause severe side effects.",
+          "marker": "However",
+          "function": "Contrast - Introduces negative aspect after positive statement.",
+          "explanation": "'However' signals contrast. Positive (effective) contrasted with negative (side effects). Reader expects limitation after 'however'."
+        },
+        {
+          "sentence": "Global temperatures are rising. Consequently, sea levels are increasing.",
+          "marker": "Consequently",
+          "function": "Cause-Effect - Shows result/consequence of temperature rise.",
+          "explanation": "'Consequently' signals effect. Cause (temperature rise) → effect (sea level rise). Logical consequence relationship."
+        },
+        {
+          "sentence": "Many species exhibit altruistic behavior. For instance, bees sacrifice themselves to protect the hive.",
+          "marker": "For instance",
+          "function": "Example - Provides specific illustration of general claim.",
+          "explanation": "'For instance' signals example. General (many species altruistic) → specific example (bees). Supports general claim with concrete case."
+        },
+        {
+          "sentence": "The experiment failed to confirm the hypothesis. In other words, the predicted results did not occur.",
+          "marker": "In other words",
+          "function": "Clarification/Restatement - Restates previous idea in simpler terms.",
+          "explanation": "'In other words' signals paraphrase. 'Failed to confirm' = 'predicted results did not occur'. Same meaning, clearer wording."
+        }
+      ],
+      "exercises": [
+        {
+          "passage": "Renewable energy sources offer environmental benefits. Solar and wind power produce no emissions during operation. Moreover, they reduce dependence on fossil fuels, enhancing energy security. However, these technologies face challenges. Solar panels require rare materials, and their manufacturing is energy-intensive. Furthermore, renewable energy generation fluctuates with weather, necessitating expensive storage solutions. Nevertheless, the long-term advantages outweigh these obstacles, making investment in renewables essential for sustainable development.",
+          "question": "The discourse marker 'Moreover' in the passage indicates that the following information:",
+          "options": [
+            "Contradicts the previous statement",
+            "Provides an example of the previous point",
+            "Adds an additional benefit of renewable energy",
+            "Explains the cause of environmental benefits",
+            "Summarizes the main argument"
+          ],
+          "correct": 2,
+          "explanation": "'Moreover' = addition marker. Previous: no emissions (environmental benefit). Following: reduce fossil fuel dependence (another benefit, energy security). C correct: adds additional benefit. A wrong (contrast would use 'however'), B wrong (example would use 'for instance'), D wrong (cause would use 'because'), E wrong (summary would use 'in conclusion')."
+        },
+        {
+          "passage": "Urban green spaces improve air quality and reduce heat. They also promote physical activity and mental well-being. However, rapidly growing cities often prioritize development over environmental conservation. Consequently, green areas are shrinking in many urban centers. This trend, therefore, threatens both ecological sustainability and public health.",
+          "question": "The marker 'Consequently' signals that:",
+          "options": [
+            "An alternative viewpoint is being presented",
+            "A specific example follows",
+            "A result of the previous statement is described",
+            "A contrast to urban development is shown",
+            "The main idea is being restated"
+          ],
+          "correct": 2,
+          "explanation": "'Consequently' = effect/result marker. Cause: 'cities prioritize development over conservation' → Effect: 'green areas shrinking'. C correct: describes result. A wrong (alternative = 'on the other hand'), B wrong (example = 'for example'), D wrong (contrast = 'however'), E wrong (restatement = 'in other words')."
+        },
+        {
+          "passage": "Bilingual individuals demonstrate cognitive advantages. For instance, they show enhanced executive function and better multitasking abilities. In addition, bilingualism delays the onset of dementia symptoms. These benefits result from the mental exercise of managing two language systems.",
+          "question": "The phrase 'For instance' introduces:",
+          "options": [
+            "A contrasting viewpoint",
+            "A cause of cognitive advantages",
+            "Specific examples of cognitive advantages",
+            "A summary of bilingual benefits",
+            "An alternative explanation"
+          ],
+          "correct": 2,
+          "explanation": "'For instance' = example marker. General claim: 'cognitive advantages' → Specific examples: 'executive function, multitasking'. C correct: provides specific instances. A wrong (contrast = 'however'), B wrong (cause = 'because'), D wrong (summary = 'in summary'), E wrong (alternative = 'alternatively')."
+        },
+        {
+          "passage": "Traditional farming relies on chemical pesticides to control pests. These chemicals, however, harm beneficial insects and contaminate water. Organic farming, on the other hand, uses natural pest control methods. Although organic yields may be lower, the environmental benefits are substantial. Indeed, studies show organic farms support greater biodiversity.",
+          "question": "The marker 'Indeed' serves to:",
+          "options": [
+            "Introduce a contradiction",
+            "Signal a cause-effect relationship",
+            "Emphasize and confirm the previous statement",
+            "Provide an alternative method",
+            "Summarize the passage"
+          ],
+          "correct": 2,
+          "explanation": "'Indeed' = emphasis/confirmation marker. Previous: 'environmental benefits are substantial' → 'Indeed, studies show...' confirms with evidence. C correct: emphasizes and supports claim. A wrong (contradiction = 'on the contrary'), B wrong (cause = 'therefore'), D wrong (alternative = 'alternatively'), E wrong (summary = 'overall')."
+        },
+        {
+          "passage": "Sleep deprivation impairs cognitive function. It reduces attention, memory, and decision-making abilities. Additionally, lack of sleep weakens the immune system, increasing susceptibility to illness. In fact, chronic sleep loss has been linked to serious health conditions such as diabetes and cardiovascular disease. Therefore, adequate sleep is essential for both mental and physical health.",
+          "question": "The word 'Therefore' indicates that the final sentence:",
+          "options": [
+            "Provides a specific example",
+            "Introduces a contrasting idea",
+            "Draws a logical conclusion from previous points",
+            "Restates the first sentence differently",
+            "Adds another negative effect of sleep deprivation"
+          ],
+          "correct": 2,
+          "explanation": "'Therefore' = conclusion/result marker. Evidence: impairs cognition, weakens immunity, linked to diseases → Conclusion: 'adequate sleep is essential'. C correct: logical conclusion from cumulative evidence. A wrong (example = 'for instance'), B wrong (contrast = 'however'), D wrong (restatement = 'in other words'), E wrong (addition = 'moreover')."
+        }
+      ]
+    },
+    {
+      "id": "1.7.4",
+      "title": "Zaman Yönetimi ve Öncelikli Soru Sırası",
+      "content": "YDS ve YÖKDİL'de okuduğunu anlama bölümü zaman yönetimi gerektirir. Toplam 180 dakikada 80 soru çözülür, yaklaşık 2-2.5 dakika/soru. Okuma pasajları genellikle en zaman alan bölümdür. Etkili stratejiler puanı artırır.\n\n**1. Genel Zaman Dağılımı:**\n\n*YDS/YÖKDİL yapısı (ortalama):*\n- Vocabulary/Grammar: ~30 soru (30-40 dakika)\n- Cloze Test/Paragraph Completion: ~15 soru (20-25 dakika)\n- Translation: ~6 soru (15-20 dakika)\n- Reading Comprehension: ~20-25 soru, 4-5 pasaj (60-70 dakika)\n- Dialogue Completion: ~10 soru (10-15 dakika)\n\n*Okuma pasajları için zaman:*\n- Pasaj başına ~12-15 dakika (250-400 kelime pasaj + 4-6 soru)\n- Okuma: 4-6 dakika\n- Sorular: 1.5-2 dakika/soru\n\n**2. Okuma Stratejileri:**\n\n*A. Soruları Önce Okuma (Questions-First Strategy):*\n\nAvantajlar:\n- Ne aranacağını bilirsiniz (targeted reading)\n- Irrelevant detayları atlayabilirsiniz\n- Anahtar kelimeleri locate etmek kolay\n\nNe zaman kullanılır:\n- Detail questions çoğunluktaysa\n- Zaman sıkışıksa\n\nNasıl:\n1. Tüm soruları hızla okuyun (cevapları değil, sadece soruları)\n2. Anahtar kelimeleri not edin (mental olarak veya underline)\n3. Pasajı okurken bu kelimeleri arayın\n\n*B. Pasajı Önce Okuma (Passage-First Strategy):*\n\nAvantajlar:\n- Ana fikir ve yapı daha iyi anlaşılır\n- Inference ve tone soruları için daha iyi\n- Bağlamı tam anlarsınız\n\nNe zaman kullanılır:\n- Main idea, inference, tone soruları çoğunluktaysa\n- Pasaj kısa ve basitse\n\nNasıl:\n1. Pasajı aktif olarak okuyun (main idea, structure, tone)\n2. Her paragrafın topic sentence'ını not edin\n3. Sorulara geçin, gerekliyse pasaja dönün\n\n*C. Hibrit Strateji (Hybrid - ÖNERİLEN):*\n\n1. **Soruları hızla tarayın** (10-15 saniye): Ne tür sorular var? (main idea, detail, inference?)\n2. **İlk paragrafı dikkatle okuyun**: Topic/thesis genellikle buradadır\n3. **Geri kalan pasajı skim yapın**: Topic sentences, key points\n4. **Soruları sırayla çözün**, gerekliyse pasaja dönün\n\n**3. Soru Önceliklendirme:**\n\n*Kolay → Zor sırası (önce puanı garanti edin):*\n\n1. **Detail/Factual Questions (En kolay):**\n   - \"According to the passage...\"\n   - Direct information, metinde açıkça yazılı\n   - Zaman: 1-1.5 dakika\n\n2. **Vocabulary in Context:**\n   - \"The word X in line Y means...\"\n   - Bağlamdan tahmin edilebilir\n   - Zaman: 1 dakika\n\n3. **Main Idea Questions:**\n   - Pasaj anlaşıldıysa kolay\n   - Zaman: 1.5-2 dakika\n\n4. **Inference Questions (Zor):**\n   - Mantıksal çıkarım gerektirir\n   - Daha fazla düşünme\n   - Zaman: 2-2.5 dakika\n\n5. **Author's Purpose/Tone (Orta-Zor):**\n   - Tüm pasajın anlaşılması gerekir\n   - Zaman: 1.5-2 dakika\n\n*Strateji:*\n- Her pasajda önce \"According to\" sorularını çözün (quick points)\n- Sonra main idea, sonra inference\n- Çok zor soruyu atlayın, sona bırakın (time management)\n\n**4. Zaman Tasarrufu Teknikleri:**\n\n*Skimming (Göz Gezdirme):*\n- İlk cümle + son cümle her paragrafın (main ideas)\n- Key words: however, therefore, importantly\n- Sayılar, tarihler, proper nouns (easy to locate later)\n\n*Scanning (Tarama):*\n- Spesifik bilgi ararken (detail questions)\n- Soru kelimesini metinde bulun\n- Etrafındaki 1-2 cümleyi okuyun\n\n*Elimeleme:*\n- Açıkça yanlış seçenekleri hemen eleyip\n- 2-3 seçenek kaldığında dikkatlice okuyun\n- Metinle doğrulayın\n\n**5. Yaygın Zaman Hataları:**\n\n❌ **Tüm pasajı kelime kelime okumak** → Skim yapın, sonra detail\n❌ **Bir soruya takılıp kalmak** → 2 dakikadan fazla harcanmaz, işaretleyip geç\n❌ **Soruları rastgele çözmek** → Sıralı veya kolay→zor\n❌ **Cevapları metinle doğrulamamak** → Hızlı scan yapın\n❌ **Seçenekleri çok dikkatli okumak** → Önce eliminate, sonra detail\n\n**6. Sınav Günü Zaman Yönetimi:**\n\n*İlk 30 dakika:*\n- Vocabulary/Grammar (hızlı puanlar)\n\n*30-90 dakika:*\n- Cloze/Paragraph Completion\n- Dialogue\n\n*90-150 dakika:*\n- Reading Comprehension (4-5 pasaj)\n- Pasaj başına ~12-15 dakika strict\n\n*150-170 dakika:*\n- Translation (dikkatlice)\n\n*Son 10 dakika:*\n- İşaretli soruları gözden geçir\n- Boş bırakma, tahmin et\n\n**ALTIN KURAL: Bir pasajda 15 dakikadan fazla kalmayın. İşaretleyip geçin, sonra dönün.**",
+      "examples": [],
+      "exercises": [
+        {
+          "question": "You have 15 minutes left and two reading passages remaining (each with 5 questions). What is the most effective strategy?",
+          "options": [
+            "Spend all 15 minutes on the first passage to ensure accuracy.",
+            "Skip both passages and focus on checking previous answers.",
+            "Allocate 7-8 minutes per passage, focusing on detail questions first.",
+            "Read both passages completely, then answer all questions together.",
+            "Guess all answers without reading to save time."
+          ],
+          "correct": 2,
+          "explanation": "C en etkili: 7-8 dakika/pasaj dengeli, her pasajdan puan alma şansı. Detail questions hızlı puanlardır (priority). A risk: 2. pasaj hiç yapılmaz. B sub-optimal: yeni puanlar kaybedilir. D zaman yok. E son çare, okumadan tahmin risky."
+        },
+        {
+          "question": "A passage has these question types: (1) main idea, (2) detail about paragraph 2, (3) author's tone, (4) inference, (5) vocabulary in context. Which order is most time-efficient?",
+          "options": [
+            "1-2-3-4-5 (original order)",
+            "2-5-1-3-4 (detail/vocab first, hard questions last)",
+            "1-3-4-2-5 (conceptual questions first)",
+            "5-4-3-2-1 (reverse order)",
+            "Solve randomly based on intuition"
+          ],
+          "correct": 1,
+          "explanation": "B optimal: (2) Detail kolay, metinde direct bilgi (quick point). (5) Vocab bağlamdan (quick). (1) Main idea pasaj anlaşıldıktan sonra. (3) Tone tüm pasaj gerektirir. (4) Inference en zor, en sona (zaman kalmazsa tahmin). Kolay→zor stratejisi."
+        },
+        {
+          "question": "While reading a passage, you encounter an unfamiliar word that appears in a question. What should you do?",
+          "options": [
+            "Immediately look up the word in a dictionary (if allowed).",
+            "Skip the entire passage as you cannot understand it.",
+            "Use context clues to infer meaning and continue.",
+            "Spend 5 minutes analyzing the word's possible meanings.",
+            "Mark the question as impossible and guess."
+          ],
+          "correct": 2,
+          "explanation": "C best: Context clues genellikle yeterli, vocab questions bağlam testler. Zaman kaybetmeden devam. A sözlük yoktur sınavda. B extreme, bir kelime tüm pasajı bozamaz. D 5 dakika çok fazla (max 1-2 dakika). E premature, context denemeden vazgeçmek."
+        },
+        {
+          "question": "You've spent 10 minutes on a passage and answered 3 of 5 questions. Two inference questions remain and you're unsure. What should you do?",
+          "options": [
+            "Spend another 10 minutes to ensure correct answers.",
+            "Make educated guesses on both and move to the next passage.",
+            "Re-read the entire passage to better understand inferences.",
+            "Skip both questions entirely and leave them blank.",
+            "Answer one more carefully, guess the other, then move on."
+          ],
+          "correct": 4,
+          "explanation": "E optimal: 10 dakika kullanıldı (pasaj limit), 2-3 dakika kaldı. Bir inference dikkatli çöz (1 puan kesin), diğeri tahmin (zaman yok), sonra geç (time management). A 20 dakika/pasaj çok fazla, diğer pasajlar kayıp. B her ikisine de tahmin risky (1 puan kaybı). C zaman yok re-read'e. D boş bırakma, tahmin better."
+        },
+        {
+          "question": "The passage structure is: Paragraph 1 (introduction), Paragraphs 2-4 (details), Paragraph 5 (conclusion). A question asks for the main idea. Where should you focus?",
+          "options": [
+            "Read paragraphs 2-4 carefully as they contain most content.",
+            "Focus on paragraph 1 (introduction) and paragraph 5 (conclusion).",
+            "Read all paragraphs equally carefully.",
+            "Only read paragraph 3 (middle, likely has main point).",
+            "Skip reading and eliminate answer choices based on logic."
+          ],
+          "correct": 1,
+          "explanation": "B optimal: Main idea genellikle introduction (paragraph 1) ve conclusion (paragraph 5)'da. Thesis + summary = main idea. Paragraphs 2-4 supporting details (main idea için gerekmez detaylıca). Time-efficient: focus başlangıç + bitiş. A details main idea vermez. C zaman israfı. D risky, middle supporting detail. E reading yapmadan elimination risky."
+        }
+      ]
+    }
+  ]
+}

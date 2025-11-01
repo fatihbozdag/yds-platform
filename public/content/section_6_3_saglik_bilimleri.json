@@ -1,0 +1,510 @@
+{
+  "section": "6.3",
+  "title": "YÖKDİL Sağlık Bilimleri",
+  "topics": [
+    {
+      "id": "6.3.1",
+      "title": "Epidemiyoloji Terminolojisi",
+      "content": "YÖKDİL Sağlık Bilimleri sınavında epidemiyoloji terimleri sıkça karşılaşılan kavramlardır. Bu terimleri bilmek, hem kelime sorularını hem de okuma parçalarını anlamayı kolaylaştırır.\n\n**Temel terimler**: epidemic (salgın - belirli bölgede normalin üstünde), pandemic (pandemi - küresel salgın), endemic (endemik - bölgede sürekli var olan), outbreak (salgın başlangıcı), incidence (insidans - yeni vaka sayısı), prevalence (prevalans - toplam vaka sayısı), morbidity (hastalık oranı), mortality (ölüm oranı).\n\n**Risk ve ilişki terimleri**: risk factor (risk faktörü), protective factor (koruyucu faktör), exposure (maruziyet), susceptibility (yatkınlık), transmission (bulaşma), vector (vektör - hastalık taşıyıcı), reservoir (rezervuar - patojen kaynağı), host (konak). Örnek: 'Mosquitoes serve as vectors for malaria transmission.'\n\n**Ölçüm ve hesaplama**: rate (oran), ratio (rasyo), proportion (orantı), crude rate (kaba oran), age-adjusted rate (yaşa göre düzeltilmiş oran), attack rate (atak oranı - risk altındaki popülasyonda hastalanma oranı), case-fatality rate (vaka-ölüm oranı - hastalar içinde ölenler).\n\n**Çalışma terimleri**: surveillance (sürveyans - izleme), screening (tarama), diagnosis (tanı), prognosis (prognoz - hastalık gidişatı tahmini), intervention (müdahale), prevention (önleme - primary/secondary/tertiary), control (kontrol), eradication (eradikasyon - hastalığın yok edilmesi).\n\n**İstatistiksel terimler**: association (ilişki), correlation (korelasyon), causation (nedensellik), confounding (karıştırıcılık), bias (yanlılık - selection bias, information bias), statistical significance (istatistiksel anlamlılık), confidence interval (güven aralığı).\n\n**Hastalık özellikleri**: acute (akut - ani başlayan), chronic (kronik - uzun süreli), infectious (bulaşıcı), communicable (iletişimli), non-communicable (bulaşıcı olmayan), contagious (temas ile bulaşan), airborne (hava yoluyla bulaşan), symptomatic/asymptomatic (semptomatik/asemptomatik).\n\nBu terimlerin doğru preposition'larla kullanımı önemlidir: 'at risk of/for', 'associated with', 'exposed to', 'susceptible to', 'transmitted through/by'.",
+      "examples": [
+        "The incidence of tuberculosis has decreased significantly over the past decade. (İnsidans)",
+        "Malaria remains endemic in many tropical regions. (Endemik)",
+        "Vaccination provides a protective factor against measles. (Koruyucu faktör)",
+        "The virus is transmitted through respiratory droplets. (Bulaşma yolu)",
+        "Mosquitoes act as vectors for dengue fever. (Vektör)",
+        "The case-fatality rate for untreated rabies is nearly 100%. (Vaka-ölüm oranı)",
+        "Screening programs enable early detection of breast cancer. (Tarama)",
+        "Confounding variables must be controlled in observational studies. (Karıştırıcı)",
+        "Individuals with compromised immune systems are more susceptible to infections. (Yatkınlık)",
+        "The outbreak was traced to a contaminated water source. (Salgın kaynağı)",
+        "Age-adjusted mortality rates account for differences in population age structure. (Yaşa göre düzeltilmiş oran)",
+        "Secondary prevention focuses on early detection and treatment. (İkincil önleme)",
+        "The pandemic resulted in widespread morbidity and mortality. (Pandemi sonuçları)",
+        "Eradication of smallpox was achieved through global vaccination efforts. (Eradikasyon)",
+        "The association between smoking and lung cancer is well-established. (İlişki)"
+      ],
+      "exercises": [
+        {
+          "question": "The ---- of diabetes has been rising steadily, with new cases being diagnosed at an alarming rate.",
+          "options": {
+            "A": "prevalence",
+            "B": "incidence",
+            "C": "mortality",
+            "D": "morbidity",
+            "E": "transmission"
+          },
+          "correct": "B",
+          "explanation": "'incidence' yeni vaka sayısı. 'new cases being diagnosed' ifadesi insidansı işaret eder."
+        },
+        {
+          "question": "Malaria is ---- in many sub-Saharan African countries, affecting the population year-round.",
+          "options": {
+            "A": "epidemic",
+            "B": "pandemic",
+            "C": "endemic",
+            "D": "outbreak",
+            "E": "sporadic"
+          },
+          "correct": "C",
+          "explanation": "'endemic' bölgede sürekli var olan hastalık. 'year-round' süreklilik belirtir."
+        },
+        {
+          "question": "Mosquitoes serve ---- vectors for several diseases, including malaria and dengue fever.",
+          "options": {
+            "A": "as",
+            "B": "for",
+            "C": "with",
+            "D": "by",
+            "E": "to"
+          },
+          "correct": "A",
+          "explanation": "'serve as' = görev görmek, işlev görmek. Vektör rolü."
+        },
+        {
+          "question": "The virus is primarily transmitted ---- respiratory droplets during close contact.",
+          "options": {
+            "A": "by",
+            "B": "through",
+            "C": "with",
+            "D": "from",
+            "E": "A or B"
+          },
+          "correct": "E",
+          "explanation": "Hem 'transmitted by' hem 'transmitted through' doğru. Bulaşma mekanizması."
+        },
+        {
+          "question": "Individuals with diabetes are more ---- to infections than healthy individuals.",
+          "options": {
+            "A": "susceptible",
+            "B": "resistant",
+            "C": "immune",
+            "D": "protected",
+            "E": "resilient"
+          },
+          "correct": "A",
+          "explanation": "'susceptible to' = yatkın, duyarlı. Diyabet enfeksiyon riskini artırır."
+        },
+        {
+          "question": "The ---- investigated the source of the food poisoning outbreak at the restaurant.",
+          "options": {
+            "A": "prevention",
+            "B": "surveillance",
+            "C": "screening",
+            "D": "eradication",
+            "E": "prognosis"
+          },
+          "correct": "B",
+          "explanation": "'surveillance' izleme, araştırma. Salgın kaynağını bulma süreci."
+        },
+        {
+          "question": "---- variables must be controlled to establish a true causal relationship.",
+          "options": {
+            "A": "Independent",
+            "B": "Dependent",
+            "C": "Confounding",
+            "D": "Continuous",
+            "E": "Categorical"
+          },
+          "correct": "C",
+          "explanation": "'Confounding variables' = karıştırıcı değişkenler. Nedensellik için kontrol edilmeli."
+        },
+        {
+          "question": "The ---- rate for this cancer type is approximately 20%, meaning one in five patients do not survive.",
+          "options": {
+            "A": "survival",
+            "B": "recovery",
+            "C": "case-fatality",
+            "D": "remission",
+            "E": "incidence"
+          },
+          "correct": "C",
+          "explanation": "'case-fatality rate' vaka-ölüm oranı. Hastaların yüzde kaçının öldüğü."
+        },
+        {
+          "question": "---- prevention focuses on early detection through screening programs.",
+          "options": {
+            "A": "Primary",
+            "B": "Secondary",
+            "C": "Tertiary",
+            "D": "Quaternary",
+            "E": "Initial"
+          },
+          "correct": "B",
+          "explanation": "'Secondary prevention' ikincil önleme: erken tespit ve tarama."
+        },
+        {
+          "question": "The association ---- smoking and lung cancer has been firmly established through multiple studies.",
+          "options": {
+            "A": "among",
+            "B": "between",
+            "C": "within",
+            "D": "through",
+            "E": "across"
+          },
+          "correct": "B",
+          "explanation": "'association between X and Y' iki değişken arasındaki ilişki."
+        },
+        {
+          "question": "Age-adjusted rates allow for fairer ---- across populations with different age structures.",
+          "options": {
+            "A": "treatments",
+            "B": "diagnoses",
+            "C": "comparisons",
+            "D": "interventions",
+            "E": "exposures"
+          },
+          "correct": "C",
+          "explanation": "'comparisons' = karşılaştırmalar. Yaşa göre düzeltilmiş oranlar farklı popülasyonları karşılaştırmayı sağlar."
+        },
+        {
+          "question": "The outbreak was linked to a contaminated water ----.",
+          "options": {
+            "A": "vector",
+            "B": "reservoir",
+            "C": "host",
+            "D": "source",
+            "E": "carrier"
+          },
+          "correct": "D",
+          "explanation": "'source' kaynak. Contaminated water source = kirlenmiş su kaynağı. En doğal kollokasyon."
+        }
+      ]
+    },
+    {
+      "id": "6.3.2",
+      "title": "Çalışma Tasarımları: RCT, Cohort, Case-Control",
+      "content": "YÖKDİL Sağlık Bilimleri sınavında araştırma tasarımlarını tanımak, metodoloji bölümlerini anlamak ve soru çözmek için kritiktir. Her tasarımın kendine özgü kelime dağarcığı ve yapısal özellikleri vardır.\n\n**Randomized Controlled Trial (RCT - Randomize Kontrollü Çalışma)**: Altın standart çalışma tasarımı. Terimler: randomization (randomizasyon), control group (kontrol grubu), intervention group / treatment group (müdahale grubu), placebo (plasebo), blinding / masking (körleme - single-blind, double-blind, triple-blind), allocation (tahsis), intent-to-treat analysis (müdahale niyetine göre analiz). Örnek: 'Participants were randomly allocated to either the intervention or control group.'\n\n**Cohort Study (Kohort Çalışması)**: İleriye dönük (prospective) veya geriye dönük (retrospective) izleme çalışması. Terimler: exposed/unexposed groups (maruz kalan/kalmayan gruplar), follow-up (takip), loss to follow-up (takipten çıkma), baseline (başlangıç), outcome (sonuç), relative risk (rölatif risk), incidence rate. Örnek: 'A cohort of 1,000 smokers was followed for 10 years to assess lung cancer incidence.'\n\n**Case-Control Study (Vaka-Kontrol Çalışması)**: Geriye dönük karşılaştırma çalışması. Terimler: cases (vakalar - hastalık olanlar), controls (kontroller - hastalık olmayanlar), matching (eşleştirme), odds ratio (odds oranı), selection bias (seçim yanlılığı), recall bias (hatırlama yanlılığı). Örnek: 'Cases were matched to controls by age, sex, and socioeconomic status.'\n\n**Cross-sectional Study (Kesitsel Çalışma)**: Bir anda ölçüm. Terimler: prevalence (prevalans), snapshot (anlık görüntü), association (ilişki - not causation). Örnek: 'A cross-sectional survey assessed the prevalence of hypertension in the population.'\n\n**Systematic Review ve Meta-analysis**: Birden fazla çalışmanın sentezi. Terimler: pooled estimate (birleştirilmiş tahmin), heterogeneity (heterojenlik), publication bias (yayın yanlılığı), effect size (etki büyüklüğü). Örnek: 'The meta-analysis pooled data from 15 RCTs.'\n\n**Ortak terimler**: eligibility criteria (uygunluk kriterleri), recruitment (katılımcı bulma), enrollment (kayıt), sample size (örneklem büyüklüğü), statistical power (istatistiksel güç), generalizability (genellenebilirlik).",
+      "examples": [
+        "Participants were randomly assigned to receive either the drug or placebo. (RCT - randomizasyon)",
+        "The study employed a double-blind design to minimize bias. (RCT - körleme)",
+        "A cohort of 5,000 individuals was followed prospectively for 20 years. (Cohort - ileriye dönük)",
+        "Exposed and unexposed groups were compared for disease incidence. (Cohort - karşılaştırma)",
+        "Cases were defined as patients diagnosed with myocardial infarction. (Case-control - vaka tanımı)",
+        "Controls were matched to cases by age and gender. (Case-control - eşleştirme)",
+        "The odds ratio was calculated to estimate the strength of association. (Case-control - odds ratio)",
+        "Loss to follow-up was minimized through regular contact with participants. (Cohort - takip)",
+        "Baseline characteristics were similar between the two groups. (RCT - başlangıç)",
+        "The meta-analysis included 22 randomized controlled trials. (Meta-analysis)",
+        "A cross-sectional survey assessed the prevalence of diabetes. (Cross-sectional)",
+        "Intent-to-treat analysis was used to account for non-compliance. (RCT - analiz yöntemi)",
+        "Selection bias may have influenced the results of the case-control study. (Case-control - yanlılık)",
+        "The study had sufficient statistical power to detect a 20% difference. (Statistical power)",
+        "Eligibility criteria included age between 18 and 65 years. (Uygunluk kriterleri)"
+      ],
+      "exercises": [
+        {
+          "question": "In a randomized controlled trial, participants are ---- assigned to intervention or control groups.",
+          "options": {
+            "A": "deliberately",
+            "B": "selectively",
+            "C": "randomly",
+            "D": "carefully",
+            "E": "systematically"
+          },
+          "correct": "C",
+          "explanation": "'randomly assigned' RCT'nin temel özelliği: rastgele tahsis."
+        },
+        {
+          "question": "A ---- study follows participants over time to observe the development of outcomes.",
+          "options": {
+            "A": "cross-sectional",
+            "B": "case-control",
+            "C": "cohort",
+            "D": "experimental",
+            "E": "ecological"
+          },
+          "correct": "C",
+          "explanation": "'cohort study' katılımcıları zaman içinde takip eder."
+        },
+        {
+          "question": "In case-control studies, cases are often ---- to controls by age and sex.",
+          "options": {
+            "A": "compared",
+            "B": "contrasted",
+            "C": "matched",
+            "D": "separated",
+            "E": "distinguished"
+          },
+          "correct": "C",
+          "explanation": "'matched' = eşleştirilmiş. Case-control'da karıştırıcıları kontrol etmek için eşleştirme yapılır."
+        },
+        {
+          "question": "The study used a double-blind design, meaning neither participants nor ---- knew who received the treatment.",
+          "options": {
+            "A": "patients",
+            "B": "researchers",
+            "C": "investigators",
+            "D": "subjects",
+            "E": "volunteers"
+          },
+          "correct": "B",
+          "explanation": "'double-blind': hem katılımcılar hem araştırmacılar (researchers/investigators) bilmiyor."
+        },
+        {
+          "question": "---- characteristics, such as age and comorbidities, were similar between groups.",
+          "options": {
+            "A": "Final",
+            "B": "Outcome",
+            "C": "Baseline",
+            "D": "Follow-up",
+            "E": "Terminal"
+          },
+          "correct": "C",
+          "explanation": "'Baseline characteristics' başlangıç özellikleri. Grupların çalışma başında benzer olduğunu gösterir."
+        },
+        {
+          "question": "The odds ---- was calculated to estimate the association between exposure and disease.",
+          "options": {
+            "A": "rate",
+            "B": "ratio",
+            "C": "proportion",
+            "D": "percentage",
+            "E": "fraction"
+          },
+          "correct": "B",
+          "explanation": "'odds ratio' case-control çalışmalarda ilişki ölçüsü."
+        },
+        {
+          "question": "Loss ---- follow-up was approximately 15% over the 5-year study period.",
+          "options": {
+            "A": "of",
+            "B": "to",
+            "C": "in",
+            "D": "at",
+            "E": "from"
+          },
+          "correct": "B",
+          "explanation": "'loss to follow-up' sabit ifade: takipten çıkma."
+        },
+        {
+          "question": "A ---- survey provides a snapshot of disease prevalence at a single point in time.",
+          "options": {
+            "A": "longitudinal",
+            "B": "prospective",
+            "C": "cross-sectional",
+            "D": "retrospective",
+            "E": "cohort"
+          },
+          "correct": "C",
+          "explanation": "'cross-sectional' tek zaman noktasında ölçüm. 'snapshot' = anlık görüntü."
+        },
+        {
+          "question": "The meta-analysis ---- data from 18 randomized controlled trials.",
+          "options": {
+            "A": "collected",
+            "B": "pooled",
+            "C": "gathered",
+            "D": "assembled",
+            "E": "accumulated"
+          },
+          "correct": "B",
+          "explanation": "'pooled' = birleştirilmiş. Meta-analizde veriler 'pooled' edilir."
+        },
+        {
+          "question": "Selection ---- may occur if cases and controls are not drawn from the same population.",
+          "options": {
+            "A": "error",
+            "B": "bias",
+            "C": "mistake",
+            "D": "problem",
+            "E": "issue"
+          },
+          "correct": "B",
+          "explanation": "'selection bias' seçim yanlılığı. Metodolojik hata türü."
+        },
+        {
+          "question": "The study had sufficient statistical ---- to detect a 15% difference between groups.",
+          "options": {
+            "A": "strength",
+            "B": "power",
+            "C": "capacity",
+            "D": "ability",
+            "E": "force"
+          },
+          "correct": "B",
+          "explanation": "'statistical power' istatistiksel güç. Farkı tespit etme yeteneği."
+        },
+        {
+          "question": "Eligibility ---- included absence of chronic diseases and age between 20 and 60 years.",
+          "options": {
+            "A": "requirements",
+            "B": "conditions",
+            "C": "criteria",
+            "D": "standards",
+            "E": "rules"
+          },
+          "correct": "C",
+          "explanation": "'eligibility criteria' = uygunluk kriterleri. Standart terim."
+        }
+      ]
+    },
+    {
+      "id": "6.3.3",
+      "title": "Risk, Odds, Prevalence/Incidence, Confounder, Outcome Measures",
+      "content": "YÖKDİL Sağlık Bilimleri sınavında epidemiyolojik ölçümleri ve kavramları anlamak, özellikle metodoloji ve sonuç bölümlerini yorumlamak için gereklidir.\n\n**Risk**: Belirli bir süre içinde bir olayın meydana gelme olasılığı. 'at risk', 'risk of/for', 'increased/decreased risk', 'high-risk/low-risk group'. Relative risk (RR - rölatif risk): maruz kalanların riski / maruz kalmayanların riski. RR=1 (risk yok), RR>1 (artmış risk), RR<1 (azalmış risk). Örnek: 'Smokers have a 10-fold increased risk of lung cancer compared to non-smokers.'\n\n**Odds**: Bir olayın olma olasılığı / olmama olasılığı. Odds ratio (OR): case-control çalışmalarda ilişki ölçüsü. OR yorumu RR'ye benzer. Örnek: 'The odds of developing the disease were 2.5 times higher among exposed individuals.'\n\n**Prevalence (Prevalans)**: Belirli bir anda popülasyonda hastalığı olanların oranı (toplam vakalar / toplam popülasyon). Point prevalence (nokta prevalans), period prevalence (dönem prevalans). Örnek: 'The prevalence of diabetes in the population was 8.5%.'\n\n**Incidence (İnsidans)**: Belirli bir sürede ortaya çıkan yeni vaka sayısı (yeni vakalar / risk altındaki popülasyon). Incidence rate (insidans hızı), cumulative incidence (kümülatif insidans). Örnek: 'The incidence of breast cancer was 120 per 100,000 women per year.'\n\n**Confounder (Karıştırıcı)**: Hem maruziyetle hem sonuçla ilişkili olan üçüncü değişken. Confounding bias (karıştırma yanlılığı). Kontrol yöntemleri: stratification (tabakalandırma), matching (eşleştirme), multivariate analysis (çok değişkenli analiz), randomization (randomizasyon). Örnek: 'Age acted as a confounder and was controlled for in the analysis.'\n\n**Outcome measures (Sonuç ölçüleri)**: Primary outcome (birincil sonuç), secondary outcome (ikincil sonuç), surrogate outcome (vekil sonuç), clinical endpoint (klinik sonlanım noktası), composite outcome (bileşik sonuç). Örnek: 'The primary outcome was all-cause mortality at 5 years.'\n\n**Ilgili terimler**: attributable risk (atfedilebilir risk), population attributable risk (popülasyon atfedilebilir riski), number needed to treat (NNT - tedavi etme gereksinimi sayısı), hazard ratio (tehlike oranı - survival analizinde).",
+      "examples": [
+        "Individuals with hypertension are at increased risk of stroke. (Risk ifadesi)",
+        "The relative risk of heart disease was 1.8 for obese individuals. (Relative risk)",
+        "The odds ratio suggested a strong association between smoking and cancer. (Odds ratio)",
+        "The prevalence of asthma in children has increased over the past decade. (Prevalence)",
+        "The incidence of new HIV infections has declined due to prevention programs. (Incidence)",
+        "Age was a potential confounder and was adjusted for in the analysis. (Confounder)",
+        "The primary outcome was cardiovascular mortality at 10 years. (Primary outcome)",
+        "A composite outcome of death, myocardial infarction, or stroke was used. (Composite outcome)",
+        "The odds of disease were 3.2 times higher in exposed individuals. (Odds comparison)",
+        "Socioeconomic status confounded the relationship between diet and health. (Confounding)",
+        "The number needed to treat was 20, meaning 20 patients must be treated to prevent one event. (NNT)",
+        "Hazard ratios were calculated using Cox proportional hazards models. (Hazard ratio)",
+        "Point prevalence was assessed on January 1, 2023. (Point prevalence)",
+        "Stratification by sex was performed to control for confounding. (Confounding control)",
+        "The cumulative incidence over 5 years was 12%. (Cumulative incidence)"
+      ],
+      "exercises": [
+        {
+          "question": "Smokers are at a significantly ---- risk of developing lung cancer compared to non-smokers.",
+          "options": {
+            "A": "decreased",
+            "B": "reduced",
+            "C": "increased",
+            "D": "lowered",
+            "E": "minimized"
+          },
+          "correct": "C",
+          "explanation": "'increased risk' = artmış risk. Sigara akciğer kanseri riskini artırır."
+        },
+        {
+          "question": "The ---- of diabetes in the study population was found to be 9.2%.",
+          "options": {
+            "A": "incidence",
+            "B": "prevalence",
+            "C": "occurrence",
+            "D": "frequency",
+            "E": "rate"
+          },
+          "correct": "B",
+          "explanation": "'prevalence' belirli anda toplam vaka oranı. Yüzde olarak ifade edilir."
+        },
+        {
+          "question": "The ---- of new cancer cases was 150 per 100,000 person-years.",
+          "options": {
+            "A": "prevalence",
+            "B": "proportion",
+            "C": "incidence",
+            "D": "percentage",
+            "E": "ratio"
+          },
+          "correct": "C",
+          "explanation": "'incidence' yeni vaka sayısı. 'per person-years' insidans hızı birimidir."
+        },
+        {
+          "question": "Age may act as a ---- in the relationship between exercise and heart disease.",
+          "options": {
+            "A": "mediator",
+            "B": "confounder",
+            "C": "moderator",
+            "D": "predictor",
+            "E": "indicator"
+          },
+          "correct": "B",
+          "explanation": "'confounder' = karıştırıcı. Hem egzersizle hem kalp hastalığıyla ilişkili olabilir."
+        },
+        {
+          "question": "The odds ---- indicated a 2.5-fold increased likelihood of disease among exposed individuals.",
+          "options": {
+            "A": "rate",
+            "B": "ratio",
+            "C": "proportion",
+            "D": "percentage",
+            "E": "fraction"
+          },
+          "correct": "B",
+          "explanation": "'odds ratio' case-control çalışmalarda ilişki ölçütü."
+        },
+        {
+          "question": "The primary ---- of the trial was all-cause mortality at 5 years.",
+          "options": {
+            "A": "result",
+            "B": "finding",
+            "C": "outcome",
+            "D": "conclusion",
+            "E": "effect"
+          },
+          "correct": "C",
+          "explanation": "'primary outcome' birincil sonuç. Çalışmanın ana hedefi."
+        },
+        {
+          "question": "The relative ---- for heart disease was 1.5 in the exposed group.",
+          "options": {
+            "A": "ratio",
+            "B": "risk",
+            "C": "odds",
+            "D": "rate",
+            "E": "proportion"
+          },
+          "correct": "B",
+          "explanation": "'relative risk' = rölatif risk. Cohort çalışmalarda kullanılır."
+        },
+        {
+          "question": "Confounding was controlled ---- by stratifying the analysis by age groups.",
+          "options": {
+            "A": "with",
+            "B": "by",
+            "C": "for",
+            "D": "through",
+            "E": "B or C"
+          },
+          "correct": "E",
+          "explanation": "Hem 'controlled for' hem 'controlled by' doğru. 'controlled for' = kontrol edildi."
+        },
+        {
+          "question": "The number needed ---- treat was 15, indicating relatively high efficacy.",
+          "options": {
+            "A": "for",
+            "B": "to",
+            "C": "in",
+            "D": "of",
+            "E": "with"
+          },
+          "correct": "B",
+          "explanation": "'number needed to treat (NNT)' sabit ifade. Tedavi etme gereksinimi sayısı."
+        },
+        {
+          "question": "---- prevalence was assessed by counting all existing cases on a specific date.",
+          "options": {
+            "A": "Period",
+            "B": "Point",
+            "C": "Cumulative",
+            "D": "Annual",
+            "E": "Lifetime"
+          },
+          "correct": "B",
+          "explanation": "'Point prevalence' belirli bir tarihteki prevalans. Tek zaman noktası."
+        },
+        {
+          "question": "A composite outcome ---- death, stroke, and myocardial infarction was used.",
+          "options": {
+            "A": "consisting",
+            "B": "composed",
+            "C": "comprising",
+            "D": "including",
+            "E": "All correct"
+          },
+          "correct": "E",
+          "explanation": "Hepsi doğru: consisting of, composed of, comprising, including - bileşik sonucu tanımlama."
+        },
+        {
+          "question": "Individuals ---- increased BMI had a higher risk of developing type 2 diabetes.",
+          "options": {
+            "A": "of",
+            "B": "with",
+            "C": "by",
+            "D": "at",
+            "E": "in"
+          },
+          "correct": "B",
+          "explanation": "'individuals with...' = ...olan bireyler. Özellik belirtme."
+        }
+      ]
+    }
+  ]
+}

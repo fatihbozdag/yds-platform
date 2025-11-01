@@ -1,0 +1,1299 @@
+{
+  "examId": "exam-11",
+  "title": "YDS Full Practice Exam 11",
+  "description": "80-question comprehensive YDS practice exam covering nanotechnology, media literacy, ocean acidification, workforce automation, and cultural heritage preservation",
+  "timeLimit": 180,
+  "totalQuestions": 80,
+  "passingScore": 70,
+  "questions": [
+    {
+      "id": "q-exam11-001",
+      "type": "vocabulary",
+      "question": "Nanotechnology involves manipulating matter at the ----, where materials exhibit unique properties not seen at larger scales.",
+      "options": [
+        "molecular level",
+        "surface area",
+        "industrial sector",
+        "experimental stage",
+        "theoretical framework"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Molecular level: Moleküler seviye - Nanoteknoloji, maddeleri moleküler seviyede manipüle etmeyi içerir. 'Surface area' (yüzey alanı), 'industrial sector' (endüstriyel sektör), 'experimental stage' (deneysel aşama) ve 'theoretical framework' (teorik çerçeve) nanoteknolojinin tanımında kullanılan temel ifade değildir.",
+      "difficulty": "medium",
+      "topic": "Nanotechnology"
+    },
+    {
+      "id": "q-exam11-002",
+      "type": "grammar",
+      "question": "Researchers ---- various nanoparticles for drug delivery systems by the time clinical trials begin next year.",
+      "options": [
+        "will have developed",
+        "have been developing",
+        "are developing",
+        "had developed",
+        "will develop"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Will have developed: Gelecekte bir zaman noktasına kadar tamamlanmış olacak eylemi ifade eden Future Perfect tense kullanılır. 'By the time clinical trials begin next year' gelecekte bir zaman noktasını belirtir, bu nedenle will have developed doğrudur.",
+      "difficulty": "medium",
+      "topic": "Future Perfect Tense"
+    },
+    {
+      "id": "q-exam11-003",
+      "type": "vocabulary",
+      "question": "The ---- properties of carbon nanotubes make them ideal for applications ranging from electronics to construction materials.",
+      "options": [
+        "exceptional",
+        "traditional",
+        "questionable",
+        "limited",
+        "obsolete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Exceptional: İstisnai, olağanüstü - Karbon nanotüplerin olağanüstü özellikleri onları birçok uygulamada ideal kılar. 'Traditional' (geleneksel), 'questionable' (şüpheli), 'limited' (sınırlı) ve 'obsolete' (modası geçmiş) karbon nanotüplerin özelliklerini doğru tanımlamaz.",
+      "difficulty": "easy",
+      "topic": "Nanotechnology"
+    },
+    {
+      "id": "q-exam11-004",
+      "type": "grammar",
+      "question": "If scientists ---- the potential risks of nanomaterials earlier, safety regulations would have been implemented sooner.",
+      "options": [
+        "had recognized",
+        "recognized",
+        "have recognized",
+        "would recognize",
+        "will recognize"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Had recognized: Geçmişte gerçekleşmemiş bir durumu ifade eden Third Conditional yapısında, if clause'da Past Perfect (had + V3) kullanılır. Ana cümledeki 'would have been implemented' bu yapıyı destekler.",
+      "difficulty": "medium",
+      "topic": "Third Conditional"
+    },
+    {
+      "id": "q-exam11-005",
+      "type": "vocabulary",
+      "question": "Nanomedicine aims to ---- disease at the cellular level, offering more precise treatment options than conventional therapies.",
+      "options": [
+        "target",
+        "overlook",
+        "complicate",
+        "distribute",
+        "estimate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Target: Hedef almak - Nanotıp, hastalığı hücresel seviyede hedef almayı amaçlar. 'Overlook' (gözden kaçırmak), 'complicate' (karmaşıklaştırmak), 'distribute' (dağıtmak) ve 'estimate' (tahmin etmek) bu bağlamda uygun değildir.",
+      "difficulty": "medium",
+      "topic": "Nanotechnology & Medicine"
+    },
+    {
+      "id": "q-exam11-006",
+      "type": "reading",
+      "passage": "Nanotechnology, the manipulation of matter at the atomic and molecular scale, represents one of the most promising frontiers in modern science. At dimensions typically between 1 and 100 nanometers, materials exhibit unique physical, chemical, and biological properties that differ significantly from their bulk counterparts. This quantum-scale behavior has opened unprecedented opportunities across multiple sectors. In medicine, nanoparticles can be engineered to deliver drugs directly to cancer cells, minimizing damage to healthy tissue. In electronics, carbon nanotubes and graphene offer the potential for faster, smaller, and more energy-efficient devices. Environmental applications include water purification systems using nanomembranes and pollution remediation through catalytic nanoparticles. However, the rapid advancement of nanotechnology also raises important safety and ethical questions. The long-term effects of nanoparticle exposure on human health and ecosystems remain incompletely understood, necessitating comprehensive risk assessment frameworks before widespread commercial deployment.",
+      "question": "According to the passage, what makes nanomaterials particularly useful in medical applications?",
+      "options": [
+        "Their ability to target specific cells while avoiding healthy tissue",
+        "Their production cost is significantly lower than conventional drugs",
+        "They completely eliminate the need for traditional surgery",
+        "They have been thoroughly tested for long-term safety",
+        "They work equally well in all types of diseases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasajda açıkça belirtildiği üzere, nanoparçacıklar kanser hücrelerine doğrudan ilaç ulaştırmak üzere tasarlanabilir ve böylece sağlıklı dokuya zarar minimize edilir. Diğer seçeneklerde bahsedilen bilgiler pasajda yer almamaktadır.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Detail"
+    },
+    {
+      "id": "q-exam11-007",
+      "type": "grammar",
+      "question": "Quantum dots, which ---- in size from 2 to 10 nanometers, are being explored for use in solar panels and medical imaging.",
+      "options": [
+        "range",
+        "are ranging",
+        "ranged",
+        "have ranged",
+        "will range"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Range: Durum belirten fiiller (stative verbs) genellikle Simple Present tense ile kullanılır. 'Range' (arasında değişmek) bir durum belirttiği için continuous yapıda kullanılmaz.",
+      "difficulty": "medium",
+      "topic": "Stative Verbs"
+    },
+    {
+      "id": "q-exam11-008",
+      "type": "vocabulary",
+      "question": "The ---- of nanoparticles into consumer products has occurred faster than regulatory frameworks could be established to ensure safety.",
+      "options": [
+        "incorporation",
+        "elimination",
+        "prohibition",
+        "investigation",
+        "rejection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incorporation: Dahil etme, birleştirme - Nanoparçacıkların tüketici ürünlerine dahil edilmesi, güvenlik düzenlemelerinin oluşturulmasından daha hızlı gerçekleşmiştir. Diğer seçenekler anlamca uygun değildir.",
+      "difficulty": "medium",
+      "topic": "Nanotechnology & Regulation"
+    },
+    {
+      "id": "q-exam11-009",
+      "type": "vocabulary",
+      "question": "Misinformation spreads rapidly on social media platforms due to the ---- of fact-checking mechanisms and algorithmic amplification of engaging content.",
+      "options": [
+        "absence",
+        "abundance",
+        "efficiency",
+        "popularity",
+        "reliability"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Absence: Yokluk - Yanlış bilginin sosyal medyada hızla yayılması, fact-checking mekanizmalarının yokluğundan kaynaklanır. 'Abundance' (bolluk) tam tersi anlam taşır, diğer seçenekler bağlama uygun değildir.",
+      "difficulty": "medium",
+      "topic": "Media Literacy"
+    },
+    {
+      "id": "q-exam11-010",
+      "type": "grammar",
+      "question": "Media literacy programs ---- students to critically evaluate information sources before the digital age became dominant.",
+      "options": [
+        "should have equipped",
+        "should equip",
+        "must equip",
+        "would equip",
+        "might equip"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Should have equipped: Geçmişte yapılması gerekirken yapılmamış eylemi ifade eder. 'Before the digital age became dominant' geçmiş zaman ifadesi, modal perfect yapısının kullanılmasını gerektirir.",
+      "difficulty": "medium",
+      "topic": "Modal Perfect"
+    },
+    {
+      "id": "q-exam11-011",
+      "type": "vocabulary",
+      "question": "Distinguishing between credible journalism and ---- content requires understanding of source evaluation, bias recognition, and fact verification techniques.",
+      "options": [
+        "fabricated",
+        "verified",
+        "authentic",
+        "documented",
+        "established"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fabricated: Uydurulmuş - Güvenilir gazetecilik ile uydurulmuş içeriği ayırt etmek, kaynak değerlendirme becerisi gerektirir. 'Verified' (doğrulanmış), 'authentic' (özgün), 'documented' (belgelenmiş) ve 'established' (yerleşik) zıt anlamlar taşır.",
+      "difficulty": "medium",
+      "topic": "Media Literacy"
+    },
+    {
+      "id": "q-exam11-012",
+      "type": "grammar",
+      "question": "The article ---- thousands of times on social media before fact-checkers identified it as misleading.",
+      "options": [
+        "had been shared",
+        "was sharing",
+        "has been shared",
+        "is being shared",
+        "will have been shared"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Had been shared: Geçmişte bir olaydan önce tamamlanmış pasif eylemi ifade eden Past Perfect Passive kullanılır. 'Before fact-checkers identified' geçmiş zamanda bir referans noktası verir.",
+      "difficulty": "medium",
+      "topic": "Past Perfect Passive"
+    },
+    {
+      "id": "q-exam11-013",
+      "type": "reading",
+      "passage": "The proliferation of misinformation in the digital age poses unprecedented challenges to democratic societies and informed decision-making. Unlike traditional media, where editorial gatekeepers filter content, social media platforms enable anyone to disseminate information instantaneously to vast audiences. This democratization of information sharing, while empowering in many respects, has created an ecosystem where false or misleading content can spread faster than factual reporting. Psychological factors compound the problem: confirmation bias leads people to accept information that aligns with existing beliefs while dismissing contradictory evidence, and emotional content generates more engagement than nuanced analysis. The business models of major platforms, which prioritize user engagement over accuracy, inadvertently reward sensational misinformation. Addressing this crisis requires multifaceted solutions including media literacy education, platform accountability mechanisms, transparent content moderation policies, and support for quality journalism. However, solutions must carefully balance the need to combat misinformation with protecting freedom of expression and avoiding censorship.",
+      "question": "What does the passage suggest about the role of social media algorithms in spreading misinformation?",
+      "options": [
+        "They prioritize engaging content, which often favors sensational misinformation",
+        "They are specifically designed to promote false information",
+        "They have no significant impact on information dissemination patterns",
+        "They effectively filter out most misleading content",
+        "They equally promote all types of content regardless of accuracy"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj, sosyal medya platformlarının kullanıcı etkileşimini doğruluktan önde tuttuğunu ve bunun istemeden sensasyonel yanlış bilgiyi ödüllendirdiğini belirtir. Diğer seçenekler pasajdaki bilgilerle çelişir veya desteklenmez.",
+      "difficulty": "hard",
+      "topic": "Reading Comprehension - Inference"
+    },
+    {
+      "id": "q-exam11-014",
+      "type": "vocabulary",
+      "question": "Critical thinking skills enable individuals to ---- claims by examining evidence, identifying logical fallacies, and considering alternative explanations.",
+      "options": [
+        "scrutinize",
+        "accept",
+        "promote",
+        "circulate",
+        "ignore"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Scrutinize: Dikkatle incelemek - Eleştirel düşünme becerileri, bireylerin iddiaları kanıtları inceleyerek değerlendirmelerini sağlar. 'Accept' (kabul etmek), 'promote' (tanıtmak), 'circulate' (dolaştırmak) ve 'ignore' (görmezden gelmek) eleştirel düşünme sürecini tanımlamaz.",
+      "difficulty": "medium",
+      "topic": "Media Literacy"
+    },
+    {
+      "id": "q-exam11-015",
+      "type": "grammar",
+      "question": "If educational institutions ----, media literacy as a core subject, citizens would be better equipped to navigate the information landscape.",
+      "options": [
+        "had implemented",
+        "implement",
+        "will implement",
+        "are implementing",
+        "implemented"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Implemented: İkinci koşul cümlesinde (Second Conditional), if clause'da Simple Past, ana cümlede would + V1 kullanılır. Geçmişte gerçekleşmemiş ama teorik olarak mümkün durumu ifade eder.",
+      "difficulty": "medium",
+      "topic": "Second Conditional"
+    },
+    {
+      "id": "q-exam11-016",
+      "type": "vocabulary",
+      "question": "Ocean acidification, caused by absorption of atmospheric carbon dioxide, threatens to ---- marine ecosystems that depend on calcium carbonate structures.",
+      "options": [
+        "disrupt",
+        "enhance",
+        "stabilize",
+        "preserve",
+        "strengthen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Disrupt: Bozmak, aksatmak - Okyanus asitlenmesi, kalsiyum karbonat yapılarına bağımlı deniz ekosistemlerini tehdit eder ve bozar. 'Enhance' (geliştirmek), 'stabilize' (dengelemek), 'preserve' (korumak) ve 'strengthen' (güçlendirmek) olumlu anlamlar taşır ve bu tehdit bağlamında uygun değildir.",
+      "difficulty": "medium",
+      "topic": "Ocean Acidification"
+    },
+    {
+      "id": "q-exam11-017",
+      "type": "grammar",
+      "question": "Marine biologists ---- the effects of ocean acidification on coral reefs for over two decades now.",
+      "options": [
+        "have been studying",
+        "had studied",
+        "are studying",
+        "will have studied",
+        "studied"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Have been studying: 'For over two decades' ve 'now' ifadeleri, geçmişte başlayıp şu ana kadar devam eden eylemi ifade eden Present Perfect Continuous kullanımını gerektirir.",
+      "difficulty": "easy",
+      "topic": "Present Perfect Continuous"
+    },
+    {
+      "id": "q-exam11-018",
+      "type": "vocabulary",
+      "question": "The ---- of shellfish populations in acidifying waters has severe implications for both marine biodiversity and commercial fisheries.",
+      "options": [
+        "decline",
+        "expansion",
+        "stability",
+        "emergence",
+        "improvement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Decline: Azalma - Asitleşen sularda kabuklu deniz ürünleri popülasyonlarının azalması ciddi sonuçlar doğurur. Diğer seçenekler olumsuz bir durumu ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Ocean Acidification"
+    },
+    {
+      "id": "q-exam11-019",
+      "type": "grammar",
+      "question": "By the time atmospheric CO2 levels ---- to pre-industrial concentrations, many marine species may have already become extinct.",
+      "options": [
+        "return",
+        "will return",
+        "returned",
+        "have returned",
+        "are returning"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Return: 'By the time' sonrasında zaman clause'larında Simple Present kullanılır, gelecek zaman anlamı verse bile. Ana cümlede 'may have become' Future Perfect yapısı kullanılmıştır.",
+      "difficulty": "hard",
+      "topic": "Time Clauses"
+    },
+    {
+      "id": "q-exam11-020",
+      "type": "reading",
+      "passage": "Ocean acidification, often called 'climate change's evil twin,' occurs when the ocean absorbs carbon dioxide from the atmosphere. Since the industrial revolution, the ocean has absorbed approximately 30% of anthropogenic CO2 emissions, leading to a 26% increase in acidity. This chemical change fundamentally alters seawater chemistry, reducing the availability of carbonate ions that marine organisms need to build shells and skeletons. Coral reefs, which support 25% of all marine species despite covering less than 1% of the ocean floor, are particularly vulnerable. Studies indicate that many coral species cannot calcify adequately when ocean pH drops below certain thresholds. Pteropods, small sea snails that form the base of many marine food webs, also show shell dissolution in acidified conditions. The economic implications are staggering: coastal communities dependent on fisheries and tourism face potential losses in the billions of dollars. While reducing CO2 emissions remains the primary solution, researchers are also exploring local interventions such as selective breeding of acid-resistant species and artificial alkalinization of coastal waters.",
+      "question": "According to the passage, why are coral reefs particularly significant in the context of ocean acidification?",
+      "options": [
+        "They support a disproportionately large fraction of marine biodiversity despite their small area",
+        "They are the primary source of carbonate ions for all marine organisms",
+        "They have proven completely resistant to changes in ocean chemistry",
+        "They represent the majority of the ocean floor ecosystem",
+        "They can adapt to acidification faster than other organisms"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj, mercan resiflerinin okyanusun %1'inden azını kapladığı halde tüm deniz türlerinin %25'ini desteklediğini açıkça belirtir. Bu, onları okyanus asitlenmesi bağlamında özellikle önemli kılar. Diğer seçenekler pasajdaki bilgilerle çelişir.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Detail"
+    },
+    {
+      "id": "q-exam11-021",
+      "type": "vocabulary",
+      "question": "Calcification rates in marine organisms have ---- significantly in regions where ocean acidification is most pronounced.",
+      "options": [
+        "decreased",
+        "accelerated",
+        "stabilized",
+        "improved",
+        "doubled"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Decreased: Azalmak - Okyanus asitlenmesinin en belirgin olduğu bölgelerde deniz organizmalarında kalsifikasyon oranları önemli ölçüde azalmıştır. Diğer seçenekler olumsuz bir etkiyi ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Ocean Acidification"
+    },
+    {
+      "id": "q-exam11-022",
+      "type": "grammar",
+      "question": "Unless global emissions ---- dramatically, ocean pH levels will continue to drop throughout this century.",
+      "options": [
+        "decrease",
+        "will decrease",
+        "decreased",
+        "have decreased",
+        "are decreasing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Decrease: 'Unless' ile başlayan koşul cümlelerinde Simple Present kullanılır, gelecek zaman anlamı verse bile. Unless = if not anlamına gelir.",
+      "difficulty": "medium",
+      "topic": "Conditional Clauses"
+    },
+    {
+      "id": "q-exam11-023",
+      "type": "vocabulary",
+      "question": "Workforce automation, driven by advances in artificial intelligence and robotics, is ---- traditional employment patterns across numerous industries.",
+      "options": [
+        "transforming",
+        "preserving",
+        "solidifying",
+        "restricting",
+        "preventing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Transforming: Dönüştürmek - İş gücü otomasyonu, geleneksel istihdam yapılarını dönüştürmektedir. 'Preserving' (korumak), 'solidifying' (sağlamlaştırmak), 'restricting' (kısıtlamak) ve 'preventing' (önlemek) bu bağlamda anlamca uygun değildir.",
+      "difficulty": "easy",
+      "topic": "Workforce Automation"
+    },
+    {
+      "id": "q-exam11-024",
+      "type": "grammar",
+      "question": "By 2030, it is estimated that automation ---- up to 30% of current jobs in developed economies.",
+      "options": [
+        "will have displaced",
+        "has displaced",
+        "is displacing",
+        "had displaced",
+        "displaces"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Will have displaced: 'By 2030' gelecekte bir zaman noktasını belirtir. Bu zamana kadar tamamlanmış olacak eylemi ifade etmek için Future Perfect (will have + V3) kullanılır.",
+      "difficulty": "medium",
+      "topic": "Future Perfect"
+    },
+    {
+      "id": "q-exam11-025",
+      "type": "vocabulary",
+      "question": "The ---- impact of automation varies significantly across sectors, with routine manual and cognitive tasks being most susceptible to replacement.",
+      "options": [
+        "differential",
+        "uniform",
+        "negligible",
+        "absent",
+        "identical"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Differential: Farklılık gösteren - Otomasyonun etkisi sektörler arasında önemli ölçüde farklılık gösterir. 'Uniform' (tekdüze), 'negligible' (önemsiz), 'absent' (yok) ve 'identical' (aynı) cümlenin anlamına ters düşer.",
+      "difficulty": "medium",
+      "topic": "Workforce Automation"
+    },
+    {
+      "id": "q-exam11-026",
+      "type": "grammar",
+      "question": "Workers ---- technological unemployment could benefit from retraining programs focused on skills that complement automation.",
+      "options": [
+        "facing",
+        "faced",
+        "to face",
+        "having faced",
+        "face"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Facing: Present participle (-ing), süregelen bir durumu tanımlamak için kullanılır. 'Workers facing technological unemployment' = Teknolojik işsizlikle karşı karşıya olan işçiler.",
+      "difficulty": "medium",
+      "topic": "Participles"
+    },
+    {
+      "id": "q-exam11-027",
+      "type": "reading",
+      "passage": "The rise of artificial intelligence and robotics is fundamentally reshaping labor markets worldwide. While automation has always been part of economic progress, the current wave differs in both scope and speed. Unlike previous industrial revolutions that primarily affected physical labor, modern AI systems increasingly handle cognitive tasks previously thought to require human judgment. Machine learning algorithms now perform legal research, diagnose medical conditions, and even write basic news articles. This shift raises profound questions about the future of work. Optimists argue that automation will eliminate dangerous and monotonous jobs while creating new categories of employment, much as previous technological transitions did. Historical data supports this view: the introduction of ATMs did not eliminate bank tellers but rather changed their role to focus on customer service. However, skeptics warn that the pace of current automation may outstrip society's ability to adapt. Unlike past transitions that occurred over generations, AI deployment can happen in years or months. Moreover, the jobs being automated often pay middle-class wages, potentially exacerbating income inequality. Policy responses under consideration include universal basic income, robot taxes to fund retraining programs, and educational reforms emphasizing creativity and emotional intelligence—skills that remain distinctly human.",
+      "question": "How does the passage characterize the difference between current automation and previous technological transitions?",
+      "options": [
+        "Current automation affects cognitive work and occurs at a much faster pace",
+        "Current automation exclusively targets physical labor in manufacturing",
+        "Current automation has proven impossible to implement successfully",
+        "Current automation creates more jobs than it eliminates",
+        "Current automation affects only entry-level positions"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj, mevcut otomasyonun öncelikle fiziksel emeği etkileyen önceki endüstriyel devrimlerden farklı olarak bilişsel görevleri de hedeflediğini ve nesiller boyunca gerçekleşen önceki geçişlerin aksine yıl veya aylarda gerçekleşebildiğini açıkça belirtir.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Main Idea"
+    },
+    {
+      "id": "q-exam11-028",
+      "type": "vocabulary",
+      "question": "Policymakers must ---- the economic benefits of automation with the need to protect workers from sudden unemployment and income loss.",
+      "options": [
+        "balance",
+        "separate",
+        "eliminate",
+        "prioritize",
+        "reject"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Balance: Dengelemek - Politika yapıcılar, otomasyonun ekonomik faydalarıyla işçileri koruma ihtiyacını dengelemelidir. 'Separate' (ayırmak), 'eliminate' (ortadan kaldırmak), 'prioritize' (öncelik vermek) ve 'reject' (reddetmek) bu bağlamda uygun değildir.",
+      "difficulty": "easy",
+      "topic": "Workforce Automation"
+    },
+    {
+      "id": "q-exam11-029",
+      "type": "grammar",
+      "question": "Had governments invested more in vocational training earlier, workers ---- better prepared for the transition to an automated economy.",
+      "options": [
+        "would be",
+        "will be",
+        "are",
+        "were",
+        "have been"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Would be: Mixed conditional yapısında, geçmişteki bir eylemin (had invested) şimdiki sonucunu (would be) ifade eder. Past Perfect if clause + would + V1 main clause.",
+      "difficulty": "hard",
+      "topic": "Mixed Conditionals"
+    },
+    {
+      "id": "q-exam11-030",
+      "type": "vocabulary",
+      "question": "Cultural heritage preservation efforts aim to ---- tangible artifacts and intangible traditions for future generations despite threats from urbanization and globalization.",
+      "options": [
+        "safeguard",
+        "abandon",
+        "commercialize",
+        "modernize",
+        "replace"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Safeguard: Korumak - Kültürel miras koruma çabaları, somut eserleri ve somut olmayan gelenekleri gelecek nesiller için korumayı amaçlar. Diğer seçenekler koruma amacıyla uyumlu değildir.",
+      "difficulty": "easy",
+      "topic": "Cultural Heritage"
+    },
+    {
+      "id": "q-exam11-031",
+      "type": "grammar",
+      "question": "Ancient manuscripts that ---- in the library have now been digitized to ensure their content survives for future scholars.",
+      "options": [
+        "were stored",
+        "are storing",
+        "have stored",
+        "store",
+        "had stored"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Were stored: Pasif yapı (passive voice) kullanılır çünkü elyazmalarının saklanması başkaları tarafından yapılan bir eylemdir. 'Have now been digitized' cümlesi de pasif yapıdadır ve geçmişten bahsedildiği için Simple Past Passive uygun.",
+      "difficulty": "medium",
+      "topic": "Passive Voice"
+    },
+    {
+      "id": "q-exam11-032",
+      "type": "vocabulary",
+      "question": "The ---- of indigenous languages poses a significant threat to linguistic diversity and cultural knowledge systems worldwide.",
+      "options": [
+        "erosion",
+        "promotion",
+        "expansion",
+        "standardization",
+        "documentation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Erosion: Aşınma, erozyona uğrama - Yerli dillerin aşınması/kaybolması, dilsel çeşitliliğe ve kültürel bilgi sistemlerine tehdit oluşturur. Diğer seçenekler olumsuz bir durumu ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Cultural Heritage"
+    },
+    {
+      "id": "q-exam11-033",
+      "type": "grammar",
+      "question": "UNESCO ---- intangible cultural heritage since 2003 through its international convention.",
+      "options": [
+        "has been protecting",
+        "protects",
+        "is protecting",
+        "protected",
+        "will protect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Has been protecting: 'Since 2003' belirli bir geçmiş zaman noktasından itibaren devam eden eylemi ifade eder, bu nedenle Present Perfect Continuous kullanılır.",
+      "difficulty": "easy",
+      "topic": "Present Perfect Continuous"
+    },
+    {
+      "id": "q-exam11-034",
+      "type": "reading",
+      "passage": "Cultural heritage preservation faces unprecedented challenges in the 21st century. Rapid urbanization threatens historic neighborhoods, climate change endangers archaeological sites, and armed conflicts deliberately target cultural monuments. Yet perhaps the most insidious threat comes from globalization's homogenizing effects on intangible cultural heritage—languages, oral traditions, performing arts, and traditional craftsmanship. When the last speaker of a language dies, humanity loses not just words but entire worldviews, ecological knowledge accumulated over millennia, and unique ways of categorizing human experience. Digital technology offers both opportunities and risks for preservation. Three-dimensional scanning can create permanent records of physical sites, while online archives make manuscripts accessible worldwide. However, digitization cannot fully capture the lived experience of cultural practices or the context in which they have meaning. Moreover, who controls these digital archives raises questions of cultural sovereignty. Effective preservation requires not just museums and databases but living communities who continue to practice and evolve their traditions. This necessitates addressing economic pressures that force young people to abandon traditional livelihoods, educational systems that devalue indigenous knowledge, and legal frameworks that fail to protect cultural intellectual property.",
+      "question": "What does the passage suggest is the most effective approach to cultural preservation?",
+      "options": [
+        "Supporting living communities to continue practicing their traditions",
+        "Creating comprehensive digital archives of all cultural artifacts",
+        "Building more museums in urban centers",
+        "Preventing any changes to traditional practices",
+        "Isolating cultures from modern influences"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasajın son kısmında açıkça belirtildiği üzere, etkili koruma sadece müzeler ve veri tabanları gerektirmez, aynı zamanda geleneklerini uygulamaya ve geliştirmeye devam eden yaşayan toplulukları gerektirir. Diğer seçenekler pasajda desteklenmez veya eleştirilir.",
+      "difficulty": "hard",
+      "topic": "Reading Comprehension - Inference"
+    },
+    {
+      "id": "q-exam11-035",
+      "type": "vocabulary",
+      "question": "Archaeological sites require careful ---- to prevent damage from environmental factors, tourism, and unauthorized excavation.",
+      "options": [
+        "stewardship",
+        "exploitation",
+        "neglect",
+        "commercialization",
+        "abandonment"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Stewardship: Koruyuculuk, yöneticilik - Arkeolojik siteler, çevresel faktörlerden, turizmden ve izinsiz kazılardan kaynaklanan hasarı önlemek için dikkatli koruyuculuk gerektirir. Diğer seçenekler koruma amacıyla uyumlu değildir.",
+      "difficulty": "medium",
+      "topic": "Cultural Heritage"
+    },
+    {
+      "id": "q-exam11-036",
+      "type": "grammar",
+      "question": "Traditional crafts ---- if younger generations are not trained in these skills and provided economic incentives to practice them.",
+      "options": [
+        "will disappear",
+        "disappear",
+        "disappeared",
+        "have disappeared",
+        "are disappearing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Will disappear: Birinci koşul cümlesinde (First Conditional), gelecekte gerçekleşebilecek bir durumu ve sonucunu ifade etmek için 'if + Simple Present, will + V1' yapısı kullanılır.",
+      "difficulty": "easy",
+      "topic": "First Conditional"
+    },
+    {
+      "id": "q-exam11-037",
+      "type": "grammar",
+      "question": "The preservation project, ---- in 2015, has successfully restored over 200 historical buildings.",
+      "options": [
+        "initiated",
+        "initiating",
+        "to initiate",
+        "having initiated",
+        "being initiated"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Initiated: Past participle (-ed), geçmişte tamamlanmış pasif eylemi tanımlamak için kullanılır. 'The project which was initiated in 2015' anlamını taşır.",
+      "difficulty": "medium",
+      "topic": "Reduced Relative Clauses"
+    },
+    {
+      "id": "q-exam11-038",
+      "type": "vocabulary",
+      "question": "Digital ---- of ancient texts allows scholars worldwide to access fragile manuscripts without risking physical damage to the originals.",
+      "options": [
+        "replicas",
+        "destruction",
+        "concealment",
+        "prohibition",
+        "elimination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Replicas: Kopyalar, replikalar - Antik metinlerin dijital kopyaları, dünya çapındaki bilim insanlarının orijinallere fiziksel zarar riski olmadan kırılgan el yazmalarına erişmelerini sağlar. Diğer seçenekler olumlu bir işlevi ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Cultural Heritage & Technology"
+    },
+    {
+      "id": "q-exam11-039",
+      "type": "grammar",
+      "question": "Museums ---- their collections for decades before realizing that community engagement is essential for meaningful preservation.",
+      "options": [
+        "had been maintaining",
+        "have maintained",
+        "maintain",
+        "are maintaining",
+        "will maintain"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Had been maintaining: Geçmişte bir noktaya kadar devam eden eylemi ifade eden Past Perfect Continuous kullanılır. 'Before realizing' geçmişte bir referans noktası verir.",
+      "difficulty": "medium",
+      "topic": "Past Perfect Continuous"
+    },
+    {
+      "id": "q-exam11-040",
+      "type": "vocabulary",
+      "question": "The ---- development of quantum computers promises to revolutionize fields ranging from cryptography to drug discovery.",
+      "options": [
+        "nascent",
+        "obsolete",
+        "declining",
+        "completed",
+        "abandoned"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nascent: Yeni doğan, emekleme aşamasında - Kuantum bilgisayarların henüz gelişmekte olan doğası birçok alanı değiştirebilir. 'Obsolete' (modası geçmiş), 'declining' (azalan), 'completed' (tamamlanmış) ve 'abandoned' (terk edilmiş) bu bağlamda uygun değildir.",
+      "difficulty": "hard",
+      "topic": "Technology & Innovation"
+    },
+    {
+      "id": "q-exam11-041",
+      "type": "grammar",
+      "question": "Climate scientists warn that unless emissions ---- within the next decade, certain tipping points will become irreversible.",
+      "options": [
+        "decrease",
+        "will decrease",
+        "decreased",
+        "have decreased",
+        "are decreasing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Decrease: 'Unless' (eğer... -mezse) ile başlayan koşul cümlelerinde, gelecek zaman anlamına rağmen Simple Present kullanılır. Time clause rule.",
+      "difficulty": "medium",
+      "topic": "Conditional Clauses"
+    },
+    {
+      "id": "q-exam11-042",
+      "type": "vocabulary",
+      "question": "The ---- nature of scientific inquiry requires that researchers remain open to revising theories in light of new evidence.",
+      "options": [
+        "iterative",
+        "conclusive",
+        "static",
+        "fixed",
+        "final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iterative: Yinelemeli, tekrarlı - Bilimsel araştırmanın yinelemeli doğası, araştırmacıların yeni kanıtlar ışığında teorileri revize etmeye açık olmalarını gerektirir. Diğer seçenekler değişime kapalılığı ifade eder.",
+      "difficulty": "hard",
+      "topic": "Scientific Method"
+    },
+    {
+      "id": "q-exam11-043",
+      "type": "grammar",
+      "question": "The research team ---- their methodology in response to peer review comments when they resubmit the manuscript.",
+      "options": [
+        "will revise",
+        "revises",
+        "revised",
+        "has revised",
+        "is revising"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Will revise: 'When they resubmit' gelecekte bir zaman ifade etse de, time clause'larda Simple Present kullanılır, ancak ana cümlede gelecek zaman (will + V1) kullanılır.",
+      "difficulty": "medium",
+      "topic": "Future Simple"
+    },
+    {
+      "id": "q-exam11-044",
+      "type": "vocabulary",
+      "question": "Renewable energy technologies have become increasingly ---- as economies of scale reduce production costs and efficiency improves.",
+      "options": [
+        "competitive",
+        "expensive",
+        "impractical",
+        "rare",
+        "obsolete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Competitive: Rekabetçi - Yenilenebilir enerji teknolojileri, ölçek ekonomileri maliyetleri düşürdükçe ve verimlilik arttıkça giderek daha rekabetçi hale gelmiştir. Diğer seçenekler olumlu bir gelişimi ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Renewable Energy"
+    },
+    {
+      "id": "q-exam11-045",
+      "type": "grammar",
+      "question": "By the time solar energy ---- cost parity with fossil fuels in 2019, many investors had already shifted their portfolios.",
+      "options": [
+        "reached",
+        "reaches",
+        "will reach",
+        "has reached",
+        "is reaching"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reached: 'By the time' sonrasındaki time clause'da, geçmişte tamamlanmış bir zaman noktasını ifade etmek için Simple Past kullanılır. 'In 2019' geçmiş zaman göstergesidir.",
+      "difficulty": "medium",
+      "topic": "Time Clauses"
+    },
+    {
+      "id": "q-exam11-046",
+      "type": "reading",
+      "passage": "The transition to renewable energy represents one of the most significant infrastructure challenges in human history. Unlike fossil fuels, which provide dispatchable power on demand, solar and wind energy are intermittent—their output fluctuates with weather conditions. This intermittency problem has historically limited renewable penetration in electrical grids. However, recent technological advances are overcoming these barriers. Battery storage systems, particularly lithium-ion technologies, now store excess renewable energy for use during peak demand or low generation periods. Grid-scale batteries in Australia and California have demonstrated that storage can stabilize networks while integrating high levels of renewables. Additionally, improved weather forecasting allows grid operators to predict renewable output days in advance, facilitating better planning. Demand response programs, where consumers adjust electricity use based on price signals, further help balance supply and demand. Green hydrogen, produced by using renewable electricity to split water, offers another storage solution, particularly for industrial processes and heavy transport that are difficult to electrify. While challenges remain—including the environmental impacts of battery production and the need for transmission infrastructure—the technical feasibility of grids powered entirely by renewables is no longer in question.",
+      "question": "According to the passage, what has historically limited the use of renewable energy in electrical grids?",
+      "options": [
+        "The fluctuating nature of renewable energy output",
+        "The complete absence of storage technology",
+        "The high cost of renewable energy equipment",
+        "Government regulations favoring fossil fuels",
+        "Public opposition to renewable energy projects"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj açıkça belirtir ki güneş ve rüzgar enerjisinin aralıklı (intermittent) olması, yani çıktısının hava koşullarına göre dalgalanması, tarihsel olarak yenilenebilir enerjinin elektrik şebekelerine entegrasyonunu sınırlamıştır. Diğer faktörler pasajda belirtilmemiştir.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Detail"
+    },
+    {
+      "id": "q-exam11-047",
+      "type": "vocabulary",
+      "question": "Grid operators must constantly ---- electricity supply and demand to prevent blackouts and maintain system stability.",
+      "options": [
+        "balance",
+        "separate",
+        "eliminate",
+        "ignore",
+        "reduce"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Balance: Dengelemek - Şebeke operatörleri, elektrik kesintilerini önlemek ve sistem istikrarını korumak için arz ve talebi sürekli dengelemelidir. Diğer seçenekler bu teknik ihtiyacı ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Energy Systems"
+    },
+    {
+      "id": "q-exam11-048",
+      "type": "grammar",
+      "question": "Renewable energy capacity ---- exponentially over the past decade, exceeding even the most optimistic projections from 2010.",
+      "options": [
+        "has grown",
+        "grows",
+        "grew",
+        "is growing",
+        "will grow"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Has grown: 'Over the past decade' geçmişten şimdiye kadar olan bir zaman periyodunu ifade eder, bu nedenle Present Perfect (have/has + V3) kullanılır.",
+      "difficulty": "easy",
+      "topic": "Present Perfect"
+    },
+    {
+      "id": "q-exam11-049",
+      "type": "vocabulary",
+      "question": "The ---- of electric vehicles depends not only on battery technology but also on the development of widespread charging infrastructure.",
+      "options": [
+        "adoption",
+        "rejection",
+        "prohibition",
+        "limitation",
+        "elimination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adoption: Benimseme, kabul - Elektrikli araçların benimsenmesi, sadece batarya teknolojisine değil aynı zamanda yaygın şarj altyapısının geliştirilmesine de bağlıdır. Diğer seçenekler olumlu bir süreci ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Electric Vehicles"
+    },
+    {
+      "id": "q-exam11-050",
+      "type": "grammar",
+      "question": "If governments ---- carbon pricing mechanisms earlier, the transition to clean energy would have accelerated.",
+      "options": [
+        "had implemented",
+        "implemented",
+        "implement",
+        "have implemented",
+        "will implement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Had implemented: Geçmişte gerçekleşmemiş bir durumu ifade eden Third Conditional yapısında, if clause'da Past Perfect (had + V3) kullanılır. Ana cümledeki 'would have accelerated' bunu destekler.",
+      "difficulty": "medium",
+      "topic": "Third Conditional"
+    },
+    {
+      "id": "q-exam11-051",
+      "type": "vocabulary",
+      "question": "Biodiversity loss represents an existential threat comparable to climate change, as ecosystems provide ---- services upon which human civilization depends.",
+      "options": [
+        "essential",
+        "trivial",
+        "optional",
+        "decorative",
+        "negligible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Essential: Temel, vazgeçilmez - Ekosistemler, insan medeniyetinin bağlı olduğu temel hizmetler sağlar. 'Trivial' (önemsiz), 'optional' (isteğe bağlı), 'decorative' (dekoratif) ve 'negligible' (ihmal edilebilir) bu önemi ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Biodiversity"
+    },
+    {
+      "id": "q-exam11-052",
+      "type": "grammar",
+      "question": "Conservation biologists ---- endangered species habitats since the 1970s, yet populations continue to decline.",
+      "options": [
+        "have been monitoring",
+        "monitor",
+        "are monitoring",
+        "monitored",
+        "will monitor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Have been monitoring: 'Since the 1970s' belirli bir geçmiş zaman noktasından itibaren devam eden eylemi ifade eder, bu nedenle Present Perfect Continuous kullanılır. 'Yet' şimdiki zamana kadar devam ettiğini gösterir.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Continuous"
+    },
+    {
+      "id": "q-exam11-053",
+      "type": "vocabulary",
+      "question": "The ---- of pollinators such as bees and butterflies threatens global food security, as many crops depend on these species for reproduction.",
+      "options": [
+        "decline",
+        "proliferation",
+        "emergence",
+        "stability",
+        "dominance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Decline: Azalma - Arılar ve kelebekler gibi tozlayıcıların azalması küresel gıda güvenliğini tehdit eder. Diğer seçenekler olumsuz bir durumu ifade etmez.",
+      "difficulty": "easy",
+      "topic": "Biodiversity & Agriculture"
+    },
+    {
+      "id": "q-exam11-054",
+      "type": "grammar",
+      "question": "Protected areas ---- biodiversity effectively only if they are sufficiently large and connected to allow species migration.",
+      "options": [
+        "can preserve",
+        "could preserve",
+        "will preserve",
+        "would preserve",
+        "must preserve"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Can preserve: 'Only if' (ancak ... ise) yapısında, genel gerçekleri veya koşullu yetenekleri ifade etmek için 'can' kullanılır. Present ability with condition.",
+      "difficulty": "medium",
+      "topic": "Modal Verbs"
+    },
+    {
+      "id": "q-exam11-055",
+      "type": "reading",
+      "passage": "Pollinators—including bees, butterflies, moths, birds, and bats—play a crucial role in both natural ecosystems and agricultural systems. Approximately 75% of the world's food crops depend at least partially on animal pollination, representing an ecosystem service valued at hundreds of billions of dollars annually. Yet pollinator populations are experiencing alarming declines globally. In North America, monarch butterfly populations have plummeted by over 90% in recent decades, while numerous wild bee species face extinction. The causes are multifaceted: habitat loss from agricultural expansion and urbanization eliminates the diverse flowering plants pollinators need throughout their life cycles. Pesticides, particularly neonicotinoids, interfere with navigation and reproduction even at sub-lethal doses. Climate change disrupts the timing of flower blooming and pollinator emergence, creating temporal mismatches. Diseases spread by commercial honeybees to wild populations further compound the problem. Addressing this crisis requires coordinated action: reducing pesticide use, particularly during flowering periods; creating pollinator-friendly habitats including wildflower corridors and nesting sites; and supporting diverse native pollinator species rather than relying solely on managed honeybees.",
+      "question": "Which of the following is NOT mentioned in the passage as a cause of pollinator decline?",
+      "options": [
+        "Competition from invasive pollinator species",
+        "Loss of habitat due to agricultural expansion",
+        "Effects of pesticides on pollinator behavior",
+        "Climate change disrupting seasonal timing",
+        "Disease transmission from commercial to wild bees"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasajda habitat kaybı, pestisitler, iklim değişikliği ve hastalık yayılımı açıkça tozlayıcı azalmasının nedenleri olarak belirtilmiştir. Ancak istilacı tozlayıcı türlerinden kaynaklanan rekabet pasajda hiç bahsedilmemiştir.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - NOT/EXCEPT Questions"
+    },
+    {
+      "id": "q-exam11-056",
+      "type": "vocabulary",
+      "question": "Agricultural practices must become more ---- to ensure long-term productivity without depleting soil nutrients or degrading ecosystems.",
+      "options": [
+        "sustainable",
+        "intensive",
+        "destructive",
+        "temporary",
+        "experimental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sustainable: Sürdürülebilir - Tarımsal uygulamalar, toprak besinlerini tüketmeden veya ekosistemleri bozmadan uzun vadeli verimliliği sağlamak için daha sürdürülebilir hale gelmelidir. Diğer seçenekler bu hedefle uyumlu değildir.",
+      "difficulty": "easy",
+      "topic": "Sustainable Agriculture"
+    },
+    {
+      "id": "q-exam11-057",
+      "type": "grammar",
+      "question": "Farmers who ---- organic methods typically observe improved soil health and increased biodiversity on their land.",
+      "options": [
+        "adopt",
+        "are adopting",
+        "will adopt",
+        "adopted",
+        "have adopted"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Adopt: Genel gerçekleri ve alışkanlıkları ifade ederken Simple Present tense kullanılır. 'Typically observe' de genel bir durumu belirttiği için Simple Present uyumludur.",
+      "difficulty": "easy",
+      "topic": "Simple Present for General Facts"
+    },
+    {
+      "id": "q-exam11-058",
+      "type": "vocabulary",
+      "question": "The ---- relationship between predators and prey maintains ecological balance by preventing any single species from dominating an ecosystem.",
+      "options": [
+        "dynamic",
+        "absent",
+        "static",
+        "hostile",
+        "irrelevant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dynamic: Dinamik - Avcılar ve avlar arasındaki dinamik ilişki, hiçbir türün bir ekosisteme hakim olmasını önleyerek ekolojik dengeyi korur. 'Static' (statik) tam tersi, diğer seçenekler bu ilişkiyi doğru tanımlamaz.",
+      "difficulty": "medium",
+      "topic": "Ecology"
+    },
+    {
+      "id": "q-exam11-059",
+      "type": "grammar",
+      "question": "Ecosystem restoration projects ---- more successful when they involve local communities in planning and implementation.",
+      "options": [
+        "are",
+        "were",
+        "have been",
+        "will be",
+        "would be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Are: Genel gerçekleri ifade ederken Simple Present kullanılır. Ekosistem restorasyon projelerinin yerel toplulukları içerdiğinde daha başarılı olması genel bir gerçektir.",
+      "difficulty": "easy",
+      "topic": "Simple Present for General Truths"
+    },
+    {
+      "id": "q-exam11-060",
+      "type": "vocabulary",
+      "question": "Artificial intelligence systems can ---- patterns in large datasets that would be impossible for humans to detect manually.",
+      "options": [
+        "discern",
+        "obscure",
+        "hide",
+        "eliminate",
+        "ignore"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Discern: Ayırt etmek, seçmek - Yapay zeka sistemleri, insanların manuel olarak tespit edemeyeceği büyük veri setlerindeki kalıpları ayırt edebilir. Diğer seçenekler ters veya ilgisiz anlamlar taşır.",
+      "difficulty": "medium",
+      "topic": "Artificial Intelligence"
+    },
+    {
+      "id": "q-exam11-061",
+      "type": "grammar",
+      "question": "Machine learning algorithms improve continuously as they ---- more data over time.",
+      "options": [
+        "process",
+        "will process",
+        "processed",
+        "have processed",
+        "are processing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Process: 'As' ile başlayan zaman cümlelerinde (time clauses), gelecek anlamı olsa bile Simple Present kullanılır. 'As they process more data' = Daha fazla veri işledikçe.",
+      "difficulty": "medium",
+      "topic": "Time Clauses"
+    },
+    {
+      "id": "q-exam11-062",
+      "type": "vocabulary",
+      "question": "The ---- implications of facial recognition technology include concerns about privacy, surveillance, and potential misuse by authoritarian governments.",
+      "options": [
+        "ethical",
+        "technical",
+        "beneficial",
+        "trivial",
+        "irrelevant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ethical: Etik - Yüz tanıma teknolojisinin etik sonuçları gizlilik, gözetim ve otoriter hükümetler tarafından potansiyel kötüye kullanım endişelerini içerir. Diğer seçenekler bu bağlamda uygun değildir.",
+      "difficulty": "easy",
+      "topic": "Technology Ethics"
+    },
+    {
+      "id": "q-exam11-063",
+      "type": "grammar",
+      "question": "Developers ---- the bias present in training data before deploying AI systems in sensitive applications like criminal justice.",
+      "options": [
+        "must address",
+        "must have addressed",
+        "should address",
+        "would address",
+        "might address"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Must address: Güçlü zorunluluk ve etik yükümlülüğü ifade etmek için 'must + V1' kullanılır. Ceza adaleti gibi hassas alanlarda AI sistemleri kullanılmadan önce veri setlerindeki önyargının ele alınması zorunludur.",
+      "difficulty": "medium",
+      "topic": "Modal Verbs - Obligation"
+    },
+    {
+      "id": "q-exam11-064",
+      "type": "reading",
+      "passage": "Algorithmic bias in artificial intelligence systems has emerged as a critical concern as these technologies increasingly influence decisions affecting people's lives. AI systems learn from training data, and when that data reflects historical prejudices or unrepresentative samples, the resulting algorithms perpetuate and sometimes amplify those biases. Facial recognition systems have shown significantly higher error rates for women and people of color because training datasets disproportionately featured white male faces. Criminal recidivism prediction tools, used to inform sentencing and parole decisions, have been found to incorrectly flag Black defendants as high-risk at twice the rate of white defendants. Hiring algorithms have discriminated against women for technical positions when trained on historical hiring data from male-dominated fields. These problems arise not from malicious intent but from the statistical reality that AI learns the patterns present in its training data, including discriminatory patterns. Addressing algorithmic bias requires diverse development teams who can identify potential fairness issues, carefully curated training datasets that represent population diversity, rigorous testing across demographic groups, and ongoing monitoring of deployed systems. Some researchers advocate for 'algorithmic auditing' as a regulatory requirement, similar to financial auditing, to ensure AI systems meet fairness standards before deployment.",
+      "question": "According to the passage, why do AI systems exhibit bias?",
+      "options": [
+        "They learn and reproduce patterns present in their training data, including discriminatory ones",
+        "Developers intentionally program discriminatory decision rules",
+        "The mathematical algorithms themselves are inherently prejudiced",
+        "They lack sufficient computational power to make fair decisions",
+        "Regulatory frameworks prohibit the creation of fair algorithms"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj açıkça belirtir ki AI sistemlerindeki önyargı kötü niyetten değil, AI'nın eğitim verilerindeki ayrımcı kalıplar da dahil olmak üzere tüm kalıpları öğrenmesinden kaynaklanır. Bu istatistiksel bir gerçektir. Diğer seçenekler pasajda desteklenmez.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Cause/Effect"
+    },
+    {
+      "id": "q-exam11-065",
+      "type": "vocabulary",
+      "question": "Transparency in AI decision-making is essential to build public trust and allow for ---- of potentially biased outcomes.",
+      "options": [
+        "accountability",
+        "concealment",
+        "avoidance",
+        "automation",
+        "elimination"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Accountability: Hesap verebilirlik - AI karar verme süreçlerinde şeffaflık, halkın güvenini oluşturmak ve potansiyel önyargılı sonuçların hesap verebilirliğini sağlamak için gereklidir. Diğer seçenekler şeffaflığın amaçlarıyla uyumlu değildir.",
+      "difficulty": "medium",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam11-066",
+      "type": "grammar",
+      "question": "If training datasets ---- more diverse, AI systems would produce more equitable outcomes across demographic groups.",
+      "options": [
+        "were",
+        "are",
+        "will be",
+        "have been",
+        "had been"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Were: İkinci koşul cümlesinde (Second Conditional), mevcut durumun aksini hayal eden hipotezler için 'if + Simple Past, would + V1' yapısı kullanılır. Ana cümledeki 'would produce' bunu destekler.",
+      "difficulty": "medium",
+      "topic": "Second Conditional"
+    },
+    {
+      "id": "q-exam11-067",
+      "type": "vocabulary",
+      "question": "Urban planning strategies must ---- the need for housing density with green space preservation and transportation infrastructure.",
+      "options": [
+        "reconcile",
+        "separate",
+        "oppose",
+        "reject",
+        "ignore"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reconcile: Uzlaştırmak, bağdaştırmak - Şehir planlama stratejileri, konut yoğunluğu ihtiyacını yeşil alan koruması ve ulaşım altyapısıyla uzlaştırmalıdır. Diğer seçenekler dengeleme ve entegrasyon fikrini ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Urban Planning"
+    },
+    {
+      "id": "q-exam11-068",
+      "type": "grammar",
+      "question": "Cities that ---- pedestrian-friendly infrastructure experience lower traffic congestion and improved public health outcomes.",
+      "options": [
+        "prioritize",
+        "are prioritizing",
+        "prioritized",
+        "have prioritized",
+        "will prioritize"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Prioritize: Relative clause içinde genel gerçekleri ifade ederken Simple Present kullanılır. 'Experience' fiili de Simple Present'te olduğu için paralellik sağlanır.",
+      "difficulty": "easy",
+      "topic": "Relative Clauses & Simple Present"
+    },
+    {
+      "id": "q-exam11-069",
+      "type": "vocabulary",
+      "question": "The ---- of city populations into suburban areas increases reliance on automobiles and exacerbates environmental degradation.",
+      "options": [
+        "dispersion",
+        "concentration",
+        "centralization",
+        "gathering",
+        "consolidation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dispersion: Dağılma - Şehir nüfuslarının banliyö bölgelerine dağılması, otomobillere bağımlılığı artırır ve çevresel bozulmayı şiddetlendirir. 'Concentration' (yoğunlaşma), 'centralization' (merkezileşme) ve diğerleri ters anlam taşır.",
+      "difficulty": "medium",
+      "topic": "Urban Development"
+    },
+    {
+      "id": "q-exam11-070",
+      "type": "grammar",
+      "question": "Public transportation systems ---- significantly expanded by many European cities over the past two decades.",
+      "options": [
+        "have been",
+        "are",
+        "were",
+        "had been",
+        "will be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Have been: 'Over the past two decades' geçmişten şimdiye kadar olan zaman periyodunu belirtir, bu nedenle Present Perfect Passive (have/has been + V3) kullanılır.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Passive"
+    },
+    {
+      "id": "q-exam11-071",
+      "type": "vocabulary",
+      "question": "Gentrification, while often improving urban infrastructure, can ---- long-term residents who can no longer afford rising housing costs.",
+      "options": [
+        "displace",
+        "accommodate",
+        "integrate",
+        "support",
+        "welcome"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Displace: Yerinden etmek - Soylulaştırma (gentrification), şehir altyapısını iyileştirse de, artan konut maliyetlerini karşılayamayan uzun süreli sakinleri yerinden edebilir. Diğer seçenekler olumsuz sonucu ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Urban Sociology"
+    },
+    {
+      "id": "q-exam11-072",
+      "type": "reading",
+      "passage": "The concept of the '15-minute city' has gained traction among urban planners as a framework for creating more livable and sustainable urban environments. Pioneered by Paris Mayor Anne Hidalgo and urbanist Carlos Moreno, the model envisions neighborhoods where residents can access most daily necessities—work, shopping, education, healthcare, and recreation—within a 15-minute walk or bike ride from their homes. This approach challenges decades of car-centric urban development that separated residential areas from commercial and employment centers. Proponents argue that 15-minute cities reduce traffic congestion, lower carbon emissions, improve air quality, strengthen community bonds, and enhance quality of life by minimizing time spent commuting. The COVID-19 pandemic accelerated interest in this model as lockdowns highlighted the importance of local amenities and the viability of remote work reduced the necessity of daily commutes to centralized business districts. However, implementing this vision faces significant obstacles: existing urban layouts designed around automobiles cannot be easily reconfigured; affordable housing shortages make mixed-use neighborhoods inaccessible to lower-income residents; and political resistance from those who fear reduced car access can derail initiatives. Success requires not just infrastructure changes but also zoning reforms, equitable development policies, and cultural shifts in how people conceptualize urban living.",
+      "question": "What challenge to implementing the 15-minute city model is mentioned in the passage?",
+      "options": [
+        "Existing car-oriented urban designs are difficult to restructure",
+        "Residents universally oppose the concept",
+        "The model has never been successfully implemented anywhere",
+        "Technology to support the model does not exist",
+        "Environmental benefits have been proven to be minimal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasaj açıkça belirtir ki otomobiller etrafında tasarlanmış mevcut şehir düzenlerinin kolayca yeniden yapılandırılamayacağını, bu da önemli bir engel oluşturur. Diğer seçenekler pasajda desteklenmez veya çelişir.",
+      "difficulty": "medium",
+      "topic": "Reading Comprehension - Detail"
+    },
+    {
+      "id": "q-exam11-073",
+      "type": "vocabulary",
+      "question": "Mixed-use development, which combines residential, commercial, and recreational spaces, promotes ---- neighborhoods that reduce reliance on transportation.",
+      "options": [
+        "vibrant",
+        "isolated",
+        "homogeneous",
+        "segregated",
+        "abandoned"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Vibrant: Canlı - Konut, ticari ve rekreasyonel alanları birleştiren karma kullanımlı gelişim, ulaşıma bağımlılığı azaltan canlı mahalleler oluşturur. Diğer seçenekler olumlu şehir çevrelerini tanımlamaz.",
+      "difficulty": "easy",
+      "topic": "Urban Planning"
+    },
+    {
+      "id": "q-exam11-074",
+      "type": "grammar",
+      "question": "Bike-sharing programs ---- in hundreds of cities worldwide, demonstrating their viability as a transportation alternative.",
+      "options": [
+        "have been implemented",
+        "are implementing",
+        "implement",
+        "were implementing",
+        "will implement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Have been implemented: Geçmişten şimdiye kadar gerçekleşmiş pasif eylemi ifade eden Present Perfect Passive (have/has been + V3) kullanılır. 'Demonstrating' şimdiki zamana kadar olan sonucu gösterir.",
+      "difficulty": "medium",
+      "topic": "Present Perfect Passive"
+    },
+    {
+      "id": "q-exam11-075",
+      "type": "vocabulary",
+      "question": "Green building standards ---- energy efficiency, water conservation, and sustainable material use in construction projects.",
+      "options": [
+        "emphasize",
+        "neglect",
+        "oppose",
+        "discourage",
+        "prohibit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Emphasize: Vurgulamak - Yeşil bina standartları, inşaat projelerinde enerji verimliliğini, su korumasını ve sürdürülebilir malzeme kullanımını vurgular. Diğer seçenekler olumlu teşvik anlamı taşımaz.",
+      "difficulty": "easy",
+      "topic": "Sustainable Architecture"
+    },
+    {
+      "id": "q-exam11-076",
+      "type": "grammar",
+      "question": "If architects ---- sustainability principles from the beginning, retrofitting existing buildings would be unnecessary.",
+      "options": [
+        "incorporated",
+        "incorporate",
+        "will incorporate",
+        "have incorporated",
+        "had incorporated"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Incorporated: İkinci koşul cümlesinde (Second Conditional), mevcut durumun aksini hayal eden hipotezler için 'if + Simple Past, would + V1' yapısı kullanılır. Ana cümledeki 'would be' bunu destekler.",
+      "difficulty": "medium",
+      "topic": "Second Conditional"
+    },
+    {
+      "id": "q-exam11-077",
+      "type": "vocabulary",
+      "question": "Psychological research demonstrates that prolonged exposure to natural environments can ---- stress and improve cognitive function.",
+      "options": [
+        "alleviate",
+        "intensify",
+        "create",
+        "maintain",
+        "ignore"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Alleviate: Hafifletmek - Psikolojik araştırmalar, doğal ortamlara uzun süreli maruz kalmanın stresi hafifletebileceğini ve bilişsel işlevi iyileştirebileceğini gösterir. Diğer seçenekler olumlu etki ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Environmental Psychology"
+    },
+    {
+      "id": "q-exam11-078",
+      "type": "grammar",
+      "question": "Urban green spaces ---- by city planners as essential infrastructure for public health and well-being.",
+      "options": [
+        "are increasingly being recognized",
+        "increasingly recognize",
+        "have increasingly recognized",
+        "increasingly recognized",
+        "will increasingly recognize"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Are increasingly being recognized: Devam eden bir değişimi pasif yapıda ifade etmek için Present Continuous Passive (am/is/are being + V3) kullanılır. 'Increasingly' giderek artan bir eğilimi gösterir.",
+      "difficulty": "hard",
+      "topic": "Present Continuous Passive"
+    },
+    {
+      "id": "q-exam11-079",
+      "type": "vocabulary",
+      "question": "The ---- between economic development and environmental conservation requires innovative approaches that benefit both human welfare and ecological health.",
+      "options": [
+        "tension",
+        "harmony",
+        "identity",
+        "similarity",
+        "agreement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tension: Gerilim - Ekonomik kalkınma ile çevresel koruma arasındaki gerilim, hem insan refahına hem de ekolojik sağlığa fayda sağlayan yenilikçi yaklaşımlar gerektirir. Diğer seçenekler çatışma veya zorluk fikrini ifade etmez.",
+      "difficulty": "medium",
+      "topic": "Sustainability"
+    },
+    {
+      "id": "q-exam11-080",
+      "type": "grammar",
+      "question": "Environmental regulations ---- considerably stricter over the past three decades in response to growing awareness of ecological threats.",
+      "options": [
+        "have become",
+        "become",
+        "became",
+        "are becoming",
+        "will become"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Have become: 'Over the past three decades' geçmişten şimdiye kadar olan zaman periyodunu belirtir, bu nedenle Present Perfect (have/has + V3) kullanılır. 'Considerably stricter' karşılaştırma ifadesi değişimi vurgular.",
+      "difficulty": "easy",
+      "topic": "Present Perfect"
+    }
+  ]
+}

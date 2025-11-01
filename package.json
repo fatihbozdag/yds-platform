@@ -4,24 +4,35 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "next build",
+    "export": "next build && next export",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "deploy": "npm run export && firebase deploy --only hosting"
   },
   "dependencies": {
+    "@hookform/resolvers": "^5.2.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "firebase": "^12.3.0",
+    "firebase-admin": "^13.5.0",
+    "lucide-react": "^0.542.0",
+    "next": "15.5.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
-    "next": "15.5.2"
+    "react-hook-form": "^7.62.0",
+    "recharts": "^3.1.2",
+    "zod": "^4.1.5"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4",
     "eslint": "^9",
     "eslint-config-next": "15.5.2",
-    "@eslint/eslintrc": "^3"
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }

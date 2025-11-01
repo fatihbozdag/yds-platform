@@ -1,0 +1,336 @@
+{
+  "section": "2.7",
+  "title": "Ad-Sıfat-Zarf Sistematiği (Noun-Adjective-Adverb)",
+  "topics": [
+    {
+      "id": "2.7.1",
+      "title": "Sıfat Sırası, Zarf Konumları, Derece Zarfı",
+      "content": "YDS'de sıfat sırası ve zarf konumları sıklıkla test edilen dilbilgisi konularıdır. İngilizce'de birden fazla sıfat kullanıldığında belirli bir sıra vardır: Opinion (görüş) - Size (boyut) - Age (yaş) - Shape (şekil) - Color (renk) - Origin (köken) - Material (malzeme) - Purpose (amaç). Örnek: 'a beautiful large old rectangular red Italian wooden dining table'. Pratikte 3-4 sıfattan fazlası nadiren kullanılır. Türk öğrencilerin yaygın hatası, Türkçe sıfat sırasını İngilizce'ye aktarmaktır. Zarf konumları ise fiilin türüne, vurgulanmak istenen unsura ve zarfın tipine göre değişir. Manner zarfları (carefully, quickly) genellikle fiilden sonra gelir: 'He spoke carefully'. Frequency zarfları (always, never, often) yardımcı fiilden sonra, ana fiilden önce gelir: 'She always studies'. Derece zarfları (very, extremely, quite, rather, fairly) sıfat veya zarfları niteler: 'extremely important', 'quite slowly'. YDS sorularında, özellikle cümle sıralama ve boşluk doldurma sorularında bu kurallar test edilir. Stratejiler: Opinion sıfatları en başta (beautiful, ugly); size-age-color sırası (big old red); manner zarfları fiilden sonra; frequency zarfları yardımcı fiilden sonra; derece zarfları sıfat/zarftan önce.",
+      "examples": [
+        "She lives in a beautiful small ancient Greek stone house. (sıfat sırası doğru)",
+        "He drives carefully. (manner zarfı fiilden sonra)",
+        "They have never visited that museum. (frequency zarfı have-visited arasında)",
+        "The results were extremely significant. (derece zarfı + sıfat)",
+        "She completed the task remarkably quickly. (derece zarfı + manner zarfı)",
+        "An interesting new linguistic theory emerged. (opinion-age-purpose sırası)",
+        "He always submits his assignments on time. (frequency zarfı ana fiilden önce)",
+        "The participants responded quite enthusiastically. (derece zarfı + manner zarfı)",
+        "We need a large rectangular wooden conference table. (size-shape-material)",
+        "The professor speaks very clearly. (derece zarfı + manner zarfı)",
+        "She is a highly respected international researcher. (derece zarfı + sıfat, origin sıfatı)",
+        "They occasionally attend academic seminars. (frequency zarfı ana fiilden önce)"
+      ],
+      "exercises": [
+        {
+          "question": "The museum acquired a ---- vase from an auction.",
+          "options": [
+            "Chinese beautiful ancient blue porcelain",
+            "beautiful ancient blue Chinese porcelain",
+            "ancient beautiful blue porcelain Chinese",
+            "blue ancient beautiful Chinese porcelain",
+            "porcelain beautiful ancient blue Chinese"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sıfat sırası: Opinion (beautiful) - Age (ancient) - Color (blue) - Origin (Chinese) - Material (porcelain). 'Beautiful ancient blue Chinese porcelain' doğru."
+        },
+        {
+          "question": "The researchers ---- their findings at the conference.",
+          "options": [
+            "presented clearly",
+            "clearly presented",
+            "presented very clearly",
+            "very clearly presented",
+            "very presented clearly"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Manner zarfı 'clearly' genellikle fiilden sonra gelir. 'Presented clearly' doğru. Eğer derece zarfı olsaydı 'presented very clearly' olurdu (C de doğru ama A daha yaygın)."
+        },
+        {
+          "question": "She ---- to international conferences.",
+          "options": [
+            "goes often",
+            "often goes",
+            "goes very often",
+            "very often goes",
+            "goes always"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Frequency zarfı 'often' ana fiilden önce gelir. 'Often goes' doğru. (C de doğru ama daha az yaygın kalıp)."
+        },
+        {
+          "question": "The theory was ---- by subsequent research.",
+          "options": [
+            "confirmed strongly",
+            "strongly confirmed",
+            "very strongly confirmed",
+            "confirmed very strongly",
+            "very confirmed strongly"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Derece zarfı 'strongly' past participle'dan (confirmed) önce gelir pasif yapıda. 'Strongly confirmed' doğru. (C de doğru ama soru tek zarf istiyor gibi)."
+        },
+        {
+          "question": "We need a ---- for the laboratory.",
+          "options": [
+            "metal new large table",
+            "large new metal table",
+            "new large metal table",
+            "metal large new table",
+            "new metal large table"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sıfat sırası: Size (large) - Age (new) - Material (metal). 'Large new metal table' doğru."
+        },
+        {
+          "question": "The students ---- their assignments on time.",
+          "options": [
+            "submit rarely",
+            "rarely submit",
+            "submit very rarely",
+            "very rarely submit",
+            "rarely very submit"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Frequency zarfı 'rarely' ana fiilden önce gelir. 'Rarely submit' doğru."
+        },
+        {
+          "question": "The experiment yielded ---- results.",
+          "options": [
+            "interesting quite unexpected",
+            "quite interesting unexpected",
+            "quite unexpected interesting",
+            "unexpected quite interesting",
+            "interesting unexpected quite"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Derece zarfı 'quite' sıfattan önce gelir. İki sıfat varsa: 'quite interesting unexpected' veya 'quite unexpected interesting'. B seçeneği en doğal."
+        },
+        {
+          "question": "He ---- his research methodology before data collection.",
+          "options": [
+            "has revised carefully always",
+            "has always carefully revised",
+            "has always revised carefully",
+            "always has revised carefully",
+            "carefully always has revised"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Frequency zarfı 'always' yardımcı fiilden (has) sonra gelir. Manner zarfı 'carefully' fiilden sonra. 'Has always revised carefully' doğru."
+        },
+        {
+          "question": "The conference room has a ---- carpet.",
+          "options": [
+            "Persian red beautiful old",
+            "beautiful old red Persian",
+            "old beautiful red Persian",
+            "red beautiful old Persian",
+            "Persian old beautiful red"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sıfat sırası: Opinion (beautiful) - Age (old) - Color (red) - Origin (Persian). 'Beautiful old red Persian' doğru."
+        },
+        {
+          "question": "The participants responded ---- to the survey questions.",
+          "options": [
+            "very thoughtfully",
+            "thoughtfully very",
+            "very much thoughtfully",
+            "thoughtfully very much",
+            "much very thoughtfully"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Derece zarfı 'very' manner zarfından (thoughtfully) önce gelir. 'Very thoughtfully' doğru."
+        },
+        {
+          "question": "This is a ---- research project.",
+          "options": [
+            "collaborative important international new",
+            "important new international collaborative",
+            "new important international collaborative",
+            "international new important collaborative",
+            "collaborative new international important"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Sıfat sırası: Opinion (important) - Age (new) - Origin (international) - Purpose (collaborative). 'Important new international collaborative' doğru."
+        },
+        {
+          "question": "The theory ---- accepted in the scientific community.",
+          "options": [
+            "is widely now",
+            "now is widely",
+            "is now widely",
+            "widely is now",
+            "now widely is"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Zaman zarfı 'now' ve derece/manner zarfı 'widely' yardımcı fiilden sonra gelir. 'Is now widely' doğru sıralama."
+        }
+      ]
+    },
+    {
+      "id": "2.7.2",
+      "title": "Paralellik (Not Only...But Also), Correlative Conjunctions",
+      "content": "YDS'de paralellik (parallelism) ve correlative conjunctions sıkça test edilir çünkü akademik yazıda yapı tutarlılığı kritiktir. Correlative conjunctions çiftler halinde kullanılan bağlaçlardır: not only...but also, either...or, neither...nor, both...and, whether...or. Paralellik ilkesi, bu bağlaçlarla bağlanan yapıların gramer açısından aynı formda olması gerektiğini belirtir. Örnek: 'She is not only intelligent but also hardworking' (iki sıfat). Yanlış kullanım: 'She not only is intelligent but also hardworking' (yapı dengesiz). Türk öğrencilerin yaygın hatası, paralellik kuralını görmezden gelmektir: 'He both likes reading and to write' (yanlış) yerine 'He both likes reading and writing' veya 'He likes both reading and writing' (doğru). Neither...nor ile fiil çoğulu kullanılır: 'Neither the students nor the teacher was present' (teke yakın olan özneden fiil etkilenir). YDS sorularında bu yapılar cümle tamamlama, hata bulma ve cümle birleştirme sorularında test edilir. Stratejiler: Not only A but also B (A ve B aynı yapıda); either A or B (A ve B paralel); both A and B (A ve B aynı yapıda); fiil çekimi either...or/neither...nor'da ikinci özneden etkilenir.",
+      "examples": [
+        "The study examines not only the causes but also the effects of climate change. (iki isim grubu)",
+        "She is both an excellent researcher and a dedicated teacher. (iki isim grubu)",
+        "Either you submit the paper today or you miss the deadline. (iki cümle)",
+        "Neither the hypothesis nor the methodology was flawed. (fiil 'methodology'den etkilendi)",
+        "The results were not only surprising but also controversial. (iki sıfat)",
+        "He can both analyze data and interpret results effectively. (iki fiil)",
+        "The theory is applicable not only in linguistics but also in psychology. (iki prepositional phrase)",
+        "Whether you agree or disagree, the evidence is clear. (iki fiil)",
+        "Not only did he complete the project, but he also exceeded expectations. (iki cümle, inversion)",
+        "Both the students and the professor were satisfied with the outcome. (fiil çoğul)",
+        "She neither confirmed nor denied the allegations. (iki fiil)",
+        "The research is important not only theoretically but also practically. (iki zarf)"
+      ],
+      "exercises": [
+        {
+          "question": "The new policy affects not only teachers ---- students.",
+          "options": [
+            "but",
+            "but also",
+            "and also",
+            "as well",
+            "also"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Not only...but also' correlative conjunction çifti. 'But also' doğru."
+        },
+        {
+          "question": "---- the research design nor the data analysis methods were questioned by the reviewers.",
+          "options": [
+            "Either",
+            "Neither",
+            "Both",
+            "Not only",
+            "Whether"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Neither...nor' çifti kullanılır. Cümle olumsuz anlam taşıyor. 'Neither' doğru."
+        },
+        {
+          "question": "The findings are significant both ---- and practically.",
+          "options": [
+            "theory",
+            "theoretical",
+            "in theory",
+            "theoretically",
+            "for theory"
+          ],
+          "correctAnswer": 3,
+          "explanation": "'Both theoretically and practically' (iki zarf). Paralellik için 'practically' ile aynı yapıda olmalı. 'Theoretically' doğru."
+        },
+        {
+          "question": "Not only ---- the experiment, but she also wrote a comprehensive report.",
+          "options": [
+            "she conducted",
+            "conducted she",
+            "did she conduct",
+            "she did conduct",
+            "conducting"
+          ],
+          "correctAnswer": 2,
+          "explanation": "Not only cümle başında olduğunda inversion (devrik cümle) yapılır: 'did she conduct'. Yardımcı fiil özne önüne geçer."
+        },
+        {
+          "question": "Either the methodology ---- the results section needs revision.",
+          "options": [
+            "and",
+            "or",
+            "nor",
+            "but",
+            "also"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Either...or' correlative conjunction çifti. 'Or' doğru."
+        },
+        {
+          "question": "The study examines both the historical context and ----.",
+          "options": [
+            "analyzing current trends",
+            "current trends analysis",
+            "the current trends",
+            "to analyze current trends",
+            "it analyzes current trends"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Both A and B' yapısında paralellik: 'the historical context' (article + adjective + noun), bu yüzden 'the current trends' doğru."
+        },
+        {
+          "question": "Whether the hypothesis is correct ---- remains to be seen.",
+          "options": [
+            "and",
+            "or not",
+            "nor",
+            "but",
+            "either"
+          ],
+          "correctAnswer": 1,
+          "explanation": "'Whether...or not' correlative conjunction. 'Or not' doğru."
+        },
+        {
+          "question": "Neither the participants nor the researcher ---- aware of the problem.",
+          "options": [
+            "were",
+            "was",
+            "are",
+            "have been",
+            "being"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Neither...nor'da fiil ikinci özneye (the researcher - tekil) göre çekimlenir. 'Was' doğru."
+        },
+        {
+          "question": "The article is not only well-written ----.",
+          "options": [
+            "but also thoroughly researched",
+            "but also thorough research",
+            "but also it was thoroughly researched",
+            "but also researching thoroughly",
+            "and also thoroughly researched"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Paralellik: 'well-written' (adverb + past participle), aynı yapıda 'thoroughly researched' olmalı. 'But also thoroughly researched' doğru."
+        },
+        {
+          "question": "Both ---- require further investigation.",
+          "options": [
+            "the hypothesis and the methodology",
+            "the hypothesis and to investigate methodology",
+            "hypothesis and the methodology",
+            "the hypothesis and investigating methodology",
+            "hypothesizing and the methodology"
+          ],
+          "correctAnswer": 0,
+          "explanation": "'Both A and B' yapısı. Paralellik için: 'the hypothesis and the methodology' (iki isim grubu). Doğru."
+        },
+        {
+          "question": "She can not only speak three languages fluently but also ----.",
+          "options": [
+            "writing in them",
+            "write in them",
+            "to write in them",
+            "written in them",
+            "writes in them"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Paralellik: 'can speak' (modal + bare infinitive), aynı yapıda 'can write' olmalı. 'But also write' doğru."
+        },
+        {
+          "question": "Either you revise your thesis according to the feedback, ---- accept the lower grade.",
+          "options": [
+            "nor",
+            "and",
+            "or",
+            "but",
+            "neither"
+          ],
+          "correctAnswer": 2,
+          "explanation": "'Either...or' çifti. 'Or' doğru."
+        }
+      ]
+    }
+  ]
+}

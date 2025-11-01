@@ -1,0 +1,1208 @@
+{
+  "examId": "exam-1",
+  "title": "YDS Tam Deneme Sınavı 1",
+  "duration": 180,
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The committee ------- the proposal for over three hours before reaching a decision.",
+      "options": [
+        "A) had been discussing",
+        "B) has discussed",
+        "C) discusses",
+        "D) will discuss",
+        "E) is discussing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Belirli bir geçmiş zaman noktasına kadar devam eden bir eylemi ifade etmek için Past Perfect Continuous kullanılır. 'Before reaching' ifadesi geçmişte bir noktayı işaret eder.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "Despite numerous setbacks, the research team remained ------- in their pursuit.",
+      "options": [
+        "A) discouraged",
+        "B) persistent",
+        "C) hesitant",
+        "D) doubtful",
+        "E) indifferent"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Persistent' (ısrarcı, kararlı) kelimesi 'despite setbacks' (aksiliklere rağmen) ifadesiyle uyumludur. Diğer seçenekler olumsuz tutumları ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "The legislation aims to ------- stricter environmental standards.",
+      "options": [
+        "A) resist",
+        "B) oppose",
+        "C) implement",
+        "D) prevent",
+        "E) abandon"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Implement' (uygulamak) yeni yasaların amacını ifade eden en uygun fiildir.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "Had the systems been operational, the disaster ------- been prevented.",
+      "options": [
+        "A) will have",
+        "B) would",
+        "C) can have",
+        "D) might have",
+        "E) must have"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Type 3 Conditional yapısında 'might have been' olası bir sonucu ifade eder.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 5,
+      "question": "The findings were so ------- that they rewrote historical understanding.",
+      "options": [
+        "E) revolutionary",
+        "B) insignificant",
+        "C) mundane",
+        "D) conventional",
+        "A) trivial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Revolutionary' (devrimsel) bulguların tarihi anlayışı yeniden yazdığını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "------- the downturn, the company maintained profit margins.",
+      "options": [
+        "A) In spite of",
+        "B) Because of",
+        "C) Due to",
+        "D) Owing to",
+        "E) On account of"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'In spite of' (rağmen) ekonomik zorluk karşısında başarıyı ifade eder.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "The scientist ------- for five years when she made the discovery.",
+      "options": [
+        "A) worked",
+        "B) had been working",
+        "C) has worked",
+        "D) works",
+        "E) will work"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past Perfect Continuous kullanılır: geçmişte bir noktaya kadar devam eden eylem.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "The trial yielded ------- results, surpassing expectations.",
+      "options": [
+        "A) disappointing",
+        "B) questionable",
+        "C) promising",
+        "D) negative",
+        "E) inconclusive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Promising' (umut verici) 'surpassing expectations' ile uyumludur.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Never before ------- such a comprehensive analysis.",
+      "options": [
+        "A) researchers conducted",
+        "B) conducted researchers",
+        "C) researchers have conducted",
+        "D) have researchers conducted",
+        "E) did researchers conducted"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Never before' cümle başında inversion gerektirir: have + subject + V3.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "The board decided to ------- the merger until conditions improved.",
+      "options": [
+        "E) defer",
+        "B) expedite",
+        "C) hasten",
+        "D) advance",
+        "A) accelerate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Defer' (ertelemek) 'until conditions improved' ifadesiyle uyumludur.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "Students are required ------- assignments through the portal.",
+      "options": [
+        "A) to submit",
+        "B) submitting",
+        "C) submit",
+        "D) submitted",
+        "E) having submitted"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Be required to do something' yapısı kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "The design was both innovative and -------.",
+      "options": [
+        "A) impractical",
+        "B) functional",
+        "C) unrealistic",
+        "D) flawed",
+        "E) defective"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Functional' (işlevsel) 'innovative' ile birlikte olumlu özellikleri ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "The professor insisted that students ------- guidelines strictly.",
+      "options": [
+        "A) follows",
+        "B) followed",
+        "C) follow",
+        "D) will follow",
+        "E) would follow"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Insist that' yapısından sonra subjunctive mood: subject + base form.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 14,
+      "question": "Advances have made solar energy increasingly -------.",
+      "options": [
+        "A) obsolete",
+        "B) expensive",
+        "C) impractical",
+        "D) accessible",
+        "E) problematic"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Accessible' (erişilebilir) teknolojik gelişmelerin olumlu etkisini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "Regular exercise, ------- a balanced diet, is essential for health.",
+      "options": [
+        "A) apart from",
+        "E) along with",
+        "C) in spite of",
+        "D) contrary to",
+        "B) instead of"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Along with' (ile birlikte) iki faktörün birlikte gerekli olduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "By next month, the team ------- data collection.",
+      "options": [
+        "A) will have completed",
+        "B) completed",
+        "C) completes",
+        "D) has completed",
+        "E) is completing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'By next month' Future Perfect gerektirir: will have + V3.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "The interpretation was ------- by newly discovered documents.",
+      "options": [
+        "A) contradicted",
+        "B) supported",
+        "C) ignored",
+        "D) dismissed",
+        "E) rejected"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Supported' (desteklendi) yeni belgelerin yorumu doğruladığını gösterir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "------- the innovative approach, they solved the problem.",
+      "options": [
+        "A) Despite",
+        "B) In spite of",
+        "C) Thanks to",
+        "D) Regardless of",
+        "E) Notwithstanding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Thanks to' (sayesinde) olumlu neden-sonuç ilişkisi ifade eder.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "The condition has been ------- over the past weeks.",
+      "options": [
+        "A) deteriorating",
+        "B) worsening",
+        "C) declining",
+        "D) improving",
+        "E) weakening"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Improving' (iyileşme) sağlık bağlamında olumlu gelişmeyi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "The universe ------- for billions of years.",
+      "options": [
+        "A) expands",
+        "E) has been expanding",
+        "C) will expand",
+        "D) had expanded",
+        "B) expanded"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present Perfect Continuous: geçmişte başlayıp devam eden durum.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "question": "The strategy proved to be highly -------.",
+      "options": [
+        "A) profitable",
+        "B) disastrous",
+        "C) detrimental",
+        "D) unsuccessful",
+        "E) harmful"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Profitable' (karlı) başarılı bir stratejiyi gösterir.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 22,
+      "question": "The temple ------- by archaeologists last year.",
+      "options": [
+        "A) discovers",
+        "B) was discovered",
+        "C) has discovered",
+        "D) is discovering",
+        "E) will discover"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive voice: 'was discovered' - tapınak keşfedilmiştir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 23,
+      "question": "The treatment showed remarkable ------- in trials.",
+      "options": [
+        "A) inefficiency",
+        "B) failure",
+        "C) efficacy",
+        "D) weakness",
+        "E) inadequacy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Efficacy' (etkinlik) 'remarkable' ile tedavinin başarısını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 24,
+      "question": "------- the challenges, the team achieved objectives.",
+      "options": [
+        "A) Because of",
+        "B) Due to",
+        "C) Owing to",
+        "D) Despite",
+        "E) Thanks to"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Despite' (rağmen) zorluklar karşısında başarıyı gösterir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "question": "The committee will ------- the applications.",
+      "options": [
+        "A) overlook",
+        "B) ignore",
+        "E) review",
+        "D) neglect",
+        "C) disregard"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Review' (gözden geçirmek) komite sürecini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 26,
+      "question": "The results were ------- with the hypothesis.",
+      "options": [
+        "A) consistent",
+        "B) contradictory",
+        "C) inconsistent",
+        "D) incompatible",
+        "E) conflicting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Consistent with' (ile uyumlu) sonuçların hipotezi desteklediğini gösterir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "question": "If the organization ------- the signs, the crisis could have been avoided.",
+      "options": [
+        "A) heeds",
+        "B) had heeded",
+        "C) will heed",
+        "D) heeded",
+        "E) is heeding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Type 3 Conditional: If-clause'da Past Perfect (had + V3) kullanılır.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 28,
+      "question": "The study ------- new perspectives on evolution.",
+      "options": [
+        "A) prevented",
+        "B) hindered",
+        "C) provided",
+        "D) blocked",
+        "E) obstructed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Provided' (sağladı) çalışmanın yeni bakış açıları sunduğunu ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 29,
+      "question": "The policy has been criticized for ------- inequality.",
+      "options": [
+        "A) reducing",
+        "B) minimizing",
+        "C) alleviating",
+        "D) exacerbating",
+        "E) easing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Exacerbating' (kötüleştirmek) eleştiri nedeni olan olumsuz etkiyi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "question": "Scarcely ------- the presentation begun when difficulties arose.",
+      "options": [
+        "A) the speaker",
+        "B) has the speaker",
+        "C) did the speaker",
+        "E) had the speaker",
+        "D) the speaker had"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Scarcely...when...' yapısı Past Perfect ve inversion gerektirir.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 31,
+      "question": "The surgeon's ------- ensured a successful outcome.",
+      "options": [
+        "A) expertise",
+        "B) incompetence",
+        "C) inexperience",
+        "D) negligence",
+        "E) carelessness"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Expertise' (uzmanlık) başarılı sonucu sağlayan beceriyi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "question": "The analysis ------- that intervention is necessary.",
+      "options": [
+        "A) denies",
+        "B) indicates",
+        "C) refutes",
+        "D) rejects",
+        "E) dismisses"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Indicates' (gösterir) analizin müdahale gerekliliğini ortaya koyar.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 33,
+      "question": "Should regulations be enforced, compliance ------- significantly.",
+      "options": [
+        "A) improved",
+        "B) improve",
+        "C) would improve",
+        "D) will improve",
+        "E) have improved"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Should...be...' formal Second Conditional: ana cümlede 'would + V1'.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 34,
+      "question": "The building was both aesthetically pleasing and ------- sound.",
+      "options": [
+        "A) structure",
+        "B) structural",
+        "C) structurally",
+        "D) structured",
+        "E) energizing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Structurally sound' (yapısal olarak sağlam) sabit bir ifadedir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 35,
+      "question": "The theory, though stimulating, proved -------.",
+      "options": [
+        "A) practical",
+        "B) applicable",
+        "C) useful",
+        "D) impractical",
+        "E) functional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Though' karşıtlık gösterir: uyarıcı ama 'impractical' (pratik değil).",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 36,
+      "question": "The director suggested that the team ------- alternatives.",
+      "options": [
+        "A) explores",
+        "B) explored",
+        "C) will explore",
+        "D) would explore",
+        "E) explore"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Suggest that' yapısından sonra subjunctive mood: base form.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 37,
+      "question": "The investigation ------- serious irregularities.",
+      "options": [
+        "A) revealed",
+        "B) concealed",
+        "C) hid",
+        "D) obscured",
+        "E) covered"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Revealed' (ortaya çıkardı) soruşturmanın amacını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 38,
+      "question": "The symposium offered an opportunity to ------- knowledge.",
+      "options": [
+        "A) withhold",
+        "B) share",
+        "C) suppress",
+        "D) conceal",
+        "E) hide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Share knowledge' (bilgi paylaşmak) sempozyumların temel amacıdır.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 39,
+      "question": "In no way ------- the findings.",
+      "options": [
+        "A) the report contradicts",
+        "B) contradicts the report",
+        "C) does the report contradict",
+        "D) the report does contradict",
+        "E) is contradicting the report"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'In no way' cümle başında inversion gerektirir: does + subject + V1.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 40,
+      "question": "The research has significant ------- for policy.",
+      "options": [
+        "A) complications",
+        "B) obstacles",
+        "C) barriers",
+        "D) implications",
+        "E) hindrances"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Implications' (sonuçlar) araştırmanın politika üzerindeki etkilerini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 41,
+      "question": "Technology has enabled scientists ------- diseases effectively.",
+      "options": [
+        "A) treating",
+        "B) treated",
+        "C) treat",
+        "D) having treated",
+        "E) to treat"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Enable + object + to-infinitive': enable someone to do something.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "question": "The argument was sufficiently ------- to sway the jury.",
+      "options": [
+        "A) persuasive",
+        "B) weak",
+        "C) unconvincing",
+        "D) dubious",
+        "E) questionable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Persuasive' (ikna edici) jüriyi etkilemeyi açıklar.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "question": "Unless precautions -------, accidents will occur.",
+      "options": [
+        "A) will be taken",
+        "B) are taken",
+        "C) have taken",
+        "D) were taken",
+        "E) had been taken"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Unless' ile First Conditional: unless + present simple.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "question": "The proposal was criticized for ------- detail.",
+      "options": [
+        "A) providing",
+        "B) offering",
+        "C) lacking",
+        "D) presenting",
+        "E) including"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Lacking' (eksik olmak) eleştiri nedenini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 45,
+      "question": "The theorem, ------- complex, was proven correct.",
+      "options": [
+        "A) therefore",
+        "B) moreover",
+        "C) consequently",
+        "D) however",
+        "E) thus"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'However' bu bağlamda 'no matter how' anlamında.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "question": "The campaign aims to ------- public awareness.",
+      "options": [
+        "A) lower",
+        "B) decrease",
+        "C) reduce",
+        "D) diminish",
+        "E) raise"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Raise awareness' (farkındalık yaratmak) sabit bir collocation.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 47,
+      "question": "The organization ------- procedures for over a decade.",
+      "options": [
+        "A) has been using",
+        "B) used",
+        "C) uses",
+        "D) will use",
+        "E) had used"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'For over a decade' Present Perfect Continuous gerektirir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 48,
+      "question": "The strategy was both innovative and -------.",
+      "options": [
+        "A) reckless",
+        "B) effective",
+        "C) impulsive",
+        "D) thoughtless",
+        "E) careless"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Effective' (etkili) 'innovative' ile olumlu özellikler oluşturur.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 49,
+      "question": "Researchers have yet ------- a cure.",
+      "options": [
+        "A) finding",
+        "B) found",
+        "C) to find",
+        "D) find",
+        "E) having found"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Have yet to do something' yapısı to-infinitive gerektirir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 50,
+      "question": "The character experiences a profound -------.",
+      "options": [
+        "A) stagnation",
+        "B) regression",
+        "C) deterioration",
+        "D) transformation",
+        "E) decline"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Transformation' (dönüşüm) karakterin hikâyede geçirdiği değişimi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 51,
+      "question": "Meditation can ------- stress levels substantially.",
+      "options": [
+        "A) increase",
+        "B) elevate",
+        "C) heighten",
+        "D) intensify",
+        "E) reduce"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Reduce' (azaltmak) meditasyonun stres üzerindeki olumlu etkisini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 52,
+      "question": "The committee demanded that the contractor ------- the work.",
+      "options": [
+        "A) complete",
+        "B) completes",
+        "C) completed",
+        "D) will complete",
+        "E) would complete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Demand that' yapısından sonra subjunctive mood: base form.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 53,
+      "question": "The research ------- fascinating insights.",
+      "options": [
+        "A) prevented",
+        "B) offered",
+        "C) prohibited",
+        "D) restricted",
+        "E) denied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Offered insights' araştırmanın bulgularını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 54,
+      "question": "Practitioners ------- strict ethical guidelines.",
+      "options": [
+        "A) are subjecting to",
+        "B) subject to",
+        "C) are subject to",
+        "D) subjected to",
+        "E) subjecting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Be subject to' (tabi olmak) kurallara bağlı olmayı ifade eder.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 55,
+      "question": "The negotiator's ------- approach facilitated resolution.",
+      "options": [
+        "A) aggressive",
+        "B) hostile",
+        "C) confrontational",
+        "D) diplomatic",
+        "E) belligerent"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Diplomatic' (diplomatik) barışçıl çözümü kolaylaştıran yaklaşımı tanımlar.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 56,
+      "question": "Members debated the issue ------- for hours.",
+      "options": [
+        "A) apathetically",
+        "B) indifferently",
+        "C) passively",
+        "D) calmly",
+        "E) intensely"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Intensely' (yoğun bir şekilde) saatler süren canlı tartışmayı ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 57,
+      "question": "Rarely ------- such dedication to research.",
+      "options": [
+        "A) have scientists shown",
+        "B) scientists have shown",
+        "C) scientists shown",
+        "D) shown scientists",
+        "E) scientists show"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Rarely' cümle başında inversion gerektirir: Rarely + have + subject + V3.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 58,
+      "question": "The methodology proved ------- in achieving objectives.",
+      "options": [
+        "A) futile",
+        "B) successful",
+        "C) ineffective",
+        "D) useless",
+        "E) unsuccessful"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Successful' (başarılı) hedeflere ulaşmada olumlu sonucu ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 59,
+      "question": "Patients are instructed ------- medication with food.",
+      "options": [
+        "A) taking",
+        "B) taken",
+        "C) to take",
+        "D) take",
+        "E) having taken"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Instruct + object + to-infinitive': instruct someone to do something.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 60,
+      "question": "The forecasts, initially -------, later proved accurate.",
+      "options": [
+        "A) accepted",
+        "B) embraced",
+        "C) welcomed",
+        "D) endorsed",
+        "E) dismissed"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Dismissed' (reddedildi) ile karşıtlık oluşturur: önce reddedildi, sonra doğru çıktı.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 61,
+      "question": "Deforestation represents a ------- challenge.",
+      "options": [
+        "A) substantial",
+        "B) negligible",
+        "C) trivial",
+        "D) minor",
+        "E) insignificant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Substantial' (önemli) ormansızlaşmanın ciddi tehdidini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 62,
+      "question": "The publication received ------- recognition.",
+      "options": [
+        "A) limited",
+        "B) widespread",
+        "C) sparse",
+        "D) minimal",
+        "E) scarce"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Widespread recognition' (yaygın tanınma) akademik topluluğun olumlu tepkisini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 63,
+      "question": "Only when analyzed ------- the pattern emerge.",
+      "options": [
+        "A) the researchers saw",
+        "B) saw the researchers",
+        "C) did the researchers see",
+        "D) the researchers did see",
+        "E) the researchers see"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Only when' cümle başında inversion gerektirir: did + subject + V1.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 64,
+      "question": "The corporation demonstrates a ------- dedication.",
+      "options": [
+        "A) superficial",
+        "B) insincere",
+        "C) false",
+        "D) sincere",
+        "E) fake"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Sincere' (samimi) şirketin gerçek bağlılığını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 65,
+      "question": "The court ruled that evidence ------- admissible.",
+      "options": [
+        "A) is",
+        "B) was",
+        "C) were",
+        "D) will be",
+        "E) be"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Rule that' yapısından sonra subjunctive mood: be.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 66,
+      "question": "The study aims to ------- the mechanisms.",
+      "options": [
+        "A) obscure",
+        "B) confuse",
+        "C) complicate",
+        "D) mystify",
+        "E) clarify"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Clarify' (açıklığa kavuşturmak) bir çalışmanın amacını ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 67,
+      "question": "Budget cuts have had a ------- effect.",
+      "options": [
+        "A) negative",
+        "B) beneficial",
+        "C) positive",
+        "D) advantageous",
+        "E) favorable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Negative' (olumsuz) bütçe kesintilerinin zararlı etkisini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 68,
+      "question": "The project was structured ------- departments could contribute.",
+      "options": [
+        "A) in way that",
+        "B) such way that",
+        "C) in such way",
+        "D) such a way",
+        "E) in such a way that"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'In such a way that' sabit ifade ve amaç/sonuç belirtir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 69,
+      "question": "The reporter was praised for her ------- analysis.",
+      "options": [
+        "A) biased",
+        "B) objective",
+        "C) prejudiced",
+        "D) partisan",
+        "E) subjective"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'Objective' (nesnel) övgü alan profesyonel gazeteciliği ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 70,
+      "question": "The museum displays artifacts ------- origins date back.",
+      "options": [
+        "A) who",
+        "B) which",
+        "C) whose",
+        "D) that",
+        "E) whom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Whose' sahiplik ilişkisini gösteren relative pronoun.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 71,
+      "question": "The textbook is the most ------- source.",
+      "options": [
+        "A) questionable",
+        "B) dubious",
+        "C) unreliable",
+        "D) disputed",
+        "E) comprehensive"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Comprehensive' (kapsamlı) en iyi kaynak olduğunu gösterir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 72,
+      "question": "The consultant suggested ------- the approach.",
+      "options": [
+        "A) to modify",
+        "B) modify",
+        "C) modified",
+        "D) modifying",
+        "E) having modified"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Suggest + gerund': suggest doing something.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 73,
+      "question": "Enrollment has ------- consistently.",
+      "options": [
+        "A) shrunk",
+        "B) declined",
+        "C) decreased",
+        "D) diminished",
+        "E) increased"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Increased' (artmış) kayıt sayılarındaki olumlu gelişmeyi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 74,
+      "question": "The report offers a ------- overview.",
+      "options": [
+        "A) thorough",
+        "B) superficial",
+        "C) cursory",
+        "D) shallow",
+        "E) incomplete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Thorough' (kapsamlı) kaliteli bir raporun özelliğidir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 75,
+      "question": "Such was the complexity ------- months to solve.",
+      "options": [
+        "A) it takes",
+        "B) it took",
+        "C) takes it",
+        "D) it has taken",
+        "E) that it took"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Such was...that...' yapısı sonuç ifade eder.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 76,
+      "question": "The innovation constitutes a ------- step forward.",
+      "options": [
+        "A) minor",
+        "B) trivial",
+        "C) insignificant",
+        "D) negligible",
+        "E) significant"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Significant step forward' inovasyonun değerini ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 77,
+      "question": "The instructor urged students ------- skills.",
+      "options": [
+        "A) developing",
+        "B) develop",
+        "C) developed",
+        "D) to develop",
+        "E) having developed"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Urge + object + to-infinitive': urge someone to do something.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 78,
+      "question": "Explorers faced ------- challenges.",
+      "options": [
+        "A) few",
+        "B) scarce",
+        "C) rare",
+        "D) infrequent",
+        "E) countless"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Countless' (sayısız) keşifteki çok sayıda zorluğu ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 79,
+      "question": "The intervention may ------- slow progression.",
+      "options": [
+        "A) impossibly",
+        "B) definitely",
+        "C) certainly",
+        "D) absolutely",
+        "E) potentially"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Potentially' (potansiyel olarak) muhtemel ama kesin olmayan etkiyi ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 80,
+      "question": "The narrative is so ------- crafted.",
+      "options": [
+        "A) carelessly",
+        "B) hastily",
+        "C) superficially",
+        "D) poorly",
+        "E) skillfully"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'Skillfully' (ustaca) anlatının okuyucuları büyülemesini sağlayan niteliği ifade eder.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    }
+  ]
+}

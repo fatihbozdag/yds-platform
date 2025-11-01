@@ -1,0 +1,1054 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "section": "vocabulary_grammar",
+      "question": "The research team managed to ____ a breakthrough in cancer treatment after years of dedicated experimentation.",
+      "options": ["achieve", "perform", "conduct", "execute", "operate"],
+      "correctAnswer": 0,
+      "explanation": "Achieve (başarmak, elde etmek) doğru cevaptır çünkü 'breakthrough' (çığır açan buluş) kelimesiyle en uyumlu eşleşmeyi yapar. Perform ve conduct daha çok deney veya araştırma yapmak için kullanılır. Execute genellikle plan veya görev için, operate ise makine veya sistem için kullanılır.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 2,
+      "section": "vocabulary_grammar",
+      "question": "Despite the ____ conditions in the laboratory, the scientists were able to obtain reliable results.",
+      "options": ["favorable", "adverse", "suitable", "optimal", "ideal"],
+      "correctAnswer": 1,
+      "explanation": "Adverse (olumsuz, elverişsiz) doğru cevaptır. 'Despite' (rağmen) bağlacı bir zıtlık gösterdiği için, güvenilir sonuçlar elde etmenin zorlu koşullara rağmen gerçekleştiğini anlatır. Favorable, suitable, optimal ve ideal pozitif anlamlı kelimeler olup 'despite' ile mantıksal uyum sağlamaz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 3,
+      "section": "vocabulary_grammar",
+      "question": "The economic policy implemented by the government has proven to be ____ in reducing inflation rates.",
+      "options": ["deficient", "insufficient", "effective", "inadequate", "limited"],
+      "correctAnswer": 2,
+      "explanation": "Effective (etkili, başarılı) doğru cevaptır. 'Proven to be' ifadesi olumlu bir sonucu gösterir ve enflasyonu düşürmede başarılı olduğunu belirtir. Deficient, insufficient, inadequate ve limited olumsuz anlamlı kelimelerdir ve 'reducing inflation' başarısıyla uyuşmaz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 4,
+      "section": "vocabulary_grammar",
+      "question": "The architect's ____ design for the new museum has attracted international attention.",
+      "options": ["conventional", "ordinary", "innovative", "traditional", "standard"],
+      "correctAnswer": 2,
+      "explanation": "Innovative (yenilikçi, özgün) doğru cevaptır. Uluslararası dikkat çekmek için tasarımın sıra dışı olması gerekir. Conventional, ordinary, traditional ve standard sıradan ve alışılmış anlamına gelir, bu nedenle uluslararası ilgi çekmesi mantıken beklenmez.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 5,
+      "section": "vocabulary_grammar",
+      "question": "The professor's lecture was so ____ that many students struggled to understand the main concepts.",
+      "options": ["clear", "lucid", "straightforward", "convoluted", "simple"],
+      "correctAnswer": 3,
+      "explanation": "Convoluted (karmaşık, dolambaçlı) doğru cevaptır. 'Struggled to understand' (anlamakta zorlandılar) ifadesi zorluk gösterdiği için, dersin karmaşık olduğunu belirtir. Clear, lucid, straightforward ve simple anlaşılır olduğunu gösterir ki bu öğrencilerin zorlanmasıyla çelişir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 6,
+      "section": "vocabulary_grammar",
+      "question": "The company's decision to expand into Asian markets was based on ____ market research.",
+      "options": ["superficial", "cursory", "comprehensive", "shallow", "hasty"],
+      "correctAnswer": 2,
+      "explanation": "Comprehensive (kapsamlı, eksiksiz) doğru cevaptır. Önemli bir iş kararı (Asya pazarına açılma) için kapsamlı araştırma yapılması beklenir. Superficial, cursory, shallow ve hasty yüzeysel ve aceleye gelmiş araştırmayı gösterir, bu da ciddi bir karar için uygun değildir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 7,
+      "section": "vocabulary_grammar",
+      "question": "The environmental organization aims to ____ public awareness about climate change.",
+      "options": ["diminish", "reduce", "raise", "lower", "decrease"],
+      "correctAnswer": 2,
+      "explanation": "Raise (artırmak, yükseltmek) doğru cevaptır. Bir çevre örgütünün amacı iklim değişikliği konusunda halkın farkındalığını artırmaktır. Diminish, reduce, lower ve decrease azaltmak anlamına gelir ki bu örgütün amacıyla ters düşer.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 8,
+      "section": "vocabulary_grammar",
+      "question": "The study reveals a strong ____ between regular exercise and improved mental health.",
+      "options": ["distinction", "difference", "separation", "correlation", "division"],
+      "correctAnswer": 3,
+      "explanation": "Correlation (ilişki, korelasyon) doğru cevaptır. Bilimsel çalışmalarda iki değişken (egzersiz ve zihinsel sağlık) arasındaki ilişkiyi ifade etmek için 'correlation' kullanılır. Distinction, difference, separation ve division ayrılık veya farklılık gösterir, ilişki değil.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 9,
+      "section": "vocabulary_grammar",
+      "question": "The pharmaceutical company must ____ to strict safety regulations when testing new drugs.",
+      "options": ["adapt", "adjust", "adhere", "apply", "attach"],
+      "correctAnswer": 2,
+      "explanation": "Adhere (uymak, bağlı kalmak) doğru cevaptır. 'Adhere to regulations' kurallara sıkı sıkıya uymak anlamında sabit bir kullanımdır. Adapt uyum sağlamak, adjust ayarlamak, apply başvurmak/uygulamak, attach eklemek anlamındadır ve 'to regulations' ile bu anlamda kullanılmaz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 10,
+      "section": "vocabulary_grammar",
+      "question": "The historian's interpretation of the events has been ____ by recent archaeological discoveries.",
+      "options": ["confirmed", "denied", "rejected", "opposed", "contradicted"],
+      "correctAnswer": 0,
+      "explanation": "Confirmed (doğrulanmış, teyit edilmiş) doğru cevaptır. Arkeolojik bulgular genellikle tarihçilerin yorumlarını destekler veya doğrular. Denied, rejected, opposed ve contradicted olumsuz anlamlıdır ve bulgularla yorum arasında çelişki olduğunu gösterir ki bu daha az olası bir durumdur.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 11,
+      "section": "sentence_completion",
+      "question": "The new renewable energy project was approved by the committee, ____ it still requires additional funding to begin operations.",
+      "options": ["therefore", "furthermore", "however", "consequently", "thus"],
+      "correctAnswer": 2,
+      "explanation": "However (ancak, fakat) doğru cevaptır. İlk cümlede proje onaylanmış, ikinci cümlede ek fon gerekliliği belirtiliyor. Bu bir karşıtlık durumudur. Therefore, consequently ve thus sonuç bildirirken, furthermore ek bilgi ekler, ikisi de buradaki zıtlığı gösteremez.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 12,
+      "section": "sentence_completion",
+      "question": "Many scientists believe that artificial intelligence will transform society; ____, they warn about potential ethical concerns.",
+      "options": ["similarly", "likewise", "nevertheless", "therefore", "hence"],
+      "correctAnswer": 2,
+      "explanation": "Nevertheless (bununla birlikte, yine de) doğru cevaptır. Bilim insanları yapay zekanın toplumu dönüştüreceğine inanıyor ancak etik kaygılardan da bahsediyorlar. Bu bir zıtlık gösterir. Similarly ve likewise benzerlik, therefore ve hence sonuç bildirir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 13,
+      "section": "sentence_completion",
+      "question": "____ the heavy rainfall, the outdoor concert was not cancelled and proceeded as planned.",
+      "options": ["Due to", "Because of", "Despite", "Owing to", "As a result of"],
+      "correctAnswer": 2,
+      "explanation": "Despite (rağmen) doğru cevaptır. Yoğun yağmura rağmen konser iptal edilmemiş, bu bir karşıtlık durumudur. Due to, because of, owing to ve as a result of sebep-sonuç ilişkisi gösterir ve mantıken yağmur konseri iptal ettirmeliydi, ama burada tersi olmuş.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 14,
+      "section": "sentence_completion",
+      "question": "The research findings were published in a prestigious journal, ____ significantly enhancing the university's academic reputation.",
+      "options": ["yet", "however", "nevertheless", "thereby", "although"],
+      "correctAnswer": 3,
+      "explanation": "Thereby (böylece, bu sayede) doğru cevaptır. Araştırma bulgularının prestijli bir dergide yayınlanması sonucunda üniversitenin itibarı artmış. Yet, however ve nevertheless zıtlık bildirir. Although 'enhancing' ile yapı olarak uyumsuz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 15,
+      "section": "sentence_completion",
+      "question": "____ advances in medical technology, many diseases remain incurable at present.",
+      "options": ["Despite", "Because of", "Due to", "Thanks to", "As a result of"],
+      "correctAnswer": 0,
+      "explanation": "Despite (rağmen) doğru cevaptır. Tıbbi teknolojideki ilerlemelere rağmen bazı hastalıklar hala tedavi edilemiyor, bu bir karşıtlık. Because of, due to, thanks to ve as a result of sebep-sonuç gösterir, ama burada ilerlemeye rağmen tedavi edilememe durumu var.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 16,
+      "section": "sentence_completion",
+      "question": "The government has introduced stricter environmental regulations; ____, industries must now reduce their carbon emissions substantially.",
+      "options": ["nevertheless", "however", "yet", "consequently", "whereas"],
+      "correctAnswer": 3,
+      "explanation": "Consequently (sonuç olarak, bu nedenle) doğru cevaptır. Hükümet çevre düzenlemeleri getirmiş, bunun sonucu olarak endüstriler emisyonları azaltmak zorunda. Nevertheless, however ve yet zıtlık belirtir. Whereas karşılaştırma yapar.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 17,
+      "section": "sentence_completion",
+      "question": "The patient showed improvement after surgery, ____ complete recovery will take several months.",
+      "options": ["and", "so", "but", "thus", "therefore"],
+      "correctAnswer": 2,
+      "explanation": "But (ama, fakat) doğru cevaptır. Hasta ameliyattan sonra iyileşme göstermiş ancak tam iyileşme aylar alacak. Bu bir kısmi zıtlık. And sadece bağlar, so, thus ve therefore sonuç bildirir ki burada sonuç değil karşıtlık var.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 18,
+      "section": "sentence_completion",
+      "question": "Online education offers flexibility and accessibility; ____, it lacks the face-to-face interaction of traditional classrooms.",
+      "options": ["moreover", "furthermore", "in addition", "on the other hand", "similarly"],
+      "correctAnswer": 3,
+      "explanation": "On the other hand (öte yandan, diğer taraftan) doğru cevaptır. Çevrimiçi eğitimin avantajları sayılmış, ardından dezavantajı belirtiliyor. Bu bir karşılaştırma/zıtlık. Moreover, furthermore ve in addition ek bilgi ekler. Similarly benzerlik gösterir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 19,
+      "section": "sentence_completion",
+      "question": "____ the experiment was conducted under controlled conditions, the results showed unexpected variations.",
+      "options": ["Because", "Since", "Although", "As", "Due to"],
+      "correctAnswer": 2,
+      "explanation": "Although (her ne kadar, rağmen) doğru cevaptır. Deney kontrollü koşullarda yapıldı ama yine de beklenmeyen sonuçlar çıktı, bu bir zıtlık. Because, since ve as sebep gösterir. Due to'dan sonra isim gelir, cümle gelmez.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 20,
+      "section": "sentence_completion",
+      "question": "The author's first novel received critical acclaim, ____ establishing her as a prominent voice in contemporary literature.",
+      "options": ["yet", "however", "nevertheless", "thus", "although"],
+      "correctAnswer": 3,
+      "explanation": "Thus (böylece, bu şekilde) doğru cevaptır. İlk roman eleştirmenlerden övgü aldı, bu sayede yazar önemli bir ses haline geldi. Sonuç ilişkisi var. Yet, however ve nevertheless zıtlık bildirir. Although cümle yapısıyla uyumsuz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 21,
+      "section": "closest_meaning",
+      "question": "The implementation of sustainable farming practices has become increasingly critical for ensuring long-term food security.",
+      "options": [
+        "Adopting environmentally-friendly agricultural methods is growing more important for guaranteeing future food availability.",
+        "Traditional farming techniques are necessary to maintain food production in the coming years.",
+        "The development of new crops has proven essential for meeting global nutritional needs.",
+        "Industrial agriculture must be replaced immediately to prevent environmental damage.",
+        "Food security can only be achieved through technological innovations in farming."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A şıkkı doğru cevaptır. 'Sustainable farming practices' (sürdürülebilir tarım uygulamaları) = 'environmentally-friendly agricultural methods', 'increasingly critical' (giderek daha kritik) = 'growing more important', 'ensuring' (güvence altına alma) = 'guaranteeing', 'long-term food security' (uzun vadeli gıda güvenliği) = 'future food availability'. Diğer şıklar özgün cümlenin anlamını tam olarak yansıtmıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 22,
+      "section": "closest_meaning",
+      "question": "Despite numerous technological advances, human creativity remains irreplaceable in artistic endeavors.",
+      "options": [
+        "Technological progress has eliminated the need for human involvement in art.",
+        "Artistic activities still depend on modern technology rather than human imagination.",
+        "Even with many technological developments, human originality cannot be substituted in creative work.",
+        "Human creativity has been enhanced by technological tools in all artistic fields.",
+        "Modern technology has proven superior to human creativity in producing art."
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. 'Despite numerous technological advances' (sayısız teknolojik gelişmeye rağmen) = 'even with many technological developments', 'human creativity' (insan yaratıcılığı) = 'human originality', 'remains irreplaceable' (yeri doldurulamaz olmaya devam ediyor) = 'cannot be substituted', 'artistic endeavors' (sanatsal çabalar) = 'creative work'. Diğer şıklar özgün cümleyle çelişiyor veya farklı anlam taşıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 23,
+      "section": "closest_meaning",
+      "question": "The researcher's findings challenged conventional theories and opened new avenues for scientific investigation.",
+      "options": [
+        "The scientist confirmed traditional beliefs and continued existing research methods.",
+        "The study supported established theories while suggesting minor modifications.",
+        "The investigator's results contradicted accepted ideas and created fresh possibilities for research.",
+        "Conventional scientific approaches were strengthened by the researcher's discoveries.",
+        "The findings proved that traditional theories were completely accurate."
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. 'Findings challenged' (bulgular meydan okudu) = 'results contradicted', 'conventional theories' (geleneksel teoriler) = 'accepted ideas', 'opened new avenues' (yeni yollar açtı) = 'created fresh possibilities', 'scientific investigation' (bilimsel araştırma) = 'research'. Diğer şıklar özgün cümlenin zıttı veya farklı anlamlar içeriyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 24,
+      "section": "closest_meaning",
+      "question": "Rapid urbanization has led to significant environmental degradation in many developing countries.",
+      "options": [
+        "Quick city growth has caused serious environmental damage in numerous emerging nations.",
+        "Slow urban development has improved environmental conditions in poor countries.",
+        "Environmental protection has accelerated urban expansion in developing regions.",
+        "Urbanization has had no impact on the environment in emerging economies.",
+        "Developing countries have successfully prevented environmental harm during city growth."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A şıkkı doğru cevaptır. 'Rapid urbanization' (hızlı kentleşme) = 'quick city growth', 'has led to' (yol açmıştır) = 'has caused', 'significant environmental degradation' (önemli çevresel bozulma) = 'serious environmental damage', 'many developing countries' (birçok gelişmekte olan ülke) = 'numerous emerging nations'. Diğer şıklar özgün anlamı doğru yansıtmıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 25,
+      "section": "closest_meaning",
+      "question": "The author's nuanced perspective on social inequality provides valuable insights into contemporary societal challenges.",
+      "options": [
+        "The writer's simple view of social differences offers basic information about modern problems.",
+        "The author's detailed understanding of social disparity gives important understanding of current social issues.",
+        "Social inequality has been ignored by the author in discussing modern challenges.",
+        "The writer focuses only on economic factors when examining societal problems.",
+        "Contemporary challenges are unrelated to the author's analysis of social issues."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Nuanced perspective' (nüanslı bakış açısı) = 'detailed understanding', 'social inequality' (sosyal eşitsizlik) = 'social disparity', 'provides valuable insights' (değerli görüşler sunuyor) = 'gives important understanding', 'contemporary societal challenges' (çağdaş toplumsal zorluklar) = 'current social issues'. Diğer şıklar özgün cümlenin anlamını yanlış yansıtıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 26,
+      "section": "closest_meaning",
+      "question": "The medical breakthrough has the potential to revolutionize treatment approaches for chronic diseases.",
+      "options": [
+        "The medical discovery might completely transform how chronic illnesses are treated.",
+        "Chronic diseases will remain untreatable despite medical advances.",
+        "Traditional treatment methods are superior to new medical discoveries.",
+        "The medical breakthrough has no relevance to treating long-term illnesses.",
+        "Chronic disease treatment has already been perfected through past research."
+      ],
+      "correctAnswer": 0,
+      "explanation": "A şıkkı doğru cevaptır. 'Medical breakthrough' (tıbbi çığır açan buluş) = 'medical discovery', 'has the potential to' (potansiyeline sahip) = 'might', 'revolutionize' (devrim yaratmak) = 'completely transform', 'treatment approaches' (tedavi yaklaşımları) = 'how...are treated', 'chronic diseases' (kronik hastalıklar) = 'chronic illnesses'. Diğer şıklar özgün anlama ters düşüyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 27,
+      "section": "closest_meaning",
+      "question": "Economic globalization has intensified competition among businesses while creating new market opportunities.",
+      "options": [
+        "Global economic integration has reduced business competition and limited market possibilities.",
+        "Worldwide economic connections have increased rivalry between companies and generated fresh commercial prospects.",
+        "Economic isolation has proven more beneficial than globalization for businesses.",
+        "Market opportunities have decreased as a result of global economic trends.",
+        "Competition among businesses has disappeared due to economic globalization."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Economic globalization' (ekonomik küreselleşme) = 'worldwide economic connections', 'has intensified competition' (rekabeti yoğunlaştırdı) = 'increased rivalry', 'among businesses' (işletmeler arasında) = 'between companies', 'while creating' (oluştururken) = 'and generated', 'new market opportunities' (yeni pazar fırsatları) = 'fresh commercial prospects'. Diğer şıklar özgün cümleye aykırı.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 28,
+      "section": "closest_meaning",
+      "question": "The decline in biodiversity poses a serious threat to ecosystem stability and human well-being.",
+      "options": [
+        "Increasing biodiversity has improved ecosystem health and human welfare.",
+        "The reduction in species variety presents a grave danger to environmental balance and human welfare.",
+        "Ecosystem stability is unaffected by changes in biodiversity levels.",
+        "Human well-being has improved despite declining biodiversity.",
+        "Biodiversity loss has only minor consequences for natural systems."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Decline in biodiversity' (biyoçeşitlilikte azalma) = 'reduction in species variety', 'poses a serious threat' (ciddi bir tehdit oluşturuyor) = 'presents a grave danger', 'ecosystem stability' (ekosistem istikrarı) = 'environmental balance', 'human well-being' (insan refahı) = 'human welfare'. Diğer şıklar özgün anlamı doğru yansıtmıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 29,
+      "section": "closest_meaning",
+      "question": "Digital literacy has become as fundamental as traditional reading and writing skills in modern education.",
+      "options": [
+        "Computer skills are less important than conventional literacy in contemporary schooling.",
+        "Traditional education methods are superior to digital learning approaches.",
+        "The ability to use technology is now as essential as basic literacy skills in today's educational system.",
+        "Reading and writing have been completely replaced by digital technologies in schools.",
+        "Modern education no longer requires traditional literacy skills."
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. 'Digital literacy' (dijital okuryazarlık) = 'ability to use technology', 'has become as fundamental as' (kadar temel hale geldi) = 'is now as essential as', 'traditional reading and writing skills' (geleneksel okuma yazma becerileri) = 'basic literacy skills', 'modern education' (modern eğitim) = 'today's educational system'. Diğer şıklar özgün anlamdan sapıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 30,
+      "section": "closest_meaning",
+      "question": "The architect's innovative design seamlessly integrates modern aesthetics with environmental sustainability.",
+      "options": [
+        "The designer's traditional approach separates beauty from environmental concerns.",
+        "The architect's creative plan smoothly combines contemporary visual appeal with ecological responsibility.",
+        "Modern architecture must sacrifice aesthetics to achieve environmental goals.",
+        "Environmental sustainability is incompatible with innovative architectural design.",
+        "The building design prioritizes appearance over environmental considerations."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Architect's innovative design' (mimarın yenilikçi tasarımı) = 'designer's creative plan', 'seamlessly integrates' (kusursuzca bütünleştirir) = 'smoothly combines', 'modern aesthetics' (modern estetik) = 'contemporary visual appeal', 'environmental sustainability' (çevresel sürdürülebilirlik) = 'ecological responsibility'. Diğer şıklar özgün cümlenin anlamına ters düşüyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 31,
+      "section": "cloze_test",
+      "passage": "Climate change represents one of the most pressing challenges facing humanity today. The scientific consensus is clear: global temperatures are rising (31)____ unprecedented rates, primarily due to human activities. (32)____ the evidence is overwhelming, some individuals and organizations continue to deny the reality of climate change. Scientists warn that (33)____ immediate action is taken to reduce greenhouse gas emissions, the consequences could be catastrophic. (34)____ governments, businesses, and individuals must work together to implement sustainable practices. The transition to renewable energy sources, (35)____, represents a crucial step in mitigating climate change impacts.",
+      "question_number": 31,
+      "question": "Select the best option for blank (31)",
+      "options": ["at", "in", "on", "by", "with"],
+      "correctAnswer": 0,
+      "explanation": "'At' doğru cevaptır. 'At unprecedented rates' (eşi görülmemiş oranlarda) sabit bir İngilizce kullanımdır. Hız veya oran belirtirken 'at' edatı kullanılır (at high speed, at a fast rate gibi). Diğer edatlar bu bağlamda 'rates' kelimesiyle kullanılmaz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 32,
+      "section": "cloze_test",
+      "passage": "Climate change represents one of the most pressing challenges facing humanity today. The scientific consensus is clear: global temperatures are rising (31)____ unprecedented rates, primarily due to human activities. (32)____ the evidence is overwhelming, some individuals and organizations continue to deny the reality of climate change. Scientists warn that (33)____ immediate action is taken to reduce greenhouse gas emissions, the consequences could be catastrophic. (34)____ governments, businesses, and individuals must work together to implement sustainable practices. The transition to renewable energy sources, (35)____, represents a crucial step in mitigating climate change impacts.",
+      "question_number": 32,
+      "question": "Select the best option for blank (32)",
+      "options": ["Because", "Although", "Since", "As", "Despite"],
+      "correctAnswer": 1,
+      "explanation": "'Although' (her ne kadar, rağmen) doğru cevaptır. Kanıtların ezici olmasına RAĞMEN bazı kişiler inkar etmeye devam ediyor - bu bir karşıtlık durumudur. Because, since ve as sebep gösterir. Despite'tan sonra isim gelir, cümle gelmez.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 33,
+      "section": "cloze_test",
+      "passage": "Climate change represents one of the most pressing challenges facing humanity today. The scientific consensus is clear: global temperatures are rising (31)____ unprecedented rates, primarily due to human activities. (32)____ the evidence is overwhelming, some individuals and organizations continue to deny the reality of climate change. Scientists warn that (33)____ immediate action is taken to reduce greenhouse gas emissions, the consequences could be catastrophic. (34)____ governments, businesses, and individuals must work together to implement sustainable practices. The transition to renewable energy sources, (35)____, represents a crucial step in mitigating climate change impacts.",
+      "question_number": 33,
+      "question": "Select the best option for blank (33)",
+      "options": ["when", "unless", "if", "while", "since"],
+      "correctAnswer": 1,
+      "explanation": "'Unless' (eğer...maz ise, olmadıkça) doğru cevaptır. 'Unless immediate action is taken' = 'if immediate action is NOT taken' (acil önlem alınmazsa). Cümle olumsuz bir koşul ifade ediyor: önlem alınmazsa sonuçlar felaket olacak. If olumlu koşul, when zaman, while esnada, since sebep gösterir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 34,
+      "section": "cloze_test",
+      "passage": "Climate change represents one of the most pressing challenges facing humanity today. The scientific consensus is clear: global temperatures are rising (31)____ unprecedented rates, primarily due to human activities. (32)____ the evidence is overwhelming, some individuals and organizations continue to deny the reality of climate change. Scientists warn that (33)____ immediate action is taken to reduce greenhouse gas emissions, the consequences could be catastrophic. (34)____ governments, businesses, and individuals must work together to implement sustainable practices. The transition to renewable energy sources, (35)____, represents a crucial step in mitigating climate change impacts.",
+      "question_number": 34,
+      "question": "Select the best option for blank (34)",
+      "options": ["However", "Nevertheless", "Therefore", "Moreover", "Instead"],
+      "correctAnswer": 2,
+      "explanation": "'Therefore' (bu nedenle, dolayısıyla) doğru cevaptır. Önceki cümlelerde iklim değişikliği tehdidi anlatılmış, bunun SONUCU olarak hükümetler, şirketler ve bireyler birlikte çalışmalı. Sonuç ilişkisi var. However ve nevertheless zıtlık, moreover ekleme, instead alternatif gösterir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 35,
+      "section": "cloze_test",
+      "passage": "Climate change represents one of the most pressing challenges facing humanity today. The scientific consensus is clear: global temperatures are rising (31)____ unprecedented rates, primarily due to human activities. (32)____ the evidence is overwhelming, some individuals and organizations continue to deny the reality of climate change. Scientists warn that (33)____ immediate action is taken to reduce greenhouse gas emissions, the consequences could be catastrophic. (34)____ governments, businesses, and individuals must work together to implement sustainable practices. The transition to renewable energy sources, (35)____, represents a crucial step in mitigating climate change impacts.",
+      "question_number": 35,
+      "question": "Select the best option for blank (35)",
+      "options": ["such as", "for example", "for instance", "in particular", "namely"],
+      "correctAnswer": 2,
+      "explanation": "'For instance' (örneğin) doğru cevaptır. Yenilenebilir enerjiye geçiş, sürdürülebilir uygulamalara bir ÖRNEK olarak verilmiş. For instance virgüllerle ayrılarak cümle ortasında kullanılabilir. Such as sonrasında doğrudan örnek gelir (virgül olmaz). For example genellikle cümle başında kullanılır. In particular 'özellikle' demektir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 36,
+      "section": "cloze_test",
+      "passage": "The field of artificial intelligence has evolved dramatically over the past decade. Machine learning algorithms can now perform tasks (36)____ were once thought to require human intelligence. (37)____, these systems are not without limitations. They require vast amounts of data to function effectively and can perpetuate biases present in their training data. (38)____ these challenges, researchers continue to push the boundaries of what AI can achieve. The potential applications range from medical diagnosis to autonomous vehicles, (39)____ raising important ethical questions. (40)____ society must carefully consider how to harness the benefits of AI while minimizing potential risks.",
+      "question_number": 36,
+      "question": "Select the best option for blank (36)",
+      "options": ["who", "which", "what", "that", "whose"],
+      "correctAnswer": 3,
+      "explanation": "'That' doğru cevaptır. Bu bir defining relative clause (belirleyici sıfat cümlesi). 'Tasks that were once thought...' = 'bir zamanlar düşünülen görevler'. That veya which kullanılabilir, ancak that daha yaygın ve tercih edilir. Who insanlar için, what ilgi zamiri değil soru kelimesi, whose sahiplik gösterir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 37,
+      "section": "cloze_test",
+      "passage": "The field of artificial intelligence has evolved dramatically over the past decade. Machine learning algorithms can now perform tasks (36)____ were once thought to require human intelligence. (37)____, these systems are not without limitations. They require vast amounts of data to function effectively and can perpetuate biases present in their training data. (38)____ these challenges, researchers continue to push the boundaries of what AI can achieve. The potential applications range from medical diagnosis to autonomous vehicles, (39)____ raising important ethical questions. (40)____ society must carefully consider how to harness the benefits of AI while minimizing potential risks.",
+      "question_number": 37,
+      "question": "Select the best option for blank (37)",
+      "options": ["Therefore", "Furthermore", "However", "Consequently", "Thus"],
+      "correctAnswer": 2,
+      "explanation": "'However' (ancak, fakat) doğru cevaptır. Önceki cümlede yapay zekanın yetenekleri anlatılmış, bu cümlede sınırlamaları belirtiliyor. Bu bir karşıtlık durumudur. Therefore, consequently ve thus sonuç bildirir. Furthermore ek bilgi ekler ama karşıtlık göstermez.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 38,
+      "section": "cloze_test",
+      "passage": "The field of artificial intelligence has evolved dramatically over the past decade. Machine learning algorithms can now perform tasks (36)____ were once thought to require human intelligence. (37)____, these systems are not without limitations. They require vast amounts of data to function effectively and can perpetuate biases present in their training data. (38)____ these challenges, researchers continue to push the boundaries of what AI can achieve. The potential applications range from medical diagnosis to autonomous vehicles, (39)____ raising important ethical questions. (40)____ society must carefully consider how to harness the benefits of AI while minimizing potential risks.",
+      "question_number": 38,
+      "question": "Select the best option for blank (38)",
+      "options": ["Because of", "Due to", "Despite", "Owing to", "Thanks to"],
+      "correctAnswer": 2,
+      "explanation": "'Despite' (rağmen) doğru cevaptır. Bu zorluklara RAĞMEN araştırmacılar sınırları zorlamaya devam ediyor. Karşıtlık ilişkisi var. Because of, due to, owing to sebep-sonuç gösterir. Thanks to olumlu sonuç için kullanılır (sayesinde).",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 39,
+      "section": "cloze_test",
+      "passage": "The field of artificial intelligence has evolved dramatically over the past decade. Machine learning algorithms can now perform tasks (36)____ were once thought to require human intelligence. (37)____, these systems are not without limitations. They require vast amounts of data to function effectively and can perpetuate biases present in their training data. (38)____ these challenges, researchers continue to push the boundaries of what AI can achieve. The potential applications range from medical diagnosis to autonomous vehicles, (39)____ raising important ethical questions. (40)____ society must carefully consider how to harness the benefits of AI while minimizing potential risks.",
+      "question_number": 39,
+      "question": "Select the best option for blank (39)",
+      "options": ["yet", "still", "while", "although", "whereas"],
+      "correctAnswer": 2,
+      "explanation": "'While' (iken, esnasında) doğru cevaptır. Yapay zeka uygulamaları çeşitlilik gösterirken AYNI ZAMANDA etik sorular ortaya çıkarıyor. While eşzamanlı iki durumu gösterir. Yet ve still 'hala' demektir ama bu yapıyla kullanılmaz. Although ve whereas cümle yapısıyla uyumsuz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 40,
+      "section": "cloze_test",
+      "passage": "The field of artificial intelligence has evolved dramatically over the past decade. Machine learning algorithms can now perform tasks (36)____ were once thought to require human intelligence. (37)____, these systems are not without limitations. They require vast amounts of data to function effectively and can perpetuate biases present in their training data. (38)____ these challenges, researchers continue to push the boundaries of what AI can achieve. The potential applications range from medical diagnosis to autonomous vehicles, (39)____ raising important ethical questions. (40)____ society must carefully consider how to harness the benefits of AI while minimizing potential risks.",
+      "question_number": 40,
+      "question": "Select the best option for blank (40)",
+      "options": ["However", "Nevertheless", "Consequently", "Moreover", "Similarly"],
+      "correctAnswer": 2,
+      "explanation": "'Consequently' (sonuç olarak) doğru cevaptır. Önceki cümlelerde yapay zekanın potansiyeli ve etik sorunları anlatılmış, bunun SONUCU olarak toplum dikkatli düşünmeli. Sonuç ilişkisi var. However ve nevertheless zıtlık, moreover ekleme, similarly benzerlik gösterir.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 41,
+      "section": "irrelevant_sentence",
+      "passage": "(I) The Mediterranean diet has gained widespread recognition for its health benefits. (II) This dietary pattern emphasizes fruits, vegetables, whole grains, and olive oil. (III) Many restaurants now offer Mediterranean cuisine on their menus. (IV) Studies have shown that adherence to this diet reduces the risk of cardiovascular disease. (V) Additionally, it has been associated with lower rates of certain cancers and improved cognitive function.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragrafın ana konusu Akdeniz diyetinin SAĞLIK YARARLARI. I-II-IV-V cümleleri sağlık yararlarını ve bilimsel kanıtları anlatıyor. III ise restoranların menülerinde Akdeniz yemekleri sunmasından bahsediyor ki bu ticari bir konu olup sağlık yararlarıyla doğrudan ilgili değil.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 42,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Renewable energy sources are becoming increasingly cost-competitive with fossil fuels. (II) Solar panel efficiency has improved dramatically over the past decade. (III) Fossil fuel companies employ thousands of workers worldwide. (IV) Wind energy costs have decreased by nearly 70% since 2009. (V) These trends suggest that the transition to renewable energy is economically viable.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf yenilenebilir enerjinin maliyet rekabetçiliğini ve ekonomik uygulanabilirliğini anlatıyor. I-II-IV-V cümleleri yenilenebilir enerjinin maliyetlerindeki düşüş ve verimlilikteki artışı ele alıyor. III ise fosil yakıt şirketlerinin işçi çalıştırmasından bahsediyor ki bu konuyla ilgisiz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 43,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Urban green spaces provide numerous benefits to city residents. (II) Parks and gardens offer opportunities for physical exercise and recreation. (III) City planners often face budget constraints when designing public spaces. (IV) These areas also improve air quality by absorbing pollutants. (V) Furthermore, green spaces have been shown to reduce stress and enhance mental well-being.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf kentsel yeşil alanların YARARLARI üzerine kurulu. I giriş cümlesi, II fiziksel faydalar, IV hava kalitesi, V zihinsel sağlık yararlarını anlatıyor. III ise şehir planlamacılarının bütçe kısıtlamalarından bahsediyor ki bu yararları değil, planlama zorluklarını anlatıyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 44,
+      "section": "irrelevant_sentence",
+      "passage": "(I) The human brain continues to develop well into a person's twenties. (II) Brain imaging technology has revolutionized neuroscience research. (III) The prefrontal cortex, responsible for decision-making, is among the last regions to mature. (IV) This extended development period explains why adolescents often exhibit impulsive behavior. (V) Understanding brain development has important implications for education and juvenile justice policies.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 1,
+      "explanation": "II numaralı cümle alakasızdır. Paragraf beyin GELİŞİMİ ve bunun davranışsal/politik sonuçlarını ele alıyor. I beyin gelişiminin süresi, III prefrontal korteksin olgunlaşması, IV ergen davranışı, V eğitim ve adalet politikalarına etkisi anlatılıyor. II ise beyin görüntüleme teknolojisinden bahsediyor ki bu konu ana temanın dışında.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 45,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Microplastics have been detected in oceans, rivers, and even drinking water worldwide. (II) These tiny plastic particles can absorb toxic chemicals from their surroundings. (III) Plastic production has increased exponentially since the 1950s. (IV) Research indicates that microplastics can enter the food chain and accumulate in living organisms. (V) The long-term health effects of microplastic exposure on humans remain a subject of ongoing investigation.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragrafın odağı MİKROPLASTİKLERİN varlığı, tehlikeleri ve etkileri. I mikroplastiklerin yaygınlığı, II kimyasal emme özellikleri, IV besin zincirine girişi, V sağlık etkileri konularını ele alıyor. III ise genel plastik üretiminin artışından bahsediyor ki bu mikroplastiklerin spesifik tehditlerinden farklı bir konu.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 46,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Bilingualism offers significant cognitive advantages throughout life. (II) Children who grow up speaking two languages often show enhanced executive function skills. (III) Many countries have implemented bilingual education programs in schools. (IV) Bilingual individuals demonstrate superior attention control and task-switching abilities. (V) Research also suggests that bilingualism may delay the onset of dementia in older adults.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf iki dilliliğin BİLİŞSEL AVANTAJLARINI ele alıyor. I genel avantajlar, II çocuklarda yürütücü işlev, IV dikkat kontrolü ve görev değiştirme, V bunama üzerindeki etki konularını kapsıyor. III ise eğitim programlarından bahsediyor ki bu idari bir konu olup bilişsel faydalarla doğrudan ilgili değil.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 47,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Ancient civilizations developed sophisticated astronomical knowledge without modern instruments. (II) The Mayans created highly accurate calendars based on celestial observations. (III) Modern telescopes can detect galaxies billions of light-years away. (IV) Egyptian pyramids were aligned with remarkable precision to cardinal directions and specific stars. (V) These achievements demonstrate that early humans possessed advanced mathematical and observational skills.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf ESKI MEDENİYETLERİN astronomi bilgisini ele alıyor. I giriş cümlesi, II Maya takvimleri, IV Mısır piramitlerinin hizalanması, V bu başarıların yorumu yer alıyor. III ise modern teleskoplardan bahsediyor ki bu eski medeniyetlerin başarılarıyla ilgisiz, çağdaş bir konu.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 48,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Sleep deprivation has profound effects on cognitive performance and health. (II) Studies show that inadequate sleep impairs memory consolidation and learning. (III) Many people use caffeine to combat daytime drowsiness. (IV) Chronic sleep loss is associated with increased risk of obesity, diabetes, and cardiovascular disease. (V) Even a single night of poor sleep can negatively affect mood, attention, and decision-making abilities.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf uyku yoksunluğunun ETKİLERİNİ bilimsel olarak anlatıyor. I giriş, II hafıza ve öğrenme üzerindeki etki, IV kronik sağlık riskleri, V kısa vadeli bilişsel etkiler ele alınıyor. III ise insanların kafein kullanmasından bahsediyor ki bu bir başa çıkma yöntemi olup, uyku yoksunluğunun etkilerini anlatan bilimsel içerikle uyuşmuyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 49,
+      "section": "irrelevant_sentence",
+      "passage": "(I) Coral reefs are among the most biodiverse ecosystems on Earth. (II) These underwater structures support approximately 25% of all marine species. (III) Scuba diving tourism has grown significantly in coastal regions. (IV) However, coral reefs are highly vulnerable to ocean warming and acidification. (V) Scientists estimate that without intervention, most coral reefs could disappear within the next few decades.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf mercan resiflerinin ÖNEMİ ve TEHDİTLERİ üzerine. I biyoçeşitlilik önemi, II deniz türlerini barındırması, IV küresel ısınmaya karşı hassasiyeti, V gelecekteki risk ele alınıyor. III ise dalış turizminin artışından bahsediyor ki bu ekonomik/turistik bir konu olup, ekolojik önemi ve tehditleri anlatan ana fikirle ilgisiz.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 50,
+      "section": "irrelevant_sentence",
+      "passage": "(I) The gut microbiome plays a crucial role in human health and disease. (II) Trillions of bacteria inhabit the human digestive system, influencing immunity and metabolism. (III) Probiotic supplements are widely available in pharmacies and health stores. (IV) Emerging research links gut bacteria composition to mental health conditions like depression and anxiety. (V) This connection between gut and brain, often called the 'gut-brain axis,' represents a promising area for therapeutic interventions.",
+      "question": "Which sentence is irrelevant to the main topic of the paragraph?",
+      "options": ["I", "II", "III", "IV", "V"],
+      "correctAnswer": 2,
+      "explanation": "III numaralı cümle alakasızdır. Paragraf bağırsak mikrobiyomunun SAĞLIK ÜZERİNDEKİ ETKİSİNİ bilimsel olarak ele alıyor. I giriş, II bakterilerin bağışıklık ve metabolizmaya etkisi, IV zihinsel sağlıkla bağlantı, V bağırsak-beyin ekseni ve terapötik potansiyel anlatılıyor. III ise probiyotik takviyelerinin satışından bahsediyor ki bu ticari bir konu olup bilimsel içerikle uyuşmuyor.",
+      "difficulty": "intermediate"
+    },
+    {
+      "id": 51,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon of collective intelligence has long fascinated researchers across multiple disciplines. Unlike individual intelligence, which focuses on a single person's cognitive abilities, collective intelligence emerges when groups of individuals collaborate to solve problems or make decisions. Studies have demonstrated that under certain conditions, groups can outperform even their most intelligent members. However, this superior performance is not automatic; it depends on several critical factors. Research by Woolley et al. (2010) identified that the average social sensitivity of group members, equal distribution of conversational turn-taking, and the proportion of women in the group were stronger predictors of collective intelligence than the individual intelligence of group members. This finding challenges traditional assumptions about team composition and suggests that social dynamics play a more crucial role than previously thought. The implications extend beyond academic interest, influencing how organizations structure teams and how educational institutions design collaborative learning environments. Furthermore, the rise of digital technologies has created new forms of collective intelligence, such as crowdsourcing platforms and online collaborative projects, which operate on unprecedented scales and across geographic boundaries.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Individual intelligence is more important than group intelligence in problem-solving.",
+        "Collective intelligence depends on social factors rather than individual brilliance.",
+        "Women are always more intelligent than men in group settings.",
+        "Digital technology has replaced traditional forms of collaboration.",
+        "Academic research has limited practical applications in organizations."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajın ana fikri kolektif zekanın sosyal dinamiklere (sosyal hassasiyet, eşit katılım, grup kompozisyonu) bağlı olduğu ve bunların bireysel zekadan daha önemli olduğudur. A yanlış çünkü pasaj tam tersini söylüyor. C aşırı genelleme, pasaj sadece kadın oranının bir faktör olduğunu söylüyor. D ve E pasajda geçen yan konular ama ana fikir değil.",
+      "difficulty": "intermediate",
+      "question_type": "main_idea"
+    },
+    {
+      "id": 52,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon of collective intelligence has long fascinated researchers across multiple disciplines. Unlike individual intelligence, which focuses on a single person's cognitive abilities, collective intelligence emerges when groups of individuals collaborate to solve problems or make decisions. Studies have demonstrated that under certain conditions, groups can outperform even their most intelligent members. However, this superior performance is not automatic; it depends on several critical factors. Research by Woolley et al. (2010) identified that the average social sensitivity of group members, equal distribution of conversational turn-taking, and the proportion of women in the group were stronger predictors of collective intelligence than the individual intelligence of group members. This finding challenges traditional assumptions about team composition and suggests that social dynamics play a more crucial role than previously thought. The implications extend beyond academic interest, influencing how organizations structure teams and how educational institutions design collaborative learning environments. Furthermore, the rise of digital technologies has created new forms of collective intelligence, such as crowdsourcing platforms and online collaborative projects, which operate on unprecedented scales and across geographic boundaries.",
+      "question": "According to the passage, which of the following is NOT mentioned as a predictor of collective intelligence?",
+      "options": [
+        "The average social sensitivity of group members",
+        "Equal participation in conversations",
+        "The educational background of team members",
+        "The proportion of women in the group",
+        "Social dynamics among members"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda eğitim geçmişinden (educational background) hiç bahsedilmemiştir. A, B ve D Woolley araştırmasında açıkça belirtilen faktörlerdir. E ise pasajın genel vurgusu olan sosyal dinamiklerdir. C ise pasajda geçmeyen bir faktördür.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 53,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon of collective intelligence has long fascinated researchers across multiple disciplines. Unlike individual intelligence, which focuses on a single person's cognitive abilities, collective intelligence emerges when groups of individuals collaborate to solve problems or make decisions. Studies have demonstrated that under certain conditions, groups can outperform even their most intelligent members. However, this superior performance is not automatic; it depends on several critical factors. Research by Woolley et al. (2010) identified that the average social sensitivity of group members, equal distribution of conversational turn-taking, and the proportion of women in the group were stronger predictors of collective intelligence than the individual intelligence of group members. This finding challenges traditional assumptions about team composition and suggests that social dynamics play a more crucial role than previously thought. The implications extend beyond academic interest, influencing how organizations structure teams and how educational institutions design collaborative learning environments. Furthermore, the rise of digital technologies has created new forms of collective intelligence, such as crowdsourcing platforms and online collaborative projects, which operate on unprecedented scales and across geographic boundaries.",
+      "question": "It can be inferred from the passage that traditional assumptions about team composition ____.",
+      "options": [
+        "emphasized social sensitivity over individual intelligence",
+        "focused primarily on individual cognitive abilities of members",
+        "always included equal gender representation",
+        "were confirmed by recent research findings",
+        "ignored the importance of collaboration entirely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajda 'This finding challenges traditional assumptions about team composition' deniliyor, bulguların geleneksel varsayımlara meydan okuduğu belirtiliyor. Yeni bulgular sosyal faktörleri vurgularken, geleneksel yaklaşımın bireysel zeka üzerine odaklandığı çıkarımı yapılabilir. A tam tersi, C pasajda desteklenmiyor, D yanlış (bulgular geleneksel varsayımlara meydan okuyor), E aşırı genelleme.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 54,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon of collective intelligence has long fascinated researchers across multiple disciplines. Unlike individual intelligence, which focuses on a single person's cognitive abilities, collective intelligence emerges when groups of individuals collaborate to solve problems or make decisions. Studies have demonstrated that under certain conditions, groups can outperform even their most intelligent members. However, this superior performance is not automatic; it depends on several critical factors. Research by Woolley et al. (2010) identified that the average social sensitivity of group members, equal distribution of conversational turn-taking, and the proportion of women in the group were stronger predictors of collective intelligence than the individual intelligence of group members. This finding challenges traditional assumptions about team composition and suggests that social dynamics play a more crucial role than previously thought. The implications extend beyond academic interest, influencing how organizations structure teams and how educational institutions design collaborative learning environments. Furthermore, the rise of digital technologies has created new forms of collective intelligence, such as crowdsourcing platforms and online collaborative projects, which operate on unprecedented scales and across geographic boundaries.",
+      "question": "The word 'outperform' in the passage is closest in meaning to ____.",
+      "options": [
+        "work alongside",
+        "do better than",
+        "cooperate with",
+        "learn from",
+        "compete against"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Outperform' bir şeyi diğerinden daha iyi yapmak, üstün performans göstermek anlamındadır. Cümlede 'groups can outperform even their most intelligent members' = gruplar en zeki üyelerinden bile daha iyi performans gösterebilir. A birlikte çalışmak, C işbirliği yapmak, D öğrenmek, E karşı yarışmak anlamındadır ve 'outperform' ile eş anlamlı değildir.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 55,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon of collective intelligence has long fascinated researchers across multiple disciplines. Unlike individual intelligence, which focuses on a single person's cognitive abilities, collective intelligence emerges when groups of individuals collaborate to solve problems or make decisions. Studies have demonstrated that under certain conditions, groups can outperform even their most intelligent members. However, this superior performance is not automatic; it depends on several critical factors. Research by Woolley et al. (2010) identified that the average social sensitivity of group members, equal distribution of conversational turn-taking, and the proportion of women in the group were stronger predictors of collective intelligence than the individual intelligence of group members. This finding challenges traditional assumptions about team composition and suggests that social dynamics play a more crucial role than previously thought. The implications extend beyond academic interest, influencing how organizations structure teams and how educational institutions design collaborative learning environments. Furthermore, the rise of digital technologies has created new forms of collective intelligence, such as crowdsourcing platforms and online collaborative projects, which operate on unprecedented scales and across geographic boundaries.",
+      "question": "What is the author's purpose in mentioning digital technologies at the end of the passage?",
+      "options": [
+        "To criticize traditional forms of collaboration",
+        "To illustrate how collective intelligence has evolved beyond physical groups",
+        "To argue that technology has reduced the need for social sensitivity",
+        "To suggest that online collaboration is superior to in-person teamwork",
+        "To demonstrate that geographic boundaries no longer exist"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazar dijital teknolojileri, kolektif zekanın yeni formlarını (kalabalık kaynak platformları, çevrimiçi işbirliği) göstermek ve fiziksel grupların ötesine nasıl geçtiğini örneklemek için kullanıyor. A eleştiri yok, C teknolojinin sosyal hassasiyeti azalttığı söylenmiyor, D üstünlük iddiası yok, E coğrafi sınırların kalktığı değil, bunların ötesinde çalışıldığı belirtiliyor.",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    },
+    {
+      "id": 56,
+      "section": "reading_comprehension",
+      "passage": "Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, has revolutionized our understanding of cognitive development and recovery from brain injuries. For decades, scientists believed that the adult brain was relatively fixed and incapable of significant change. This dogma has been thoroughly dismantled by mounting evidence demonstrating that the brain remains malleable well into old age. Environmental enrichment, learning new skills, and even meditation have been shown to induce structural changes in the brain. For instance, London taxi drivers, who must memorize complex city layouts, exhibit enlarged hippocampi compared to the general population. Similarly, musicians show enhanced development in areas responsible for auditory processing and fine motor control. The therapeutic implications are profound. Stroke patients can recover lost functions through intensive rehabilitation that leverages neuroplasticity. Moreover, understanding neuroplasticity has led to novel interventions for conditions ranging from depression to learning disabilities. However, neuroplasticity is a double-edged sword; maladaptive plasticity can reinforce harmful patterns, such as chronic pain or addiction. The challenge for modern neuroscience is to harness beneficial plasticity while preventing detrimental changes.",
+      "question": "What is the main point the author makes about neuroplasticity?",
+      "options": [
+        "It only occurs in young children and cannot happen in adults.",
+        "It has both positive therapeutic potential and possible negative consequences.",
+        "It is exclusively beneficial and has no drawbacks.",
+        "It only affects specific brain regions like the hippocampus.",
+        "It can only be induced through professional medical interventions."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazar nöroplastisitenin hem olumlu terapötik potansiyelini (inme hastaları, depresyon, öğrenme bozuklukları) hem de olumsuz sonuçlarını (kronik ağrı, bağımlılık) vurguluyor. 'Double-edged sword' (iki ucu keskin kılıç) ifadesi bunu açıkça gösteriyor. A yanlış (yetişkinlerde de olur), C tek taraflı (sadece fayda değil), D sadece hipokampüs değil pek çok bölge, E sadece tıbbi müdahale değil öğrenme ve meditasyon da etki ediyor.",
+      "difficulty": "intermediate",
+      "question_type": "main_idea"
+    },
+    {
+      "id": 57,
+      "section": "reading_comprehension",
+      "passage": "Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, has revolutionized our understanding of cognitive development and recovery from brain injuries. For decades, scientists believed that the adult brain was relatively fixed and incapable of significant change. This dogma has been thoroughly dismantled by mounting evidence demonstrating that the brain remains malleable well into old age. Environmental enrichment, learning new skills, and even meditation have been shown to induce structural changes in the brain. For instance, London taxi drivers, who must memorize complex city layouts, exhibit enlarged hippocampi compared to the general population. Similarly, musicians show enhanced development in areas responsible for auditory processing and fine motor control. The therapeutic implications are profound. Stroke patients can recover lost functions through intensive rehabilitation that leverages neuroplasticity. Moreover, understanding neuroplasticity has led to novel interventions for conditions ranging from depression to learning disabilities. However, neuroplasticity is a double-edged sword; maladaptive plasticity can reinforce harmful patterns, such as chronic pain or addiction. The challenge for modern neuroscience is to harness beneficial plasticity while preventing detrimental changes.",
+      "question": "According to the passage, which of the following is given as an example of neuroplasticity?",
+      "options": [
+        "Stroke patients losing their motor functions permanently",
+        "London taxi drivers having larger hippocampi than average",
+        "The brain becoming completely fixed in adulthood",
+        "Chronic pain disappearing without treatment",
+        "Musicians performing worse at auditory tasks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajda açıkça 'London taxi drivers...exhibit enlarged hippocampi compared to the general population' deniliyor. Bu nöroplastisitenin somut bir örneği. A tersine bir durum (inme hastaları iyileşebilir), C nöroplastisiteye aykırı, D pasajda kronik ağrının kendiliğinden kaybolduğu söylenmiyor, E müzisyenlerin işitsel görevlerde DAHA İYİ olduğu belirtiliyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 58,
+      "section": "reading_comprehension",
+      "passage": "Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, has revolutionized our understanding of cognitive development and recovery from brain injuries. For decades, scientists believed that the adult brain was relatively fixed and incapable of significant change. This dogma has been thoroughly dismantled by mounting evidence demonstrating that the brain remains malleable well into old age. Environmental enrichment, learning new skills, and even meditation have been shown to induce structural changes in the brain. For instance, London taxi drivers, who must memorize complex city layouts, exhibit enlarged hippocampi compared to the general population. Similarly, musicians show enhanced development in areas responsible for auditory processing and fine motor control. The therapeutic implications are profound. Stroke patients can recover lost functions through intensive rehabilitation that leverages neuroplasticity. Moreover, understanding neuroplasticity has led to novel interventions for conditions ranging from depression to learning disabilities. However, neuroplasticity is a double-edged sword; maladaptive plasticity can reinforce harmful patterns, such as chronic pain or addiction. The challenge for modern neuroscience is to harness beneficial plasticity while preventing detrimental changes.",
+      "question": "It can be inferred from the passage that the old scientific belief about adult brains ____.",
+      "options": [
+        "has been confirmed by recent research on neuroplasticity",
+        "was based on extensive evidence about brain malleability",
+        "has been proven incorrect by contemporary neuroscience findings",
+        "is still widely accepted among modern scientists",
+        "only applied to children, not adults"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda 'This dogma has been thoroughly dismantled by mounting evidence' (bu dogma artan kanıtlarla tamamen yıkıldı) deniliyor. Yani eski inanç (yetişkin beyninin sabit olduğu) çağdaş sinirbilim bulgularıyla yanlış olduğu kanıtlanmış. A tam tersi, B eski inanç kanıta değil dogmaya dayanıyordu, D artık kabul görmüyor, E eski inanç özellikle yetişkinler için geçerliydi.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 59,
+      "section": "reading_comprehension",
+      "passage": "Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, has revolutionized our understanding of cognitive development and recovery from brain injuries. For decades, scientists believed that the adult brain was relatively fixed and incapable of significant change. This dogma has been thoroughly dismantled by mounting evidence demonstrating that the brain remains malleable well into old age. Environmental enrichment, learning new skills, and even meditation have been shown to induce structural changes in the brain. For instance, London taxi drivers, who must memorize complex city layouts, exhibit enlarged hippocampi compared to the general population. Similarly, musicians show enhanced development in areas responsible for auditory processing and fine motor control. The therapeutic implications are profound. Stroke patients can recover lost functions through intensive rehabilitation that leverages neuroplasticity. Moreover, understanding neuroplasticity has led to novel interventions for conditions ranging from depression to learning disabilities. However, neuroplasticity is a double-edged sword; maladaptive plasticity can reinforce harmful patterns, such as chronic pain or addiction. The challenge for modern neuroscience is to harness beneficial plasticity while preventing detrimental changes.",
+      "question": "The word 'malleable' in the passage is closest in meaning to ____.",
+      "options": [
+        "rigid and unchangeable",
+        "flexible and adaptable",
+        "fragile and weak",
+        "complex and mysterious",
+        "permanent and stable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Malleable' esnek, şekil verilebilir, uyarlanabilir anlamındadır. Pasajda beynin yaşlılığa kadar 'malleable' (şekil verilebilir) olduğu, yani değişebileceği anlatılıyor. Bu 'flexible and adaptable' ile eş anlamlıdır. A tam tersi, C kırılgan anlamında ki bu farklı, D karmaşık ve gizemli alakasız, E kalıcı ve sabit yine tam tersi.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 60,
+      "section": "reading_comprehension",
+      "passage": "Neuroplasticity, the brain's remarkable ability to reorganize itself by forming new neural connections throughout life, has revolutionized our understanding of cognitive development and recovery from brain injuries. For decades, scientists believed that the adult brain was relatively fixed and incapable of significant change. This dogma has been thoroughly dismantled by mounting evidence demonstrating that the brain remains malleable well into old age. Environmental enrichment, learning new skills, and even meditation have been shown to induce structural changes in the brain. For instance, London taxi drivers, who must memorize complex city layouts, exhibit enlarged hippocampi compared to the general population. Similarly, musicians show enhanced development in areas responsible for auditory processing and fine motor control. The therapeutic implications are profound. Stroke patients can recover lost functions through intensive rehabilitation that leverages neuroplasticity. Moreover, understanding neuroplasticity has led to novel interventions for conditions ranging from depression to learning disabilities. However, neuroplasticity is a double-edged sword; maladaptive plasticity can reinforce harmful patterns, such as chronic pain or addiction. The challenge for modern neuroscience is to harness beneficial plasticity while preventing detrimental changes.",
+      "question": "What is the author's primary purpose in writing this passage?",
+      "options": [
+        "To criticize outdated scientific beliefs about the brain",
+        "To explain the concept of neuroplasticity and its implications",
+        "To promote meditation as a brain development technique",
+        "To discourage people from engaging in harmful behaviors",
+        "To compare taxi drivers with musicians"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazarın amacı nöroplastisite kavramını açıklamak ve bunun hem olumlu (terapötik) hem olumsuz (maladaptif) sonuçlarını tartışmaktır. A eleştiri var ama bu ana amaç değil, C meditasyon sadece bir örnek, D davranışları engellemek amaç değil, E taksi şoförleri ve müzisyenler sadece örnekler, karşılaştırma ana amaç değil.",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    },
+    {
+      "id": 61,
+      "section": "reading_comprehension",
+      "passage": "The transition from fossil fuels to renewable energy sources represents one of the most significant technological and economic shifts in modern history. While the urgency of addressing climate change has accelerated this transition, the path forward is fraught with challenges that extend beyond technical feasibility. Energy storage remains a critical bottleneck; solar and wind power generation are inherently intermittent, requiring sophisticated battery systems or alternative storage solutions to ensure grid stability. Current lithium-ion technology, while improving, faces constraints related to raw material availability, environmental impact of mining, and recycling challenges. Furthermore, the infrastructure required for a renewable energy economy demands massive investment. Upgrading electrical grids, installing charging stations for electric vehicles, and retrofitting buildings for energy efficiency require coordinated efforts across public and private sectors. Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation. However, the economic case for renewables strengthens daily. The levelized cost of electricity from solar and wind has declined dramatically, making renewables competitive with or cheaper than fossil fuels in many markets. This economic shift, combined with policy incentives and growing public awareness, suggests that the renewable transition, while complex, is both necessary and increasingly inevitable.",
+      "question": "What does the passage identify as the main obstacle to renewable energy adoption?",
+      "options": [
+        "Public opposition to renewable technologies",
+        "The high cost of solar and wind power generation",
+        "Intermittent energy production and storage limitations",
+        "Lack of technical knowledge about renewable systems",
+        "Resistance from fossil fuel industries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda 'Energy storage remains a critical bottleneck' (enerji depolama kritik bir darboğaz) ve güneş/rüzgar enerjisinin 'inherently intermittent' (doğası gereği kesintili) olduğu vurgulanıyor. A halka muhalefet bahsedilmiyor, B artık maliyet düştüğü belirtiliyor (competitive or cheaper), D teknik bilgi eksikliği geçmiyor, E fosil yakıt endüstrisi direnci bahsedilmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 62,
+      "section": "reading_comprehension",
+      "passage": "The transition from fossil fuels to renewable energy sources represents one of the most significant technological and economic shifts in modern history. While the urgency of addressing climate change has accelerated this transition, the path forward is fraught with challenges that extend beyond technical feasibility. Energy storage remains a critical bottleneck; solar and wind power generation are inherently intermittent, requiring sophisticated battery systems or alternative storage solutions to ensure grid stability. Current lithium-ion technology, while improving, faces constraints related to raw material availability, environmental impact of mining, and recycling challenges. Furthermore, the infrastructure required for a renewable energy economy demands massive investment. Upgrading electrical grids, installing charging stations for electric vehicles, and retrofitting buildings for energy efficiency require coordinated efforts across public and private sectors. Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation. However, the economic case for renewables strengthens daily. The levelized cost of electricity from solar and wind has declined dramatically, making renewables competitive with or cheaper than fossil fuels in many markets. This economic shift, combined with policy incentives and growing public awareness, suggests that the renewable transition, while complex, is both necessary and increasingly inevitable.",
+      "question": "According to the passage, developing nations face unique challenges because they ____.",
+      "options": [
+        "have no interest in renewable energy technologies",
+        "produce more fossil fuels than developed countries",
+        "must balance development needs with sustainability and often lack funding",
+        "have already completed their energy infrastructure upgrades",
+        "refuse to cooperate with international environmental agreements"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda açıkça 'Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation' deniliyor. A ilgisizlik yok, B daha çok fosil yakıt üretimi bahsedilmiyor, D tam tersi (altyapı yükseltmesi tamamlanmadı), E uluslararası anlaşmalara direnç bahsedilmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 63,
+      "section": "reading_comprehension",
+      "passage": "The transition from fossil fuels to renewable energy sources represents one of the most significant technological and economic shifts in modern history. While the urgency of addressing climate change has accelerated this transition, the path forward is fraught with challenges that extend beyond technical feasibility. Energy storage remains a critical bottleneck; solar and wind power generation are inherently intermittent, requiring sophisticated battery systems or alternative storage solutions to ensure grid stability. Current lithium-ion technology, while improving, faces constraints related to raw material availability, environmental impact of mining, and recycling challenges. Furthermore, the infrastructure required for a renewable energy economy demands massive investment. Upgrading electrical grids, installing charging stations for electric vehicles, and retrofitting buildings for energy efficiency require coordinated efforts across public and private sectors. Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation. However, the economic case for renewables strengthens daily. The levelized cost of electricity from solar and wind has declined dramatically, making renewables competitive with or cheaper than fossil fuels in many markets. This economic shift, combined with policy incentives and growing public awareness, suggests that the renewable transition, while complex, is both necessary and increasingly inevitable.",
+      "question": "It can be inferred from the passage that the author believes the renewable energy transition is ____.",
+      "options": [
+        "impossible to achieve in the near future",
+        "only beneficial for developed countries",
+        "challenging but ultimately unavoidable",
+        "unnecessary given current fossil fuel reserves",
+        "primarily driven by technological breakthroughs"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Son cümlede yazar 'the renewable transition, while complex, is both necessary and increasingly inevitable' (karmaşık olsa da hem gerekli hem de giderek kaçınılmaz) diyor. Bu 'challenging but ultimately unavoidable' ile eş anlamlı. A imkansız değil kaçınılmaz, B sadece gelişmiş ülkeler için değil, D gereksiz değil gerekli, E sadece teknoloji değil ekonomik ve politik faktörler de etkili.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 64,
+      "section": "reading_comprehension",
+      "passage": "The transition from fossil fuels to renewable energy sources represents one of the most significant technological and economic shifts in modern history. While the urgency of addressing climate change has accelerated this transition, the path forward is fraught with challenges that extend beyond technical feasibility. Energy storage remains a critical bottleneck; solar and wind power generation are inherently intermittent, requiring sophisticated battery systems or alternative storage solutions to ensure grid stability. Current lithium-ion technology, while improving, faces constraints related to raw material availability, environmental impact of mining, and recycling challenges. Furthermore, the infrastructure required for a renewable energy economy demands massive investment. Upgrading electrical grids, installing charging stations for electric vehicles, and retrofitting buildings for energy efficiency require coordinated efforts across public and private sectors. Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation. However, the economic case for renewables strengthens daily. The levelized cost of electricity from solar and wind has declined dramatically, making renewables competitive with or cheaper than fossil fuels in many markets. This economic shift, combined with policy incentives and growing public awareness, suggests that the renewable transition, while complex, is both necessary and increasingly inevitable.",
+      "question": "The word 'fraught' in the passage is closest in meaning to ____.",
+      "options": [
+        "empty of",
+        "filled with",
+        "free from",
+        "unrelated to",
+        "indifferent about"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Fraught with' bir şeyle dolu olmak, yüklü olmak anlamındadır. 'The path forward is fraught with challenges' = ileriye giden yol zorluklarla dolu. Filled with (ile dolu) en yakın eş anlamlı. A boş, C den arınmış, D ile ilgisiz, E hakkında kayıtsız anlamlarında olup 'fraught' ile eş anlamlı değil.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 65,
+      "section": "reading_comprehension",
+      "passage": "The transition from fossil fuels to renewable energy sources represents one of the most significant technological and economic shifts in modern history. While the urgency of addressing climate change has accelerated this transition, the path forward is fraught with challenges that extend beyond technical feasibility. Energy storage remains a critical bottleneck; solar and wind power generation are inherently intermittent, requiring sophisticated battery systems or alternative storage solutions to ensure grid stability. Current lithium-ion technology, while improving, faces constraints related to raw material availability, environmental impact of mining, and recycling challenges. Furthermore, the infrastructure required for a renewable energy economy demands massive investment. Upgrading electrical grids, installing charging stations for electric vehicles, and retrofitting buildings for energy efficiency require coordinated efforts across public and private sectors. Developing nations face particularly acute challenges, as they must balance economic development with environmental sustainability, often lacking the capital for rapid infrastructure transformation. However, the economic case for renewables strengthens daily. The levelized cost of electricity from solar and wind has declined dramatically, making renewables competitive with or cheaper than fossil fuels in many markets. This economic shift, combined with policy incentives and growing public awareness, suggests that the renewable transition, while complex, is both necessary and increasingly inevitable.",
+      "question": "The author mentions the declining cost of solar and wind energy primarily to ____.",
+      "options": [
+        "criticize fossil fuel companies for high prices",
+        "demonstrate that economic factors support the renewable transition",
+        "prove that technology always becomes cheaper over time",
+        "argue against government investment in renewable infrastructure",
+        "show that developing nations can easily afford renewables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazar 'the economic case for renewables strengthens daily' diyerek maliyet düşüşünün ekonomik faktörlerin yenilenebilir enerjiye geçişi desteklediğini gösteriyor. A fosil yakıt eleştirisi yok, C genel bir teknoloji trendi değil spesifik bir durum, D hükümet yatırımına karşı değil (coordinated efforts deniliyor), E gelişmekte olan ülkelerin kolay karşılayabileceği söylenmiyor (hala sermaye eksikliği var).",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    },
+    {
+      "id": 66,
+      "section": "reading_comprehension",
+      "passage": "The concept of emotional intelligence (EI) has gained significant traction in psychology and organizational behavior since Daniel Goleman popularized it in the 1990s. Unlike traditional cognitive intelligence (IQ), which measures analytical and logical reasoning abilities, emotional intelligence encompasses the capacity to recognize, understand, and manage one's own emotions, as well as to perceive and influence the emotions of others. Proponents argue that EI is a better predictor of success in both personal and professional domains than IQ, particularly in roles requiring interpersonal interaction and leadership. The framework typically includes four core components: self-awareness, self-management, social awareness, and relationship management. Research has demonstrated correlations between high EI and various positive outcomes, including effective leadership, team cohesion, stress management, and conflict resolution. However, the concept has not been without criticism. Some psychologists argue that EI is poorly defined and difficult to measure objectively, with assessment tools often relying on self-reporting that may be biased. Others contend that EI overlaps substantially with established personality traits and adds little explanatory value beyond existing psychological constructs. Despite these debates, emotional intelligence continues to feature prominently in corporate training programs and educational curricula, suggesting that practitioners value its practical applications even as academic controversies persist.",
+      "question": "What is the primary distinction the passage makes between EI and IQ?",
+      "options": [
+        "EI is easier to measure objectively than IQ.",
+        "IQ focuses on analytical abilities while EI involves emotional capacities.",
+        "EI is only relevant in professional settings, unlike IQ.",
+        "IQ has been proven more important for success than EI.",
+        "EI can be learned but IQ is entirely genetic."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajda açıkça IQ'nun 'analytical and logical reasoning abilities' (analitik ve mantıksal akıl yürütme yetenekleri) ölçtüğü, EI'nin ise duyguları tanıma, anlama ve yönetme kapasitesini kapsadığı belirtiliyor. A EI'nin objektif ölçülmesinin zor olduğu söyleniyor, C EI hem kişisel hem profesyonel alanlarda geçerli, D IQ'nun daha önemli olduğu kanıtlanmadı, E öğrenilebilirlik/genetik konu bahsedilmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 67,
+      "section": "reading_comprehension",
+      "passage": "The concept of emotional intelligence (EI) has gained significant traction in psychology and organizational behavior since Daniel Goleman popularized it in the 1990s. Unlike traditional cognitive intelligence (IQ), which measures analytical and logical reasoning abilities, emotional intelligence encompasses the capacity to recognize, understand, and manage one's own emotions, as well as to perceive and influence the emotions of others. Proponents argue that EI is a better predictor of success in both personal and professional domains than IQ, particularly in roles requiring interpersonal interaction and leadership. The framework typically includes four core components: self-awareness, self-management, social awareness, and relationship management. Research has demonstrated correlations between high EI and various positive outcomes, including effective leadership, team cohesion, stress management, and conflict resolution. However, the concept has not been without criticism. Some psychologists argue that EI is poorly defined and difficult to measure objectively, with assessment tools often relying on self-reporting that may be biased. Others contend that EI overlaps substantially with established personality traits and adds little explanatory value beyond existing psychological constructs. Despite these debates, emotional intelligence continues to feature prominently in corporate training programs and educational curricula, suggesting that practitioners value its practical applications even as academic controversies persist.",
+      "question": "According to the passage, critics of emotional intelligence argue that ____.",
+      "options": [
+        "it is more important than IQ in all situations",
+        "it lacks clear definition and objective measurement methods",
+        "it has been completely proven by scientific research",
+        "it should replace traditional personality assessments",
+        "it is only useful in educational settings"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajda eleştiriler kısmında 'Some psychologists argue that EI is poorly defined and difficult to measure objectively' (bazı psikologlar EI'nin zayıf tanımlandığını ve objektif ölçülmesinin zor olduğunu savunuyor) deniliyor. A EI savunucularının argümanı eleştiri değil, C bilimsel kanıt eleştiri değil, D kişilik testlerini değiştirmesi önerilmiyor, E sadece eğitimde değil kurumsal eğitimlerde de kullanılıyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 68,
+      "section": "reading_comprehension",
+      "passage": "The concept of emotional intelligence (EI) has gained significant traction in psychology and organizational behavior since Daniel Goleman popularized it in the 1990s. Unlike traditional cognitive intelligence (IQ), which measures analytical and logical reasoning abilities, emotional intelligence encompasses the capacity to recognize, understand, and manage one's own emotions, as well as to perceive and influence the emotions of others. Proponents argue that EI is a better predictor of success in both personal and professional domains than IQ, particularly in roles requiring interpersonal interaction and leadership. The framework typically includes four core components: self-awareness, self-management, social awareness, and relationship management. Research has demonstrated correlations between high EI and various positive outcomes, including effective leadership, team cohesion, stress management, and conflict resolution. However, the concept has not been without criticism. Some psychologists argue that EI is poorly defined and difficult to measure objectively, with assessment tools often relying on self-reporting that may be biased. Others contend that EI overlaps substantially with established personality traits and adds little explanatory value beyond existing psychological constructs. Despite these debates, emotional intelligence continues to feature prominently in corporate training programs and educational curricula, suggesting that practitioners value its practical applications even as academic controversies persist.",
+      "question": "It can be inferred from the passage that the author's attitude toward emotional intelligence is ____.",
+      "options": [
+        "strongly supportive without reservation",
+        "completely dismissive and critical",
+        "balanced, acknowledging both value and limitations",
+        "primarily focused on academic criticism",
+        "exclusively concerned with corporate applications"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Yazar hem EI'nin olumlu yönlerini (başarı tahmini, pozitif sonuçlar) hem de eleştirileri (tanım sorunu, ölçüm zorlukları) objektif bir şekilde sunuyor. Son cümle de dengeli bir yaklaşım gösteriyor: akademik tartışmalar devam ederken uygulayıcılar pratik değer görüyor. A rezervsiz destek yok, B tamamen eleştirel değil, D sadece eleştiri değil destek de var, E sadece kurumsal uygulamalar değil.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 69,
+      "section": "reading_comprehension",
+      "passage": "The concept of emotional intelligence (EI) has gained significant traction in psychology and organizational behavior since Daniel Goleman popularized it in the 1990s. Unlike traditional cognitive intelligence (IQ), which measures analytical and logical reasoning abilities, emotional intelligence encompasses the capacity to recognize, understand, and manage one's own emotions, as well as to perceive and influence the emotions of others. Proponents argue that EI is a better predictor of success in both personal and professional domains than IQ, particularly in roles requiring interpersonal interaction and leadership. The framework typically includes four core components: self-awareness, self-management, social awareness, and relationship management. Research has demonstrated correlations between high EI and various positive outcomes, including effective leadership, team cohesion, stress management, and conflict resolution. However, the concept has not been without criticism. Some psychologists argue that EI is poorly defined and difficult to measure objectively, with assessment tools often relying on self-reporting that may be biased. Others contend that EI overlaps substantially with established personality traits and adds little explanatory value beyond existing psychological constructs. Despite these debates, emotional intelligence continues to feature prominently in corporate training programs and educational curricula, suggesting that practitioners value its practical applications even as academic controversies persist.",
+      "question": "The word 'traction' in the first sentence is closest in meaning to ____.",
+      "options": [
+        "resistance",
+        "popularity",
+        "criticism",
+        "complexity",
+        "rejection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Gained traction' bir şeyin popülerlik kazanması, kabul görmesi, yaygınlaşması anlamında kullanılan bir deyimdir. EI'nin psikoloji ve örgütsel davranışta 'gained significant traction' = önemli ölçüde popülerlik kazandı/yaygınlaştı. A direnç tam tersi, C eleştiri alakasız, D karmaşıklık farklı anlam, E reddetme tam tersi.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 70,
+      "section": "reading_comprehension",
+      "passage": "The concept of emotional intelligence (EI) has gained significant traction in psychology and organizational behavior since Daniel Goleman popularized it in the 1990s. Unlike traditional cognitive intelligence (IQ), which measures analytical and logical reasoning abilities, emotional intelligence encompasses the capacity to recognize, understand, and manage one's own emotions, as well as to perceive and influence the emotions of others. Proponents argue that EI is a better predictor of success in both personal and professional domains than IQ, particularly in roles requiring interpersonal interaction and leadership. The framework typically includes four core components: self-awareness, self-management, social awareness, and relationship management. Research has demonstrated correlations between high EI and various positive outcomes, including effective leadership, team cohesion, stress management, and conflict resolution. However, the concept has not been without criticism. Some psychologists argue that EI is poorly defined and difficult to measure objectively, with assessment tools often relying on self-reporting that may be biased. Others contend that EI overlaps substantially with established personality traits and adds little explanatory value beyond existing psychological constructs. Despite these debates, emotional intelligence continues to feature prominently in corporate training programs and educational curricula, suggesting that practitioners value its practical applications even as academic controversies persist.",
+      "question": "Why does the author mention corporate training programs and educational curricula?",
+      "options": [
+        "To criticize the commercialization of psychological concepts",
+        "To illustrate that EI has practical value despite academic debates",
+        "To argue that academic research should focus on corporate needs",
+        "To prove that emotional intelligence is scientifically valid",
+        "To suggest that practitioners are unaware of academic criticisms"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazar son cümlede kurumsal eğitim programlarını ve müfredatı, uygulayıcıların EI'nin pratik uygulamalarına değer verdiğini göstermek için kullanıyor - akademik tartışmalar devam etse bile. Bu, teorik eleştirilere rağmen pratik değerini vurguluyor. A ticarileştirme eleştirisi yok, C akademik araştırmanın kurumsal ihtiyaçlara odaklanması gerektiği söylenmiyor, D bilimsel geçerlilik kanıtı olarak sunmuyor, E uygulayıcıların eleştirilerden habersiz olduğu iddia edilmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    },
+    {
+      "id": 71,
+      "section": "reading_comprehension",
+      "passage": "Antibiotic resistance has emerged as one of the most pressing public health challenges of the 21st century. The overuse and misuse of antibiotics in both human medicine and agriculture have accelerated the evolution of resistant bacterial strains, rendering previously effective treatments obsolete. When antibiotics are prescribed unnecessarily—such as for viral infections against which they are ineffective—or when patients fail to complete prescribed courses, bacteria are exposed to sublethal doses that promote the selection of resistant variants. Agricultural practices compound the problem; livestock are routinely given antibiotics not only to treat infections but also to promote growth, creating vast reservoirs of resistant bacteria that can transfer to humans through the food chain or environmental contamination. The consequences are dire: infections that were once easily treatable with common antibiotics now require more expensive, toxic, or less effective alternatives, and in some cases, no effective treatment exists. The World Health Organization has identified antibiotic resistance as a global health emergency, estimating that resistant infections could cause 10 million deaths annually by 2050 if current trends continue. Addressing this crisis requires a multifaceted approach: developing new antibiotics, implementing stricter regulations on antibiotic use in agriculture, improving infection prevention measures, and educating both healthcare providers and the public about appropriate antibiotic stewardship. However, pharmaceutical companies have limited financial incentives to invest in new antibiotic development, as these drugs are typically used sparingly and for short durations, making them less profitable than medications for chronic conditions.",
+      "question": "What is the main idea of the passage?",
+      "options": [
+        "Antibiotics should be banned in agriculture to prevent resistance.",
+        "Antibiotic resistance is a complex global crisis requiring multiple solutions.",
+        "Pharmaceutical companies are solely responsible for the antibiotic crisis.",
+        "Viral infections are becoming more dangerous than bacterial ones.",
+        "All antibiotics will become completely useless by 2050."
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasaj antibiyotik direncinin küresel bir sağlık krizi olduğunu ve çok yönlü bir yaklaşım (yeni antibiyotik geliştirme, düzenlemeler, önleme, eğitim) gerektirdiğini anlatıyor. A yasaklanması değil daha sıkı düzenleme öneriliyor, C sadece ilaç şirketleri değil birçok faktör sorumlu, D viral enfeksiyonların tehlikesi bahsedilmiyor, E tamamen işe yaramaz olacağı değil dirençli enfeksiyonların 10 milyon ölüme neden olabileceği söyleniyor.",
+      "difficulty": "intermediate",
+      "question_type": "main_idea"
+    },
+    {
+      "id": 72,
+      "section": "reading_comprehension",
+      "passage": "Antibiotic resistance has emerged as one of the most pressing public health challenges of the 21st century. The overuse and misuse of antibiotics in both human medicine and agriculture have accelerated the evolution of resistant bacterial strains, rendering previously effective treatments obsolete. When antibiotics are prescribed unnecessarily—such as for viral infections against which they are ineffective—or when patients fail to complete prescribed courses, bacteria are exposed to sublethal doses that promote the selection of resistant variants. Agricultural practices compound the problem; livestock are routinely given antibiotics not only to treat infections but also to promote growth, creating vast reservoirs of resistant bacteria that can transfer to humans through the food chain or environmental contamination. The consequences are dire: infections that were once easily treatable with common antibiotics now require more expensive, toxic, or less effective alternatives, and in some cases, no effective treatment exists. The World Health Organization has identified antibiotic resistance as a global health emergency, estimating that resistant infections could cause 10 million deaths annually by 2050 if current trends continue. Addressing this crisis requires a multifaceted approach: developing new antibiotics, implementing stricter regulations on antibiotic use in agriculture, improving infection prevention measures, and educating both healthcare providers and the public about appropriate antibiotic stewardship. However, pharmaceutical companies have limited financial incentives to invest in new antibiotic development, as these drugs are typically used sparingly and for short durations, making them less profitable than medications for chronic conditions.",
+      "question": "According to the passage, antibiotic resistance in agriculture occurs because ____.",
+      "options": [
+        "farmers intentionally try to create resistant bacteria",
+        "livestock are given antibiotics for both treatment and growth promotion",
+        "agricultural antibiotics are more powerful than medical ones",
+        "animals naturally develop resistance faster than humans",
+        "there are no regulations on antibiotic use in farming"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajda açıkça 'livestock are routinely given antibiotics not only to treat infections but also to promote growth' (çiftlik hayvanlarına sadece enfeksiyonu tedavi etmek için değil, aynı zamanda büyümeyi teşvik etmek için de antibiyotik veriliyor) deniliyor. A kasıtlı direnç yaratma yok, C tarımsal antibiyotiklerin daha güçlü olduğu söylenmiyor, D hayvanların doğal olarak daha hızlı direnç geliştirdiği iddia edilmiyor, E hiç düzenleme olmadığı değil daha sıkı düzenleme gerektiği söyleniyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 73,
+      "section": "reading_comprehension",
+      "passage": "Antibiotic resistance has emerged as one of the most pressing public health challenges of the 21st century. The overuse and misuse of antibiotics in both human medicine and agriculture have accelerated the evolution of resistant bacterial strains, rendering previously effective treatments obsolete. When antibiotics are prescribed unnecessarily—such as for viral infections against which they are ineffective—or when patients fail to complete prescribed courses, bacteria are exposed to sublethal doses that promote the selection of resistant variants. Agricultural practices compound the problem; livestock are routinely given antibiotics not only to treat infections but also to promote growth, creating vast reservoirs of resistant bacteria that can transfer to humans through the food chain or environmental contamination. The consequences are dire: infections that were once easily treatable with common antibiotics now require more expensive, toxic, or less effective alternatives, and in some cases, no effective treatment exists. The World Health Organization has identified antibiotic resistance as a global health emergency, estimating that resistant infections could cause 10 million deaths annually by 2050 if current trends continue. Addressing this crisis requires a multifaceted approach: developing new antibiotics, implementing stricter regulations on antibiotic use in agriculture, improving infection prevention measures, and educating both healthcare providers and the public about appropriate antibiotic stewardship. However, pharmaceutical companies have limited financial incentives to invest in new antibiotic development, as these drugs are typically used sparingly and for short durations, making them less profitable than medications for chronic conditions.",
+      "question": "It can be inferred from the passage that pharmaceutical companies ____.",
+      "options": [
+        "are investing heavily in new antibiotic research",
+        "prefer developing drugs for long-term use because they are more profitable",
+        "only care about public health, not profits",
+        "have solved the antibiotic resistance problem",
+        "are required by law to develop new antibiotics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Pasajın son cümlesinde antibiyotiklerin 'typically used sparingly and for short durations, making them less profitable than medications for chronic conditions' (genellikle az ve kısa süreli kullanılıyor, bu da onları kronik hastalıklar için ilaçlardan daha az karlı yapıyor) deniliyor. Buradan ilaç şirketlerinin uzun süreli kullanılan ilaçları tercih ettiği çıkarımı yapılabilir. A yoğun yatırım yapmıyorlar (limited incentives), C sadece halk sağlığı değil kar da önemli, D çözmediler, E yasal zorunluluk bahsedilmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 74,
+      "section": "reading_comprehension",
+      "passage": "Antibiotic resistance has emerged as one of the most pressing public health challenges of the 21st century. The overuse and misuse of antibiotics in both human medicine and agriculture have accelerated the evolution of resistant bacterial strains, rendering previously effective treatments obsolete. When antibiotics are prescribed unnecessarily—such as for viral infections against which they are ineffective—or when patients fail to complete prescribed courses, bacteria are exposed to sublethal doses that promote the selection of resistant variants. Agricultural practices compound the problem; livestock are routinely given antibiotics not only to treat infections but also to promote growth, creating vast reservoirs of resistant bacteria that can transfer to humans through the food chain or environmental contamination. The consequences are dire: infections that were once easily treatable with common antibiotics now require more expensive, toxic, or less effective alternatives, and in some cases, no effective treatment exists. The World Health Organization has identified antibiotic resistance as a global health emergency, estimating that resistant infections could cause 10 million deaths annually by 2050 if current trends continue. Addressing this crisis requires a multifaceted approach: developing new antibiotics, implementing stricter regulations on antibiotic use in agriculture, improving infection prevention measures, and educating both healthcare providers and the public about appropriate antibiotic stewardship. However, pharmaceutical companies have limited financial incentives to invest in new antibiotic development, as these drugs are typically used sparingly and for short durations, making them less profitable than medications for chronic conditions.",
+      "question": "The word 'dire' in the passage is closest in meaning to ____.",
+      "options": [
+        "extremely serious",
+        "mildly concerning",
+        "completely irrelevant",
+        "surprisingly positive",
+        "moderately important"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A şıkkı doğru cevaptır. 'Dire' son derece ciddi, vahim, korkunç anlamındadır. 'The consequences are dire' = sonuçlar son derece ciddidir. Ardından pahalı tedaviler, zehirli alternatifler ve bazen hiç etkili tedavi olmaması gibi çok olumsuz durumlar sıralanıyor, bu da 'extremely serious' anlamını destekliyor. B hafif endişe verici çok zayıf, C tamamen alakasız yanlış, D şaşırtıcı derecede olumlu tam tersi, E orta derecede önemli yetersiz.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 75,
+      "section": "reading_comprehension",
+      "passage": "Antibiotic resistance has emerged as one of the most pressing public health challenges of the 21st century. The overuse and misuse of antibiotics in both human medicine and agriculture have accelerated the evolution of resistant bacterial strains, rendering previously effective treatments obsolete. When antibiotics are prescribed unnecessarily—such as for viral infections against which they are ineffective—or when patients fail to complete prescribed courses, bacteria are exposed to sublethal doses that promote the selection of resistant variants. Agricultural practices compound the problem; livestock are routinely given antibiotics not only to treat infections but also to promote growth, creating vast reservoirs of resistant bacteria that can transfer to humans through the food chain or environmental contamination. The consequences are dire: infections that were once easily treatable with common antibiotics now require more expensive, toxic, or less effective alternatives, and in some cases, no effective treatment exists. The World Health Organization has identified antibiotic resistance as a global health emergency, estimating that resistant infections could cause 10 million deaths annually by 2050 if current trends continue. Addressing this crisis requires a multifaceted approach: developing new antibiotics, implementing stricter regulations on antibiotic use in agriculture, improving infection prevention measures, and educating both healthcare providers and the public about appropriate antibiotic stewardship. However, pharmaceutical companies have limited financial incentives to invest in new antibiotic development, as these drugs are typically used sparingly and for short durations, making them less profitable than medications for chronic conditions.",
+      "question": "The author mentions the World Health Organization's estimate primarily to ____.",
+      "options": [
+        "promote WHO's public health campaigns",
+        "emphasize the severity and urgency of the antibiotic resistance crisis",
+        "criticize the organization's research methods",
+        "suggest that the problem will solve itself by 2050",
+        "compare antibiotic resistance with other health issues"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazar WHO'nun 2050'ye kadar 10 milyon ölüm tahmini yapmasını, antibiyotik direnci krizinin CİDDİYETİNİ ve ACİLİYETİNİ vurgulamak için kullanıyor. Bu büyük sayı okuyucuda krizin önemini kavratıyor. A WHO kampanyalarını tanıtma amacı yok, C araştırma yöntemlerini eleştirmiyor, D kendiliğinden çözüleceği değil mevcut eğilimler devam ederse kötüleşeceği söyleniyor, E diğer sağlık sorunlarıyla karşılaştırma yapmıyor.",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    },
+    {
+      "id": 76,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon known as 'doomscrolling'—the compulsive consumption of negative news online—has become increasingly prevalent in the digital age. Social media algorithms, designed to maximize user engagement, tend to prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content. This creates a feedback loop: users seeking to stay informed encounter disturbing news, which prompts algorithm-driven recommendations for similar content, leading to prolonged exposure to distressing information. Psychological studies have documented the harmful effects of this behavior, including increased anxiety, depression, and feelings of helplessness. The COVID-19 pandemic significantly amplified doomscrolling tendencies, as people sought constant updates about a rapidly evolving crisis. However, experts note that while staying informed is important for civic engagement, there is a crucial distinction between purposeful news consumption and passive, compulsive scrolling. The latter provides diminishing informational returns while exacting increasing psychological costs. Mental health professionals recommend specific strategies to combat doomscrolling: setting time limits for news consumption, curating news sources to include balanced and solution-oriented reporting, and consciously choosing to engage with uplifting or constructive content. Additionally, cultivating awareness of one's emotional state while consuming news can help individuals recognize when information-seeking has crossed into harmful territory. Understanding the algorithmic mechanisms that facilitate doomscrolling can empower users to make more deliberate choices about their digital consumption habits.",
+      "question": "According to the passage, social media algorithms promote negative content because ____.",
+      "options": [
+        "they want to harm users' mental health deliberately",
+        "negative news is more accurate than positive news",
+        "it generates stronger emotional engagement from users",
+        "positive content is censored by government regulations",
+        "users explicitly request more negative information"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda 'algorithms...prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content' (algoritmalar güçlü duygusal tepkiler uyandıran içeriği önceliklendiriyor, araştırmalar olumsuz bilginin bunu olumlu içerikten daha etkili yaptığını gösteriyor) deniliyor. A kasıtlı zarar verme amacı yok, B olumsuz haberlerin daha doğru olduğu söylenmiyor, C devlet sansürü bahsedilmiyor, E kullanıcıların açıkça istemesi değil algoritmanın öncelik vermesi söyleniyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 77,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon known as 'doomscrolling'—the compulsive consumption of negative news online—has become increasingly prevalent in the digital age. Social media algorithms, designed to maximize user engagement, tend to prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content. This creates a feedback loop: users seeking to stay informed encounter disturbing news, which prompts algorithm-driven recommendations for similar content, leading to prolonged exposure to distressing information. Psychological studies have documented the harmful effects of this behavior, including increased anxiety, depression, and feelings of helplessness. The COVID-19 pandemic significantly amplified doomscrolling tendencies, as people sought constant updates about a rapidly evolving crisis. However, experts note that while staying informed is important for civic engagement, there is a crucial distinction between purposeful news consumption and passive, compulsive scrolling. The latter provides diminishing informational returns while exacting increasing psychological costs. Mental health professionals recommend specific strategies to combat doomscrolling: setting time limits for news consumption, curating news sources to include balanced and solution-oriented reporting, and consciously choosing to engage with uplifting or constructive content. Additionally, cultivating awareness of one's emotional state while consuming news can help individuals recognize when information-seeking has crossed into harmful territory. Understanding the algorithmic mechanisms that facilitate doomscrolling can empower users to make more deliberate choices about their digital consumption habits.",
+      "question": "The passage suggests that doomscrolling differs from regular news consumption in that doomscrolling ____.",
+      "options": [
+        "provides more useful information than purposeful news reading",
+        "is a deliberate and controlled activity",
+        "is compulsive and offers decreasing benefits with increasing harm",
+        "only occurred during the COVID-19 pandemic",
+        "is recommended by mental health professionals"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Pasajda 'purposeful news consumption' (amaçlı haber tüketimi) ile 'passive, compulsive scrolling' (pasif, kompulsif kaydırma) arasındaki fark vurgulanıyor. Doomscrolling 'provides diminishing informational returns while exacting increasing psychological costs' (azalan bilgilendirme getirisi sağlarken artan psikolojik maliyetler doğuruyor). A daha faydalı değil daha az, B kasıtlı ve kontrollü değil kompulsif, D sadece pandemide değil pandemide yoğunlaştı, E ruh sağlığı uzmanları öneriyor değil mücadele yöntemleri öneriyor.",
+      "difficulty": "intermediate",
+      "question_type": "inference"
+    },
+    {
+      "id": 78,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon known as 'doomscrolling'—the compulsive consumption of negative news online—has become increasingly prevalent in the digital age. Social media algorithms, designed to maximize user engagement, tend to prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content. This creates a feedback loop: users seeking to stay informed encounter disturbing news, which prompts algorithm-driven recommendations for similar content, leading to prolonged exposure to distressing information. Psychological studies have documented the harmful effects of this behavior, including increased anxiety, depression, and feelings of helplessness. The COVID-19 pandemic significantly amplified doomscrolling tendencies, as people sought constant updates about a rapidly evolving crisis. However, experts note that while staying informed is important for civic engagement, there is a crucial distinction between purposeful news consumption and passive, compulsive scrolling. The latter provides diminishing informational returns while exacting increasing psychological costs. Mental health professionals recommend specific strategies to combat doomscrolling: setting time limits for news consumption, curating news sources to include balanced and solution-oriented reporting, and consciously choosing to engage with uplifting or constructive content. Additionally, cultivating awareness of one's emotional state while consuming news can help individuals recognize when information-seeking has crossed into harmful territory. Understanding the algorithmic mechanisms that facilitate doomscrolling can empower users to make more deliberate choices about their digital consumption habits.",
+      "question": "Which of the following is NOT mentioned as a strategy to combat doomscrolling?",
+      "options": [
+        "Setting time limits for news consumption",
+        "Choosing balanced and solution-oriented news sources",
+        "Deleting all social media accounts permanently",
+        "Being aware of one's emotional state while reading news",
+        "Engaging with uplifting or constructive content"
+      ],
+      "correctAnswer": 2,
+      "explanation": "C şıkkı doğru cevaptır. Sosyal medya hesaplarını kalıcı olarak silmek pasajda önerilen stratejiler arasında YOK. Pasajda önerilen stratejiler: zaman limitleri koymak (A), dengeli ve çözüm odaklı haber kaynakları seçmek (B), duygusal durumun farkında olmak (D), ve yapıcı içerikle etkileşime geçmek (E). C radikal bir çözüm ve pasajda geçmiyor.",
+      "difficulty": "intermediate",
+      "question_type": "detail"
+    },
+    {
+      "id": 79,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon known as 'doomscrolling'—the compulsive consumption of negative news online—has become increasingly prevalent in the digital age. Social media algorithms, designed to maximize user engagement, tend to prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content. This creates a feedback loop: users seeking to stay informed encounter disturbing news, which prompts algorithm-driven recommendations for similar content, leading to prolonged exposure to distressing information. Psychological studies have documented the harmful effects of this behavior, including increased anxiety, depression, and feelings of helplessness. The COVID-19 pandemic significantly amplified doomscrolling tendencies, as people sought constant updates about a rapidly evolving crisis. However, experts note that while staying informed is important for civic engagement, there is a crucial distinction between purposeful news consumption and passive, compulsive scrolling. The latter provides diminishing informational returns while exacting increasing psychological costs. Mental health professionals recommend specific strategies to combat doomscrolling: setting time limits for news consumption, curating news sources to include balanced and solution-oriented reporting, and consciously choosing to engage with uplifting or constructive content. Additionally, cultivating awareness of one's emotional state while consuming news can help individuals recognize when information-seeking has crossed into harmful territory. Understanding the algorithmic mechanisms that facilitate doomscrolling can empower users to make more deliberate choices about their digital consumption habits.",
+      "question": "The word 'amplified' in the passage is closest in meaning to ____.",
+      "options": [
+        "reduced",
+        "intensified",
+        "eliminated",
+        "ignored",
+        "simplified"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. 'Amplified' güçlendirmek, yoğunlaştırmak, artırmak anlamındadır. 'The COVID-19 pandemic significantly amplified doomscrolling tendencies' = Pandemi doomscrolling eğilimlerini önemli ölçüde yoğunlaştırdı/artırdı. Intensified (yoğunlaştırdı) en yakın eş anlamlı. A azalttı tam tersi, C ortadan kaldırdı yanlış, D görmezden geldi alakasız, E basitleştirdi farklı anlam.",
+      "difficulty": "intermediate",
+      "question_type": "vocabulary"
+    },
+    {
+      "id": 80,
+      "section": "reading_comprehension",
+      "passage": "The phenomenon known as 'doomscrolling'—the compulsive consumption of negative news online—has become increasingly prevalent in the digital age. Social media algorithms, designed to maximize user engagement, tend to prioritize content that triggers strong emotional responses, which research suggests negative information often does more effectively than positive content. This creates a feedback loop: users seeking to stay informed encounter disturbing news, which prompts algorithm-driven recommendations for similar content, leading to prolonged exposure to distressing information. Psychological studies have documented the harmful effects of this behavior, including increased anxiety, depression, and feelings of helplessness. The COVID-19 pandemic significantly amplified doomscrolling tendencies, as people sought constant updates about a rapidly evolving crisis. However, experts note that while staying informed is important for civic engagement, there is a crucial distinction between purposeful news consumption and passive, compulsive scrolling. The latter provides diminishing informational returns while exacting increasing psychological costs. Mental health professionals recommend specific strategies to combat doomscrolling: setting time limits for news consumption, curating news sources to include balanced and solution-oriented reporting, and consciously choosing to engage with uplifting or constructive content. Additionally, cultivating awareness of one's emotional state while consuming news can help individuals recognize when information-seeking has crossed into harmful territory. Understanding the algorithmic mechanisms that facilitate doomscrolling can empower users to make more deliberate choices about their digital consumption habits.",
+      "question": "The author's primary purpose in this passage is to ____.",
+      "options": [
+        "promote social media platforms and their algorithms",
+        "explain doomscrolling and suggest ways to avoid its negative effects",
+        "argue that all news consumption should be eliminated",
+        "blame users entirely for their poor digital habits",
+        "defend the role of algorithms in modern society"
+      ],
+      "correctAnswer": 1,
+      "explanation": "B şıkkı doğru cevaptır. Yazarın amacı doomscrolling fenomenini açıklamak (tanımı, nedenleri, etkileri) ve olumsuz etkilerinden kaçınmak için stratejiler önermek (zaman limitleri, kaynak seçimi, farkındalık). A sosyal medya platformlarını tanıtma amacı yok, C tüm haber tüketiminin ortadan kaldırılması önerilmiyor (amaçlı haber tüketimi önemli), D kullanıcıları tamamen suçlama yok (algoritmaların rolü de vurgulanıyor), E algoritmaları savunma amacı yok.",
+      "difficulty": "intermediate",
+      "question_type": "purpose"
+    }
+  ]
+}

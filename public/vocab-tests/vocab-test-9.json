@@ -1,0 +1,1290 @@
+{
+  "exam_id": "exam_9_full_practice",
+  "title": "YDS Full Practice Exam 9",
+  "description": "Complete 80-question YDS practice exam focusing on AI ethics, climate adaptation, mental health, urbanization, and digital privacy",
+  "duration": 180,
+  "total_questions": 80,
+  "passing_score": 70,
+  "questions": [
+    {
+      "id": "q-exam9-001",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "The company's ---- approach to data collection raised concerns among privacy advocates.",
+      "options": [
+        "transparent",
+        "invasive",
+        "negligible",
+        "superficial",
+        "conventional"
+      ],
+      "correct_answer": 1,
+      "explanation": "Invasive (istilacı, gizliliği ihlal eden) veri toplama yaklaşımı gizlilik savunucularında endişe uyandırır. Transparent (şeffaf) olumlu olurdu, negligible (önemsiz) ve superficial (yüzeysel) bağlama uymaz, conventional (geleneksel) nötr bir ifadedir.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-002",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Artificial intelligence systems must be designed with ---- mechanisms to prevent bias and discrimination.",
+      "options": [
+        "arbitrary",
+        "obsolete",
+        "safeguard",
+        "superficial",
+        "ambiguous"
+      ],
+      "correct_answer": 2,
+      "explanation": "Safeguard (koruma, güvenlik önlemi) mekanizmaları önyargı ve ayrımcılığı önlemek için gereklidir. Arbitrary (keyfi), obsolete (modası geçmiş), superficial (yüzeysel) ve ambiguous (belirsiz) AI sistemleri için uygun değildir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-003",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- rapid urbanization has led to significant changes in traditional community structures.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 4,
+      "explanation": "Urbanization (kentleşme) sayılamayan soyut bir isimdir ve genel anlamda kullanıldığında article almaz. 'Rapid urbanization' hızlı kentleşme sürecini genel olarak ifade eder.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-004",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Climate scientists emphasize the need for ---- strategies to cope with environmental changes.",
+      "options": [
+        "static",
+        "adaptive",
+        "conventional",
+        "temporary",
+        "isolated"
+      ],
+      "correct_answer": 1,
+      "explanation": "Adaptive (uyarlanabilir, adapte olan) stratejiler çevresel değişikliklerle başa çıkmak için gereklidir. Static (statik), conventional (geleneksel), temporary (geçici) ve isolated (izole) stratejiler etkili olmaz.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-005",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The ---- of mental health issues in many societies prevents people from seeking help.",
+      "options": [
+        "prevalence",
+        "stigmatization",
+        "documentation",
+        "celebration",
+        "regulation"
+      ],
+      "correct_answer": 1,
+      "explanation": "Stigmatization (damgalama, lekelenme) insanların yardım aramalarını engeller. Prevalence (yaygınlık) engel olmaz, documentation (belgeleme), celebration (kutlama) ve regulation (düzenleme) bağlama uymaz.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-006",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Researchers are studying the impact of social media ---- mental well-being.",
+      "options": [
+        "on",
+        "at",
+        "for",
+        "with",
+        "to"
+      ],
+      "correct_answer": 0,
+      "explanation": "'Impact on' kalıbı kullanılır (etkisi, üzerinde etkisi). 'The impact of X on Y' yapısı doğrudur. Diğer edatlar bu bağlamda yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-007",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Urban planners must ---- the needs of diverse populations when designing public spaces.",
+      "options": [
+        "neglect",
+        "dismiss",
+        "accommodate",
+        "contradict",
+        "eliminate"
+      ],
+      "correct_answer": 2,
+      "explanation": "Accommodate (karşılamak, uyum sağlamak) farklı nüfusların ihtiyaçlarını karşılamak anlamına gelir. Neglect (ihmal etmek), dismiss (reddetmek), contradict (çelişmek) ve eliminate (ortadan kaldırmak) olumsuz anlamlardır.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-008",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- artificial intelligence becomes more sophisticated, ethical concerns grow accordingly.",
+      "options": [
+        "Despite",
+        "As",
+        "Unless",
+        "Although",
+        "In case"
+      ],
+      "correct_answer": 1,
+      "explanation": "'As' (iken, olarak, -dıkça) burada zaman ve neden ilişkisi kurar. AI gelişirken etik endişeler artıyor. Despite ve although zıtlık, unless şart, in case ihtimal bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-009",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The government implemented ---- measures to protect citizens' data from unauthorized access.",
+      "options": [
+        "stringent",
+        "lax",
+        "ambiguous",
+        "hypothetical",
+        "arbitrary"
+      ],
+      "correct_answer": 0,
+      "explanation": "Stringent (katı, sıkı) önlemler veri koruması için uygundur. Lax (gevşek), ambiguous (belirsiz), hypothetical (varsayımsal) ve arbitrary (keyfi) etkisiz olur.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-010",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Climate change ---- agricultural productivity in many regions worldwide.",
+      "options": [
+        "enhances",
+        "undermines",
+        "stabilizes",
+        "ignores",
+        "celebrates"
+      ],
+      "correct_answer": 1,
+      "explanation": "Undermine (baltalamak, zayıflatmak) iklim değişikliğinin tarımsal verimliliğe olumsuz etkisini gösterir. Enhances (artırır) ve stabilizes (stabilize eder) olumlu, ignores (görmezden gelir) ve celebrates (kutlar) mantıksızdır.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-011",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Mental health professionals recommend seeking help ---- symptoms persist for more than two weeks.",
+      "options": [
+        "if",
+        "unless",
+        "although",
+        "because",
+        "despite"
+      ],
+      "correct_answer": 0,
+      "explanation": "'If' (eğer) şart cümlesi oluşturur: semptomlar iki haftadan fazla sürerse yardım aranmalı. Unless (değilse), although (rağmen) ve despite (rağmen) yanlış mantık, because (çünkü) neden bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-012",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The rapid ---- of cities has created challenges for infrastructure and public services.",
+      "options": [
+        "deterioration",
+        "stagnation",
+        "proliferation",
+        "reduction",
+        "isolation"
+      ],
+      "correct_answer": 2,
+      "explanation": "Proliferation (hızlı artış, yayılma) şehirlerin büyümesini ifade eder. Deterioration (bozulma), stagnation (durgunluk), reduction (azalma) ve isolation (izolasyon) büyümeyi ifade etmez.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-013",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- United Nations has launched initiatives to address digital inequality globally.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "United Nations (Birleşmiş Milletler) benzersiz bir organizasyondur ve 'the' article'ı kullanılır. Organizasyon isimleri genellikle 'the' alır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-014",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "AI developers must ensure their algorithms are ---- and free from inherent biases.",
+      "options": [
+        "discriminatory",
+        "transparent",
+        "secretive",
+        "arbitrary",
+        "obsolete"
+      ],
+      "correct_answer": 1,
+      "explanation": "Transparent (şeffaf) algoritmalar önyargıdan arınmış olmalıdır. Discriminatory (ayrımcı), secretive (gizli), arbitrary (keyfi) ve obsolete (modası geçmiş) olumsuz özelliklerdir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-015",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Psychologists emphasize the importance of ---- intervention in treating mental health disorders.",
+      "options": [
+        "delayed",
+        "superficial",
+        "timely",
+        "reluctant",
+        "arbitrary"
+      ],
+      "correct_answer": 2,
+      "explanation": "Timely (zamanında, vaktinde) müdahale ruh sağlığı bozukluklarında önemlidir. Delayed (gecikmeli), superficial (yüzeysel), reluctant (isteksiz) ve arbitrary (keyfi) etkisiz müdahale türleridir.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-016",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "The government is investing ---- renewable energy infrastructure to combat climate change.",
+      "options": [
+        "on",
+        "in",
+        "for",
+        "at",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Invest in' kalıbı kullanılır (yatırım yapmak). 'Invest in something' yapısı doğrudur. On, for, at, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-017",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Personal data protection laws aim to ---- individuals from corporate exploitation.",
+      "options": [
+        "expose",
+        "safeguard",
+        "isolate",
+        "discourage",
+        "abandon"
+      ],
+      "correct_answer": 1,
+      "explanation": "Safeguard (korumak) bireyleri kurumsal sömürüden korur. Expose (maruz bırakmak), isolate (izole etmek), discourage (caydırmak) ve abandon (terk etmek) koruma sağlamaz.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-018",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- climate scientists warn about rising temperatures, some policymakers remain skeptical.",
+      "options": [
+        "Because",
+        "Although",
+        "Since",
+        "Unless",
+        "As soon as"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Although' (rağmen) zıtlık bildirir: bilim insanları uyarsa da, politikacılar şüpheli kalıyor. Because ve since neden, unless şart, as soon as zaman bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-019",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Urban migration has led to the ---- of traditional rural communities.",
+      "options": [
+        "reinforcement",
+        "expansion",
+        "erosion",
+        "celebration",
+        "documentation"
+      ],
+      "correct_answer": 2,
+      "explanation": "Erosion (aşınma, yok olma) geleneksel kırsal toplulukların zayıflamasını ifade eder. Reinforcement (güçlendirme), expansion (genişleme), celebration (kutlama) ve documentation (belgeleme) olumsuz etkiyi göstermez.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-020",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "AI systems should be ---- to human oversight to prevent autonomous decision-making errors.",
+      "options": [
+        "immune",
+        "subject",
+        "opposed",
+        "indifferent",
+        "resistant"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Subject to' (tabi olmak, maruz kalmak) insan denetimine tabi olmak anlamındadır. Immune (bağışık), opposed (karşı), indifferent (kayıtsız) ve resistant (dirençli) uygun değildir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-021",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Therapists work ---- patients to develop coping strategies for anxiety and depression.",
+      "options": [
+        "with",
+        "for",
+        "at",
+        "on",
+        "by"
+      ],
+      "correct_answer": 0,
+      "explanation": "'Work with' (ile birlikte çalışmak) kalıbı kullanılır. Terapistler hastalarla birlikte çalışır. For, at, on, by edatları bu bağlamda yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-022",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The ---- between economic development and environmental protection remains a key policy challenge.",
+      "options": [
+        "harmony",
+        "tension",
+        "similarity",
+        "independence",
+        "irrelevance"
+      ],
+      "correct_answer": 1,
+      "explanation": "Tension (gerilim, çatışma) ekonomik kalkınma ve çevre koruma arasındaki çelişkiyi gösterir. Harmony (uyum) zıt anlam, similarity (benzerlik), independence (bağımsızlık) ve irrelevance (ilgisizlik) bağlama uymaz.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-023",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- internet has revolutionized communication but also raised privacy concerns.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "Internet (İnternet) benzersiz bir sistem olarak 'the' article'ı alır. Genel olarak internetten bahsederken 'the internet' kullanılır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-024",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Public awareness campaigns aim to ---- the stigma surrounding mental illness.",
+      "options": [
+        "perpetuate",
+        "amplify",
+        "combat",
+        "ignore",
+        "create"
+      ],
+      "correct_answer": 2,
+      "explanation": "Combat (mücadele etmek) damgalama ile savaşmak anlamındadır. Perpetuate (sürdürmek), amplify (yükseltmek), ignore (görmezden gelmek) ve create (yaratmak) olumsuz etkiler.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-025",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Smart city technologies must ---- the balance between efficiency and privacy.",
+      "options": [
+        "disrupt",
+        "maintain",
+        "abandon",
+        "ignore",
+        "contradict"
+      ],
+      "correct_answer": 1,
+      "explanation": "Maintain (korumak, sürdürmek) verimlilik ve gizlilik arasındaki dengeyi sağlamak anlamındadır. Disrupt (bozmak), abandon (terk etmek), ignore (görmezden gelmek) ve contradict (çelişmek) olumsuz anlamlardır.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-026",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Companies must comply ---- data protection regulations or face substantial penalties.",
+      "options": [
+        "on",
+        "with",
+        "for",
+        "at",
+        "to"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Comply with' (uymak) kalıbı kullanılır. Şirketler düzenlemelere uymalı. On, for, at, to edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-027",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Machine learning algorithms can ---- existing social inequalities if not carefully monitored.",
+      "options": [
+        "eliminate",
+        "perpetuate",
+        "prevent",
+        "solve",
+        "ignore"
+      ],
+      "correct_answer": 1,
+      "explanation": "Perpetuate (sürdürmek, devam ettirmek) eşitsizliklerin devam etmesine neden olabilir. Eliminate (ortadan kaldırmak), prevent (önlemek) ve solve (çözmek) olumlu, ignore (görmezden gelmek) pasiftir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-028",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- both governments and individuals must take action to address climate change.",
+      "options": [
+        "Neither",
+        "Either",
+        "Both",
+        "Not only",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "'Both X and Y' (hem X hem Y) yapısı kullanılır. Hem hükümetler hem bireyler harekete geçmeli. Neither, either, not only farklı yapılar gerektirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-029",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Digital platforms must implement ---- consent mechanisms for data collection.",
+      "options": [
+        "implicit",
+        "assumed",
+        "explicit",
+        "vague",
+        "arbitrary"
+      ],
+      "correct_answer": 2,
+      "explanation": "Explicit (açık, net) onay mekanizmaları veri toplama için gereklidir. Implicit (zımni), assumed (varsayılan), vague (belirsiz) ve arbitrary (keyfi) yetersizdir.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-030",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Mental health services should be ---- to all members of society regardless of income.",
+      "options": [
+        "restricted",
+        "accessible",
+        "exclusive",
+        "limited",
+        "prohibited"
+      ],
+      "correct_answer": 1,
+      "explanation": "Accessible (erişilebilir) ruh sağlığı hizmetlerinin herkese açık olması gerektiğini gösterir. Restricted (kısıtlı), exclusive (seçkin), limited (sınırlı) ve prohibited (yasaklı) erişimi engeller.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-031",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Urban planners focus ---- creating sustainable and livable cities for future generations.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Focus on' (odaklanmak) kalıbı kullanılır. Şehir planlamacıları sürdürülebilir şehirler yaratmaya odaklanır. In, at, for, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-032",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Climate adaptation strategies must be ---- enough to address diverse regional challenges.",
+      "options": [
+        "rigid",
+        "inflexible",
+        "versatile",
+        "static",
+        "uniform"
+      ],
+      "correct_answer": 2,
+      "explanation": "Versatile (çok yönlü, esnek) stratejiler farklı bölgesel zorlukları ele alabilir. Rigid (katı), inflexible (esnek olmayan), static (sabit) ve uniform (tekdüze) yetersizdir.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-033",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- European Union has established strict regulations on artificial intelligence applications.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "European Union (Avrupa Birliği) benzersiz bir organizasyondur ve 'the' article'ı kullanılır. Birlik isimleri 'the' alır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-034",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "AI ethics frameworks should ---- the interests of all stakeholders in society.",
+      "options": [
+        "neglect",
+        "balance",
+        "oppose",
+        "eliminate",
+        "ignore"
+      ],
+      "correct_answer": 1,
+      "explanation": "Balance (dengelemek) toplumun tüm paydaşlarının çıkarlarını dengeler. Neglect (ihmal etmek), oppose (karşı çıkmak), eliminate (ortadan kaldırmak) ve ignore (görmezden gelmek) olumsuz anlamlardır.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-035",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The ---- nature of digital surveillance raises fundamental questions about civil liberties.",
+      "options": [
+        "transparent",
+        "limited",
+        "pervasive",
+        "negligible",
+        "superficial"
+      ],
+      "correct_answer": 2,
+      "explanation": "Pervasive (her yere yayılan, yaygın) dijital gözetimin kapsamlılığını gösterir. Transparent (şeffaf), limited (sınırlı), negligible (önemsiz) ve superficial (yüzeysel) bağlama uymaz.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-036",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Psychologists attribute increased anxiety levels ---- excessive social media use.",
+      "options": [
+        "on",
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Attribute X to Y' (X'i Y'ye bağlamak) kalıbı kullanılır. Artmış kaygı seviyeleri sosyal medya kullanımına bağlanıyor. On, for, with, at edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-037",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Green infrastructure can ---- urban heat island effects and improve air quality.",
+      "options": [
+        "intensify",
+        "mitigate",
+        "create",
+        "ignore",
+        "worsen"
+      ],
+      "correct_answer": 1,
+      "explanation": "Mitigate (hafifletmek, azaltmak) şehir ısı adası etkilerini azaltır. Intensify (yoğunlaştırmak), create (yaratmak), ignore (görmezden gelmek) ve worsen (kötüleştirmek) olumsuz etkilerdir.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-038",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- mental health awareness increases, more people seek professional help.",
+      "options": [
+        "Despite",
+        "Although",
+        "As",
+        "Unless",
+        "In case"
+      ],
+      "correct_answer": 2,
+      "explanation": "'As' (iken, -dıkça) farkındalık arttıkça daha fazla insanın yardım aradığını gösterir. Despite ve although zıtlık, unless şart, in case ihtimal bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-039",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Climate models ---- that extreme weather events will become more frequent.",
+      "options": [
+        "deny",
+        "question",
+        "predict",
+        "ignore",
+        "prevent"
+      ],
+      "correct_answer": 2,
+      "explanation": "Predict (tahmin etmek) iklim modellerinin gelecek öngörüsünü gösterir. Deny (reddetmek), question (sorgulamak), ignore (görmezden gelmek) ve prevent (önlemek) model işlevine uymaz.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-040",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Data encryption is essential to ---- sensitive information from cyber attacks.",
+      "options": [
+        "expose",
+        "shield",
+        "reveal",
+        "publish",
+        "distribute"
+      ],
+      "correct_answer": 1,
+      "explanation": "Shield (korumak, kalkan olmak) hassas bilgileri siber saldırılardan korur. Expose (açığa çıkarmak), reveal (ifşa etmek), publish (yayınlamak) ve distribute (dağıtmak) güvenlik sağlamaz.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-041",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "AI developers are responsible ---- ensuring their systems operate ethically.",
+      "options": [
+        "on",
+        "for",
+        "at",
+        "with",
+        "to"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Responsible for' (sorumlu olmak) kalıbı kullanılır. Geliştiriciler etik çalışmadan sorumludur. On, at, with, to edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-042",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "The ---- between urban development and heritage preservation requires careful planning.",
+      "options": [
+        "compatibility",
+        "conflict",
+        "indifference",
+        "similarity",
+        "irrelevance"
+      ],
+      "correct_answer": 1,
+      "explanation": "Conflict (çatışma) kentsel gelişim ve miras koruma arasındaki gerilimidir. Compatibility (uyumluluk) zıt anlam, indifference (kayıtsızlık), similarity (benzerlik) ve irrelevance (ilgisizlik) bağlama uymaz.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-043",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- World Health Organization recognizes mental health as a fundamental human right.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "World Health Organization (Dünya Sağlık Örgütü) benzersiz bir kuruluştur ve 'the' article'ı kullanılır. Organizasyon isimleri 'the' alır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-044",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Cognitive behavioral therapy has proven ---- in treating various mental health conditions.",
+      "options": [
+        "ineffective",
+        "harmful",
+        "effective",
+        "irrelevant",
+        "superficial"
+      ],
+      "correct_answer": 2,
+      "explanation": "Effective (etkili) bilişsel davranışçı terapinin başarısını gösterir. Ineffective (etkisiz), harmful (zararlı), irrelevant (ilgisiz) ve superficial (yüzeysel) olumsuz anlamlardır.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-045",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Renewable energy ---- offers a sustainable alternative to fossil fuels.",
+      "options": [
+        "depletion",
+        "consumption",
+        "adoption",
+        "rejection",
+        "abandonment"
+      ],
+      "correct_answer": 2,
+      "explanation": "Adoption (benimseme, kabul etme) yenilenebilir enerjinin kullanılmaya başlanmasıdır. Depletion (tükenme), consumption (tüketim), rejection (reddetme) ve abandonment (terk etme) bağlama uymaz.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-046",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Users should be informed ---- how their personal data is being collected and used.",
+      "options": [
+        "on",
+        "about",
+        "for",
+        "at",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Informed about' (hakkında bilgilendirilmek) kalıbı kullanılır. Kullanıcılar veri kullanımı hakkında bilgilendirilmeli. On, for, at, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-047",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Autonomous systems must be designed to ---- human decision-making authority in critical situations.",
+      "options": [
+        "override",
+        "respect",
+        "eliminate",
+        "challenge",
+        "ignore"
+      ],
+      "correct_answer": 1,
+      "explanation": "Respect (saygı göstermek) kritik durumlarda insan karar verme yetkisine saygı gösterilmesidir. Override (geçersiz kılmak), eliminate (ortadan kaldırmak), challenge (meydan okumak) ve ignore (görmezden gelmek) olumsuz anlamlardır.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-048",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- more cities adopt smart technologies, the need for cybersecurity increases.",
+      "options": [
+        "Despite",
+        "Although",
+        "As",
+        "Unless",
+        "In case"
+      ],
+      "correct_answer": 2,
+      "explanation": "'As' (iken, -dıkça) şehirler akıllı teknolojileri benimserken siber güvenlik ihtiyacı artıyor. Despite ve although zıtlık, unless şart, in case ihtimal bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-049",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Public transportation systems are crucial for ---- carbon emissions in urban areas.",
+      "options": [
+        "increasing",
+        "maximizing",
+        "reducing",
+        "ignoring",
+        "creating"
+      ],
+      "correct_answer": 2,
+      "explanation": "Reducing (azaltmak) karbon emisyonlarının azaltılmasını ifade eder. Increasing (artırmak), maximizing (maksimize etmek), ignoring (görmezden gelmek) ve creating (yaratmak) olumsuz etkilerdir.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-050",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Mental health stigma can ---- individuals from disclosing their conditions to employers.",
+      "options": [
+        "encourage",
+        "deter",
+        "motivate",
+        "inspire",
+        "support"
+      ],
+      "correct_answer": 1,
+      "explanation": "Deter (caydırmak) damgalamanın bireyleri durumlarını açıklamaktan alıkoymasıdır. Encourage (teşvik etmek), motivate (motive etmek), inspire (ilham vermek) ve support (desteklemek) zıt anlamlardır.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-051",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Companies must adhere ---- ethical guidelines when developing AI technologies.",
+      "options": [
+        "on",
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Adhere to' (bağlı kalmak, uymak) kalıbı kullanılır. Şirketler etik kurallara uymalı. On, for, with, at edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-052",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Climate change ---- poses existential threats to low-lying coastal communities.",
+      "options": [
+        "remotely",
+        "indirectly",
+        "directly",
+        "vaguely",
+        "hypothetically"
+      ],
+      "correct_answer": 2,
+      "explanation": "Directly (doğrudan) iklim değişikliğinin sahil topluluklarına doğrudan tehdit oluşturduğunu gösterir. Remotely (uzaktan), indirectly (dolaylı), vaguely (belirsizce) ve hypothetically (varsayımsal olarak) zayıf bağlantıdır.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-053",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- artificial intelligence is a tool, not ---- replacement for human judgment.",
+      "options": [
+        "A / a",
+        "An / an",
+        "The / the",
+        "--- / a",
+        "--- / ---"
+      ],
+      "correct_answer": 3,
+      "explanation": "Artificial intelligence genel anlamda kullanıldığında article almaz (sayılamayan soyut kavram). 'Replacement' (değişim) sayılabilir isimdir ve 'a' alır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-054",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Privacy policies should be written in ---- language that users can easily understand.",
+      "options": [
+        "technical",
+        "obscure",
+        "plain",
+        "complex",
+        "ambiguous"
+      ],
+      "correct_answer": 2,
+      "explanation": "Plain (sade, anlaşılır) dil kullanıcıların kolayca anlayabileceği dildir. Technical (teknik), obscure (anlaşılmaz), complex (karmaşık) ve ambiguous (belirsiz) anlaşılmaz dil türleridir.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-055",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Urban density must be balanced with adequate green spaces to ensure ---- quality of life.",
+      "options": [
+        "deteriorating",
+        "declining",
+        "optimal",
+        "minimal",
+        "negligible"
+      ],
+      "correct_answer": 2,
+      "explanation": "Optimal (en uygun, ideal) yaşam kalitesi dengeli şehir planlaması için hedeftir. Deteriorating (kötüleşen), declining (düşen), minimal (minimal) ve negligible (önemsiz) olumsuz kalite seviyelerdir.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-056",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Mental health professionals collaborate ---- educators to support student well-being.",
+      "options": [
+        "on",
+        "with",
+        "for",
+        "at",
+        "to"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Collaborate with' (ile işbirliği yapmak) kalıbı kullanılır. Profesyoneller eğitimcilerle işbirliği yapar. On, for, at, to edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-057",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Algorithmic bias can ---- marginalized communities disproportionately.",
+      "options": [
+        "benefit",
+        "affect",
+        "ignore",
+        "empower",
+        "liberate"
+      ],
+      "correct_answer": 1,
+      "explanation": "Affect (etkilemek) algoritmik önyargının marjinal toplulukları olumsuz etkilemesidir. Benefit (fayda sağlamak), empower (güçlendirmek) ve liberate (özgürleştirmek) olumlu, ignore (görmezden gelmek) pasiftir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-058",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- sustainable development goals include targets for both climate action and urban planning.",
+      "options": [
+        "Despite",
+        "Although",
+        "Since",
+        "Unless",
+        "---"
+      ],
+      "correct_answer": 4,
+      "explanation": "Sustainable development goals (sürdürülebilir kalkınma hedefleri) çoğul isimdir ve genel anlamda kullanıldığında article almaz. Conjunction gerekmez, basit cümledir.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-059",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Digital literacy programs aim to ---- the gap between technology users and non-users.",
+      "options": [
+        "widen",
+        "create",
+        "bridge",
+        "ignore",
+        "maintain"
+      ],
+      "correct_answer": 2,
+      "explanation": "Bridge (köprü kurmak, arayı kapatmak) teknoloji kullanıcıları ve kullanmayanlar arasındaki uçurumu kapatır. Widen (genişletmek), create (yaratmak), ignore (görmezden gelmek) ve maintain (sürdürmek) uçurumu artırır.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-060",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Climate resilience requires communities to ---- and recover from environmental shocks.",
+      "options": [
+        "collapse",
+        "adapt",
+        "surrender",
+        "deteriorate",
+        "abandon"
+      ],
+      "correct_answer": 1,
+      "explanation": "Adapt (uyum sağlamak) iklim direnci için toplulukların çevresel şoklara uyum sağlamasıdır. Collapse (çökmek), surrender (teslim olmak), deteriorate (kötüleşmek) ve abandon (terk etmek) olumsuz tepkilerdir.",
+      "topic": "Climate Change"
+    },
+    {
+      "id": "q-exam9-061",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Patients benefit ---- early intervention in mental health treatment.",
+      "options": [
+        "on",
+        "from",
+        "for",
+        "at",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Benefit from' (fayda sağlamak, yararlanmak) kalıbı kullanılır. Hastalar erken müdahaleden fayda sağlar. On, for, at, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-062",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Mixed-use development can ---- urban sprawl and create walkable neighborhoods.",
+      "options": [
+        "encourage",
+        "curb",
+        "promote",
+        "accelerate",
+        "intensify"
+      ],
+      "correct_answer": 1,
+      "explanation": "Curb (frenlemek, önlemek) kentsel yayılmayı kontrol altına alır. Encourage (teşvik etmek), promote (desteklemek), accelerate (hızlandırmak) ve intensify (yoğunlaştırmak) yayılmayı artırır.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-063",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- AI systems become more autonomous, ethical oversight becomes more critical.",
+      "options": [
+        "Despite",
+        "As",
+        "Unless",
+        "Although",
+        "In case"
+      ],
+      "correct_answer": 1,
+      "explanation": "'As' (iken, -dıkça) AI sistemleri özerk hale geldikçe etik denetim daha kritik oluyor. Despite ve although zıtlık, unless şart, in case ihtimal bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-064",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Encryption technologies ---- user privacy by preventing unauthorized data access.",
+      "options": [
+        "violate",
+        "enhance",
+        "compromise",
+        "weaken",
+        "destroy"
+      ],
+      "correct_answer": 1,
+      "explanation": "Enhance (geliştirmek, artırmak) şifreleme teknolojilerinin gizliliği artırmasıdır. Violate (ihlal etmek), compromise (tehlikeye atmak), weaken (zayıflatmak) ve destroy (yok etmek) olumsuz etkilerdir.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-065",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Workplace mental health programs aim to ---- stress and improve productivity.",
+      "options": [
+        "amplify",
+        "alleviate",
+        "create",
+        "intensify",
+        "maximize"
+      ],
+      "correct_answer": 1,
+      "explanation": "Alleviate (hafifletmek) stresi azaltmak ve verimliliği artırmak için gereklidir. Amplify (yükseltmek), create (yaratmak), intensify (yoğunlaştırmak) ve maximize (maksimize etmek) stresi artırır.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-066",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Climate scientists rely ---- accurate data to develop predictive models.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Rely on' (güvenmek, dayanmak) kalıbı kullanılır. Bilim insanları doğru verilere güvenir. In, at, for, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-067",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Transparent AI decision-making processes help build public ---- in the technology.",
+      "options": [
+        "skepticism",
+        "trust",
+        "fear",
+        "resistance",
+        "hostility"
+      ],
+      "correct_answer": 1,
+      "explanation": "Trust (güven) şeffaf AI süreçlerinin kamuoyu güveni oluşturmasıdır. Skepticism (şüphecilik), fear (korku), resistance (direnç) ve hostility (düşmanlık) olumsuz tepkilerdir.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-068",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- Paris Agreement aims to limit global temperature rise to 1.5 degrees Celsius.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "Some",
+        "---"
+      ],
+      "correct_answer": 2,
+      "explanation": "Paris Agreement (Paris Anlaşması) benzersiz bir anlaşmadır ve 'the' article'ı kullanılır. Anlaşma isimleri 'the' alır.",
+      "topic": "Articles"
+    },
+    {
+      "id": "q-exam9-069",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Smart city initiatives must ---- inclusivity to prevent digital divides.",
+      "options": [
+        "neglect",
+        "prioritize",
+        "ignore",
+        "dismiss",
+        "abandon"
+      ],
+      "correct_answer": 1,
+      "explanation": "Prioritize (öncelik vermek) akıllı şehir girişimlerinin kapsayıcılığa öncelik vermesidir. Neglect (ihmal etmek), ignore (görmezden gelmek), dismiss (reddetmek) ve abandon (terk etmek) dijital uçurumları artırır.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-070",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Peer support groups provide ---- spaces for individuals to share mental health experiences.",
+      "options": [
+        "hostile",
+        "judgmental",
+        "safe",
+        "intimidating",
+        "exclusive"
+      ],
+      "correct_answer": 2,
+      "explanation": "Safe (güvenli) akran destek gruplarının bireylere güvenli alan sunmasıdır. Hostile (düşmanca), judgmental (yargılayıcı), intimidating (korkutucu) ve exclusive (dışlayıcı) olumsuz ortamlardır.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-071",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Data protection laws aim ---- preventing misuse of personal information.",
+      "options": [
+        "on",
+        "at",
+        "for",
+        "with",
+        "to"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Aim at' (hedeflemek, amaçlamak) kalıbı kullanılır. Yasalar kişisel bilgilerin kötüye kullanımını önlemeyi hedefler. On, for, with, to edatları bu yapıda yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-072",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Machine learning models require ---- datasets to avoid reinforcing existing biases.",
+      "options": [
+        "biased",
+        "homogeneous",
+        "diverse",
+        "limited",
+        "exclusive"
+      ],
+      "correct_answer": 2,
+      "explanation": "Diverse (çeşitli) veri setleri önyargıların pekişmesini önler. Biased (önyargılı), homogeneous (homojen), limited (sınırlı) ve exclusive (dışlayıcı) veri setleri önyargıyı artırır.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-073",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- not only individuals but also corporations must take responsibility for climate action.",
+      "options": [
+        "Either",
+        "Neither",
+        "Both",
+        "---",
+        "Whether"
+      ],
+      "correct_answer": 3,
+      "explanation": "'Not only X but also Y' (sadece X değil aynı zamanda Y) yapısı kullanılır. Hem bireyler hem şirketler sorumluluk almalı. Both, either, neither farklı yapılar gerektirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-074",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Urban green spaces can ---- mental health by providing areas for recreation and relaxation.",
+      "options": [
+        "harm",
+        "promote",
+        "damage",
+        "undermine",
+        "neglect"
+      ],
+      "correct_answer": 1,
+      "explanation": "Promote (desteklemek, teşvik etmek) yeşil alanların ruh sağlığını desteklemesidir. Harm (zarar vermek), damage (hasar vermek), undermine (baltalamak) ve neglect (ihmal etmek) olumsuz etkilerdir.",
+      "topic": "Mental Health"
+    },
+    {
+      "id": "q-exam9-075",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "Digital platforms must obtain ---- consent before collecting user data for commercial purposes.",
+      "options": [
+        "implicit",
+        "assumed",
+        "informed",
+        "vague",
+        "forced"
+      ],
+      "correct_answer": 2,
+      "explanation": "Informed (bilgilendirilmiş) onay kullanıcıların bilinçli karar vermesini sağlar. Implicit (zımni), assumed (varsayılan), vague (belirsiz) ve forced (zorla) onay türleri yetersizdir.",
+      "topic": "Digital Privacy"
+    },
+    {
+      "id": "q-exam9-076",
+      "type": "grammar",
+      "difficulty": "medium",
+      "text": "Governments invest ---- climate research to develop effective mitigation strategies.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "for",
+        "with"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Invest in' (yatırım yapmak) kalıbı kullanılır. Hükümetler iklim araştırmalarına yatırım yapar. On, at, for, with edatları yanlıştır.",
+      "topic": "Prepositions"
+    },
+    {
+      "id": "q-exam9-077",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Compact urban design can ---- energy consumption and reduce environmental impact.",
+      "options": [
+        "maximize",
+        "minimize",
+        "increase",
+        "waste",
+        "ignore"
+      ],
+      "correct_answer": 1,
+      "explanation": "Minimize (en aza indirmek) kompakt şehir tasarımının enerji tüketimini azaltmasıdır. Maximize (maksimize etmek), increase (artırmak), waste (israf etmek) ve ignore (görmezden gelmek) olumsuz etkilerdir.",
+      "topic": "Urbanization"
+    },
+    {
+      "id": "q-exam9-078",
+      "type": "vocabulary",
+      "difficulty": "hard",
+      "text": "AI accountability frameworks ensure that developers can be held ---- for system failures.",
+      "options": [
+        "innocent",
+        "responsible",
+        "immune",
+        "exempt",
+        "free"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Hold responsible' (sorumlu tutmak) geliştiricilerin sistem hatalarından sorumlu tutulmasıdır. Innocent (masum), immune (bağışık), exempt (muaf) ve free (özgür) sorumluluktan kaçınmadır.",
+      "topic": "AI Ethics"
+    },
+    {
+      "id": "q-exam9-079",
+      "type": "grammar",
+      "difficulty": "easy",
+      "text": "---- social stigma around mental illness persists, many people suffer in silence.",
+      "options": [
+        "Despite",
+        "Because",
+        "Unless",
+        "As soon as",
+        "In case"
+      ],
+      "correct_answer": 1,
+      "explanation": "'Because' (çünkü) damgalama devam ettiği için insanların sessizce acı çektiğini gösterir. Despite zıtlık, unless şart, as soon as zaman, in case ihtimal bildirir.",
+      "topic": "Conjunctions"
+    },
+    {
+      "id": "q-exam9-080",
+      "type": "vocabulary",
+      "difficulty": "medium",
+      "text": "Climate adaptation requires both technological innovation and behavioral ---- at the societal level.",
+      "options": [
+        "resistance",
+        "change",
+        "stagnation",
+        "rejection",
+        "refusal"
+      ],
+      "correct_answer": 1,
+      "explanation": "Change (değişim) iklim adaptasyonu için toplumsal davranış değişikliği gerektirir. Resistance (direnç), stagnation (durgunluk), rejection (reddetme) ve refusal (ret) olumsuz tepkilerdir.",
+      "topic": "Climate Change"
+    }
+  ]
+}

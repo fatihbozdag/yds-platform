@@ -1,0 +1,824 @@
+{
+  "lessons": [
+    {
+      "id": 12,
+      "title": "Subject-Verb Agreement",
+      "level": "intermediate",
+      "content": {
+        "introduction": "Subject-verb agreement is a fundamental grammatical principle that ensures the verb form matches the subject in number (singular or plural) and person. This is particularly tested in YDS/YÖKDİL through complex sentence structures where the subject may be distant from the verb or obscured by intervening phrases.",
+        "rules": [
+          {
+            "rule": "Basic Agreement",
+            "explanation": "Singular subjects take singular verbs; plural subjects take plural verbs.",
+            "examples": [
+              "The researcher conducts experiments daily. (singular)",
+              "The researchers conduct experiments daily. (plural)",
+              "The data suggests a correlation. (data as singular collective)",
+              "The data suggest multiple correlations. (data as plural)"
+            ]
+          },
+          {
+            "rule": "Subjects with Prepositional Phrases",
+            "explanation": "The verb agrees with the actual subject, not with nouns in prepositional phrases that follow the subject.",
+            "examples": [
+              "The impact of social media platforms is significant. (subject: impact)",
+              "The results of the experiment are conclusive. (subject: results)",
+              "One of the theories explains the phenomenon. (subject: one)",
+              "Neither of the hypotheses accounts for the discrepancy. (subject: neither)"
+            ]
+          },
+          {
+            "rule": "Compound Subjects with 'and'",
+            "explanation": "Subjects joined by 'and' are generally plural and take plural verbs, unless they refer to a single concept or entity.",
+            "examples": [
+              "Economics and politics influence policy decisions. (two subjects)",
+              "Research and development drive innovation. (two activities)",
+              "Bread and butter is a simple meal. (single concept)",
+              "The rise and fall of empires has fascinated historians. (single process)"
+            ]
+          },
+          {
+            "rule": "Subjects with 'or', 'nor', 'either...or', 'neither...nor'",
+            "explanation": "The verb agrees with the subject closest to it.",
+            "examples": [
+              "Neither the professor nor the students understand the policy. (students is closer)",
+              "Either the students or the professor understands the policy. (professor is closer)",
+              "Neither the hypothesis nor the findings were convincing. (findings is closer)",
+              "Either the findings or the hypothesis was flawed. (hypothesis is closer)"
+            ]
+          },
+          {
+            "rule": "Collective Nouns",
+            "explanation": "Collective nouns can be singular or plural depending on whether the group acts as one unit or as individuals.",
+            "examples": [
+              "The committee has reached a decision. (acting as one unit)",
+              "The committee have diverse opinions. (acting as individuals)",
+              "The majority supports the proposal. (single entity)",
+              "The majority of voters support the proposal. (individual voters)",
+              "The public is concerned about climate change. (general entity)",
+              "The public are divided on the issue. (individual members)"
+            ]
+          },
+          {
+            "rule": "Indefinite Pronouns",
+            "explanation": "Most indefinite pronouns are singular and take singular verbs. Some are always plural, and some depend on context.",
+            "examples": [
+              "Everyone in the department agrees with the decision. (singular)",
+              "Nobody understands the implications. (singular)",
+              "Both of the theories explain the phenomenon. (plural)",
+              "All of the data supports the hypothesis. (uncountable: singular)",
+              "All of the studies support the hypothesis. (countable: plural)",
+              "Some of the research is groundbreaking. (uncountable: singular)",
+              "Some of the researchers are skeptical. (countable: plural)"
+            ]
+          },
+          {
+            "rule": "Quantifiers and Expressions of Amount",
+            "explanation": "Phrases indicating amount or portion take singular or plural verbs depending on the noun that follows.",
+            "examples": [
+              "A number of researchers have questioned the findings. (plural)",
+              "The number of participants was limited. (singular)",
+              "A variety of methods were employed. (plural)",
+              "The majority of the evidence suggests correlation. (singular)",
+              "Half of the students have completed the survey. (plural)",
+              "Half of the research has been published. (singular)"
+            ]
+          },
+          {
+            "rule": "Subjects Following the Verb",
+            "explanation": "In inverted sentences, identify the true subject to determine verb agreement.",
+            "examples": [
+              "There are several theories explaining the phenomenon. (theories is subject)",
+              "There is a correlation between the variables. (correlation is subject)",
+              "Here comes the professor with the test results. (professor is subject)",
+              "Among the causes of the crisis were economic factors. (factors is subject)"
+            ]
+          },
+          {
+            "rule": "Relative Clauses",
+            "explanation": "In relative clauses, the verb agrees with the antecedent of the relative pronoun.",
+            "examples": [
+              "She is one of the researchers who have published extensively. (who refers to researchers)",
+              "This is the only study that addresses the issue comprehensively. (that refers to study)",
+              "The data that support this theory are compelling. (that refers to data - plural)",
+              "The evidence that supports this claim is substantial. (that refers to evidence - singular)"
+            ]
+          },
+          {
+            "rule": "Titles, Names, and Quotations",
+            "explanation": "Titles of works, company names, and quotations are treated as singular entities.",
+            "examples": [
+              "'The Social Sciences' is a comprehensive journal. (title: singular)",
+              "Cognitive Linguistics and Its Applications remains influential. (title: singular)",
+              "'Thirty years' is a long time for longitudinal research. (duration: singular)",
+              "Harvard University Press publishes academic works. (institution: singular)"
+            ]
+          }
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Agreement with nearest noun instead of subject",
+            "incorrect": "The use of digital devices are increasing.",
+            "correct": "The use of digital devices is increasing.",
+            "explanation": "The subject is 'use' (singular), not 'devices'."
+          },
+          {
+            "mistake": "Treating 'data' and 'media' inconsistently",
+            "incorrect": "The data shows interesting patterns.",
+            "correct": "The data show interesting patterns. (traditional plural) OR The data shows... (modern singular)",
+            "explanation": "In formal academic writing, 'data' is traditionally plural, though singular usage is increasingly accepted."
+          },
+          {
+            "mistake": "Incorrect agreement with indefinite pronouns",
+            "incorrect": "Everyone have their own opinion.",
+            "correct": "Everyone has their own opinion.",
+            "explanation": "'Everyone' is singular and requires a singular verb."
+          },
+          {
+            "mistake": "Wrong agreement with 'a number of' vs 'the number of'",
+            "incorrect": "A number of studies suggests this conclusion.",
+            "correct": "A number of studies suggest this conclusion.",
+            "explanation": "'A number of' takes a plural verb; 'the number of' takes singular."
+          }
+        ],
+        "ydsExamples": [
+          {
+            "question": "The complexity of the issues that ---- in contemporary linguistics ---- scholars from various disciplines.",
+            "options": [
+              "arise / attract",
+              "arises / attract",
+              "arise / attracts",
+              "arises / attracts",
+              "arising / attracted"
+            ],
+            "correct": 0,
+            "explanation": "First blank: 'that' refers to 'issues' (plural), so 'arise' is correct. Second blank: 'complexity' (singular) is the subject, so 'attracts' would make the sentence incorrect. The subject of the main clause is 'complexity' (singular), which requires a singular verb 'attracts'. However, in the relative clause, 'issues' is plural, requiring 'arise'. The correct answer shows both verbs matching their respective subjects."
+          },
+          {
+            "question": "Neither the theoretical framework nor the empirical findings ---- the observed phenomenon adequately.",
+            "options": [
+              "explains",
+              "explain",
+              "explaining",
+              "to explain",
+              "has explained"
+            ],
+            "correct": 1,
+            "explanation": "With 'neither...nor', the verb agrees with the nearest subject, which is 'findings' (plural), requiring 'explain'."
+          },
+          {
+            "question": "Each of the hypotheses proposed by the research team ---- extensive validation through empirical evidence.",
+            "options": [
+              "require",
+              "requires",
+              "requiring",
+              "have required",
+              "were requiring"
+            ],
+            "correct": 1,
+            "explanation": "'Each' is singular and requires a singular verb 'requires', regardless of the plural noun 'hypotheses' in the prepositional phrase."
+          }
+        ],
+        "practice": {
+          "exercises": [
+            "The implementation of new policies ---- (affect/affects) all stakeholders.",
+            "Either the methodology or the conclusions ---- (was/were) flawed.",
+            "A significant number of researchers ---- (has/have) criticized the approach.",
+            "The data collected from various sources ---- (indicate/indicates) a trend.",
+            "One of the theories that ---- (explain/explains) this phenomenon ---- (is/are) widely accepted."
+          ],
+          "answers": [
+            "affects (subject: implementation - singular)",
+            "were (verb agrees with 'conclusions' - plural, nearest subject)",
+            "have (a number of + plural noun takes plural verb)",
+            "indicate (data - traditionally plural in academic writing)",
+            "explain, is (first verb agrees with 'theories', second with 'one')"
+          ]
+        },
+        "examTips": [
+          "Identify the true subject by crossing out prepositional phrases mentally.",
+          "Watch for inverted sentences starting with 'there' or 'here' - find the real subject.",
+          "Remember: 'a number of' (plural) vs 'the number of' (singular).",
+          "Collective nouns: consider whether the group acts as one unit (singular) or individuals (plural).",
+          "With 'either...or' and 'neither...nor', the verb agrees with the NEAREST subject.",
+          "Indefinite pronouns ending in -one, -body, -thing are singular: everyone, somebody, nothing.",
+          "In relative clauses, identify what the relative pronoun refers to for verb agreement.",
+          "'Data' is traditionally plural in academic contexts, though singular usage is increasing."
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": "Inversion",
+      "level": "advanced",
+      "content": {
+        "introduction": "Inversion involves reversing the typical subject-verb order in English sentences, placing the verb or auxiliary before the subject. This structure is frequently tested in YDS/YÖKDİL as it requires understanding of both word order rules and appropriate contexts for formal, emphatic, or conditional expressions common in academic writing.",
+        "rules": [
+          {
+            "rule": "Negative Adverbials at Sentence Beginning",
+            "explanation": "When negative or restrictive adverbials begin a sentence, subject-verb inversion occurs with auxiliary verbs.",
+            "examples": [
+              "Never have researchers encountered such a paradox. (Normal: Researchers have never encountered...)",
+              "Rarely does one find such comprehensive data. (Normal: One rarely finds...)",
+              "Seldom has a study been so widely cited. (Normal: A study has seldom been...)",
+              "Not only did the experiment succeed, but it also exceeded expectations.",
+              "Under no circumstances should researchers manipulate data.",
+              "Only after extensive analysis did the pattern emerge.",
+              "Little did they know about the implications. (Normal: They little knew...)",
+              "Scarcely had the results been published when criticism arose."
+            ]
+          },
+          {
+            "rule": "Negative Expressions with 'Only'",
+            "explanation": "Phrases beginning with 'only' followed by a time expression or condition trigger inversion.",
+            "examples": [
+              "Only recently have scientists understood the mechanism.",
+              "Only when the data were analyzed did the correlation become apparent.",
+              "Only by examining historical records can we verify the claim.",
+              "Only after completing the experiment did researchers realize the error.",
+              "Only in exceptional cases does this principle not apply.",
+              "Only with sophisticated equipment is such precision possible."
+            ]
+          },
+          {
+            "rule": "Conditional Inversion (Formal)",
+            "explanation": "In formal writing, 'if' can be omitted with inversion of subject and auxiliary (had, should, were).",
+            "examples": [
+              "Had the methodology been sound, the results would have been valid. (If the methodology had been...)",
+              "Should further evidence emerge, the theory may be revised. (If further evidence should emerge...)",
+              "Were the hypothesis correct, we would observe different outcomes. (If the hypothesis were correct...)",
+              "Had researchers known this earlier, different approaches would have been employed.",
+              "Should you require additional information, please consult the appendix.",
+              "Were it not for technological advances, such research would be impossible."
+            ]
+          },
+          {
+            "rule": "Inversion with 'So', 'Neither', and 'Nor'",
+            "explanation": "To express agreement or similarity, 'so', 'neither', and 'nor' trigger inversion.",
+            "examples": [
+              "The first study proved inconclusive, and so did the second. (agreement with positive)",
+              "The hypothesis was not supported by the data, nor were the predictions accurate. (agreement with negative)",
+              "Participants showed improvement, and so did the control group.",
+              "This approach does not address the issue, neither does the alternative method.",
+              "The findings suggest causation, and so do subsequent studies."
+            ]
+          },
+          {
+            "rule": "Inversion After Place Adverbials (Literary/Formal)",
+            "explanation": "In formal writing, placing location or direction at the beginning may cause inversion, especially with intransitive verbs.",
+            "examples": [
+              "Among the findings were several unexpected correlations.",
+              "Within the theoretical framework lies the key to understanding the phenomenon.",
+              "Here comes the critical question regarding methodology.",
+              "There remains the issue of sample size.",
+              "Beyond the scope of this study lie numerous implications.",
+              "In the following section are presented the main results."
+            ]
+          },
+          {
+            "rule": "Inversion with Comparatives",
+            "explanation": "Comparative structures in formal contexts may trigger inversion for emphasis.",
+            "examples": [
+              "The more complex the system becomes, the more difficult is its analysis.",
+              "The higher the temperature rises, the faster does the reaction occur.",
+              "The greater the sample size, the more reliable are the statistical results.",
+              "The more extensive the research, the clearer becomes the pattern."
+            ]
+          },
+          {
+            "rule": "Inversion After 'So' (Degree/Result)",
+            "explanation": "When 'so' indicates degree and appears at the beginning, inversion occurs.",
+            "examples": [
+              "So significant were the findings that they challenged existing theories.",
+              "So complex is the issue that no simple solution exists.",
+              "So compelling was the evidence that researchers revised their position.",
+              "So rapid has been the development that earlier models are obsolete."
+            ]
+          },
+          {
+            "rule": "Inversion in Exclamations and Wishes",
+            "explanation": "Certain exclamatory and optative expressions use inversion.",
+            "examples": [
+              "May the research contribute to scientific understanding. (wish/hope)",
+              "Long live academic freedom! (wish)",
+              "So be it. (acceptance)",
+              "May such errors be avoided in future studies."
+            ]
+          }
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Forgetting auxiliary verb in inversion",
+            "incorrect": "Never researchers have encountered such data.",
+            "correct": "Never have researchers encountered such data.",
+            "explanation": "Inversion requires placing the auxiliary verb before the subject."
+          },
+          {
+            "mistake": "Using inversion with non-negative adverbs",
+            "incorrect": "Often have researchers questioned this approach.",
+            "correct": "Often, researchers have questioned this approach. (no inversion needed)",
+            "explanation": "Only negative/restrictive adverbs trigger inversion; positive frequency adverbs don't."
+          },
+          {
+            "mistake": "Incorrect conditional inversion",
+            "incorrect": "Would the data be accurate, the conclusion would be valid.",
+            "correct": "Were the data accurate, the conclusion would be valid.",
+            "explanation": "Only 'had', 'should', and 'were' can be inverted in conditionals, not 'would'."
+          },
+          {
+            "mistake": "Wrong word order with 'only'",
+            "incorrect": "Only have recently scientists understood this.",
+            "correct": "Only recently have scientists understood this.",
+            "explanation": "The entire adverbial phrase (only + time expression) comes first, then inversion."
+          }
+        ],
+        "ydsExamples": [
+          {
+            "question": "---- had the researchers completed the analysis ---- they discovered a fundamental error in the data collection process.",
+            "options": [
+              "Hardly / when",
+              "Hardly / than",
+              "Scarcely / as",
+              "No sooner / when",
+              "Barely / while"
+            ],
+            "correct": 0,
+            "explanation": "'Hardly...when' (or 'Scarcely...when', 'No sooner...than', 'Barely...when') indicates that one event immediately followed another. The structure requires inversion: 'Hardly had + subject + past participle'."
+          },
+          {
+            "question": "---- for recent technological advances, such comprehensive linguistic analysis ---- impossible.",
+            "options": [
+              "Were it not / would be",
+              "If it were not / will be",
+              "Should it not be / would be",
+              "Had it not been / will be",
+              "Were not it / would have been"
+            ],
+            "correct": 0,
+            "explanation": "This is a formal conditional inversion meaning 'If it were not for'. The correct structure is 'Were it not for + noun, ...would/could/might + verb'."
+          },
+          {
+            "question": "Not until the final data were analyzed ---- the significance of the preliminary findings.",
+            "options": [
+              "the researchers understood",
+              "did the researchers understand",
+              "the researchers did understand",
+              "understood the researchers",
+              "the researchers had understood"
+            ],
+            "correct": 1,
+            "explanation": "'Not until' at the beginning requires inversion: auxiliary + subject + main verb. The correct form is 'did the researchers understand'."
+          }
+        ],
+        "practice": {
+          "exercises": [
+            "Rewrite using inversion: Researchers have rarely observed such phenomena.",
+            "Rewrite using inversion: If the hypothesis should prove correct, we will revise our model.",
+            "Complete: Not only ---- (the study/reveal) significant patterns, but it also proposed new theoretical frameworks.",
+            "Complete: So complex ---- (the analysis/be) that it required months of computational work.",
+            "Rewrite using inversion: The methodology was flawed, and the conclusions were flawed too."
+          ],
+          "answers": [
+            "Rarely have researchers observed such phenomena.",
+            "Should the hypothesis prove correct, we will revise our model.",
+            "did the study reveal (Not only + auxiliary + subject + verb)",
+            "was the analysis (So + adjective + be + subject)",
+            "The methodology was flawed, and so were the conclusions."
+          ]
+        },
+        "examTips": [
+          "Memorize common negative adverbs that trigger inversion: never, rarely, seldom, hardly, scarcely, barely, little, not only, under no circumstances.",
+          "For conditional inversion, only 'had', 'were', and 'should' can be inverted (not 'would' or 'will').",
+          "Pattern: Negative adverb + auxiliary + subject + main verb.",
+          "'Not until' and 'only when/after/by' require inversion in the main clause, not the subordinate clause.",
+          "Watch for 'so...that' structures: when 'so + adjective' begins the sentence, inversion follows.",
+          "Time expressions: 'Hardly/Scarcely/Barely...when' and 'No sooner...than' always use past perfect + inversion.",
+          "'So do I' (agreement with positive) vs 'Neither/Nor do I' (agreement with negative).",
+          "In YDS, inversion questions often test both word order and appropriate adverb/conjunction choice."
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": "Subjunctive Mood",
+      "level": "advanced",
+      "content": {
+        "introduction": "The subjunctive mood expresses wishes, suggestions, demands, hypothetical situations, or conditions contrary to fact. While less common in modern English, it remains essential in formal academic writing and is frequently tested in YDS/YÖKDİL, particularly in contexts involving recommendations, requirements, and hypothetical scenarios.",
+        "rules": [
+          {
+            "rule": "Present Subjunctive (Base Form)",
+            "explanation": "After verbs of demand, suggestion, recommendation, or requirement, use the base form of the verb (without 's' for third person singular) in the 'that' clause.",
+            "examples": [
+              "The committee recommends that the study be replicated. (not 'is' or 'be')",
+              "Researchers suggest that further investigation be conducted. (not 'is conducted')",
+              "The policy requires that each participant sign a consent form. (not 'signs')",
+              "It is essential that the methodology remain consistent. (not 'remains')",
+              "The professor insists that every student submit the assignment on time. (not 'submits')",
+              "The board demands that the director provide detailed reports. (not 'provides')",
+              "Regulations stipulate that all data be anonymized. (not 'is anonymized')"
+            ]
+          },
+          {
+            "rule": "Common Verbs Taking Subjunctive",
+            "explanation": "These verbs trigger subjunctive in formal contexts: suggest, recommend, propose, demand, require, request, insist, urge, ask, command, order, decree, mandate.",
+            "examples": [
+              "The ethics committee proposes that researchers obtain informed consent.",
+              "The guidelines mandate that all sources be properly cited.",
+              "Scholars urge that more attention be paid to methodological rigor.",
+              "The reviewer requests that the author clarify certain points.",
+              "Authorities decree that safety protocols be strictly followed."
+            ]
+          },
+          {
+            "rule": "Adjectives and Expressions Taking Subjunctive",
+            "explanation": "Certain adjectives expressing necessity, importance, or urgency require subjunctive: essential, crucial, vital, important, necessary, imperative, urgent, critical, desirable, advisable.",
+            "examples": [
+              "It is essential that the sample size be adequate. (not 'is adequate')",
+              "It is crucial that researchers maintain objectivity. (not 'maintains')",
+              "It is imperative that ethical standards be upheld. (not 'are upheld')",
+              "It is vital that the control group receive identical treatment. (not 'receives')",
+              "It is necessary that all variables be accounted for. (not 'are accounted')",
+              "It is important that the findings be replicated in different contexts.",
+              "It is advisable that preliminary results be interpreted cautiously."
+            ]
+          },
+          {
+            "rule": "Past Subjunctive (Were) - Contrary to Present Fact",
+            "explanation": "Use 'were' (not 'was') for all persons in conditions contrary to present reality, wishes, and hypothetical situations.",
+            "examples": [
+              "If the hypothesis were correct, we would observe different results. (but it isn't correct)",
+              "If I were a researcher in that field, I would approach it differently.",
+              "Were the data more comprehensive, the conclusions would be stronger. (inversion)",
+              "She wishes she were more experienced in statistical analysis.",
+              "Suppose the theory were universally accepted, what would be the implications?",
+              "If only the sample size were larger, the study would have more power.",
+              "He acts as if he were the leading authority on the subject."
+            ]
+          },
+          {
+            "rule": "Past Perfect Subjunctive - Contrary to Past Fact",
+            "explanation": "Use 'had + past participle' for conditions contrary to past reality.",
+            "examples": [
+              "If the researchers had known this, they would have modified the design. (but they didn't know)",
+              "Had the methodology been sound, the results would have been valid. (but it wasn't)",
+              "If only they had considered alternative explanations earlier.",
+              "The study would have been more robust had larger samples been used.",
+              "She wishes she had specialized in cognitive linguistics.",
+              "Suppose they had discovered this correlation sooner, the field might have developed differently."
+            ]
+          },
+          {
+            "rule": "Wishes and Regrets",
+            "explanation": "Use past subjunctive for present wishes and past perfect subjunctive for past regrets.",
+            "examples": [
+              "I wish the evidence were more conclusive. (present wish about present)",
+              "Researchers wish they had more funding for the project. (present wish about present)",
+              "She wishes she had attended that conference. (regret about past)",
+              "If only the correlation were stronger. (present wish)",
+              "If only they had controlled for confounding variables. (past regret)",
+              "He wishes the theoretical framework were more comprehensive."
+            ]
+          },
+          {
+            "rule": "'As if' and 'As though' Constructions",
+            "explanation": "These expressions introduce hypothetical comparisons using subjunctive.",
+            "examples": [
+              "The author writes as if the theory were universally accepted. (but it isn't)",
+              "They proceeded as though the hypothesis had been proven. (but it hadn't)",
+              "She speaks about the topic as if she were an expert. (maybe she isn't)",
+              "The data are presented as though they were conclusive. (but questions remain)",
+              "He behaves as if the criticism had never been raised."
+            ]
+          },
+          {
+            "rule": "Fixed Expressions and Formulaic Uses",
+            "explanation": "Certain fixed expressions preserve subjunctive forms.",
+            "examples": [
+              "Be that as it may, the research continues. (whatever the situation)",
+              "Come what may, the study will proceed. (whatever happens)",
+              "Suffice it to say that the results were unexpected. (it is enough to say)",
+              "Far be it from me to criticize, but... (I don't want to, but...)",
+              "God save the Queen. (traditional expression)",
+              "So be it. (expression of acceptance)"
+            ]
+          }
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Using indicative instead of subjunctive after demand/suggest verbs",
+            "incorrect": "The committee suggests that the researcher submits a revised version.",
+            "correct": "The committee suggests that the researcher submit a revised version.",
+            "explanation": "After 'suggest', 'recommend', 'demand', etc., use the base form (subjunctive), not the indicative."
+          },
+          {
+            "mistake": "Using 'was' instead of 'were' in contrary-to-fact conditions",
+            "incorrect": "If the sample was larger, the results would be more reliable.",
+            "correct": "If the sample were larger, the results would be more reliable.",
+            "explanation": "Use 'were' for all subjects in present contrary-to-fact conditions."
+          },
+          {
+            "mistake": "Wrong tense in past contrary-to-fact conditions",
+            "incorrect": "If researchers would have known, they would have acted differently.",
+            "correct": "If researchers had known, they would have acted differently.",
+            "explanation": "Use 'had + past participle' in the if-clause, not 'would have'."
+          },
+          {
+            "mistake": "Adding 's' to verbs in subjunctive clauses",
+            "incorrect": "It is essential that every participant completes the survey.",
+            "correct": "It is essential that every participant complete the survey.",
+            "explanation": "Subjunctive uses base form without 's' even for third person singular."
+          }
+        ],
+        "ydsExamples": [
+          {
+            "question": "The research ethics board requires that all participants ---- before the study begins.",
+            "options": [
+              "are informed fully",
+              "be informed fully",
+              "will be informed fully",
+              "have been informed fully",
+              "were informed fully"
+            ],
+            "correct": 1,
+            "explanation": "'Require' triggers the subjunctive mood. The correct form is 'be + past participle' (base form of be), not indicative 'are' or other tenses."
+          },
+          {
+            "question": "If the theoretical framework ---- more comprehensive, it ---- a wider range of phenomena.",
+            "options": [
+              "was / would explain",
+              "were / would explain",
+              "had been / will explain",
+              "is / would explain",
+              "were / will explain"
+            ],
+            "correct": 1,
+            "explanation": "This is a present contrary-to-fact condition requiring 'were' (not 'was') in the if-clause and 'would + verb' in the main clause."
+          },
+          {
+            "question": "The supervisor insists that the methodology ---- transparent and that all assumptions ---- explicitly stated.",
+            "options": [
+              "is / are",
+              "be / be",
+              "should be / should be",
+              "were / were",
+              "has been / have been"
+            ],
+            "correct": 1,
+            "explanation": "'Insist' requires subjunctive. The correct form is base form 'be' for both blanks, not indicative forms or modals."
+          }
+        ],
+        "practice": {
+          "exercises": [
+            "Complete: It is crucial that the research ---- (replicate) in different contexts.",
+            "Complete: If the data ---- (be) more reliable, the conclusions would be stronger.",
+            "Complete: The committee recommends that each researcher ---- (submit) monthly progress reports.",
+            "Correct if needed: The board demands that the director provides detailed explanations.",
+            "Complete: She wishes she ---- (have) more training in statistical methods before starting the project."
+          ],
+          "answers": [
+            "be replicated (subjunctive after 'crucial that')",
+            "were (present contrary-to-fact condition)",
+            "submit (subjunctive after 'recommends that' - base form)",
+            "The board demands that the director provide detailed explanations. ('provide' not 'provides')",
+            "had (wish about present: past subjunctive)"
+          ]
+        },
+        "examTips": [
+          "Memorize verbs that trigger subjunctive: suggest, recommend, propose, demand, require, request, insist, urge, ask, command, order.",
+          "After these verbs, always use base form: 'that he do', 'that she be', 'that it remain' (no 's', no 'is/are').",
+          "Adjectives requiring subjunctive: essential, crucial, vital, important, necessary, imperative, urgent, critical, advisable.",
+          "Present contrary-to-fact: 'If + subject + were' (always 'were', never 'was') + 'would/could/might + verb'.",
+          "Past contrary-to-fact: 'If + subject + had + past participle' + 'would have + past participle'.",
+          "Wishes about present: 'wish + subject + past form' (I wish I were, I wish I had).",
+          "Wishes about past: 'wish + subject + had + past participle' (I wish I had known).",
+          "'As if/As though' + past subjunctive (were) for present unreal, past perfect for past unreal.",
+          "Watch for: 'require that', 'suggest that', 'it is essential that' → all need base form verb.",
+          "Alternative to subjunctive: 'should' is acceptable in less formal contexts but subjunctive is preferred in YDS/YÖKDİL."
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "title": "Causative Verbs",
+      "level": "intermediate",
+      "content": {
+        "introduction": "Causative verbs express that one person or thing causes another person or thing to do something or causes something to happen. English has several causative structures with different levels of formality and different implications about control, permission, or force. Understanding these distinctions is crucial for YDS/YÖKDİL as they test both structural knowledge and appropriate register.",
+        "rules": [
+          {
+            "rule": "HAVE (Active Causative - Service/Arrangement)",
+            "explanation": "Structure: have + object + base form (active) OR have + object + past participle (passive). Implies arranging for someone to do something or having something done as a service.",
+            "examples": [
+              "The researchers had their assistants collect the data. (assistants actively collected)",
+              "The university had the laboratory renovated last summer. (passive - lab was renovated)",
+              "We had an expert review the methodology. (expert actively reviewed)",
+              "They had the equipment installed by professionals. (passive - equipment was installed)",
+              "The professor had students analyze the corpus. (students actively analyzed)",
+              "The department had all computers updated. (passive - computers were updated)",
+              "Scholars have their work peer-reviewed before publication. (passive - work is reviewed)"
+            ]
+          },
+          {
+            "rule": "GET (Informal/Effort Required)",
+            "explanation": "Structure: get + object + to + infinitive (active) OR get + object + past participle (passive). Implies persuasion, effort, or difficulty in causing the action. More informal than 'have'.",
+            "examples": [
+              "The team got the participants to complete additional surveys. (persuaded/managed)",
+              "Researchers got the equipment repaired quickly. (passive - required effort)",
+              "The professor got students to engage in critical discussion. (encouraged/persuaded)",
+              "They got the funding approved after months of negotiation. (passive - required effort)",
+              "We finally got the software to work properly. (achieved with difficulty)",
+              "The department got new computers installed. (passive - arranged with effort)",
+              "She got her colleagues to review the draft. (persuaded them)"
+            ]
+          },
+          {
+            "rule": "MAKE (Force/Compulsion - No Choice)",
+            "explanation": "Structure: make + object + base form (active only). Implies force, compulsion, or no choice. Cannot be used in passive causative constructions.",
+            "examples": [
+              "The evidence made researchers reconsider their hypothesis. (forced them to reconsider)",
+              "Ethical guidelines make investigators obtain informed consent. (require/force)",
+              "The findings made the academic community revise existing theories. (compelled)",
+              "The deadline made the team work overtime. (forced/left no choice)",
+              "Statistical significance makes scholars take the results seriously. (compels)",
+              "The criticism made the author withdraw the paper. (forced/pressured)",
+              "The regulations make all researchers follow strict protocols. (require/force)"
+            ]
+          },
+          {
+            "rule": "LET (Allow/Permission)",
+            "explanation": "Structure: let + object + base form. Implies giving permission or allowing something to happen. Opposite of 'make' (force).",
+            "examples": [
+              "The supervisor let the research assistant conduct the interviews independently. (allowed)",
+              "The committee let researchers extend the deadline. (permitted)",
+              "The university lets graduate students access all library resources. (allows)",
+              "The funding agency let the team modify the research design. (permitted)",
+              "The professor lets students choose their own research topics. (allows)",
+              "Institutional policies let researchers request ethical approval retrospectively. (permit)",
+              "The editor let the author revise and resubmit the manuscript. (allowed)"
+            ]
+          },
+          {
+            "rule": "HELP (Assistance)",
+            "explanation": "Structure: help + object + base form OR help + object + to + infinitive. Both forms are acceptable, with base form slightly more common in American English.",
+            "examples": [
+              "The software helps researchers analyze large datasets. (or 'to analyze')",
+              "Mentors help novice scholars develop their research skills. (or 'to develop')",
+              "Statistical tools help investigators identify patterns. (or 'to identify')",
+              "Collaboration helps teams achieve better results. (or 'to achieve')",
+              "Proper training helps participants understand the procedures. (or 'to understand')",
+              "Technology helps linguists process corpus data efficiently. (or 'to process')"
+            ]
+          },
+          {
+            "rule": "Passive Causative Constructions",
+            "explanation": "When the causative verb itself is passive, the structure changes. 'Be made to' and 'be allowed to' are common; 'be had' is rare.",
+            "examples": [
+              "Participants were made to sign confidentiality agreements. (were forced)",
+              "Students are allowed to access the laboratory after hours. (are permitted)",
+              "Researchers were required to obtain ethical clearance. (were obliged)",
+              "The team was permitted to extend the data collection period. (was allowed)",
+              "Investigators are obliged to report any adverse events. (are required)",
+              "Scholars were encouraged to submit their findings for publication. (were urged)"
+            ]
+          },
+          {
+            "rule": "Causative Verbs with Inanimate Subjects",
+            "explanation": "When the subject is a thing (not a person), only certain causatives work naturally. 'Make' is common; 'let' and 'have' are less natural.",
+            "examples": [
+              "The new methodology made the analysis more efficient. (caused to be)",
+              "Statistical software makes data processing easier. (causes to be)",
+              "The findings made researchers question previous assumptions. (caused them to)",
+              "This approach lets researchers examine multiple variables. (allows/enables)",
+              "The framework helps scholars organize complex information. (enables)",
+              "Technology has revolutionized how linguists conduct corpus analysis. (caused change)"
+            ]
+          },
+          {
+            "rule": "Formal Academic Alternatives",
+            "explanation": "In formal academic writing, alternatives to basic causatives are often preferred: cause, enable, allow, require, compel, force, permit, facilitate.",
+            "examples": [
+              "The evidence caused researchers to reconsider. (instead of 'made')",
+              "New technology enables scholars to process larger corpora. (instead of 'lets')",
+              "Regulations require all studies to undergo ethical review. (instead of 'make')",
+              "The policy permits researchers to access archived data. (instead of 'lets')",
+              "The findings compelled the team to modify their hypothesis. (instead of 'made')",
+              "This approach facilitates cross-linguistic comparison. (instead of 'helps')"
+            ]
+          }
+        ],
+        "commonMistakes": [
+          {
+            "mistake": "Using 'to' after 'make' or 'let' in active voice",
+            "incorrect": "The evidence made researchers to reconsider their theory.",
+            "correct": "The evidence made researchers reconsider their theory.",
+            "explanation": "'Make' and 'let' take base form (infinitive without 'to') in active constructions."
+          },
+          {
+            "mistake": "Using 'make' in passive causative",
+            "incorrect": "They made the equipment repaired.",
+            "correct": "They had/got the equipment repaired.",
+            "explanation": "'Make' cannot be used with past participle for passive causative; use 'have' or 'get'."
+          },
+          {
+            "mistake": "Forgetting 'to' after 'get' in active causative",
+            "incorrect": "She got her colleagues review the paper.",
+            "correct": "She got her colleagues to review the paper.",
+            "explanation": "'Get' requires 'to' before the infinitive in active causative (unlike 'have' and 'make')."
+          },
+          {
+            "mistake": "Confusing 'have' (arrange service) with 'make' (force)",
+            "incorrect": "The university made the laboratory renovated.",
+            "correct": "The university had the laboratory renovated.",
+            "explanation": "For passive causatives (something done TO something), use 'have' or 'get', not 'make'."
+          },
+          {
+            "mistake": "Wrong passive form with 'make'",
+            "incorrect": "Students were made complete the survey.",
+            "correct": "Students were made to complete the survey.",
+            "explanation": "When 'make' is passive ('be made'), it requires 'to' before the infinitive."
+          }
+        ],
+        "ydsExamples": [
+          {
+            "question": "The unexpected findings made the research team ---- their initial hypothesis and ---- alternative explanations.",
+            "options": [
+              "to reconsider / to explore",
+              "reconsider / explore",
+              "reconsidering / exploring",
+              "reconsider / to explore",
+              "to reconsider / exploring"
+            ],
+            "correct": 1,
+            "explanation": "'Make' in active voice takes base form (infinitive without 'to') for both verbs: 'made them reconsider' and 'explore'."
+          },
+          {
+            "question": "The university ---- all research proposals ---- by the ethics committee before implementation begins.",
+            "options": [
+              "has / review",
+              "gets / review",
+              "has / reviewed",
+              "makes / reviewed",
+              "lets / to review"
+            ],
+            "correct": 2,
+            "explanation": "This is passive causative (proposals are reviewed, not reviewing). 'Have + object + past participle' is the correct structure. 'Has all proposals reviewed'."
+          },
+          {
+            "question": "Strict methodological guidelines ---- researchers ---- rigorous standards in data collection and analysis.",
+            "options": [
+              "let / maintain",
+              "have / to maintain",
+              "make / maintain",
+              "get / maintain",
+              "help / maintaining"
+            ],
+            "correct": 2,
+            "explanation": "The subject is 'guidelines' (inanimate), and the meaning is 'force/require'. 'Make + object + base form' is correct: 'make researchers maintain'."
+          },
+          {
+            "question": "The research supervisor ---- her assistant ---- the preliminary analysis while she focused on the theoretical framework.",
+            "options": [
+              "had / conduct",
+              "got / conduct",
+              "made / to conduct",
+              "let / conducting",
+              "helped / conducted"
+            ],
+            "correct": 0,
+            "explanation": "This describes arranging for someone to do something (service/delegation). 'Have + object + base form' (active): 'had her assistant conduct'."
+          }
+        ],
+        "practice": {
+          "exercises": [
+            "Complete: The complex data made the researchers ---- (recalculate) all the statistics.",
+            "Complete: The department had the laboratory ---- (renovate) during the summer.",
+            "Complete: After much effort, they got the participants ---- (agree) to a follow-up study.",
+            "Complete: Ethical regulations make all investigators ---- (obtain) informed consent.",
+            "Correct if needed: The professor let students to choose their research methods.",
+            "Complete: We were made ---- (revise) our methodology by the review committee."
+          ],
+          "answers": [
+            "recalculate (make + object + base form)",
+            "renovated (have + object + past participle for passive)",
+            "to agree (get + object + to + infinitive)",
+            "obtain (make + object + base form)",
+            "The professor let students choose their research methods. (remove 'to' - let + base form)",
+            "to revise (be made to + infinitive in passive)"
+          ]
+        },
+        "examTips": [
+          "MAKE (force): make + object + BASE FORM (active) | be made + TO + infinitive (passive)",
+          "HAVE (arrange): have + object + BASE FORM (active) | have + object + PAST PARTICIPLE (passive service)",
+          "GET (persuade/effort): get + object + TO + infinitive (active) | get + object + PAST PARTICIPLE (passive)",
+          "LET (allow): let + object + BASE FORM | be allowed + TO + infinitive (passive)",
+          "HELP (assist): help + object + BASE FORM or help + object + TO + infinitive (both OK)",
+          "Passive causatives (something done TO something): use 'have/get + object + past participle', NOT 'make'.",
+          "When causative verb is passive: 'be made to do', 'be allowed to do', 'be helped to do'.",
+          "Inanimate subjects (things, not people): 'make' and 'help' work well; 'have' and 'get' less common.",
+          "Formal writing: prefer 'cause', 'enable', 'require', 'permit', 'compel' over basic causatives.",
+          "Common test pattern: Choose between make/have/get + correct verb form (base/to-infinitive/past participle).",
+          "Remember: MAKE and LET take base form, GET takes to-infinitive, HAVE takes base (active) or past participle (passive)."
+        ]
+      }
+    }
+  ]
+}

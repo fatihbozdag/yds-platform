@@ -1,0 +1,342 @@
+{
+  "section": "4.3",
+  "title": "Kohesyon ve Konherens",
+  "topics": [
+    {
+      "id": "4.3.1",
+      "title": "Bağlaç Envanteri ve İşlev Sınıfları",
+      "content": "Kohesyon (cohesion), bir metindeki cümleler arası dilbilgisel ve sözcüksel bağlantıları ifade eder. Bağlaçlar (connectives/discourse markers) bu bağlantıyı sağlayan temel araçlardır ve YDS/YÖKDİL sınavlarında cloze test ve paragraph completion sorularında sıkça test edilir. Doğru bağlacı seçmek için cümleler arasındaki mantıksal ilişkiyi anlamak gerekir.\n\n**EKLEME/TAKVIYE (Addition)**: AND, ALSO, MOREOVER, FURTHERMORE, IN ADDITION, ADDITIONALLY, BESIDES, AS WELL, LIKEWISE, SIMILARLY. Önceki fikri destekleyen yeni bilgi ekler. Örnek: 'The study was well-designed. Moreover, the sample size was adequate.' Dikkat: 'Moreover' ve 'furthermore' daha formal, 'also' günlük akademik dilde daha yaygın.\n\n**ZITLIK/KONTRAST (Contrast)**: HOWEVER, NEVERTHELESS, NONETHELESS, YET, STILL, ON THE OTHER HAND, IN CONTRAST, WHEREAS, WHILE, ALTHOUGH, THOUGH, DESPITE, IN SPITE OF. Beklenmeyen veya zıt bilgi sunar. Örnek: 'The theory is elegant. However, empirical support is lacking.' Dikkat: 'However' cümle başında noktalı virgül veya nokta sonrası kullanılır; 'although/though' yan cümle başında gelir.\n\n**NEDEN-SONUÇ (Cause/Effect)**: THEREFORE, THUS, HENCE, CONSEQUENTLY, AS A RESULT, ACCORDINGLY, FOR THIS REASON / BECAUSE, SINCE, AS, DUE TO, OWING TO (neden). Mantıksal sonuç veya sebep belirtir. Örnek: 'The sample was small. Therefore, generalizability is limited.' Dikkat: 'Therefore/thus/hence' sonuç, 'because/since/as' neden belirtir.\n\n**ÖRNEKLEME (Exemplification)**: FOR EXAMPLE, FOR INSTANCE, SUCH AS, INCLUDING, SPECIFICALLY, NAMELY, TO ILLUSTRATE, IN PARTICULAR. Genel ifadeyi somut örnekle destekler. Örnek: 'Many factors affect learning. For instance, motivation plays a crucial role.' Dikkat: 'such as' cümle ortasında, 'for example' genellikle cümle başında kullanılır.\n\n**AÇIKLAMA/YENIDEN İFADE (Clarification/Restatement)**: IN OTHER WORDS, THAT IS (TO SAY), NAMELY, SPECIFICALLY, TO PUT IT DIFFERENTLY, I.E. (id est). Önceki ifadeyi farklı sözcüklerle açıklar. Örnek: 'The results were inconclusive. In other words, no clear pattern emerged.' Dikkat: 'i.e.' formal yazıda kullanılır, 'that is' daha yaygın.\n\n**SIRALAMA (Sequencing)**: FIRST(LY), SECOND(LY), THEN, NEXT, SUBSEQUENTLY, FINALLY, LASTLY, IN CONCLUSION. Zamansal veya mantıksal sıra belirtir. Örnek: 'First, participants completed a survey. Then, interviews were conducted.' Dikkat: 'Finally' son adım, 'in conclusion' genel sonuç için kullanılır.\n\n**KOŞUL (Condition)**: IF, UNLESS, PROVIDED THAT, AS LONG AS, IN CASE, ONLY IF. Koşullu ilişki kurar. Örnek: 'The hypothesis holds true provided that confounding variables are controlled.' Dikkat: 'unless' olumsuz koşul (= if not), 'only if' güçlü koşul belirtir.",
+      "examples": [
+        "Addition: The methodology was rigorous. Furthermore, the sample was representative.",
+        "Contrast: The intervention showed promise in pilot studies. However, the full trial yielded disappointing results.",
+        "Cause: Participants were not randomly assigned. Consequently, selection bias may have influenced the findings.",
+        "Effect: Because the data were normally distributed, parametric tests were appropriate.",
+        "Exemplification: Several cognitive biases were observed. For instance, confirmation bias affected 67% of participants.",
+        "Clarification: The effect size was negligible (d = 0.12). In other words, the practical significance was minimal.",
+        "Sequence: First, baseline measures were collected. Subsequently, the intervention was implemented.",
+        "Concession + Contrast: Although the theory is widely accepted, nevertheless recent findings challenge its core assumptions.",
+        "Condition: The model accurately predicts outcomes provided that initial conditions are known precisely.",
+        "Purpose: The researchers simplified the instructions in order to reduce participant confusion.",
+        "Emphasis: The findings are significant. Indeed, they fundamentally challenge existing paradigms.",
+        "Similarity: Qualitative methods provide rich contextual data. Similarly, mixed methods offer comprehensive insights.",
+        "Alternative: The hypothesis may be incorrect. Alternatively, measurement error could explain the null results.",
+        "Summary: The study examined three variables across two populations. In summary, age was the strongest predictor.",
+        "Correction: The initial analysis suggested no effect. On further inspection, however, a significant interaction emerged."
+      ],
+      "exercises": [
+        {
+          "question": "The experiment was carefully designed to minimize bias. ----, the researchers failed to account for a critical confounding variable.\n\nWhich connector best fits the blank?",
+          "options": [
+            "However",
+            "Moreover",
+            "Therefore",
+            "Similarly",
+            "For example"
+          ],
+          "correct": 0,
+          "explanation": "'However' doğrudur çünkü zıtlık (contrast) kuruyor: ilk cümle olumlu (carefully designed to minimize bias), ikinci cümle olumsuz (failed to account). 'Moreover' ekleme (benzer yönde devam), 'therefore' sonuç, 'similarly' benzerlik, 'for example' örnek belirtir (uygunsuz)."
+        },
+        {
+          "question": "The theory predicts that increased practice leads to improved performance. ----, numerous studies have confirmed this relationship across diverse domains.\n\nFill in the blank:",
+          "options": [
+            "Indeed",
+            "However",
+            "Otherwise",
+            "Conversely",
+            "Nevertheless"
+          ],
+          "correct": 0,
+          "explanation": "'Indeed' doğrudur çünkü önceki teorik öngörüyü destekleyici kanıt sunuyor (vurgu/takviye). 'However/conversely/nevertheless' zıtlık belirtir (metinle uyumsuz), 'otherwise' alternatif/karşıt durum gösterir (uygunsuz)."
+        },
+        {
+          "question": "The sample size was small, consisting of only 23 participants. ----, the findings should be interpreted with caution.\n\nSelect the appropriate connector:",
+          "options": [
+            "Therefore",
+            "Furthermore",
+            "Similarly",
+            "For instance",
+            "In contrast"
+          ],
+          "correct": 0,
+          "explanation": "'Therefore' doğrudur çünkü neden-sonuç (cause-effect) ilişkisi kuruyor: küçük örneklem (neden) → bulgular dikkatli yorumlanmalı (sonuç). 'Furthermore' ekleme, 'similarly' benzerlik, 'for instance' örnek, 'in contrast' zıtlık belirtir (uygunsuz)."
+        },
+        {
+          "question": "Many cognitive processes operate unconsciously. ----, decision-making often occurs before we become aware of the reasons behind our choices.\n\nWhich word best completes the sentence?",
+          "options": [
+            "For example",
+            "On the contrary",
+            "Nevertheless",
+            "Additionally",
+            "In conclusion"
+          ],
+          "correct": 0,
+          "explanation": "'For example' doğrudur çünkü genel ifadeyi (many cognitive processes operate unconsciously) spesifik örnekle (decision-making) somutlaştırıyor. 'On the contrary' tam zıtlık, 'nevertheless' zıtlık/itiraz, 'additionally' basit ekleme, 'in conclusion' genel özet belirtir (uygunsuz)."
+        },
+        {
+          "question": "The intervention improved reading scores significantly (p < .01). ----, no effect was observed on writing performance.\n\nComplete the sentence:",
+          "options": [
+            "In contrast",
+            "As a result",
+            "Likewise",
+            "For instance",
+            "Consequently"
+          ],
+          "correct": 0,
+          "explanation": "'In contrast' doğrudur çünkü iki farklı sonuç karşılaştırılıyor: reading'de etki var, writing'de yok. 'As a result/consequently' sonuç belirtir (ilk cümlenin sonucu değil), 'likewise' benzerlik (metinle çelişir), 'for instance' örnek (uygunsuz)."
+        },
+        {
+          "question": "Participants were randomly assigned to conditions. ----, potential confounding variables were distributed evenly across groups.\n\nChoose the best connector:",
+          "options": [
+            "Thus",
+            "Despite this",
+            "On the other hand",
+            "For example",
+            "Although"
+          ],
+          "correct": 0,
+          "explanation": "'Thus' doğrudur çünkü mantıksal sonuç (effect) gösteriyor: random assignment (neden) → confounds distributed evenly (sonuç). 'Despite this' zıtlık, 'on the other hand' alternatif bakış, 'for example' örnek, 'although' zıt yan cümle bağlacı (uygunsuz)."
+        },
+        {
+          "question": "The data were not normally distributed. ----, the researchers employed non-parametric statistical tests.\n\nFill in the blank:",
+          "options": [
+            "Accordingly",
+            "Similarly",
+            "Nonetheless",
+            "For instance",
+            "In addition"
+          ],
+          "correct": 0,
+          "explanation": "'Accordingly' doğrudur çünkü duruma uygun çözüm/sonuç belirtiyor: normal dağılım yok (durum) → non-parametric tests kullanıldı (uygun eylem). 'Similarly' benzerlik, 'nonetheless' itiraz, 'for instance' örnek, 'in addition' ekleme belirtir (uygunsuz)."
+        },
+        {
+          "question": "The theory has been influential in cognitive psychology. ----, recent findings have begun to challenge its core assumptions.\n\nSelect the appropriate word:",
+          "options": [
+            "However",
+            "Moreover",
+            "Therefore",
+            "Likewise",
+            "In fact"
+          ],
+          "correct": 0,
+          "explanation": "'However' doğrudur çünkü beklenmeyen zıtlık kuruyor: teori etkili olmuş (olumlu) AMA son bulgular zorluk çıkarıyor (olumsuz/zıt). 'Moreover' ekleme (destekleme), 'therefore' sonuç, 'likewise' benzerlik, 'in fact' vurgu/onaylama belirtir (uygunsuz)."
+        },
+        {
+          "question": "Metacognitive strategies help learners monitor their understanding. ----, they involve self-questioning, planning, and evaluating one's own learning process.\n\nWhich connector fits best?",
+          "options": [
+            "Specifically",
+            "Conversely",
+            "As a result",
+            "Despite this",
+            "On the contrary"
+          ],
+          "correct": 0,
+          "explanation": "'Specifically' doğrudur çünkü genel ifadeyi (metacognitive strategies help...) spesifik detayla açıklıyor (self-questioning, planning, evaluating). 'Conversely' zıtlık, 'as a result' sonuç, 'despite this' zıt itiraz, 'on the contrary' tam zıtlık belirtir (uygunsuz)."
+        },
+        {
+          "question": "The first group received immediate feedback. ----, the second group's feedback was delayed by 24 hours.\n\nComplete the blank:",
+          "options": [
+            "In contrast",
+            "Similarly",
+            "Consequently",
+            "For example",
+            "In other words"
+          ],
+          "correct": 0,
+          "explanation": "'In contrast' doğrudur çünkü iki grup arasındaki fark vurgulanıyor: immediate feedback vs. delayed feedback. 'Similarly' benzerlik (metinle çelişir), 'consequently' sonuç, 'for example' örnek, 'in other words' yeniden ifade belirtir (uygunsuz)."
+        },
+        {
+          "question": "The survey results were ambiguous and difficult to interpret. ----, the researchers conducted follow-up interviews to clarify participants' responses.\n\nWhich word best completes the sentence?",
+          "options": [
+            "Therefore",
+            "Similarly",
+            "Moreover",
+            "Nevertheless",
+            "For instance"
+          ],
+          "correct": 0,
+          "explanation": "'Therefore' doğrudur çünkü mantıksal sonuç/çözüm belirtiyor: sonuçlar belirsiz (problem) → mülakatlar yapıldı (çözüm/sonuç). 'Similarly' benzerlik, 'moreover' ekleme, 'nevertheless' itiraz (zıt yönde devam), 'for instance' örnek belirtir (uygunsuz)."
+        },
+        {
+          "question": "The methodology was rigorous and the analysis comprehensive. ----, the conclusions drawn must be considered tentative due to the exploratory nature of the study.\n\nSelect the best connector:",
+          "options": [
+            "Nevertheless",
+            "Furthermore",
+            "As a result",
+            "Similarly",
+            "For example"
+          ],
+          "correct": 0,
+          "explanation": "'Nevertheless' doğrudur çünkü beklenmeyen zıtlık/itiraz (concession + contrast) kuruyor: metodoloji ve analiz güçlü (olumlu) AMA sonuçlar tentative (sınırlama). 'Furthermore' ekleme (destekleme), 'as a result' sonuç (çelişir), 'similarly' benzerlik, 'for example' örnek belirtir (uygunsuz)."
+        }
+      ]
+    },
+    {
+      "id": "4.3.2",
+      "title": "Zamir-Referans Zinciri, Tekrar, Eşdeğer Adlandırma, Hiponimi",
+      "content": "Konherens (coherence), bir metindeki anlamsal ve mantıksal bütünlüğü ifade eder. Kohesyon dilbilgisel araçlarken, konherens anlamsal ilişkileri içerir. YDS/YÖKDİL'de pronoun reference, paragraph completion ve sentence insertion sorularında bu mekanizmalar kritiktir.\n\n**1. ZAMİR-REFERANS ZİNCİRİ (Pronoun Reference)**: Zamirler (it, they, this, these, such, one) önceki isimlere gönderimde bulunur. Referansı doğru belirlemek okumayı kolaylaştırır. Örnek: 'Neuroplasticity allows the brain to reorganize itself. This capacity enables recovery after injury.' → 'This capacity' = 'neuroplasticity'. Dikkat: 'This/that/these/those' + noun yapıları önceki cümleyi özetler.\n\n**2. TEKRAR (Repetition/Reiteration)**: Aynı kelimenin veya kelime kökünün tekrarı. Örnek: 'The researchers analyzed the data. The analysis revealed significant patterns.' → 'analyze' fiili 'analysis' ismiyle tekrarlanıyor. Bu tekrar tematik tutarlılık sağlar ve paragraf akışını güçlendirir.\n\n**3. EŞDEĞERLİ/SİNONİMLİ ADLANDIRMA (Synonymy/Paraphrase)**: Aynı kavramı farklı kelimelerle ifade etme. Örnek: 'The study examined 200 participants. The research involved extensive testing.' → 'study' = 'research', 'examined' = 'involved', 'participants' = implied subject of testing. Bu strateji monotonluktan kaçınırken anlamsal bağ kurar.\n\n**4. HİPONİMİ/ÜST-ALT KAVRAM (Hyponymy/Superordinate-Subordinate)**: Genel (superordinate) ve özgül (hyponym) kavramlar arası geçiş. Örnek: 'Participants included teachers, nurses, and engineers. These professionals shared common characteristics.' → 'professionals' (üst kavram) = teachers, nurses, engineers (alt kavramlar). Veya: 'The university implemented changes. This institution aimed to improve quality.' → 'institution' (üst) = 'university' (alt).\n\n**5. ANAFORİK REFERANS (Anaphoric Reference)**: Zamirin önceki isim/kavrama gönderimi (en yaygın). Örnek: 'Einstein developed relativity theory. He revolutionized physics.' → 'He' = 'Einstein'.\n\n**6. KATAFORİK REFERANS (Cataphoric Reference)**: Zamirin sonraki isim/kavrama gönderimi (daha nadir). Örnek: 'This is the challenge: reconciling conflicting evidence.' → 'This' = 'reconciling conflicting evidence' (sonra gelir).\n\n**7. ELİPSİS (Ellipsis)**: Tekrardan kaçınmak için öğe atma. Örnek: 'Some participants completed the task quickly. Others [completed the task] slowly.' → Parantez içi elipsis.\n\n**8. LEKSİKAL ZİNCİR (Lexical Chain)**: Anlamsal ilişkili kelimeler dizisi. Örnek: 'climate change → greenhouse gases → carbon emissions → global warming → temperature rise' → Bu kelimeler metinde bir zincir oluşturarak tematik bütünlük sağlar.\n\nStrateji: Pronoun reference sorularında zamirden ÖNCE gelen cümlelere bakın, isim-zamir uyumunu (tekil/çoğul, canlı/cansız) kontrol edin. Paragraph completion'da leksikal zincir ve bağlaçları takip edin.",
+      "examples": [
+        "Anaphoric pronoun: 'The theory was groundbreaking. It challenged established paradigms.' (it = the theory)",
+        "Demonstrative + noun: 'Researchers found conflicting results. These inconsistencies require explanation.' (these inconsistencies = conflicting results)",
+        "Repetition: 'Learning requires effort. This effort leads to cognitive growth.' (effort repeated)",
+        "Synonym chain: 'The study examined... The research investigated... The investigation revealed...' (study = research = investigation)",
+        "Hyponymy (specific → general): 'Dogs, cats, and birds were observed. The animals displayed varied behaviors.' (animals = superordinate)",
+        "Hyponymy (general → specific): 'The instrument measured precisely. The spectrometer detected minute wavelengths.' (spectrometer = specific instrument)",
+        "Cataphoric reference: 'The question remains: Can artificial intelligence achieve consciousness?' (the question = can AI...)",
+        "Ellipsis: 'Some theories explain the phenomenon. Others [theories] cannot [explain it].' (bracketed = omitted)",
+        "Lexical chain: 'education → learning → students → teaching → curriculum → pedagogy' (semantic field)",
+        "Near-synonym: 'The participants completed the task. The subjects then answered questions.' (participants = subjects)",
+        "Pronoun + clause: 'The experiment failed. This surprised researchers.' (this = the fact that experiment failed)",
+        "Possessive pronoun: 'Piaget proposed stages. His theory influenced education profoundly.' (his = Piaget's)",
+        "Complex reference: 'Climate change causes sea-level rise. This process threatens coastal cities.' (this process = sea-level rise, caused by climate change)",
+        "Substitution: 'The first method was ineffective. The second one yielded better results.' (one = method)",
+        "Bridging inference: 'We entered the house. The windows were broken.' (implicit: windows are part of house)"
+      ],
+      "exercises": [
+        {
+          "question": "[Passage] Neuroplasticity enables the brain to adapt to new experiences throughout life. This capacity has profound implications for rehabilitation after brain injury.\n\nWhat does 'This capacity' refer to?",
+          "options": [
+            "neuroplasticity (the brain's ability to adapt)",
+            "new experiences",
+            "life",
+            "rehabilitation",
+            "brain injury"
+          ],
+          "correct": 0,
+          "explanation": "'This capacity' = 'neuroplasticity' (enables the brain to adapt). 'Capacity' kelimesi bir yetenek/kapasite belirtiyor ve önceki cümlede bu yetenek neuroplasticity olarak tanımlanmış. 'New experiences' tetikleyici, 'life' zaman, 'rehabilitation' sonuç, 'brain injury' bağlam."
+        },
+        {
+          "question": "[Passage] The study recruited 150 participants from three cities. These individuals completed a series of cognitive tests over six months.\n\n'These individuals' refers to:",
+          "options": [
+            "the 150 participants",
+            "three cities",
+            "cognitive tests",
+            "six months",
+            "the study's authors"
+          ],
+          "correct": 0,
+          "explanation": "'These individuals' = '150 participants'. 'Individuals' (insanlar) 'participants'ın eş anlamlısı/paraphrase'i. 'Cities' mekan, 'cognitive tests' görev, 'six months' süre, 'authors' metinde bahsedilmemiş."
+        },
+        {
+          "question": "[Passage] The intervention improved reading comprehension scores significantly. However, no such effect was observed for mathematics performance.\n\n'Such effect' means:",
+          "options": [
+            "improvement in scores",
+            "reading comprehension",
+            "mathematics performance",
+            "the intervention itself",
+            "significant scores"
+          ],
+          "correct": 0,
+          "explanation": "'Such effect' = 'improved scores significantly'. 'Such' önceki cümlede bahsedilen olay/durumu gösterir: reading'de gelişme var, math'te yok (no such effect). 'Reading comprehension' alan (etki değil), 'mathematics' ikinci alan, 'intervention' araç, 'significant scores' tam ifade değil."
+        },
+        {
+          "question": "[Passage] Climate scientists warn that global temperatures are rising at unprecedented rates. This trend poses severe risks to ecosystems and human societies.\n\nWhat does 'This trend' refer to?",
+          "options": [
+            "global temperatures rising at unprecedented rates",
+            "climate scientists",
+            "warnings",
+            "ecosystems",
+            "human societies"
+          ],
+          "correct": 0,
+          "explanation": "'This trend' = 'global temperatures rising at unprecedented rates'. 'Trend' (eğilim/gidiş) devam eden süreci gösterir ve önceki cümlede tanımlanan artan sıcaklıkları ifade eder. 'Scientists' özne (trend değil), 'warnings' eylem, 'ecosystems/societies' etkilenen taraflar."
+        },
+        {
+          "question": "[Passage] Researchers analyzed survey responses from 500 teachers, 300 administrators, and 200 parents. These stakeholders expressed concerns about educational policy changes.\n\n'These stakeholders' encompasses:",
+          "options": [
+            "teachers, administrators, and parents collectively",
+            "only teachers",
+            "only administrators",
+            "only parents",
+            "researchers"
+          ],
+          "correct": 0,
+          "explanation": "'These stakeholders' = üç grup birlikte (teachers, administrators, parents). 'Stakeholders' (paydaşlar) üst kavram (superordinate), üç grup alt kavramlar (hyponyms). 'Researchers' araştırmacılar (stakeholders değil, gözlemciler)."
+        },
+        {
+          "question": "[Passage] The first hypothesis was confirmed by the data. The second one, however, was rejected.\n\nWhat does 'one' substitute for?",
+          "options": [
+            "hypothesis",
+            "data",
+            "confirmation",
+            "rejection",
+            "experiment"
+          ],
+          "correct": 0,
+          "explanation": "'One' = 'hypothesis' (substitution to avoid repetition). 'The second one' = 'the second hypothesis'. 'Data' çoğul (one tekil), 'confirmation/rejection' sonuç, 'experiment' metinde bahsedilmemiş."
+        },
+        {
+          "question": "[Passage] Cognitive load theory explains how working memory limitations affect learning. The framework has been widely applied in educational technology design.\n\n'The framework' refers to:",
+          "options": [
+            "cognitive load theory",
+            "working memory limitations",
+            "learning",
+            "educational technology design",
+            "applications"
+          ],
+          "correct": 0,
+          "explanation": "'The framework' = 'cognitive load theory'. 'Framework' (çerçeve) teoriler için yaygın eş anlamlı/paraphrase. 'Working memory' teorinin bir öğesi, 'learning' bağlam, 'technology design' uygulama alanı, 'applications' eylem."
+        },
+        {
+          "question": "[Passage] Participants were divided into two groups. The first group received immediate feedback on their performance. The second ----, by contrast, received no feedback until the end of the study.\n\nWhich word best completes the blank?",
+          "options": [
+            "group",
+            "feedback",
+            "performance",
+            "study",
+            "result"
+          ],
+          "correct": 0,
+          "explanation": "'The second group' eksik kelime çünkü 'The first group' ile paralel yapı kuruluyor. 'By contrast' zıtlık belirtir ve iki grup karşılaştırılıyor. Diğer seçenekler 'the second' ile gramatik uyumsuz veya mantıksal olarak hatalı."
+        },
+        {
+          "question": "[Passage] The experiment required precise temperature control. Unfortunately, the equipment malfunctioned repeatedly during data collection.\n\n'The equipment' most likely refers to:",
+          "options": [
+            "temperature control devices/instruments",
+            "the experiment itself",
+            "data collection procedures",
+            "precise measurements",
+            "malfunctions"
+          ],
+          "correct": 0,
+          "explanation": "'The equipment' = 'temperature control' cihazları (bridging inference). Açıkça belirtilmemiş ama mantıksal çıkarım: sıcaklık kontrolü için ekipman gerek. 'Experiment' süreç (ekipman değil), 'data collection' eylem, 'measurements' sonuç, 'malfunctions' problem."
+        },
+        {
+          "question": "[Passage] Several theories attempt to explain language acquisition. Behaviorism emphasized imitation and reinforcement. Nativism proposed innate structures. Interactionism stressed social context. Each approach offers valuable insights, yet none fully captures the complexity of language development.\n\nWhat does 'Each approach' refer to?",
+          "options": [
+            "behaviorism, nativism, and interactionism",
+            "several theories (all theories mentioned)",
+            "only behaviorism",
+            "only nativism",
+            "only interactionism"
+          ],
+          "correct": 0,
+          "explanation": "'Each approach' = üç spesifik teori (behaviorism, nativism, interactionism). 'Approach' (yaklaşım) 'theory'nin paraphrase'i. 'Several theories' genel ifade, ama sonra üç spesifik teori listelenmiş, 'each approach' bunlara işaret ediyor. Sadece birine değil, hepsine tek tek ('each') referans var."
+        },
+        {
+          "question": "[Passage] The researchers implemented a randomized controlled trial—the gold standard in experimental research. ---- ensured that confounding variables were distributed evenly across groups.\n\nWhich phrase best completes the blank to maintain coherence?",
+          "options": [
+            "This design",
+            "The variables",
+            "The researchers",
+            "The trial results",
+            "The groups"
+          ],
+          "correct": 0,
+          "explanation": "'This design' = 'randomized controlled trial' (RCT). 'Design' (tasarım) RCT'nin paraphrase'i ve ikinci cümlenin öznesine uygun. 'The variables' sonuç (özne değil), 'the researchers' failurasyon yapmış ama 'design ensured' daha uygun (tasarımın özelliği), 'results' henüz bahsedilmemiş, 'groups' pasif unsur."
+        },
+        {
+          "question": "[Passage] Phonological awareness predicts reading success in young children. However, semantic knowledge and syntactic skills also contribute significantly. ----, multiple linguistic competencies interact to support literacy development.\n\nWhich phrase best introduces the concluding sentence?",
+          "options": [
+            "In other words",
+            "On the contrary",
+            "For instance",
+            "Despite this",
+            "As a result"
+          ],
+          "correct": 0,
+          "explanation": "'In other words' doğrudur çünkü son cümle önceki iki cümleyi özetliyor/yeniden ifade ediyor: phonological + semantic + syntactic = multiple competencies. 'On the contrary' zıtlık (uygunsuz), 'for instance' örnek (özet değil), 'despite this' itiraz (destekliyor), 'as a result' sonuç (neden-sonuç yok, özet var)."
+        }
+      ]
+    }
+  ]
+}

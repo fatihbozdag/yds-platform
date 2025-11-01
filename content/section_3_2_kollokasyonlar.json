@@ -1,0 +1,342 @@
+{
+  "section": "3.2",
+  "title": "Kollokasyonlar (Collocations)",
+  "topics": [
+    {
+      "id": "3.2.1",
+      "title": "Verb-Noun, Adjective-Noun, Adverb-Adjective Eşleşmeleri",
+      "content": "Kollokasyonlar, doğal olarak birlikte kullanılan kelime eşleşmeleridir ve akademik İngilizce'de belirli kalıplar oluşturur. YDS/YÖKDİL sınavlarında kollokasyon bilgisi, hem kelime seçimi sorularında hem de cloze test bölümlerinde test edilir. Doğru kollokasyonu bilmek, akademik metinleri doğal ve akıcı yapar.\n\nVerb-Noun Collocations (Fiil-İsim Eşleşmeleri): Akademik yazıda bazı fiiller belirli isimlerle güçlü bağlar kurar. Örneğin: CONDUCT research/experiment/survey (araştırma YAPMAK - 'do' değil 'conduct' kullanılır), CARRY OUT study/analysis/investigation (çalışma YÜRÜTMEK), MAKE progress/decision/attempt/effort (ilerleme KAYDETMEK), DRAW conclusion/distinction/comparison (sonuç ÇIKARMAK), REACH conclusion/agreement/consensus (sonuca VARMAK), POSE question/problem/challenge (soru SORMAK/sorun OLUŞTURMAK), RAISE question/issue/concern (konu GÜNDEME getirmek), PROVIDE evidence/support/insight (kanıt SUNMAK), OFFER explanation/solution/perspective (açıklama SUNMAK), YIELD result/data/information (sonuç VERmek).\n\nAdjective-Noun Collocations (Sıfat-İsim Eşleşmeleri): Akademik terminolojide belirli sıfatlar belirli isimlerle eşleşir. SIGNIFICANT impact/difference/correlation/improvement (ÖNEMLİ etki), CONSIDERABLE attention/effort/variation (KAYDA değer dikkat), SUBSTANTIAL evidence/progress/contribution (ÖNEMLİ kanıt), PROFOUND effect/influence/impact (DERİN etki), COMPELLING evidence/argument/reason (İKNA edici kanıt), COMPREHENSIVE analysis/study/review (KAPSAMLI analiz), RIGOROUS methodology/testing/standards (TİTİZ metodoloji), ROBUST evidence/framework/system (SAĞLAM kanıt), TENTATIVE conclusion/finding/suggestion (GEÇİCİ sonuç), PRELIMINARY result/finding/data (ÖN sonuç).\n\nAdverb-Adjective Collocations (Zarf-Sıfat Eşleşmeleri): Akademik yazıda yoğunluk ve kesinlik derecesini ifade eder. HIGHLY significant/effective/successful/unlikely (SON derece önemli), EXTREMELY important/difficult/rare/valuable (SON derece önemli), DEEPLY rooted/concerned/involved (DERİNDEN köklü), WIDELY accepted/recognized/used/available (YAYGIN kabul edilen), INCREASINGLY important/common/complex (GİDEREK artan), PARTICULARLY important/useful/relevant (ÖZELLİKLE önemli), RELATIVELY simple/easy/small/recent (GÖRECELİ olarak basit), POTENTIALLY harmful/beneficial/important (POTANSİYEL olarak zararlı).",
+      "examples": [
+        "Researchers conducted extensive experiments to test the hypothesis.",
+        "The study carried out a comprehensive analysis of learner performance.",
+        "Scientists have made significant progress in understanding the mechanism.",
+        "The evidence draws a clear distinction between the two phenomena.",
+        "Scholars reached a consensus on the theoretical framework.",
+        "Climate change poses serious challenges to global food security.",
+        "The author raises important questions about methodological validity.",
+        "Recent studies provide compelling evidence for the effectiveness of the intervention.",
+        "The analysis offers valuable insights into language acquisition processes.",
+        "The experiment yielded unexpected results that contradicted previous findings.",
+        "The research demonstrates a highly significant correlation between variables.",
+        "This approach is widely recognized as the most effective method.",
+        "The phenomenon is becoming increasingly common in urban environments.",
+        "The findings are particularly relevant to educational policy.",
+        "The treatment is potentially harmful when administered incorrectly."
+      ],
+      "exercises": [
+        {
+          "question": "The research team ---- extensive data from multiple sources to support their hypothesis.",
+          "options": [
+            "gathered",
+            "picked",
+            "grabbed",
+            "took",
+            "caught"
+          ],
+          "correct": 0,
+          "explanation": "'Gather data' akademik yazıda standart bir verb-noun collocation'dır. 'Collect data' da doğrudur ancak 'gather' daha yaygındır."
+        },
+        {
+          "question": "The study ---- important questions about the long-term effects of the intervention.",
+          "options": [
+            "raises",
+            "lifts",
+            "grows",
+            "increases",
+            "elevates"
+          ],
+          "correct": 0,
+          "explanation": "'Raise questions' akademik söylemde 'soru gündeme getirmek' anlamında standart bir kollokasyondur. 'Pose questions' da kullanılır ancak 'raise' daha yaygındır."
+        },
+        {
+          "question": "The findings provide ---- evidence for the effectiveness of early language intervention.",
+          "options": [
+            "compelling",
+            "forcing",
+            "pushing",
+            "demanding",
+            "requiring"
+          ],
+          "correct": 0,
+          "explanation": "'Compelling evidence' akademik yazıda 'ikna edici kanıt' anlamında güçlü bir adjective-noun collocation'dır."
+        },
+        {
+          "question": "Researchers have made ---- progress in understanding the neural mechanisms of language processing.",
+          "options": [
+            "significant",
+            "big",
+            "large",
+            "huge",
+            "giant"
+          ],
+          "correct": 0,
+          "explanation": "'Make significant progress' akademik bağlamda standart bir kollokasyondur. 'Big/large/huge' günlük dilde kullanılır ancak akademik yazıda 'significant/substantial/considerable' tercih edilir."
+        },
+        {
+          "question": "The theory is ---- accepted among linguists as the most plausible explanation for the phenomenon.",
+          "options": [
+            "widely",
+            "broadly",
+            "largely",
+            "greatly",
+            "hugely"
+          ],
+          "correct": 0,
+          "explanation": "'Widely accepted' akademik yazıda 'yaygın kabul edilen' anlamında standart bir adverb-adjective collocation'dır. 'Broadly' da kullanılabilir ancak 'widely' daha yaygındır."
+        },
+        {
+          "question": "The methodology employed in the study was ---- rigorous, ensuring the reliability of the results.",
+          "options": [
+            "highly",
+            "greatly",
+            "strongly",
+            "deeply",
+            "heavily"
+          ],
+          "correct": 0,
+          "explanation": "'Highly rigorous' akademik yazıda 'son derece titiz' anlamında güçlü bir kollokasyondur. 'Highly' yoğunluk belirtir ve 'rigorous' ile doğal eşleşir."
+        },
+        {
+          "question": "Based on the data analysis, the researchers ---- the conclusion that further investigation is necessary.",
+          "options": [
+            "drew",
+            "pulled",
+            "took",
+            "made",
+            "got"
+          ],
+          "correct": 0,
+          "explanation": "'Draw a conclusion' akademik yazıda 'sonuç çıkarmak' anlamında standart bir verb-noun collocation'dır. 'Reach a conclusion' da kullanılır ancak 'draw' daha yaygındır."
+        },
+        {
+          "question": "The study ---- a comprehensive review of the literature on second language acquisition.",
+          "options": [
+            "conducted",
+            "made",
+            "did",
+            "performed",
+            "executed"
+          ],
+          "correct": 0,
+          "explanation": "'Conduct a review' akademik araştırmalarda standart bir kollokasyondur. 'Carry out' da kullanılabilir ancak 'conduct' daha formal ve yaygındır."
+        },
+        {
+          "question": "Climate change ---- serious threats to biodiversity and ecosystem stability.",
+          "options": [
+            "poses",
+            "puts",
+            "places",
+            "sets",
+            "makes"
+          ],
+          "correct": 0,
+          "explanation": "'Pose a threat' akademik yazıda 'tehdit oluşturmak' anlamında standart bir kollokasyondur. 'Pose' genellikle threat, challenge, problem, risk, question gibi kelimelerle kullanılır."
+        },
+        {
+          "question": "The intervention had a ---- effect on student motivation and engagement in the classroom.",
+          "options": [
+            "profound",
+            "deep",
+            "strong",
+            "heavy",
+            "thick"
+          ],
+          "correct": 0,
+          "explanation": "'Profound effect' akademik yazıda 'derin etki' anlamında güçlü bir adjective-noun collocation'dır. 'Deep' günlük dilde kullanılır ancak 'effect' ile 'profound' akademik tercihtir."
+        },
+        {
+          "question": "The findings are ---- relevant to current debates in educational policy and practice.",
+          "options": [
+            "particularly",
+            "especially",
+            "specially",
+            "very",
+            "much"
+          ],
+          "correct": 0,
+          "explanation": "'Particularly relevant' akademik yazıda 'özellikle ilgili' anlamında standart bir adverb-adjective collocation'dır. 'Especially' da kullanılabilir ancak 'particularly' daha formal."
+        },
+        {
+          "question": "The experiment ---- unexpected results that challenged existing theoretical assumptions.",
+          "options": [
+            "yielded",
+            "gave",
+            "produced",
+            "made",
+            "created"
+          ],
+          "correct": 0,
+          "explanation": "'Yield results' bilimsel yazıda 'sonuç vermek' anlamında standart bir verb-noun collocation'dır. 'Produce' da kullanılır ancak 'yield' daha teknik ve akademiktir."
+        }
+      ]
+    },
+    {
+      "id": "3.2.2",
+      "title": "Yanlış Arkadaşlar ve Türkçe Etkisiyle Yapılan Hatalar",
+      "content": "Türkçe konuşucuların İngilizce öğrenirken yaptığı kollokasyon hataları genellikle iki kaynaktan gelir: (1) False Friends (Yanlış Arkadaşlar) - benzer görünen ancak farklı anlamları olan kelimeler, (2) L1 Transfer (Ana Dil Aktarımı) - Türkçe'den doğrudan çeviri yapmak.\n\nYanlış Arkadaşlar (False Friends): ACTUAL ≠ aktüel (güncel). 'Actual' means 'gerçek, asıl' (The actual reason was different), Türkçe 'aktüel' = current/contemporary. CONTROL ≠ kontrol. 'Control' fiil olarak 'kontrol etmek' anlamına gelir ama isim olarak 'kontrol' kelimesinin tam karşılığı değildir - 'check' veya 'inspect' kullanılmalı (Check your answers ≠ Control your answers). SYMPATHETIC ≠ sempatik. 'Sympathetic' means 'acıyan, anlayışlı' (She was sympathetic to my situation), Türkçe 'sempatik' = likeable, pleasant. EVENTUALLY ≠ eventuali. 'Eventually' means 'sonunda' (He eventually succeeded), 'eventuali' diye bir kelime yoktur. ACADEMIC ≠ akademik. İngilizce 'academic' bazen 'teorik, pratikte işe yaramaz' anlamına da gelir (That's just academic - it won't work in reality).\n\nTürkçe Etkisiyle Yapılan Kollokasyon Hataları: MAKE + İSİM yapılarında Türkçe 'yapmak' kelimesinin etkisiyle yanlış fiil seçimi: ❌ 'do a mistake' → ✓ MAKE a mistake, ❌ 'do a decision' → ✓ MAKE a decision, ❌ 'make homework' → ✓ DO homework, ❌ 'make sport' → ✓ PLAY/DO sport. TAKE + İSİM yapılarında: ❌ 'get an exam' → ✓ TAKE an exam, ❌ 'make a photo' → ✓ TAKE a photo, ❌ 'do a shower' → ✓ TAKE a shower. GIVE/DELIVER/MAKE farkları: ❌ 'make a speech' (Türkçe: konuşma yapmak) → ✓ GIVE/DELIVER a speech, ❌ 'give a mistake' → ✓ MAKE a mistake.\n\nAkademik bağlamda sık yapılan hatalar: ❌ 'do research' → ✓ CONDUCT research, ❌ 'give a conclusion' → ✓ DRAW a conclusion, ❌ 'make a theory' → ✓ PROPOSE/DEVELOP a theory, ❌ 'say attention' → ✓ PAY attention, ❌ 'put emphasis' → ✓ PLACE emphasis / LAY emphasis, ❌ 'open a discussion' → ✓ INITIATE/LAUNCH a discussion, ❌ 'create doubt' → ✓ RAISE doubt / CAST doubt.",
+      "examples": [
+        "❌ The actual weather is very hot. ✓ The current weather is very hot. (actual ≠ aktüel)",
+        "❌ Please control your homework before submitting. ✓ Please check your homework before submitting.",
+        "❌ He is very sympathetic and everyone likes him. ✓ He is very likeable and everyone likes him.",
+        "❌ The student did a big mistake in the exam. ✓ The student made a big mistake in the exam.",
+        "❌ I need to do a decision about my future. ✓ I need to make a decision about my future.",
+        "❌ Did you make your homework? ✓ Did you do your homework?",
+        "❌ We will get an exam next week. ✓ We will take an exam next week.",
+        "❌ The professor made a long speech about research ethics. ✓ The professor gave/delivered a long speech about research ethics.",
+        "❌ Researchers did extensive experiments. ✓ Researchers conducted extensive experiments.",
+        "❌ The data gave an important conclusion. ✓ The data led to an important conclusion / We drew an important conclusion from the data.",
+        "❌ Einstein made the theory of relativity. ✓ Einstein developed/proposed the theory of relativity.",
+        "❌ The author says attention to methodological issues. ✓ The author pays attention to methodological issues.",
+        "❌ The study puts emphasis on early intervention. ✓ The study places emphasis on early intervention.",
+        "❌ The findings created doubt about previous assumptions. ✓ The findings raised doubt about previous assumptions.",
+        "❌ Eventually, I am a linguist and I understand language. ✓ Actually, I am a linguist and I understand language."
+      ],
+      "exercises": [
+        {
+          "question": "Students often ---- careless mistakes in the vocabulary section of the exam due to time pressure.",
+          "options": [
+            "make",
+            "do",
+            "create",
+            "produce",
+            "generate"
+          ],
+          "correct": 0,
+          "explanation": "Doğru kollokasyon 'make a mistake'dır. Türkçe'de 'hata yapmak' dendiği için öğrenciler sıklıkla 'do a mistake' derler ancak bu yanlıştır."
+        },
+        {
+          "question": "The professor ---- a fascinating lecture on the evolution of human language yesterday.",
+          "options": [
+            "gave",
+            "made",
+            "did",
+            "told",
+            "spoke"
+          ],
+          "correct": 0,
+          "explanation": "Doğru kollokasyon 'give a lecture' veya 'deliver a lecture'dır. Türkçe'de 'ders vermek' dediğimiz için 'give' doğru fiildir. 'Make a lecture' yanlış bir kollokasyondur."
+        },
+        {
+          "question": "Before submitting your answer sheet, please ---- your answers carefully to avoid any errors.",
+          "options": [
+            "check",
+            "control",
+            "inspect",
+            "examine",
+            "verify"
+          ],
+          "correct": 0,
+          "explanation": "'Check your answers' doğru kollokasyondur. Türkçe 'kontrol et' etkisiyle 'control' kullanılması yaygın bir hatadır ancak 'control' farklı bir anlama sahiptir."
+        },
+        {
+          "question": "The ---- reason for the project's failure was inadequate funding, not poor management.",
+          "options": [
+            "actual",
+            "current",
+            "contemporary",
+            "modern",
+            "present"
+          ],
+          "correct": 0,
+          "explanation": "'Actual' burada 'gerçek, asıl' anlamında kullanılır. Türkçe 'aktüel' kelimesi 'güncel' anlamına gelir ve İngilizce karşılığı 'current' veya 'contemporary'dir."
+        },
+        {
+          "question": "All participants must ---- the proficiency test before being enrolled in the advanced course.",
+          "options": [
+            "take",
+            "get",
+            "make",
+            "do",
+            "have"
+          ],
+          "correct": 0,
+          "explanation": "'Take an exam/test' doğru kollokasyondur. Türkçe'de 'sınava girmek' dendiği için bazı öğrenciler 'get an exam' veya 'enter an exam' derler ancak bunlar yanlıştır."
+        },
+        {
+          "question": "The research ---- serious questions about the validity of the previous study's methodology.",
+          "options": [
+            "raises",
+            "makes",
+            "does",
+            "creates",
+            "builds"
+          ],
+          "correct": 0,
+          "explanation": "'Raise questions' akademik yazıda standart kollokasyondur. Türkçe 'soru yaratmak' etkisiyle 'create questions' kullanılması yaygın bir hatadır."
+        },
+        {
+          "question": "Based on the experimental data, researchers ---- the conclusion that the hypothesis was supported.",
+          "options": [
+            "drew",
+            "gave",
+            "made",
+            "took",
+            "got"
+          ],
+          "correct": 0,
+          "explanation": "'Draw a conclusion' akademik yazıda standart kollokasyondur. Türkçe 'sonuç çıkarmak' etkisiyle 'make a conclusion' veya 'give a conclusion' kullanılması yaygın hatalardır."
+        },
+        {
+          "question": "The study was designed to ---- research on the cognitive processes involved in second language acquisition.",
+          "options": [
+            "conduct",
+            "do",
+            "make",
+            "perform",
+            "execute"
+          ],
+          "correct": 0,
+          "explanation": "'Conduct research' akademik yazıda standart kollokasyondur. Türkçe 'araştırma yapmak' etkisiyle 'do research' veya 'make research' kullanılması yaygın hatalardır."
+        },
+        {
+          "question": "The new policy ---- considerable emphasis on developing students' critical thinking skills.",
+          "options": [
+            "places",
+            "puts",
+            "makes",
+            "gives",
+            "does"
+          ],
+          "correct": 0,
+          "explanation": "'Place emphasis on' akademik yazıda standart kollokasyondur. 'Lay emphasis on' da kullanılır. Türkçe etkisiyle 'put emphasis' veya 'make emphasis' kullanılması yaygın hatalardır."
+        },
+        {
+          "question": "She was very ---- to my situation and offered to help me with the assignment.",
+          "options": [
+            "sympathetic",
+            "likeable",
+            "pleasant",
+            "friendly",
+            "nice"
+          ],
+          "correct": 0,
+          "explanation": "'Sympathetic' İngilizce'de 'anlayışlı, acıyan' anlamına gelir. Türkçe 'sempatik' kelimesi 'sevimli, hoş' anlamına gelir ve İngilizce karşılığı 'likeable' veya 'pleasant'tır."
+        },
+        {
+          "question": "After years of hard work, the scientist ---- succeeded in proving his groundbreaking theory.",
+          "options": [
+            "eventually",
+            "actually",
+            "currently",
+            "presently",
+            "lately"
+          ],
+          "correct": 0,
+          "explanation": "'Eventually' 'sonunda' anlamına gelir. Türkçe konuşucular bazen 'actually' ile karıştırır çünkü benzer görünür, ancak 'actually' 'aslında' anlamına gelir."
+        },
+        {
+          "question": "The findings ---- significant doubt on the reliability of self-reported data in survey research.",
+          "options": [
+            "cast",
+            "make",
+            "create",
+            "put",
+            "give"
+          ],
+          "correct": 0,
+          "explanation": "'Cast doubt on' akademik yazıda standart kollokasyondur. 'Raise doubt' da kullanılır. Türkçe 'şüphe yaratmak' etkisiyle 'create doubt' veya 'make doubt' kullanılması yaygın hatalardır."
+        }
+      ]
+    }
+  ]
+}

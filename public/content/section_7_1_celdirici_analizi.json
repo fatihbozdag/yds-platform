@@ -1,0 +1,512 @@
+{
+  "section": "7.1",
+  "title": "Çeldirici Analizi",
+  "topics": [
+    {
+      "id": "7.1.1",
+      "title": "Anlamsal Kaydırma ve Kapsam Farklılığı",
+      "content": "YDS ve YÖKDİL sınavlarında çeldiriciler (distractors) rastgele seçilmez; belirli stratejilerle hazırlanır. Anlamsal kaydırma, doğru cevaba yakın ama ince farklar taşıyan seçeneklerin sunulmasıdır. Bu tür çeldiricileri tanımak doğru cevabı bulmayı hızlandırır.\n\n**Anlamsal kaydırma örnekleri**: 'affect' (etkilemek) vs 'effect' (etki, sonuç), 'imply' (ima etmek) vs 'infer' (çıkarım yapmak), 'compliment' (iltifat) vs 'complement' (tamamlamak), 'continuous' (kesintisiz) vs 'continual' (aralıklı tekrarlanan), 'principle' (ilke) vs 'principal' (ana, müdür). Bu kelimeler birbiririne benzer ama anlamları farklıdır.\n\n**Kapsam farklılığı**: Bazı çeldiriciler doğru kelimeyle aynı anlamsal alanda ama farklı kapsama sahiptir. 'Reduce' (azaltmak) genel, 'minimize' (en aza indirmek) daha spesifik, 'eliminate' (yok etmek) en radikal. Cümle bağlamı hangi kapsam düzeyini gerektirdiğini belirler. Örnek: 'The policy aims to ---- poverty.' → 'reduce' gerçekçi, 'eliminate' idealist ama olası, 'minimize' ara seviye.\n\n**Register kaydırması**: Resmi/gayri resmi dil farkı. 'Purchase' (resmi) vs 'buy' (günlük), 'commence' (resmi) vs 'start' (günlük), 'terminate' (resmi) vs 'end' (günlük). Akademik metinlerde resmi kelimeler tercih edilir.\n\n**Kollokasyon kaydırması**: Yanlış eşleşme. Doğru: 'strong tea', yanlış: 'powerful tea'. Doğru: 'heavy rain', yanlış: 'strong rain'. YDS/YÖKDİL'de 'make a decision', 'take a risk', 'draw a conclusion' gibi sabit eşleşmelerin bilinmesi kritiktir.\n\n**Connotation (çağrışım) farkı**: 'childish' (olumsuz - çocuksu/olgunlaşmamış) vs 'childlike' (olumlu - çocuk gibi saf/masum). 'Curious' (meraklı/ilgili) vs 'nosy' (işgüzar/müdahaleci). 'Thrifty' (tutumlu/olumlu) vs 'stingy' (cimri/olumsuz).\n\n**Strateji**: Boşluğu doldurmadan önce cümlenin tonunu (olumlu/olumsuz/nötr) ve register'ını (resmi/günlük) belirleyin. Sonra seçenekleri anlamsal alan, kapsam ve kollokasyon açısından değerlendirin. Çok benzer iki seçenek varsa, bağlamdaki ince ipuçlarını arayın.",
+      "examples": [
+        "The data IMPLY a correlation, but readers may INFER causation. (imply vs infer)",
+        "The two colors COMPLEMENT each other beautifully. (complement, not compliment)",
+        "CONTINUOUS monitoring requires uninterrupted observation. (continuous, not continual)",
+        "The PRINCIPAL reason for the study was to test the hypothesis. (principal = main)",
+        "Ethical PRINCIPLES guided the research design. (principles = rules)",
+        "We aim to REDUCE emissions, not ELIMINATE them entirely. (Kapsam farkı)",
+        "Please PURCHASE your tickets at the counter. (Resmi - purchase, not buy)",
+        "The committee will COMMENCE deliberations tomorrow. (Resmi - commence, not start)",
+        "Make a DECISION before the deadline. (Kollokasyon - make, not take/do)",
+        "We need to TAKE a risk to innovate. (Kollokasyon - take, not make/do)",
+        "His CHILDLIKE enthusiasm was infectious. (Olumlu çağrışım)",
+        "Such CHILDISH behavior is unacceptable in a professional setting. (Olumsuz çağrışım)",
+        "She is CURIOUS about different cultures. (Olumlu - meraklı)",
+        "He is too NOSY about others' private lives. (Olumsuz - işgüzar)",
+        "Being THRIFTY is a virtue. (Olumlu - tutumlu) vs. Don't be so STINGY! (Olumsuz - cimri)"
+      ],
+      "exercises": [
+        {
+          "question": "The author's use of metaphors ---- that climate change is a battle, but readers may ---- different meanings.",
+          "options": {
+            "A": "infers / imply",
+            "B": "implies / infer",
+            "C": "suggests / understand",
+            "D": "means / interpret",
+            "E": "indicates / deduce"
+          },
+          "correct": "B",
+          "explanation": "Yazar 'implies' (ima eder), okuyucular 'infer' (çıkarım yapar). İki kelime sıklıkla karıştırılır."
+        },
+        {
+          "question": "The two theories ---- each other; together they provide a complete explanation.",
+          "options": {
+            "A": "compliment",
+            "B": "supplement",
+            "C": "complement",
+            "D": "contradict",
+            "E": "oppose"
+          },
+          "correct": "C",
+          "explanation": "'complement' = tamamlamak. 'compliment' = iltifat etmek. Bağlam tamamlamayı gösterir."
+        },
+        {
+          "question": "The goal of the intervention is to ---- income inequality, though complete eradication may be unrealistic.",
+          "options": {
+            "A": "eliminate",
+            "B": "remove",
+            "C": "reduce",
+            "D": "abolish",
+            "E": "erase"
+          },
+          "correct": "C",
+          "explanation": "'reduce' = azaltmak. Cümle 'complete eradication unrealistic' dediği için radikal seçenekler (eliminate, abolish) değil gerçekçi 'reduce' doğru."
+        },
+        {
+          "question": "Participants are requested to ---- the informed consent form before enrollment.",
+          "options": {
+            "A": "buy",
+            "B": "get",
+            "C": "take",
+            "D": "sign",
+            "E": "write"
+          },
+          "correct": "D",
+          "explanation": "'sign' = imzalamak. Informed consent form ile standart kollokasyon. Resmi bağlam."
+        },
+        {
+          "question": "The study will ---- next month after all ethical approvals are obtained.",
+          "options": {
+            "A": "start",
+            "B": "begin",
+            "C": "commence",
+            "D": "initiate",
+            "E": "launch"
+          },
+          "correct": "C",
+          "explanation": "'commence' en resmi seçenek. Akademik/bilimsel bağlamda tercih edilir."
+        },
+        {
+          "question": "Her ---- curiosity about nature led her to become a biologist.",
+          "options": {
+            "A": "childish",
+            "B": "childlike",
+            "C": "juvenile",
+            "D": "immature",
+            "E": "infantile"
+          },
+          "correct": "B",
+          "explanation": "'childlike' = çocuk gibi saf/meraklı (olumlu). 'childish' = çocuksu/olgunlaşmamış (olumsuz). Biyolog olması olumlu bağlam."
+        },
+        {
+          "question": "The committee needs to ---- a decision regarding the funding allocation.",
+          "options": {
+            "A": "take",
+            "B": "do",
+            "C": "make",
+            "D": "give",
+            "E": "create"
+          },
+          "correct": "C",
+          "explanation": "'make a decision' sabit kollokasyon. 'take' yanlış, 'do' yanlış."
+        },
+        {
+          "question": "Investors must be willing to ---- risks in order to achieve high returns.",
+          "options": {
+            "A": "make",
+            "B": "do",
+            "C": "take",
+            "D": "have",
+            "E": "give"
+          },
+          "correct": "C",
+          "explanation": "'take risks' = risk almak. Sabit kollokasyon."
+        },
+        {
+          "question": "The ---- objective of the research is to identify biomarkers for early detection.",
+          "options": {
+            "A": "principle",
+            "B": "principal",
+            "C": "primary",
+            "D": "B or C",
+            "E": "A or B"
+          },
+          "correct": "D",
+          "explanation": "Hem 'principal' (ana) hem 'primary' (birincil) doğru. 'principle' = ilke, yanlış."
+        },
+        {
+          "question": "---- monitoring is required; any interruption could compromise data quality.",
+          "options": {
+            "A": "Continual",
+            "B": "Continuous",
+            "C": "Frequent",
+            "D": "Regular",
+            "E": "Periodic"
+          },
+          "correct": "B",
+          "explanation": "'Continuous' = kesintisiz. 'any interruption could compromise' kesintisizlik gerekliliğini vurgular. 'Continual' = aralıklı tekrarlanan."
+        },
+        {
+          "question": "His ---- approach to budgeting allowed him to save substantial amounts.",
+          "options": {
+            "A": "stingy",
+            "B": "miserly",
+            "C": "thrifty",
+            "D": "cheap",
+            "E": "tight-fisted"
+          },
+          "correct": "C",
+          "explanation": "'thrifty' = tutumlu (olumlu). 'stingy', 'miserly', 'cheap' hepsi olumsuz. Bağlam olumlu (successfully saving)."
+        },
+        {
+          "question": "The researcher was able to ---- important conclusions from the data.",
+          "options": {
+            "A": "make",
+            "B": "take",
+            "C": "draw",
+            "D": "pull",
+            "E": "extract"
+          },
+          "correct": "C",
+          "explanation": "'draw conclusions' = sonuç çıkarmak. Sabit akademik kollokasyon."
+        }
+      ]
+    },
+    {
+      "id": "7.1.2",
+      "title": "Mutlaklık İşaretleri (Always/Never)",
+      "content": "YDS ve YÖKDİL'de çeldiriciler sıklıkla mutlaklık ifadeleri (always, never, all, none, every, only, must) kullanarak aşırı genellemeler yapar. Akademik metinler genellikle daha nüanslı (nuanced) ifadeler tercih eder: usually, often, generally, typically, may, might, can.\n\n**Mutlak çeldiriciler**: 'This theory ALWAYS applies', 'The method NEVER fails', 'ALL participants responded', 'NO exceptions exist', 'ONLY this factor matters', 'It is IMPOSSIBLE to...', 'COMPLETELY eliminates the problem'. Bu ifadeler bilimsel gerçekliğe nadiren uyar çünkü bilim istisnaları ve sınırlılıkları kabul eder.\n\n**Nüanslı ifadeler**: 'This theory GENERALLY applies', 'The method RARELY fails', 'MOST participants responded', 'FEW exceptions exist', 'This factor is AMONG THE reasons', 'It is UNLIKELY to...', 'SIGNIFICANTLY reduces the problem'. Bu ifadeler daha gerçekçi ve akademik üsluba uygundur.\n\n**Modal fiiller**: 'must' (kesinlik) yerine 'may/might/could' (olasılık), 'will' yerine 'is likely to', 'cannot' yerine 'is unlikely to'. Örnek: Çeldirici: 'The findings PROVE that X causes Y.' Doğru: 'The findings SUGGEST that X may contribute to Y.'\n\n**Quantifier'lar**: 'all' yerine 'most/many/several', 'none' yerine 'few/hardly any', 'every' yerine 'nearly all/the majority of'. Örnek: Yanlış: 'ALL children acquire language effortlessly.' Doğru: 'MOST children acquire language naturally.'\n\n**Absolutism ipuçları**: Okuma parçalarında bir cümle 'always', 'never', 'all', 'none', 'must', 'impossible' içeriyorsa ve bu ifade bir seçenekte birebir geçiyorsa, genellikle yanlış cevaptır. Çünkü akademik yazılar bu kadar keskin ifadelerden kaçınır.\n\n**İstisnalar**: Matematik, fizik yasaları gibi evrensel doğrularda mutlak ifadeler doğru olabilir: 'Water always boils at 100°C at sea level.' Ama sosyal bilim, tıp, biyoloji gibi alanlarda mutlak ifadeler çok nadirdir.\n\n**Strateji**: Seçeneklerde 'always/never/all/none' görüyorsanız şüpheyle yaklaşın. Paragrafın tonunu kontrol edin: eğer yazar çekingen/tedbirli (tentative) bir dil kullanıyorsa, mutlak bir seçenek muhtemelen yanlıştır. 'Some', 'often', 'may', 'typically' içeren seçenekler genellikle daha güvenlidir.",
+      "examples": [
+        "WRONG: 'This method ALWAYS produces accurate results.' (Aşırı genelleme)",
+        "RIGHT: 'This method GENERALLY produces accurate results.' (Nüanslı)",
+        "WRONG: 'The theory NEVER fails to predict outcomes.' (Mutlak)",
+        "RIGHT: 'The theory RARELY fails to predict outcomes.' (Gerçekçi)",
+        "WRONG: 'ALL learners benefit from explicit instruction.' (Aşırı genelleme)",
+        "RIGHT: 'MOST learners benefit from explicit instruction.' (Nüanslı)",
+        "WRONG: 'There are NO exceptions to this rule.' (Mutlak)",
+        "RIGHT: 'There are FEW exceptions to this rule.' (Gerçekçi)",
+        "WRONG: 'The findings PROVE a causal relationship.' (Kesin)",
+        "RIGHT: 'The findings SUGGEST a possible causal relationship.' (Tedbirli)",
+        "WRONG: 'It is IMPOSSIBLE to eliminate bias completely.' (Mutlak - ama bu doğru olabilir!)",
+        "RIGHT: 'It is DIFFICULT to eliminate bias completely.' (Nüanslı)",
+        "WRONG: 'ONLY genetic factors determine intelligence.' (Tek sebep)",
+        "RIGHT: 'Genetic factors CONTRIBUTE to intelligence.' (Çok faktörlü)",
+        "WRONG: 'The intervention COMPLETELY eliminates symptoms.' (Mutlak)",
+        "RIGHT: 'The intervention SIGNIFICANTLY reduces symptoms.' (Nüanslı)",
+        "DISTRACTOR: 'The passage states that researchers must always use randomization.' → Paragrafta 'should generally use' yazıyorsa yanlış."
+      ],
+      "exercises": [
+        {
+          "question": "Which of the following statements BEST reflects the author's view?\n\nPassage: 'While cognitive-behavioral therapy shows promise for treating anxiety, individual responses vary, and it may not be suitable for all patients.'",
+          "options": {
+            "A": "Cognitive-behavioral therapy always cures anxiety.",
+            "B": "Cognitive-behavioral therapy never fails to help patients.",
+            "C": "Cognitive-behavioral therapy is effective for most but not all patients.",
+            "D": "All patients with anxiety must undergo cognitive-behavioral therapy.",
+            "E": "Cognitive-behavioral therapy is the only treatment for anxiety."
+          },
+          "correct": "C",
+          "explanation": "C nüanslı: 'most but not all'. A, B, D, E mutlak ifadeler ('always', 'never', 'all', 'must', 'only') kullanır ve paragraftaki 'may not be suitable for all' ile çelişir."
+        },
+        {
+          "question": "According to the passage, what can be inferred about the effectiveness of the new drug?\n\nPassage: 'The new drug significantly reduced symptoms in 78% of participants. However, some patients experienced no benefit, and a few reported adverse effects.'",
+          "options": {
+            "A": "The drug is completely safe and effective.",
+            "B": "The drug always eliminates symptoms.",
+            "C": "The drug is ineffective and should never be used.",
+            "D": "The drug is generally effective but has limitations.",
+            "E": "All patients must take this drug."
+          },
+          "correct": "D",
+          "explanation": "D dengeli: 'generally effective but has limitations' paragraftaki 78% başarı, ama bazı hastalarda fayda yok ve yan etkiler var bilgisini yansıtır. A, B, C, E mutlak ifadelerle yanlış."
+        },
+        {
+          "question": "The passage suggests that expertise in a domain ---- acquired through deliberate practice, though individual differences ---- play a role.",
+          "options": {
+            "A": "is always / never",
+            "B": "can be / may",
+            "C": "must be / cannot",
+            "D": "is never / always",
+            "E": "is only / do not"
+          },
+          "correct": "B",
+          "explanation": "'can be' (olasılık) ve 'may' (olabilir) nüanslı modal'lar. A, C, D, E mutlak ifadeler içerir."
+        },
+        {
+          "question": "Which statement would the author MOST LIKELY agree with?\n\nPassage: 'Research indicates that most bilinguals exhibit cognitive advantages in certain tasks. However, the size of these advantages varies considerably, and some studies have found no difference.'",
+          "options": {
+            "A": "All bilinguals have superior cognitive abilities.",
+            "B": "Bilingualism always leads to cognitive benefits.",
+            "C": "There is no cognitive advantage to bilingualism.",
+            "D": "Bilingualism may offer cognitive advantages in some cases.",
+            "E": "Only bilinguals can perform executive function tasks well."
+          },
+          "correct": "D",
+          "explanation": "D tedbirli: 'may offer...in some cases'. A, B mutlak ('all', 'always'), C tamamen reddediyor, E 'only' ile aşırı. Paragraf 'most...however varies...some found no difference' dediği için D uygun."
+        },
+        {
+          "question": "The author implies that eliminating measurement error is ----.",
+          "options": {
+            "A": "always possible with modern technology",
+            "B": "never achievable under any circumstances",
+            "C": "extremely difficult but not impossible",
+            "D": "only possible in laboratory settings",
+            "E": "completely unnecessary for valid research"
+          },
+          "correct": "C",
+          "explanation": "C dengeli: 'extremely difficult but not impossible'. A, B, D, E mutlak veya aşırı ifadeler. Bilimsel gerçeklik: hatayı minimize edebiliriz ama tamamen yok etmek zor."
+        },
+        {
+          "question": "According to the passage, traditional teaching methods ----.",
+          "options": {
+            "A": "should never be used in modern classrooms",
+            "B": "are always more effective than innovative approaches",
+            "C": "can be effective when used appropriately",
+            "D": "must be completely replaced by technology",
+            "E": "are the only way to ensure learning"
+          },
+          "correct": "C",
+          "explanation": "C nüanslı ve esnek: 'can be effective when used appropriately'. A, B, D, E mutlak ifadeler ('never', 'always', 'must', 'only')."
+        },
+        {
+          "question": "The study findings suggest that genetic factors ---- contribute to the development of the disease.",
+          "options": {
+            "A": "always",
+            "B": "never",
+            "C": "only",
+            "D": "may",
+            "E": "must"
+          },
+          "correct": "D",
+          "explanation": "'may' olasılık belirtir, bilimsel tedbirli dil. A, B, C, E mutlak."
+        },
+        {
+          "question": "Which of the following is the author LEAST LIKELY to claim?",
+          "options": {
+            "A": "Further research is needed to clarify these findings.",
+            "B": "The results suggest a possible relationship between the variables.",
+            "C": "This theory provides a complete and final explanation.",
+            "D": "Several factors may contribute to the observed effects.",
+            "E": "The data indicate a trend that warrants further investigation."
+          },
+          "correct": "C",
+          "explanation": "C mutlak: 'complete and final explanation'. Bilim hiçbir zaman 'final' demez. A, B, D, E hepsi tedbirli akademik dil."
+        },
+        {
+          "question": "The passage indicates that ---- participants showed improvement after the intervention.",
+          "options": {
+            "A": "all",
+            "B": "every",
+            "C": "most",
+            "D": "none",
+            "E": "no"
+          },
+          "correct": "C",
+          "explanation": "'most' nüanslı quantifier. A, B, D, E mutlak (all, every, none, no)."
+        },
+        {
+          "question": "Based on the evidence presented, the hypothesis is ----.",
+          "options": {
+            "A": "definitively proven",
+            "B": "completely refuted",
+            "C": "supported by the data",
+            "D": "absolutely confirmed",
+            "E": "entirely rejected"
+          },
+          "correct": "C",
+          "explanation": "'supported by' dengeli akademik ifade. A, B, D, E mutlak ('definitively', 'completely', 'absolutely', 'entirely')."
+        },
+        {
+          "question": "The author suggests that technological advances ---- solve all educational challenges.",
+          "options": {
+            "A": "will certainly",
+            "B": "can completely",
+            "C": "cannot alone",
+            "D": "must always",
+            "E": "will never"
+          },
+          "correct": "C",
+          "explanation": "'cannot alone' = tek başına çözemez. Dengeli. A, B, D, E mutlak ifadeler."
+        },
+        {
+          "question": "According to the passage, successful language learning ---- on motivation alone.",
+          "options": {
+            "A": "always depends",
+            "B": "solely depends",
+            "C": "never depends",
+            "D": "does not depend solely",
+            "E": "must depend only"
+          },
+          "correct": "D",
+          "explanation": "'does not depend solely' = sadece buna bağlı değil, başka faktörler de var. Dengeli. A, B, C, E mutlak."
+        }
+      ]
+    },
+    {
+      "id": "7.1.3",
+      "title": "Negasyon Oyunu, Çift Olumsuz, Modal Kaydırma",
+      "content": "YDS ve YÖKDİL'de çeldiriciler genellikle olumsuz ifadeleri (negation) veya modal fiilleri (may, might, must, should) değiştirerek anlam kaydırması yapar. Bu tür manipülasyonları tanımak kritik önem taşır.\n\n**Negasyon oyunu**: Paragrafta 'X is not uncommon' (= X yaygın) yazarken, seçenekte 'X is rare' (= X nadir) yazarak anlamı tersine çevirmek. Veya 'Few studies have addressed...' (= az çalışma ele aldı) yerine 'Many studies have addressed...' (= çok çalışma ele aldı) demek.\n\n**Çift olumsuz**: İngilizce'de çift olumsuz olumlu anlam verir: 'It is not impossible' = 'It is possible'. 'Not uncommon' = 'common'. 'Not insignificant' = 'significant'. Çeldiriciler bu yapıları 'impossible', 'uncommon', 'insignificant' gibi tek olumsuzlarla değiştirir.\n\n**Modal kaydırma**: Paragrafta 'may' (olabilir - olasılık) yazarken, seçenekte 'must' (zorunda - kesinlik/zorunluluk) veya 'should' (yapmalı - öneri/tavsiye) kullanmak. Örnek: Paragraf: 'The results MAY indicate a trend.' Çeldirici: 'The results PROVE a trend.' (modal kaydırma + fiil değişimi)\n\n**Hardly, scarcely, barely**: Bu zarflar zaten olumsuz anlam taşır. 'Hardly any' = almost none, 'scarcely visible' = almost invisible, 'barely sufficient' = almost insufficient. Seçeneklerde bunlar 'many', 'clearly visible', 'sufficient' gibi olumlu ifadelerle değiştirilebilir.\n\n**Neither/nor yapısı**: 'Neither X nor Y' = ne X ne Y. Çeldirici: 'Both X and Y' veya 'Either X or Y'. Örnek: Paragraf: 'Neither age nor gender was a significant predictor.' Yanlış seçenek: 'Both age and gender were significant predictors.'\n\n**No longer, not yet, not anymore**: Zaman belirten olumsuzluklar. 'No longer effective' = artık etkili değil (önceden etkili idi). Çeldirici: 'still effective' veya 'never effective'.\n\n**Implicit negation**: 'lack', 'absence', 'fail to', 'unable to', 'without' gibi kelimeler olumsuz anlam taşır. Paragraf: 'The study LACKS sufficient data.' Çeldirici: 'The study HAS sufficient data.'\n\n**Strateji**: Paragrafta ve seçeneklerde olumsuz ifadeleri (not, no, neither, hardly, lack, fail, unable) dikkatle işaretleyin. Çift olumsuzları olumluya çevirin. Modal fiillerin gücünü karşılaştırın: may < might < can < could < should < would < will < must. Paragrafın modal tonu ile seçeneklerin tonunu eşleştirin.",
+      "examples": [
+        "PASSAGE: 'The effect is not insignificant.' DISTRACTOR: 'The effect is insignificant.' (Çift olumsuz yok sayıldı)",
+        "PASSAGE: 'Few studies have addressed this issue.' DISTRACTOR: 'Many studies have addressed this issue.' (Negasyon tersine çevrildi)",
+        "PASSAGE: 'The findings MAY suggest a relationship.' DISTRACTOR: 'The findings PROVE a relationship.' (Modal kaydırma: may → prove)",
+        "PASSAGE: 'Hardly any participants withdrew.' DISTRACTOR: 'Many participants withdrew.' (Hardly any ≈ almost none)",
+        "PASSAGE: 'Neither age nor gender predicted outcomes.' DISTRACTOR: 'Both age and gender predicted outcomes.' (Neither...nor tersine)",
+        "PASSAGE: 'The method is no longer recommended.' DISTRACTOR: 'The method is still recommended.' (No longer ≠ still)",
+        "PASSAGE: 'The study lacks sufficient controls.' DISTRACTOR: 'The study has sufficient controls.' (Lack = absence of)",
+        "PASSAGE: 'Researchers were unable to replicate the findings.' DISTRACTOR: 'Researchers replicated the findings.' (Unable to ≠ did)",
+        "PASSAGE: 'It is not uncommon for bilinguals to code-switch.' CORRECT: 'Code-switching is common among bilinguals.' (Çift olumsuz = olumlu)",
+        "PASSAGE: 'The results MIGHT indicate a trend.' DISTRACTOR: 'The results DEFINITELY indicate a trend.' (Modal: might → definitely)",
+        "PASSAGE: 'Scarcely any evidence supports this claim.' DISTRACTOR: 'Substantial evidence supports this claim.' (Scarcely any ≈ almost no)",
+        "PASSAGE: 'The intervention SHOULD be implemented with caution.' DISTRACTOR: 'The intervention MUST be implemented immediately.' (Modal: should → must)",
+        "PASSAGE: 'Not all participants benefited.' DISTRACTOR: 'All participants benefited.' (Not all ≠ all)",
+        "PASSAGE: 'The hypothesis cannot be rejected.' DISTRACTOR: 'The hypothesis is rejected.' (Cannot ≠ is)",
+        "PASSAGE: 'Few would argue against this position.' CORRECT: 'Most would agree with this position.' (Few argue against = Most agree)"
+      ],
+      "exercises": [
+        {
+          "question": "PASSAGE: 'It is not uncommon for learners to make fossilization errors.'\n\nWhich statement is CORRECT?",
+          "options": {
+            "A": "Fossilization errors are rare among learners.",
+            "B": "Fossilization errors are uncommon among learners.",
+            "C": "Fossilization errors are fairly common among learners.",
+            "D": "Learners never make fossilization errors.",
+            "E": "Fossilization errors are impossible for learners."
+          },
+          "correct": "C",
+          "explanation": "'Not uncommon' = fairly common (çift olumsuz = olumlu). A ve B olumsuz anlamı yanlış aktarır, D ve E mutlak ifadeler."
+        },
+        {
+          "question": "PASSAGE: 'Few studies have examined the long-term effects of bilingualism on cognitive decline.'\n\nAccording to the passage:",
+          "options": {
+            "A": "Many studies have examined these effects.",
+            "B": "No studies have examined these effects.",
+            "C": "A limited number of studies have examined these effects.",
+            "D": "All studies have examined these effects.",
+            "E": "Most studies have examined these effects."
+          },
+          "correct": "C",
+          "explanation": "'Few' = a limited number, not many. A, D, E yanlış (çok/hepsi), B aşırı (hiç)."
+        },
+        {
+          "question": "PASSAGE: 'The results MAY indicate a causal relationship, though further research is needed.'\n\nWhich rephrasing is MOST ACCURATE?",
+          "options": {
+            "A": "The results prove a causal relationship.",
+            "B": "The results suggest a possible causal relationship.",
+            "C": "The results must show a causal relationship.",
+            "D": "The results definitely confirm a causal relationship.",
+            "E": "The results eliminate any causal relationship."
+          },
+          "correct": "B",
+          "explanation": "'may indicate' = suggest a possible (olasılık). A, C, D kesinlik, E olumsuz."
+        },
+        {
+          "question": "PASSAGE: 'Hardly any participants reported adverse effects.'\n\nThis means:",
+          "options": {
+            "A": "Many participants reported adverse effects.",
+            "B": "All participants reported adverse effects.",
+            "C": "Most participants reported adverse effects.",
+            "D": "Very few participants reported adverse effects.",
+            "E": "Half of the participants reported adverse effects."
+          },
+          "correct": "D",
+          "explanation": "'Hardly any' = very few, almost none. A, B, C, E hepsi çok sayıda katılımcı anlamına gelir."
+        },
+        {
+          "question": "PASSAGE: 'Neither age nor education level was a significant predictor of outcome.'\n\nAccording to the passage:",
+          "options": {
+            "A": "Both age and education level predicted outcome.",
+            "B": "Either age or education level predicted outcome.",
+            "C": "Age predicted outcome but education level did not.",
+            "D": "Education level predicted outcome but age did not.",
+            "E": "Age and education level were not significant predictors."
+          },
+          "correct": "E",
+          "explanation": "'Neither...nor' = her ikisi de değil. E doğru paraphrase. A, B, C, D yanlış."
+        },
+        {
+          "question": "PASSAGE: 'The intervention is no longer considered effective for this population.'\n\nThis implies:",
+          "options": {
+            "A": "The intervention was never effective.",
+            "B": "The intervention is still considered effective.",
+            "C": "The intervention was previously considered effective.",
+            "D": "The intervention will be effective in the future.",
+            "E": "The intervention is always effective."
+          },
+          "correct": "C",
+          "explanation": "'No longer' = artık değil, önceden öyleydi. C doğru. A (never), B (still), E (always) yanlış."
+        },
+        {
+          "question": "PASSAGE: 'The study lacks sufficient methodological rigor.'\n\nWhich is the CORRECT interpretation?",
+          "options": {
+            "A": "The study has sufficient methodological rigor.",
+            "B": "The study does not have enough methodological rigor.",
+            "C": "The study has excessive methodological rigor.",
+            "D": "Methodological rigor is unnecessary for the study.",
+            "E": "The study perfectly demonstrates methodological rigor."
+          },
+          "correct": "B",
+          "explanation": "'lacks' = yoksundur, yetersizdir. B doğru paraphrase. A, C, E tersi, D ilgisiz."
+        },
+        {
+          "question": "PASSAGE: 'Researchers were unable to replicate the original findings.'\n\nThis means:",
+          "options": {
+            "A": "Researchers successfully replicated the findings.",
+            "B": "Researchers did not replicate the findings.",
+            "C": "Researchers partially replicated the findings.",
+            "D": "Replication was not attempted by researchers.",
+            "E": "Researchers chose not to replicate the findings."
+          },
+          "correct": "B",
+          "explanation": "'unable to' = başarısız, yapamadı. B doğru. A tersi, C, D, E metinde yok."
+        },
+        {
+          "question": "PASSAGE: 'Not all interventions produced significant improvements.'\n\nAccording to this:",
+          "options": {
+            "A": "All interventions produced improvements.",
+            "B": "No interventions produced improvements.",
+            "C": "Some interventions produced improvements, others did not.",
+            "D": "Most interventions failed to produce improvements.",
+            "E": "Every intervention was equally effective."
+          },
+          "correct": "C",
+          "explanation": "'Not all' = bazıları evet, bazıları hayır. C doğru. A (all), B (none), E (every) mutlak ve yanlış."
+        },
+        {
+          "question": "PASSAGE: 'The hypothesis cannot be rejected based on current evidence.'\n\nThis suggests:",
+          "options": {
+            "A": "The hypothesis is definitively confirmed.",
+            "B": "The hypothesis is rejected.",
+            "C": "The hypothesis is supported by evidence.",
+            "D": "The hypothesis is proven false.",
+            "E": "Evidence is irrelevant to the hypothesis."
+          },
+          "correct": "C",
+          "explanation": "'cannot be rejected' = reddedilemez, destekleniyor. C doğru. B ve D tersi, A aşırı (definitively), E ilgisiz."
+        },
+        {
+          "question": "PASSAGE: 'Scarcely any research has focused on this demographic.'\n\nThe passage indicates:",
+          "options": {
+            "A": "Substantial research has focused on this demographic.",
+            "B": "A great deal of research has focused on this demographic.",
+            "C": "Most research has focused on this demographic.",
+            "D": "Very little research has focused on this demographic.",
+            "E": "All research has focused on this demographic."
+          },
+          "correct": "D",
+          "explanation": "'Scarcely any' = very little, almost none. D doğru. A, B, C, E hepsi çok/hepsi anlamında yanlış."
+        },
+        {
+          "question": "PASSAGE: 'The treatment SHOULD be administered under medical supervision.'\n\nWhich statement has a DIFFERENT meaning?",
+          "options": {
+            "A": "It is advisable to administer the treatment under supervision.",
+            "B": "The treatment ought to be administered under supervision.",
+            "C": "It is recommended that the treatment be supervised.",
+            "D": "The treatment MUST be administered under supervision.",
+            "E": "Medical supervision is suggested for treatment administration."
+          },
+          "correct": "D",
+          "explanation": "'should' = öneri/tavsiye. A, B, C, E benzer anlam. D ('must') zorunluluk, daha güçlü modal, farklı anlam."
+        }
+      ]
+    }
+  ]
+}

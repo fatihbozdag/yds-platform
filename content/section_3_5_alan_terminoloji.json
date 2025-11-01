@@ -1,0 +1,510 @@
+{
+  "section": "3.5",
+  "title": "Alan Terminolojisi (YÖKDİL için)",
+  "topics": [
+    {
+      "id": "3.5.1",
+      "title": "Sosyal Bilimler: Policy, Institution, Agency, Discourse, Paradigm",
+      "content": "YÖKDİL Sosyal sınavında başarılı olmak için sosyal bilimler alanına özgü terminolojiyi bilmek kritik öneme sahiptir. Bu kelimeler sadece reading comprehension bölümlerinde değil, vocabulary ve cloze test sorularında da sıkça test edilir. Sosyal bilimler terminolojisi genellikle toplumsal yapılar, insan davranışı, politik süreçler ve kültürel olgularla ilgilidir.\n\nPOLICY (politika, strateji): Hükümetlerin, kurumların veya organizasyonların benimsediği eylem planı veya ilkeler bütünü. PUBLIC POLICY (kamu politikası), FOREIGN POLICY (dış politika), ECONOMIC POLICY (ekonomi politikası), SOCIAL POLICY (sosyal politika), EDUCATIONAL POLICY (eğitim politikası). Sık kollokasyonlar: formulate/develop/implement/adopt a policy (politika geliştirmek/uygulamak), policy maker (politika yapıcı), policy agenda (politika gündemi). Örnek: 'The government's new education policy aims to reduce inequality in access to higher education.'\n\nINSTITUTION (kurum, müessese): Toplumsal düzenin sürdürülmesinde rol oynayan yerleşik yapılar ve organizasyonlar. EDUCATIONAL INSTITUTION (eğitim kurumu), FINANCIAL INSTITUTION (finans kurumu), POLITICAL INSTITUTION (siyasi kurum), SOCIAL INSTITUTION (toplumsal kurum). Akademik bağlamda ayrıca 'institutionalization' (kurumsallaşma), 'institutional framework' (kurumsal çerçeve), 'institutional change' (kurumsal değişim) kavramları önemlidir. Örnek: 'Democratic institutions play a crucial role in ensuring government accountability.'\n\nAGENCY (fail, özne olma, eyleyicilik): Sosyal bilimlerde bireylerin veya grupların kendi eylemlerini belirleme ve çevrelerini değiştirme kapasitesi. Bu kavram 'yapı-fail' (structure-agency) tartışmasında merkezi öneme sahiptir. HUMAN AGENCY (insan failliği), INDIVIDUAL AGENCY (bireysel özne olma), COLLECTIVE AGENCY (kolektif eyleyicilik). Ayrıca AGENCY isim olarak 'kurum, ajans' anlamına da gelir: GOVERNMENT AGENCY (devlet kurumu), NEWS AGENCY (haber ajansı). Örnek: 'The theory emphasizes individual agency rather than structural determinism.'\n\nDISCOURSE (söylem,담론): Belirli bir konuda konuşma, yazma ve düşünme biçimleri; dil kullanımı yoluyla anlamların ve toplumsal gerçekliklerin inşası. POLITICAL DISCOURSE (politik söylem), ACADEMIC DISCOURSE (akademik söylem), PUBLIC DISCOURSE (kamusal söylem), DISCOURSE ANALYSIS (söylem analizi). Foucault'nun etkisiyle sosyal bilimlerde temel bir kavramdır. Örnek: 'Media discourse shapes public perceptions of immigration issues.'\n\nPARADIGM (paradigma, örüntü): Kuhn'un bilim felsefesinde kullandığı kavram; bir bilim dalındaki egemen teorik çerçeve, varsayımlar ve metodolojiler bütünü. PARADIGM SHIFT (paradigma değişimi), DOMINANT PARADIGM (egemen paradigma), THEORETICAL PARADIGM (kuramsal paradigma). Sosyal bilimlerde farklı yaklaşımları tanımlamak için kullanılır. Örnek: 'The study represents a paradigm shift in our understanding of social mobility.'\n\nDiğer Önemli Sosyal Bilimler Terimleri: STAKEHOLDER (paydaş), GOVERNANCE (yönetişim), INEQUALITY (eşitsizlik), MARGINALIZATION (marjinalleşme), EMPOWERMENT (güçlendirme), SUSTAINABILITY (sürdürülebilirlik), GLOBALIZATION (küreselleşme), URBANIZATION (kentleşme), LEGITIMACY (meşruiyet), ACCOUNTABILITY (hesap verebilirlik).",
+      "examples": [
+        "The government implemented a comprehensive policy to address climate change.",
+        "Educational institutions must adapt to the challenges of digital transformation.",
+        "Social movements demonstrate the power of collective agency in bringing about change.",
+        "Political discourse increasingly influences public opinion on economic reforms.",
+        "The research represents a paradigm shift in sociological theory.",
+        "Stakeholders from various sectors participated in the policy-making process.",
+        "Effective governance requires transparency and accountability mechanisms.",
+        "Economic inequality has increased significantly over the past three decades.",
+        "The study examines the marginalization of minority groups in urban settings.",
+        "Community empowerment programs aim to increase local participation in decision-making.",
+        "Sustainable development requires balancing economic growth with environmental protection.",
+        "Globalization has transformed labor markets and production patterns worldwide.",
+        "Rapid urbanization poses challenges for infrastructure and social services.",
+        "The regime struggled to maintain its legitimacy in the face of popular protests.",
+        "Democratic accountability ensures that elected officials answer to citizens."
+      ],
+      "exercises": [
+        {
+          "question": "The new environmental ---- aims to reduce carbon emissions by 40% over the next decade.",
+          "options": [
+            "policy",
+            "politics",
+            "politic",
+            "politically",
+            "politician"
+          ],
+          "correct": 0,
+          "explanation": "'Policy' sosyal bilimlerde 'strateji, politika' anlamında temel bir terimdir ve environmental ile doğal bir kollokasyon oluşturur."
+        },
+        {
+          "question": "Democratic ---- such as parliaments and courts are essential for protecting civil liberties.",
+          "options": [
+            "institutions",
+            "institutional",
+            "institute",
+            "instituting",
+            "institutionalize"
+          ],
+          "correct": 0,
+          "explanation": "'Institutions' (çoğul isim) 'kurumlar' anlamına gelir. 'Democratic' sıfatından sonra ve özne konumunda çoğul isim gereklidir."
+        },
+        {
+          "question": "The theory emphasizes human ---- in shaping social structures rather than viewing individuals as passive recipients of external forces.",
+          "options": [
+            "agency",
+            "agent",
+            "agencies",
+            "agential",
+            "agentive"
+          ],
+          "correct": 0,
+          "explanation": "'Agency' sosyal bilimlerde 'fail, özne olma, eyleyicilik' anlamında teknik bir terimdir ve yapı-fail tartışmasında kullanılır."
+        },
+        {
+          "question": "Media ---- plays a crucial role in framing public debates about immigration and national identity.",
+          "options": [
+            "discourse",
+            "discourses",
+            "discoursive",
+            "discursive",
+            "discuss"
+          ],
+          "correct": 0,
+          "explanation": "'Discourse' (tekil isim) 'söylem' anlamına gelir ve media ile güçlü bir kollokasyon oluşturur. 'Discursive' sıfat formudur."
+        },
+        {
+          "question": "Kuhn's concept of ---- shift revolutionized our understanding of scientific progress and change.",
+          "options": [
+            "paradigm",
+            "paradigms",
+            "paradigmatic",
+            "paradox",
+            "parameter"
+          ],
+          "correct": 0,
+          "explanation": "'Paradigm shift' sosyal bilimlerde 'paradigma değişimi' anlamında standart bir terimdir ve Kuhn'nun bilim felsefesinden gelir."
+        },
+        {
+          "question": "The project involved extensive consultation with ---- from government, business, and civil society.",
+          "options": [
+            "stakeholders",
+            "stakeholder",
+            "stakes",
+            "staking",
+            "staked"
+          ],
+          "correct": 0,
+          "explanation": "'Stakeholders' (çoğul) 'paydaşlar' anlamında sosyal bilim ve yönetim terminolojisinde yaygın bir kelimedir."
+        },
+        {
+          "question": "Effective ---- requires transparent decision-making processes and citizen participation.",
+          "options": [
+            "governance",
+            "government",
+            "govern",
+            "governor",
+            "governing"
+          ],
+          "correct": 0,
+          "explanation": "'Governance' 'yönetişim' anlamında modern siyaset biliminde 'government'tan farklı bir kavramdır ve çok aktörlü yönetim süreçlerini ifade eder."
+        },
+        {
+          "question": "Income ---- has become a major political issue in many developed countries.",
+          "options": [
+            "inequality",
+            "equality",
+            "equal",
+            "equalize",
+            "equally"
+          ],
+          "correct": 0,
+          "explanation": "'Inequality' 'eşitsizlik' anlamına gelir ve income/wealth/social ile sıkça kullanılır. 'Equality' zıt anlamıdır (eşitlik)."
+        },
+        {
+          "question": "The study examines the ---- of indigenous communities in policy-making processes.",
+          "options": [
+            "marginalization",
+            "margin",
+            "marginal",
+            "marginally",
+            "marginalize"
+          ],
+          "correct": 0,
+          "explanation": "'Marginalization' 'marjinalleşme, dışlanma' anlamında sosyal bilimlerde kritik bir kavramdır. 'The' artikel'inden sonra isim gereklidir."
+        },
+        {
+          "question": "Community ---- programs aim to increase local control over resources and decision-making.",
+          "options": [
+            "empowerment",
+            "empower",
+            "empowering",
+            "empowered",
+            "power"
+          ],
+          "correct": 0,
+          "explanation": "'Empowerment' 'güçlendirme' anlamında sosyal politika ve kalkınma terminolojisinde temel bir kavramdır."
+        },
+        {
+          "question": "The government struggled to maintain its ---- after widespread corruption scandals.",
+          "options": [
+            "legitimacy",
+            "legitimate",
+            "legitimize",
+            "legitimately",
+            "legitimation"
+          ],
+          "correct": 0,
+          "explanation": "'Legitimacy' siyaset biliminde 'meşruiyet' anlamında temel bir kavramdır ve government/regime/authority ile kullanılır."
+        },
+        {
+          "question": "Democratic ---- mechanisms ensure that elected officials are answerable to citizens.",
+          "options": [
+            "accountability",
+            "account",
+            "accountable",
+            "accounting",
+            "accountably"
+          ],
+          "correct": 0,
+          "explanation": "'Accountability' 'hesap verebilirlik' anlamında yönetişim ve demokrasi literatüründe kritik bir kavramdır."
+        }
+      ]
+    },
+    {
+      "id": "3.5.2",
+      "title": "Fen Bilimleri: Specimen, Yield, Magnitude, Velocity, Conservation",
+      "content": "YÖKDİL Fen sınavında başarılı olmak için fizik, kimya, biyoloji ve mühendislik alanlarına özgü terminolojiyi bilmek gereklidir. Bu kelimeler bilimsel metinlerde ve araştırma raporlarında sıkça kullanılır ve doğru anlaşılmaları akademik başarı için kritiktir.\n\nSPECIMEN (örnek, numune): Bilimsel inceleme için alınan veya seçilen temsili materyal veya organizma. Biyolojide ve jeolojide yaygın kullanılır. BIOLOGICAL SPECIMEN (biyolojik örnek), GEOLOGICAL SPECIMEN (jeolojik örnek), collect/examine/analyze specimens (örnek toplamak/incelemek/analiz etmek). Örnek: 'The researchers collected 150 plant specimens from different elevation zones.' 'Sample' ile benzer ancak 'specimen' daha formal ve bilimseldir.\n\nYIELD (verim, ürün; vermek, üretmek): İsim olarak: bir sürecin veya deneyin ürettiği miktar veya sonuç. Fiil olarak: üretmek, ortaya çıkarmak. CROP YIELD (mahsul verimi), REACTION YIELD (reaksiyon verimi), ENERGY YIELD (enerji verimi), high/low yield (yüksek/düşük verim). Kimyada ve tarımda çok yaygındır. Örnek: 'The experiment yielded unexpected results.' 'The new farming technique increased crop yields by 30%.'\n\nMAGNITUDE (büyüklük, derece): Bir olayın, değişimin veya niceliğin ölçülebilir boyutu veya şiddeti. ORDER OF MAGNITUDE (büyüklük mertebesi), earthquake magnitude (deprem büyüklüğü), magnitude of change/effect/difference (değişimin/etkinin/farkın büyüklüğü). Fizik ve deprem biliminde teknik terimdir. Örnek: 'The magnitude of the effect was greater than anticipated.' 'The earthquake measured 7.2 on the Richter magnitude scale.'\n\nVELOCITY (hız, sürat): Fizikte, bir nesnenin belirli bir yöndeki hızı (hem büyüklük hem yön içerir). 'Speed'den farkı yön bilgisi içermesidir. ANGULAR VELOCITY (açısal hız), LINEAR VELOCITY (doğrusal hız), velocity vector (hız vektörü), constant/variable velocity (sabit/değişken hız). Örnek: 'The particle's velocity increased as it approached the gravitational center.' Günlük dilde 'speed' tercih edilir ancak bilimsel bağlamda 'velocity' kullanılır.\n\nCONSERVATION (koruma, korunma): Biyolojide: doğal kaynakların ve ekosistemlerin korunması. Fizikte: belirli büyüklüklerin (enerji, momentum) bir sistemde sabit kalması. ENERGY CONSERVATION (enerji korunumu), CONSERVATION LAW (korunum yasası), WILDLIFE CONSERVATION (yaban hayatı koruma), CONSERVATION BIOLOGY (koruma biyolojisi). Örnek: 'The law of conservation of energy states that energy cannot be created or destroyed.' 'Conservation efforts have helped increase the panda population.'\n\nDiğer Önemli Fen Bilimleri Terimleri: HYPOTHESIS (hipotez), VARIABLE (değişken), CONTROL GROUP (kontrol grubu), CORRELATION (korelasyon), PHENOMENON (olgu, fenomen), SYNTHESIS (sentez), CATALYST (katalizör), COMPOUND (bileşik), MOLECULE (molekül), ORGANISM (organizma), ECOSYSTEM (ekosistem), WAVELENGTH (dalga boyu), RADIATION (radyasyon), OSMOSIS (ozmoz), MITOSIS (mitoz).",
+      "examples": [
+        "Researchers collected tissue specimens from 200 individual organisms for DNA analysis.",
+        "The chemical reaction yielded a 85% conversion rate under optimal conditions.",
+        "The magnitude of the temperature increase exceeded predictions by climate models.",
+        "The projectile's velocity decreased as it moved through the atmosphere.",
+        "The law of conservation of momentum applies to all closed physical systems.",
+        "Scientists formulated a hypothesis to explain the unexpected experimental results.",
+        "The independent variable was manipulated while all other factors remained constant.",
+        "A strong correlation was observed between temperature and reaction rate.",
+        "The phenomenon of superconductivity occurs only at extremely low temperatures.",
+        "Photosynthesis is the process by which plants synthesize glucose from sunlight.",
+        "The catalyst significantly increased the rate of the chemical reaction.",
+        "Water is a compound composed of hydrogen and oxygen molecules.",
+        "The ecosystem's biodiversity provides resilience against environmental changes.",
+        "Different wavelengths of light are absorbed by different pigment molecules.",
+        "The process of osmosis allows water to move across cell membranes."
+      ],
+      "exercises": [
+        {
+          "question": "Biologists collected over 300 plant ---- from the Amazon rainforest for taxonomic analysis.",
+          "options": [
+            "specimens",
+            "specimen",
+            "samples",
+            "examples",
+            "instances"
+          ],
+          "correct": 0,
+          "explanation": "'Specimens' (çoğul) bilimsel bağlamda 'örnek, numune' anlamında 'samples'dan daha formal ve teknik bir terimdir."
+        },
+        {
+          "question": "The new synthesis method ---- a significantly higher purity product than previous techniques.",
+          "options": [
+            "yielded",
+            "produced",
+            "made",
+            "created",
+            "generated"
+          ],
+          "correct": 0,
+          "explanation": "'Yield' fiil olarak kimyasal reaksiyonlarda 'üretmek, vermek' anlamında teknik bir terimdir ve purity product ile doğal eşleşir."
+        },
+        {
+          "question": "The ---- of the earthquake was measured at 6.5 on the Richter scale, causing moderate damage.",
+          "options": [
+            "magnitude",
+            "magnitude's",
+            "magnitudes",
+            "magnitudinal",
+            "magnify"
+          ],
+          "correct": 0,
+          "explanation": "'Magnitude' deprem biliminde 'büyüklük' anlamında standart bir terimdir ve earthquake ile güçlü bir kollokasyon oluşturur."
+        },
+        {
+          "question": "The particle's ---- remained constant throughout its circular trajectory around the nucleus.",
+          "options": [
+            "velocity",
+            "speed",
+            "velocities",
+            "fast",
+            "quickly"
+          ],
+          "correct": 0,
+          "explanation": "'Velocity' fizikte 'hız' (yön bilgisiyle) anlamında teknik bir terimdir. 'Speed' yön içermez; bilimsel bağlamda 'velocity' tercih edilir."
+        },
+        {
+          "question": "The law of ---- of energy is a fundamental principle in physics stating that energy cannot be created or destroyed.",
+          "options": [
+            "conservation",
+            "conserve",
+            "conservative",
+            "conservatism",
+            "conservatory"
+          ],
+          "correct": 0,
+          "explanation": "'Conservation' fizikte 'korunum' anlamında temel bir kavramdır. 'Law of conservation of energy' standart bir terimdir."
+        },
+        {
+          "question": "Scientists formulated a testable ---- to explain the observed pattern in the experimental data.",
+          "options": [
+            "hypothesis",
+            "hypotheses",
+            "hypothetical",
+            "hypothesize",
+            "hypothetically"
+          ],
+          "correct": 0,
+          "explanation": "'Hypothesis' (tekil) bilimsel yöntemde 'hipotez' anlamında temel bir terimdir. 'Hypotheses' çoğul formudur."
+        },
+        {
+          "question": "The researchers manipulated the independent ---- while keeping all other conditions constant.",
+          "options": [
+            "variable",
+            "variables",
+            "variation",
+            "vary",
+            "varied"
+          ],
+          "correct": 0,
+          "explanation": "'Variable' (tekil) deneysel tasarımda 'değişken' anlamında temel bir terimdir. 'Independent variable' standart bir kollokasyondur."
+        },
+        {
+          "question": "A strong positive ---- was found between exercise frequency and cardiovascular health.",
+          "options": [
+            "correlation",
+            "correlate",
+            "correlational",
+            "correlated",
+            "correlating"
+          ],
+          "correct": 0,
+          "explanation": "'Correlation' istatistikte 'korelasyon, ilişki' anlamında temel bir terimdir. 'Strong/positive/negative correlation' yaygın kollokasyonlardır."
+        },
+        {
+          "question": "The ---- of bioluminescence in deep-sea organisms has fascinated marine biologists for decades.",
+          "options": [
+            "phenomenon",
+            "phenomena",
+            "phenomenal",
+            "phenomenally",
+            "phenomenology"
+          ],
+          "correct": 0,
+          "explanation": "'Phenomenon' (tekil) 'olgu, fenomen' anlamında bilimsel terimdir. 'Phenomena' çoğul formudur (Greek kökenli)."
+        },
+        {
+          "question": "Chlorophyll molecules absorb light at specific ---- in the visible spectrum.",
+          "options": [
+            "wavelengths",
+            "wavelength",
+            "waves",
+            "wave",
+            "waving"
+          ],
+          "correct": 0,
+          "explanation": "'Wavelengths' (çoğul) fizikte 'dalga boyları' anlamında temel bir terimdir ve 'specific' sıfatından sonra çoğul isim uygundur."
+        },
+        {
+          "question": "The ---- acted as a biological agent that significantly accelerated the chemical reaction.",
+          "options": [
+            "catalyst",
+            "catalysis",
+            "catalytic",
+            "catalyze",
+            "catalytically"
+          ],
+          "correct": 0,
+          "explanation": "'Catalyst' kimyada 'katalizör' anlamında temel bir terimdir ve 'acted as' yapısından sonra isim gereklidir."
+        },
+        {
+          "question": "The tropical rainforest ---- supports an incredible diversity of plant and animal species.",
+          "options": [
+            "ecosystem",
+            "ecosystems",
+            "ecological",
+            "ecology",
+            "ecologically"
+          ],
+          "correct": 0,
+          "explanation": "'Ecosystem' (tekil) ekolojide 'ekosistem' anlamında temel bir terimdir. 'Tropical rainforest' sıfat öbeğinden sonra tekil isim uygundur."
+        }
+      ]
+    },
+    {
+      "id": "3.5.3",
+      "title": "Sağlık Bilimleri: Diagnosis, Cohort, Prevalence, Comorbidity, Placebo",
+      "content": "YÖKDİL Sağlık sınavında tıp, hemşirelik, eczacılık ve sağlık yönetimi alanlarına özgü terminoloji kritik öneme sahiptir. Bu kelimeler klinik araştırmalarda, epidemiyolojik çalışmalarda ve tıbbi literatürde sıkça kullanılır.\n\nDIAGNOSIS (teşhis, tanı): Hastalığın veya tıbbi durumun belirlenmesi süreci ve sonucu. Çoğul formu DIAGNOSES'dir. CLINICAL DIAGNOSIS (klinik teşhis), DIFFERENTIAL DIAGNOSIS (ayırıcı tanı), make/establish a diagnosis (teşhis koymak), EARLY/LATE DIAGNOSIS (erken/geç teşhis), DIAGNOSTIC TEST (tanı testi), MISDIAGNOSIS (yanlış teşhis). Fiil formu: DIAGNOSE (teşhis koymak). Örnek: 'Early diagnosis of cancer significantly improves treatment outcomes.' 'The physician diagnosed the patient with Type 2 diabetes.'\n\nCOHORT (kohort, grup): Epidemiyolojide, belirli özellikleri paylaşan ve zaman içinde izlenen bir grup insan. COHORT STUDY (kohort çalışması), birth cohort (doğum kohortu), prospective/retrospective cohort (ileriye/geriye dönük kohort). Kohort çalışmaları risk faktörlerini ve hastalık gelişimini incelemek için kullanılır. Örnek: 'The study followed a cohort of 10,000 nurses over 20 years to examine cardiovascular risk factors.'\n\nPREVALENCE (yaygınlık, prevalans): Belirli bir zamanda bir popülasyonda mevcut olan hastalık vakalarının oranı. İNSİDANS (incidence) ile karıştırılmamalıdır - insidans YENİ vaka sayısıdır, prevalans MEVCUT vaka sayısıdır. HIGH/LOW PREVALENCE (yüksek/düşük yaygınlık), prevalence rate (yaygınlık oranı), DISEASE PREVALENCE (hastalık yaygınlığı). Örnek: 'The prevalence of obesity has increased dramatically over the past three decades.'\n\nCOMORBIDITY (komorbidite, eşlik eden hastalık): Bir hastada aynı anda birden fazla hastalığın veya tıbbi durumun bulunması. COMORBID CONDITIONS (eşlik eden durumlar), psychiatric comorbidity (psikiyatrik komorbidite), comorbidity burden (komorbidite yükü). Tedavi planlamasında önemli bir faktördür. Örnek: 'Diabetes and hypertension are common comorbidities in obese patients.'\n\nPLACEBO (plasebo): Klinik araştırmalarda kontrol grubu için kullanılan, aktif madde içermeyen ancak gerçek ilaç gibi görünen preparat. PLACEBO EFFECT (plasebo etkisi), PLACEBO-CONTROLLED TRIAL (plasebo kontrollü çalışma), placebo group (plasebo grubu), DOUBLE-BLIND PLACEBO (çift kör plasebo). Örnek: 'The study used a randomized, double-blind, placebo-controlled design.' 'Some patients showed improvement even in the placebo group.'\n\nDiğer Önemli Sağlık Bilimleri Terimleri: SYMPTOM (belirti), SYNDROME (sendrom), PROGNOSIS (prognoz), TREATMENT (tedavi), THERAPY (terapi), INTERVENTION (müdahale), ADVERSE EFFECT (yan etki), EFFICACY (etkinlik), MORTALITY (ölüm oranı), MORBIDITY (hastalık oranı), SCREENING (tarama), PREVENTION (önleme), IMMUNIZATION (bağışıklama), PATHOGEN (patojen), INFECTION (enfeksiyon), INFLAMMATION (iltihaplanma), CHRONIC (kronik), ACUTE (akut).",
+      "examples": [
+        "Early diagnosis of cardiovascular disease can prevent serious complications.",
+        "The cohort study followed 5,000 participants over a 15-year period.",
+        "The prevalence of mental health disorders has increased among young adults.",
+        "Patients with diabetes often present with cardiovascular comorbidities.",
+        "The trial used a double-blind, placebo-controlled design to test efficacy.",
+        "Symptoms of the disease include fever, fatigue, and respiratory distress.",
+        "The syndrome is characterized by a cluster of related clinical features.",
+        "The prognosis for early-stage cancer is generally favorable with treatment.",
+        "The intervention significantly reduced mortality rates in the treatment group.",
+        "Adverse effects were monitored throughout the clinical trial period.",
+        "The drug demonstrated high efficacy in reducing inflammatory markers.",
+        "Screening programs aim to detect disease before symptoms appear.",
+        "Vaccination is an effective method of disease prevention in populations.",
+        "The pathogen responsible for the outbreak was identified as a new strain.",
+        "Chronic conditions require long-term management strategies."
+      ],
+      "exercises": [
+        {
+          "question": "Early ---- of Alzheimer's disease allows for timely intervention and better management of symptoms.",
+          "options": [
+            "diagnosis",
+            "diagnose",
+            "diagnostic",
+            "diagnostically",
+            "diagnoses"
+          ],
+          "correct": 0,
+          "explanation": "'Diagnosis' (tekil isim) 'teşhis, tanı' anlamında tıbbi terminolojide temel bir kelimedir. 'Early' sıfatından sonra isim gereklidir."
+        },
+        {
+          "question": "The study followed a ---- of 10,000 health professionals to examine long-term cardiovascular outcomes.",
+          "options": [
+            "cohort",
+            "cohorts",
+            "group",
+            "team",
+            "collection"
+          ],
+          "correct": 0,
+          "explanation": "'Cohort' epidemiyolojik araştırmalarda 'kohort, izlenen grup' anlamında teknik bir terimdir ve 'cohort study' yaygın bir kollokasyondur."
+        },
+        {
+          "question": "The ---- of Type 2 diabetes has increased dramatically in developing countries over the past two decades.",
+          "options": [
+            "prevalence",
+            "prevalent",
+            "prevail",
+            "prevailing",
+            "prevalently"
+          ],
+          "correct": 0,
+          "explanation": "'Prevalence' epidemiyolojide 'yaygınlık' anlamında teknik bir terimdir ve mevcut vaka oranını ifade eder. 'The' artikel'inden sonra isim gereklidir."
+        },
+        {
+          "question": "Patients with cardiovascular disease often have multiple ---- such as diabetes and hypertension.",
+          "options": [
+            "comorbidities",
+            "comorbidity",
+            "comorbid",
+            "comorbiditous",
+            "comorbidly"
+          ],
+          "correct": 0,
+          "explanation": "'Comorbidities' (çoğul) 'eşlik eden hastalıklar' anlamında tıbbi terminolojide önemli bir kavramdır. 'Multiple' çoğul gerektirir."
+        },
+        {
+          "question": "The clinical trial used a randomized, double-blind, ----controlled design to evaluate the new treatment.",
+          "options": [
+            "placebo",
+            "placebos",
+            "place",
+            "placing",
+            "placed"
+          ],
+          "correct": 0,
+          "explanation": "'Placebo-controlled' klinik araştırmalarda 'plasebo kontrollü' anlamında standart bir terimdir ve araştırma tasarımını tanımlar."
+        },
+        {
+          "question": "Common ---- of influenza include fever, cough, body aches, and fatigue.",
+          "options": [
+            "symptoms",
+            "symptom",
+            "symptomatic",
+            "symptomatically",
+            "symbolize"
+          ],
+          "correct": 0,
+          "explanation": "'Symptoms' (çoğul) 'belirtiler' anlamında tıbbi terminolojide temel bir kelimedir. 'Common' sıfatından sonra çoğul isim uygundur."
+        },
+        {
+          "question": "The ---- for patients with early-stage breast cancer has improved significantly with advances in treatment.",
+          "options": [
+            "prognosis",
+            "prognoses",
+            "prognostic",
+            "prognostically",
+            "progress"
+          ],
+          "correct": 0,
+          "explanation": "'Prognosis' (tekil) tıpta 'prognoz, hastalığın seyri hakkında öngörü' anlamında temel bir terimdir. 'The' artikel'inden sonra tekil isim uygundur."
+        },
+        {
+          "question": "The study investigated the ---- of a new surgical technique compared to the standard procedure.",
+          "options": [
+            "efficacy",
+            "efficient",
+            "efficiency",
+            "efficacious",
+            "effect"
+          ],
+          "correct": 0,
+          "explanation": "'Efficacy' tıbbi araştırmalarda 'etkinlik, etkililik' anlamında teknik bir terimdir ve kontrollü koşullarda etkiyi ifade eder."
+        },
+        {
+          "question": "The new antibiotic showed minimal ---- effects in clinical trials, suggesting good tolerability.",
+          "options": [
+            "adverse",
+            "adversely",
+            "adversity",
+            "adversary",
+            "advertise"
+          ],
+          "correct": 0,
+          "explanation": "'Adverse effects' tıbbi terminolojide 'yan etkiler, olumsuz etkiler' anlamında standart bir kollokasyondur."
+        },
+        {
+          "question": "National ---- programs for breast cancer have significantly increased early detection rates.",
+          "options": [
+            "screening",
+            "screen",
+            "screened",
+            "screens",
+            "screenable"
+          ],
+          "correct": 0,
+          "explanation": "'Screening' sağlık politikasında 'tarama' anlamında temel bir terimdir. 'Screening programs' yaygın bir kollokasyondur."
+        },
+        {
+          "question": "Vaccination campaigns are a cost-effective strategy for disease ---- in populations.",
+          "options": [
+            "prevention",
+            "prevent",
+            "preventive",
+            "preventable",
+            "prevented"
+          ],
+          "correct": 0,
+          "explanation": "'Prevention' halk sağlığında 'önleme' anlamında temel bir kavramdır. 'Disease prevention' standart bir kollokasyondur."
+        },
+        {
+          "question": "---- diseases such as diabetes and heart disease require long-term management and lifestyle modifications.",
+          "options": [
+            "Chronic",
+            "Acute",
+            "Chronically",
+            "Chronicle",
+            "Chronicity"
+          ],
+          "correct": 0,
+          "explanation": "'Chronic' tıpta 'kronik, süreğen' anlamında 'acute' (akut) ile zıt bir terimdir ve diseases ile güçlü bir kollokasyon oluşturur."
+        }
+      ]
+    }
+  ]
+}

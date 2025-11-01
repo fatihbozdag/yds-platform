@@ -1,0 +1,342 @@
+{
+  "section": "7.2",
+  "title": "Süre Yönetimi",
+  "topics": [
+    {
+      "id": "7.2.1",
+      "title": "80 Soru/180 Dakika İçin Tur Bazlı Çözüm Stratejisi",
+      "content": "YDS ve YÖKDİL sınavlarında 80 soruyu 180 dakikada (3 saat) çözmek, soru başına ortalama 2.25 dakika anlamına gelir. Ancak sorular eşit güçlükte değildir. Tur bazlı çözüm stratejisi, kolay soruları hızlı çözerek zor sorular için zaman kazanmayı hedefler.\n\n**Tur 1 - Hızlı Kazanım Turu (45-50 dakika)**: Kelime, deyim, gramer kuralı, kısa boşluk doldurma gibi 'biliyorsanız hızlı çözülen' soruları çözün. Bu turdaki hedef: 30-35 soruyu 45-50 dakikada bitirmek. Bu sorular genellikle sınavın ilk bölümlerinde yoğunlaşır ama paragraf aralarında da olabilir. Stratji: Eğer 20 saniye düşündükten sonra cevabı bulamıyorsanız, işaretleyip geçin.\n\n**Tur 2 - Paragraf Turu (60-70 dakika)**: Okuma parçaları, paragraf tamamlama, cümle sıralama gibi 'anlama ve mantık' gerektiren soruları çözün. Bu turdaki hedef: 25-30 soruyu 60-70 dakikada bitirmek. Uzun parçalar için ortalama 3-4 dakika, paragraf tamamlama için 2-3 dakika ayırın. Strateji: Önce soruyu okuyun, sonra parçayı okuyarak cevap arayın. Her paragraftan sonra 5-10 saniye düşünme molası.\n\n**Tur 3 - Geri Dönüş ve Kontrol Turu (45-50 dakika)**: İşaretlediğiniz zor soruları tekrar çözmeye çalışın, tüm cevapları optik forma işaretleyin, şüpheli cevapları gözden geçirin. Bu turdaki hedef: 15-20 zor soruyu çözmek + optik işaretleme + gözden geçirme. Strateji: Bir soruya maksimum 3-4 dakika harcayın. Hala çözemiyorsanız, en mantıklı seçeneği işaretleyip geçin.\n\n**Zaman dağılımı örneği**:\n- 0-50 dakika: Tur 1 (35 kolay soru)\n- 50-120 dakika: Tur 2 (30 orta zorluk soru)\n- 120-180 dakika: Tur 3 (15 zor soru + kontrol + optik işaretleme)\n\n**Optik işaretleme**: Son 15-20 dakikayı mutlaka optik forma işaretleme için ayırın. Acelede hata yapmamak için kitapçıkta cevapları net işaretleyin, sonra optik forma dikkatle aktarın. Her 20 sorada bir kontrol edin.\n\n**Panik yönetimi**: Eğer Tur 2'de zaman sıkışırsa, kalan paragrafları hızlı okuyup mantık yürütmeye çalışın. Boş bırakmayın, tahmin edin. YDS/YÖKDİL'de yanlış cevap eksiltme yok, bu yüzden tüm soruları işaretleyin.\n\n**Antrenman**: Deneme sınavlarında bu tur sistemini uygulayarak alışkanlık kazanın. Hangi soruların sizin için 'kolay' olduğunu belirleyin (kişiden kişiye değişir). Zamanınızı ölçün ve her turda hedef soru sayısını tutturmaya çalışın.",
+      "examples": [
+        "TUR 1 - Kolay soru örneği: 'The new policy was ---- by all members of the committee.' (A) approved (B) disapproved → Hızlı çözüm: context + kollokasyon.",
+        "TUR 1 - Atlanacak soru: Çok uzun cümle + 5 benzer seçenek + anlamsal nüans → İşaretle, Tur 3'e bırak.",
+        "TUR 2 - Paragraf sorusu: 4-5 cümlelik parça + 'ana fikir' sorusu → 3-4 dakika ayır, paragrafı dikkatlice oku.",
+        "TUR 2 - Paragraf tamamlama: Mantık akışını bul, bağlaçları kontrol et → 2-3 dakika.",
+        "TUR 3 - Zor soru: İnce anlamsal fark, 2 seçenek arasında kararsız → 3-4 dakika düşün, bağlamı tekrar oku.",
+        "TUR 3 - Optik işaretleme: Son 15 dakika, her cevabı dikkatle aktarın, 20 soruda bir kontrol.",
+        "Zaman takibi: 50. dakikada 30 soruyu bitirdiyseniz, Tur 1 hedefini tuttunuz.",
+        "Zaman takibi: 120. dakikada 65 soruyu bitirdiyseniz, tempo iyi, Tur 3'e geçin.",
+        "Panik önleme: 100. dakikada 45 sorudaysanız → Hızlanın, paragrafları skim okumaya geçin.",
+        "Boş bırakma: YDS/YÖKDİL'de yanlış eksiltme yok, tüm soruları mutlaka işaretleyin.",
+        "Tahmin stratejisi: 2 seçenek arasında kaldıysanız, bağlamla daha uyumlu olanı seçin.",
+        "Mola yok: 180 dakika boyunca tuvalete gitmeyin (önceden gidin), su içmek için maksimum 30 saniye.",
+        "Konsantrasyon: Her 30 dakikada 10 saniye göz dinlendirin (uzağa bakın), boyun germe.",
+        "Stres yönetimi: Zor bir soru sizi yavaşlatmasın, geçip devam edin.",
+        "Hedef: Tur 1 ve 2'yi tamamlarsanız 65/80 soru çözülmüş olur, %70+ puan için yeterli."
+      ],
+      "exercises": [
+        {
+          "question": "180 dakikalık sınavda soru başına ortalama kaç dakika düşer?",
+          "options": {
+            "A": "1.5 dakika",
+            "B": "2 dakika",
+            "C": "2.25 dakika",
+            "D": "3 dakika",
+            "E": "4 dakika"
+          },
+          "correct": "C",
+          "explanation": "180 dakika ÷ 80 soru = 2.25 dakika/soru."
+        },
+        {
+          "question": "Tur 1'de (Hızlı Kazanım) hangi tür sorular çözülmelidir?",
+          "options": {
+            "A": "Uzun okuma parçaları",
+            "B": "Paragraf tamamlama",
+            "C": "Kelime, deyim, kısa gramer soruları",
+            "D": "Cümle sıralama",
+            "E": "Anlam karmaşası olan sorular"
+          },
+          "correct": "C",
+          "explanation": "Tur 1'de hızlı çözülebilen, 'biliyorsanız anında' soruları hedefleyin: kelime, deyim, gramer."
+        },
+        {
+          "question": "Bir soruyu Tur 1'de ne zaman atlamalısınız?",
+          "options": {
+            "A": "5 dakika düşündükten sonra",
+            "B": "Hiçbir zaman, hepsini sırayla çözün",
+            "C": "20-30 saniye düşündükten sonra cevap bulamadıysanız",
+            "D": "Sadece tamamen bilmiyorsanız",
+            "E": "İlk 10 dakika içinde tüm soruları atlayın"
+          },
+          "correct": "C",
+          "explanation": "Tur 1 hızlı kazanım turu. 20-30 saniye içinde çözemezseniz işaretleyip geçin, Tur 3'te dönersiniz."
+        },
+        {
+          "question": "Tur 2 (Paragraf Turu) için ne kadar süre ayrılmalıdır?",
+          "options": {
+            "A": "30 dakika",
+            "B": "45 dakika",
+            "C": "60-70 dakika",
+            "D": "90 dakika",
+            "E": "120 dakika"
+          },
+          "correct": "C",
+          "explanation": "Tur 2'de 25-30 soru (paragraf, okuma, mantık soruları) için 60-70 dakika."
+        },
+        {
+          "question": "Optik form işaretleme için en az kaç dakika ayrılmalıdır?",
+          "options": {
+            "A": "5 dakika",
+            "B": "10 dakika",
+            "C": "15-20 dakika",
+            "D": "30 dakika",
+            "E": "Optik işaretlemeye özel zaman ayırmayın, soru çözerken işaretleyin"
+          },
+          "correct": "C",
+          "explanation": "Son 15-20 dakikayı optik işaretleme ve kontrol için ayırın. Aceleyle hata yapma riski yüksek."
+        },
+        {
+          "question": "YDS/YÖKDİL'de yanlış cevap için eksiltme var mıdır?",
+          "options": {
+            "A": "Evet, her yanlış 0.25 puan eksiltir",
+            "B": "Evet, her yanlış 0.5 puan eksiltir",
+            "C": "Hayır, yanlış cevap eksiltme yoktur",
+            "D": "Sadece okuma sorularında eksiltme var",
+            "E": "Sadece gramer sorularında eksiltme var"
+          },
+          "correct": "C",
+          "explanation": "YDS/YÖKDİL'de yanlış cevap eksiltme YOKTUR. Bu yüzden tüm soruları mutlaka işaretleyin, boş bırakmayın."
+        },
+        {
+          "question": "50. dakikada 30 soru bitirdiyseniz, durumunuz nedir?",
+          "options": {
+            "A": "Çok geride kaldınız",
+            "B": "Tur 1 hedefini tuttunuz, tempo iyi",
+            "C": "Çok hızlısınız, yavaşlamalısınız",
+            "D": "Tur 2'ye geçmek için çok erken",
+            "E": "Sınavı bitiremeyeceksiniz"
+          },
+          "correct": "B",
+          "explanation": "Tur 1 hedefi: 45-50 dakikada 30-35 soru. 50 dakikada 30 soru uygun tempo."
+        },
+        {
+          "question": "Uzun bir paragraf sorusu için ortalama ne kadar süre ayrılmalıdır?",
+          "options": {
+            "A": "30 saniye",
+            "B": "1 dakika",
+            "C": "2 dakika",
+            "D": "3-4 dakika",
+            "E": "5-6 dakika"
+          },
+          "correct": "D",
+          "explanation": "Uzun okuma parçaları için 3-4 dakika optimal. Paragraf tamamlama için 2-3 dakika."
+        },
+        {
+          "question": "Tur 3'te bir soruya maksimum ne kadar süre harcamalısınız?",
+          "options": {
+            "A": "30 saniye",
+            "B": "1 dakika",
+            "C": "2 dakika",
+            "D": "3-4 dakika",
+            "E": "Çözene kadar devam edin"
+          },
+          "correct": "D",
+          "explanation": "Tur 3'te zor sorulara maksimum 3-4 dakika. Hala çözemezseniz tahmin edip geçin."
+        },
+        {
+          "question": "120. dakikada kaç soru bitirmiş olmalısınız?",
+          "options": {
+            "A": "40 soru",
+            "B": "50 soru",
+            "C": "60-65 soru",
+            "D": "70 soru",
+            "E": "80 soru (tümü)"
+          },
+          "correct": "C",
+          "explanation": "120. dakika = Tur 1 + Tur 2 sonu. Hedef: 60-65 soru. Kalan 60 dakika Tur 3 için (15 soru + kontrol + optik)."
+        },
+        {
+          "question": "İki seçenek arasında kaldığınızda ne yapmalısınız?",
+          "options": {
+            "A": "Boş bırakın",
+            "B": "Rastgele birini seçin",
+            "C": "Her zaman A şıkkını işaretleyin",
+            "D": "Bağlamla daha uyumlu olanı seçin",
+            "E": "5 dakika düşünün"
+          },
+          "correct": "D",
+          "explanation": "İki seçenek arasında kaldığınızda, bağlam, ton, kollokasyon gibi ipuçlarıyla daha uyumlu olanı seçin. Boş bırakmayın (eksiltme yok)."
+        },
+        {
+          "question": "Sınav sırasında ne zaman mola vermelisiniz?",
+          "options": {
+            "A": "Her 30 dakikada 5 dakika",
+            "B": "İlk saatin sonunda 10 dakika",
+            "C": "Tuvalete ihtiyaç duyduğunuzda",
+            "D": "Mola vermemeli, 180 dakika kesintisiz çalışmalısınız",
+            "E": "Yorulduğunuzda 15 dakika"
+          },
+          "correct": "D",
+          "explanation": "YDS/YÖKDİL'de mola yoktur. 180 dakika boyunca kesintisiz çalışmalısınız. Önceden tuvalete gidin. En fazla su içmek için 30 saniye."
+        }
+      ]
+    },
+    {
+      "id": "7.2.2",
+      "title": "'Yüksek Getirili' Soru Türlerinin Öne Alınması",
+      "content": "YDS ve YÖKDİL'de tüm sorular eşit puan değerinde olsa da, bazı soru türleri daha az çaba ile daha yüksek doğruluk oranı sunar. Bu 'yüksek getirili' (high-yield) soruları önceliklendirmek, sınırlı zamanda maksimum puan almanızı sağlar.\n\n**Yüksek getirili soru türleri**:\n\n1. **Kelime soruları (Vocabulary)**: Biliyorsanız 10-15 saniyede çözülür. Bilmiyorsanız ne kadar düşünürseniz düşünün çözemezsiniz. Strateji: Bildiğiniz kelime sorularını hemen çözün. Bilmediklerinizi işaretleyip geçin, Tur 3'te context ipuçlarıyla tahmin edin.\n\n2. **Deyim ve phrasal verb soruları**: Ezbere dayalı. Biliyorsanız anında doğru. Strateji: Bildiğiniz deyimleri hızla çözün. Bilmediklerinizi literal anlam veya context'ten tahmin etmeye çalışın.\n\n3. **Gramer soruları (tense, preposition, article)**: Net kural var, biliyorsanız kesin doğru. Strateji: Önce cümlenin yapısını analiz edin (özne, fiil, zaman belirteçleri). 30 saniye içinde çözün.\n\n4. **Kollokasyon soruları**: 'make/do/take/give + noun' gibi sabit eşleşmeler. Strateji: Alıştırmalarda öğrendiğiniz kolokasyonları hatırlayın. Bilmiyorsanız en doğal sesli olanı seçin.\n\n**Orta getirili soru türleri**:\n\n5. **Kısa paragraf tamamlama**: Mantık + bağlaç bilgisi. 2-3 dakikada çözülebilir. Strateji: Boşluktan önceki ve sonraki cümleleri dikkatlice okuyun, bağlaçları kontrol edin.\n\n6. **Cümle içi boşluk doldurma (context-based)**: Paragrafın genel anlamını kavramak gerekir. Strateji: Tüm cümleyi okuyun, anahtar kelimeleri belirleyin, seçenekleri birer birer deneyin.\n\n**Düşük getirili (zaman alıcı) soru türleri**:\n\n7. **Uzun okuma parçaları**: 3-5 dakika okuma + anlama. Strateji: Önce soruyu okuyun, sonra parçayı soruya göre okuyun (scanning). Ana fikir sorularında ilk ve son cümlelere odaklanın.\n\n8. **Cümle sıralama**: Mantık + discourse markers. 3-4 dakika sürebilir. Strateji: İlk ve son cümleleri belirleyin (genellikle belli), ortadakileri mantık zincirine göre sıralayın.\n\n9. **İnce anlamsal fark soruları**: İki çok benzer seçenek, ince bağlamsal ipuçları. 2-3 dakika düşünme. Strateji: Connotation (çağrışım), register (resmiyet), kollokasyon kontrolü.\n\n**Önceliklendirme stratejisi**: Sınavı çözerken, kağıtta gördüğünüz sırada değil, getiri sırasına göre ilerleyin. Örnek: Sayfa 1'de uzun bir paragraf varsa, önce aynı sayfadaki kısa kelime/gramer sorularını çözün, sonra paragrafa dönün. Bu şekilde kolay puanları kaçırmazsınız.\n\n**Kişiselleştirme**: Deneme sınavlarınızda hangi soru türlerinde en yüksek doğruluk oranınız var? O türleri öncelikleyin. Hangi türlerde en çok zaman harcıyorsunuz? Onları Tur 2 veya 3'e bırakın.",
+      "examples": [
+        "YÜKSEK GETİRİ: 'The committee ---- a decision after lengthy deliberation.' → 'made' (kollokasyon, 10 saniye)",
+        "YÜKSEK GETİRİ: 'Despite' vs 'Although' vs 'Because' → Zıtlık/Sebep analizi, 20 saniye.",
+        "YÜKSEK GETİRİ: 'She is responsible ---- the project.' → 'for' (preposition, 15 saniye)",
+        "ORTA GETİRİ: Paragraf tamamlama - bağlaç + mantık kontrolü → 2-3 dakika.",
+        "DÜŞÜK GETİRİ: 5 cümlelik uzun paragraf + 'yazar ne ima ediyor?' sorusu → 4-5 dakika.",
+        "Strateji örneği: Sayfa 3'te 1 uzun paragraf + 5 kısa soru var. Önce 5 kısa soruyu çöz (5 dk), sonra paragrafa geç (4 dk).",
+        "Kişisel analiz: Deneme 1'de kelime sorularında %90 doğruluk → Öncelikle kelime sorularını çöz.",
+        "Kişisel analiz: Cümle sıralamasında %50 doğruluk ve çok zaman harcıyorum → Tur 3'e bırak.",
+        "Getiri hesabı: Kelime sorusu = 10 saniye / 1.25 puan = yüksek getiri.",
+        "Getiri hesabı: Uzun paragraf = 5 dakika / 1.25 puan = düşük getiri.",
+        "Sınav örneği: 1-20 arası kolay sorular → Tur 1'de 20 dakikada bitir.",
+        "Sınav örneği: 21-40 arası paragraflar → Tur 2'de 40 dakikada bitir.",
+        "Hedef: İlk 50 dakikada 35 yüksek getirili soruyu bitir, sonra orta/düşük getirilere geç.",
+        "Risk yönetimi: Zor sorulara takılıp kolay soruları kaçırmayın.",
+        "Final kontrol: Tur 3'te önce yüksek getirili boş soruları doldurun, sonra zor sorulara dönün."
+      ],
+      "exercises": [
+        {
+          "question": "Aşağıdakilerden hangisi 'yüksek getirili' soru türüdür?",
+          "options": {
+            "A": "5 cümlelik uzun okuma parçası",
+            "B": "Cümle sıralama sorusu",
+            "C": "Kelime bilgisi sorusu",
+            "D": "İnce anlamsal fark gerektiren soru",
+            "E": "Çoklu paragraf analizi"
+          },
+          "correct": "C",
+          "explanation": "Kelime sorusu yüksek getirili: biliyorsanız 10-15 saniyede çözülür. A, B, D, E zaman alıcı."
+        },
+        {
+          "question": "Bir kelime sorusunu bilmiyorsanız en iyi strateji nedir?",
+          "options": {
+            "A": "5 dakika düşünün",
+            "B": "Sözlüğe bakın",
+            "C": "Boş bırakın",
+            "D": "İşaretleyip geçin, Tur 3'te context'ten tahmin edin",
+            "E": "Rastgele bir şık işaretleyin hemen"
+          },
+          "correct": "D",
+          "explanation": "Kelime bilmiyorsanız ne kadar düşünürseniz düşünün çözemezsiniz. İşaretleyip geçin, Tur 3'te cümle bağlamından tahmin edin."
+        },
+        {
+          "question": "Aşağıdaki soru türlerinden hangisi en az zaman alır?",
+          "options": {
+            "A": "Uzun paragraf okuma",
+            "B": "Cümle sıralama",
+            "C": "Preposition sorusu",
+            "D": "Paragraf ana fikir bulma",
+            "E": "Anlamsal nüans farkı"
+          },
+          "correct": "C",
+          "explanation": "Preposition sorusu (responsible FOR, interested IN) biliyorsanız 10-15 saniye. Diğerleri 2-5 dakika sürer."
+        },
+        {
+          "question": "'Make/do/take + noun' soruları hangi kategoriye girer?",
+          "options": {
+            "A": "Düşük getirili",
+            "B": "Orta getirili",
+            "C": "Yüksek getirili",
+            "D": "Çözülmemeli",
+            "E": "En son çözülmeli"
+          },
+          "correct": "C",
+          "explanation": "Kollokasyon soruları yüksek getirili: biliyorsanız 10-20 saniyede doğru cevap."
+        },
+        {
+          "question": "Bir sayfada hem uzun paragraf hem kısa sorular varsa, strateji nedir?",
+          "options": {
+            "A": "Önce uzun paragrafı çözün",
+            "B": "Önce kısa soruları çözün, sonra paragrafa geçin",
+            "C": "Tüm sayfayı atlayın",
+            "D": "Sadece paragrafı çözün, kısa soruları bırakın",
+            "E": "Rastgele sırayla çözün"
+          },
+          "correct": "B",
+          "explanation": "Önce yüksek getirili kısa soruları çözün (kolay puanları kaçırmayın), sonra zaman alıcı paragrafa geçin."
+        },
+        {
+          "question": "Deneme sınavlarınızda cümle sıralama sorularında %40 doğruluk oranınız var. Ne yapmalısınız?",
+          "options": {
+            "A": "Sınavda öncelikle cümle sıralama sorularına odaklanın",
+            "B": "Cümle sıralama sorularını tamamen atlayın",
+            "C": "Cümle sıralama sorularını Tur 3'e bırakın (düşük öncelik)",
+            "D": "Her cümle sıralama sorusuna 10 dakika ayırın",
+            "E": "Cümle sıralama sorularını rastgele işaretleyin"
+          },
+          "correct": "C",
+          "explanation": "Düşük doğruluk + zaman alıcı = düşük öncelik. Önce yüksek doğruluk oranınız olan soruları çözün, sonra Tur 3'te cümle sıralamalara dönün."
+        },
+        {
+          "question": "'The committee ---- a decision' sorusunu kaç saniyede çözmelisiniz?",
+          "options": {
+            "A": "30 saniye",
+            "B": "1 dakika",
+            "C": "10-20 saniye",
+            "D": "3 dakika",
+            "E": "5 dakika"
+          },
+          "correct": "C",
+          "explanation": "'make a decision' sabit kollokasyon. Biliyorsanız 10-20 saniyede çözülür. Yüksek getirili soru."
+        },
+        {
+          "question": "Gramer soruları (tense, article) genellikle ne kadar sürer?",
+          "options": {
+            "A": "5-10 saniye",
+            "B": "20-30 saniye",
+            "C": "1-2 dakika",
+            "D": "3-4 dakika",
+            "E": "5+ dakika"
+          },
+          "correct": "B",
+          "explanation": "Gramer soruları: cümle yapısı analiz + kural uygulama = 20-30 saniye. Yüksek getirili."
+        },
+        {
+          "question": "Paragraf tamamlama soruları hangi getiri kategorisindedir?",
+          "options": {
+            "A": "Yüksek getirili",
+            "B": "Orta getirili",
+            "C": "Düşük getirili",
+            "D": "En düşük getirili",
+            "E": "Çözülmemeli"
+          },
+          "correct": "B",
+          "explanation": "Paragraf tamamlama orta getirili: mantık + bağlaç bilgisi, 2-3 dakikada çözülebilir. Yüksek kadar hızlı değil, düşük kadar yavaş değil."
+        },
+        {
+          "question": "İlk 50 dakikada hangi soru türlerini bitirmiş olmalısınız?",
+          "options": {
+            "A": "Tüm okuma parçalarını",
+            "B": "Yüksek getirili soruları (kelime, gramer, kollokasyon)",
+            "C": "Sadece ilk 20 soruyu",
+            "D": "Tüm cümle sıralama sorularını",
+            "E": "Hiçbirini, yavaş ilerleyin"
+          },
+          "correct": "B",
+          "explanation": "İlk 50 dakika = Tur 1 = Yüksek getirili sorular (kelime, gramer, kollokasyon, kısa deyim). Hedef: 30-35 soru."
+        },
+        {
+          "question": "Bir sorunun 'yüksek getirili' olup olmadığını nasıl anlarız?",
+          "options": {
+            "A": "Sayfa numarasına göre",
+            "B": "Sorunun uzunluğuna ve çözüm süresine göre",
+            "C": "Rastgele",
+            "D": "Tüm sorular eşit getirilidir",
+            "E": "Sadece ilk 20 soru yüksek getirilidir"
+          },
+          "correct": "B",
+          "explanation": "Yüksek getirili = kısa sürede yüksek doğruluk. Sorunun karmaşıklığı ve ortalama çözüm süresi belirleyicidir. Kelime, gramer, kollokasyon genellikle yüksek getirili."
+        },
+        {
+          "question": "'İnce anlamsal fark' soruları (örn: 'imply' vs 'infer') hangi kategoridedir?",
+          "options": {
+            "A": "Yüksek getirili - öncelikle çözün",
+            "B": "Orta getirili",
+            "C": "Düşük getirili - zaman alıcı",
+            "D": "Çözülmemeli",
+            "E": "Her zaman kolay"
+          },
+          "correct": "C",
+          "explanation": "İnce anlamsal fark soruları zaman alıcı (2-3 dakika düşünme gerektirebilir), dolayısıyla düşük getirili. Önce kolay soruları bitirin, sonra bunlara dönün."
+        }
+      ]
+    }
+  ]
+}

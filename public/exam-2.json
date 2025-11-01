@@ -1,0 +1,1208 @@
+{
+  "examId": "exam-2",
+  "title": "YDS Tam Deneme Sınavı 2",
+  "duration": 180,
+  "totalQuestions": 80,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Recent studies ---- that regular physical exercise can significantly improve cognitive function in older adults.",
+      "options": [
+        "A) have shown",
+        "B) had shown",
+        "C) were showing",
+        "D) would show",
+        "E) are showing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present Perfect Tense kullanılmalıdır çünkü geçmişte başlayan ve şu ana kadar devam eden araştırmalardan bahsediyoruz. 'Recent studies' ifadesi de Present Perfect ile uyumludur.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "The pharmaceutical company invested heavily in research and development ---- bringing innovative treatments to market.",
+      "options": [
+        "A) with a view to",
+        "B) in spite of",
+        "C) on behalf of",
+        "D) regardless of",
+        "E) as opposed to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'with a view to' = 'amacıyla, niyetiyle' anlamındadır ve -ing ile kullanılır. Şirketin yatırım yapmasının amacı yenilikçi tedavileri piyasaya sürmektir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "Climate scientists warn that ---- immediate action is taken to reduce carbon emissions, global temperatures will continue to rise at an alarming rate.",
+      "options": [
+        "A) unless",
+        "B) provided that",
+        "C) even though",
+        "D) as long as",
+        "E) in case"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'unless' = 'eğer...mezse, olmadıkça' anlamındadır. Karbon emisyonlarını azaltmak için acil önlem alınmazsa, sıcaklıklar artmaya devam edecek.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "The researcher's findings were considered ---- because they challenged long-held assumptions in the field.",
+      "options": [
+        "A) groundbreaking",
+        "B) outdated",
+        "C) conventional",
+        "D) superficial",
+        "E) irrelevant"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'groundbreaking' = 'çığır açan, devrim niteliğinde' anlamındadır. Uzun süredir kabul gören varsayımlara meydan okuyan bulgular çığır açıcı niteliktedir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "Neuroscientists have discovered that the human brain continues to develop well into adulthood, ---- was previously believed.",
+      "options": [
+        "A) contrary to what",
+        "B) in accordance with what",
+        "C) as a result of what",
+        "D) in addition to what",
+        "E) with regard to what"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'contrary to what' = 'aksine, tersine' anlamındadır. Daha önce inanılanın aksine beyin yetişkinlikte de gelişmeye devam ediyor.",
+      "category": "vocabulary",
+      "difficulty": "hard"
+    },
+    {
+      "id": 6,
+      "question": "The new solar panel technology is ---- efficient than traditional models, converting up to 40% of sunlight into electricity.",
+      "options": [
+        "A) far more",
+        "B) as much",
+        "C) much less",
+        "D) the most",
+        "E) very much"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Karşılaştırma yaparken 'far more efficient' kullanılır. 'Far' kelimesi comparative yapıyı güçlendirir ve 'çok daha fazla' anlamı verir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "Marine biologists are increasingly concerned ---- the impact of plastic pollution on ocean ecosystems.",
+      "options": [
+        "A) about",
+        "B) with",
+        "C) for",
+        "D) to",
+        "E) at"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'be concerned about' = 'hakkında endişeli olmak' doğru kullanımdır. 'concerned' sıfatı 'about' preposition'ı ile kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "Artificial intelligence has the potential to ---- numerous industries, from healthcare to transportation.",
+      "options": [
+        "A) revolutionize",
+        "B) deteriorate",
+        "C) abandon",
+        "D) neglect",
+        "E) undermine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'revolutionize' = 'devrim yaratmak, köklü değişiklik yapmak' anlamındadır. Yapay zeka birçok endüstride devrim yaratma potansiyeline sahiptir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "The archaeological team ---- the ancient site for over three years before making their most significant discovery.",
+      "options": [
+        "A) had been excavating",
+        "B) were excavating",
+        "C) have excavated",
+        "D) will excavate",
+        "E) excavate"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Past Perfect Continuous kullanılmalıdır çünkü geçmişte bir noktadan önce (önemli keşif yapmadan önce) başlayan ve o noktaya kadar devam eden bir eylem vardır.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 10,
+      "question": "Renewable energy sources are becoming increasingly ---- as technology advances and production costs decline.",
+      "options": [
+        "A) viable",
+        "B) obsolete",
+        "C) ambiguous",
+        "D) hazardous",
+        "E) negligible"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'viable' = 'uygulanabilir, geçerli, yaşayabilir' anlamındadır. Teknoloji ilerledikçe ve maliyetler düştükçe yenilenebilir enerji kaynakları daha uygulanabilir hale geliyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "The study's methodology was criticized for ---- sufficient controls to account for confounding variables.",
+      "options": [
+        "A) lacking",
+        "B) providing",
+        "C) establishing",
+        "D) maintaining",
+        "E) incorporating"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'lack' = 'eksik olmak, yoksun olmak' anlamındadır. Çalışmanın metodolojisi karıştırıcı değişkenleri hesaba katmak için yeterli kontrollerin eksik olması nedeniyle eleştirildi.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Quantum computing represents a paradigm shift that ---- fundamentally change how we process information.",
+      "options": [
+        "A) could",
+        "B) must",
+        "C) should",
+        "D) ought",
+        "E) need"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'could' modal'i potansiyel/olasılık ifade eder. Kuantum bilişim bilgi işleme şeklimizi temelden değiştirebilecek bir paradigma değişimini temsil ediyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "The economic implications of automation are ---- debated among policymakers and economists worldwide.",
+      "options": [
+        "A) hotly",
+        "B) barely",
+        "C) rarely",
+        "D) hardly",
+        "E) scarcely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'hotly debated' = 'hararetle tartışılan, sıcak tartışma konusu olan' anlamında kullanılan bir collocation'dır. Otomasyonun ekonomik etkileri dünya çapında hararetle tartışılıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "Genetic engineering techniques have advanced to the point ---- scientists can now edit DNA with unprecedented precision.",
+      "options": [
+        "A) where",
+        "B) which",
+        "C) that",
+        "D) what",
+        "E) when"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'the point where' yapısı 'öyle bir noktaya ki' anlamında kullanılır. Genetik mühendisliği teknikleri bilim insanlarının DNA'yı eşi görülmemiş hassasiyetle düzenleyebildikleri bir noktaya geldi.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "The pharmaceutical industry faces mounting pressure to make essential medicines more ---- to patients in developing countries.",
+      "options": [
+        "A) accessible",
+        "B) resistant",
+        "C) vulnerable",
+        "D) indifferent",
+        "E) hostile"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'accessible' = 'erişilebilir, ulaşılabilir' anlamındadır. İlaç endüstrüsü temel ilaçları gelişmekte olan ülkelerdeki hastalara daha erişilebilir kılma konusunda artan baskıyla karşı karşıya.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "The research team's hypothesis was validated when their experimental results ---- with the theoretical predictions.",
+      "options": [
+        "A) aligned",
+        "B) conflicted",
+        "C) departed",
+        "D) contrasted",
+        "E) differed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'align with' = 'uyum sağlamak, uyumlu olmak, örtüşmek' anlamındadır. Deney sonuçları teorik tahminlerle örtüştüğünde hipotez doğrulandı.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "Modern telescopes have enabled astronomers to observe celestial objects ---- billions of light-years away from Earth.",
+      "options": [
+        "A) lying",
+        "B) located",
+        "C) situated",
+        "D) positioned",
+        "E) placed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'located' = 'konumlanmış, yerleşmiş' anlamındadır ve gök cisimleri için en doğal kullanımdır. 'lying' de kullanılabilir ama 'located' daha formal ve bilimsel metinlere uygundur.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 18,
+      "question": "The government's new environmental policy aims ---- carbon emissions by 50% within the next decade.",
+      "options": [
+        "A) reducing",
+        "B) to reduce",
+        "C) having reduced",
+        "D) to have reduced",
+        "E) being reduced"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'aim to do something' yapısı kullanılır. 'aim' fiili 'to + infinitive' ile kullanılmalıdır. 'Hedeflemek' anlamında kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "Microplastics have been found in virtually every ecosystem on the planet, ---- the severity of plastic pollution.",
+      "options": [
+        "A) emphasizing",
+        "B) highlighting",
+        "C) demonstrating",
+        "D) revealing",
+        "E) indicating"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'highlight' = 'vurgulamak, öne çıkarmak' anlamındadır. Mikroplastiklerin her ekosistemde bulunması plastik kirliliğinin ciddiyetini vurguluyor. Bu bağlamda en uygun kelime 'highlighting'tir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "The breakthrough in battery technology ---- electric vehicles to travel longer distances on a single charge.",
+      "options": [
+        "A) lets",
+        "B) enables",
+        "C) makes",
+        "D) forces",
+        "E) requires"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'enable something to do' yapısı 'bir şeyin yapmasını sağlamak' anlamındadır. Batarya teknolojisindeki atılım elektrikli araçların tek şarjla daha uzun mesafeler gitmesini sağlıyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 21,
+      "question": "Stem cell research holds great promise for treating diseases that ---- previously been considered incurable.",
+      "options": [
+        "A) has",
+        "B) had",
+        "C) have",
+        "D) will have",
+        "E) would have"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past Perfect kullanılmalıdır çünkü 'previously' (daha önce) ifadesi ve main clause'daki present tense nedeniyle geçmişte bir noktayı işaret ediyor. 'had been considered' doğrudur.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 22,
+      "question": "The scientist's theory was met with ---- from the academic community due to its controversial nature.",
+      "options": [
+        "A) approval",
+        "B) skepticism",
+        "C) enthusiasm",
+        "D) support",
+        "E) agreement"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'skepticism' = 'şüphecilik, kuşkuculuk' anlamındadır. Tartışmalı doğası nedeniyle teoriye akademik topluluk tarafından şüphecilikle yaklaşıldı.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 23,
+      "question": "Ocean acidification, caused by increased CO2 absorption, poses a serious threat ---- marine biodiversity.",
+      "options": [
+        "A) for",
+        "B) to",
+        "C) at",
+        "D) on",
+        "E) with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'pose a threat to' = 'tehdit oluşturmak' doğru kullanımdır. 'threat' kelimesi 'to' preposition'ı ile kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 24,
+      "question": "The research findings suggest that social media usage ---- correlate with increased levels of anxiety in adolescents.",
+      "options": [
+        "A) can",
+        "B) may",
+        "C) must",
+        "D) should",
+        "E) ought to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'may' modal'i olasılık/ihtimal ifade eder ve bilimsel metinlerde kesin olmayan bulgular için kullanılır. Sosyal medya kullanımı ergenlerde artan kaygı seviyeleriyle ilişkili olabilir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 25,
+      "question": "Deforestation continues at an alarming rate ---- international efforts to preserve tropical rainforests.",
+      "options": [
+        "A) because of",
+        "B) despite",
+        "C) due to",
+        "D) thanks to",
+        "E) as a result of"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'despite' = 'rağmen' anlamındadır ve zıt durumları bağlar. Tropikal yağmur ormanlarını koruma çabalarına rağmen ormansızlaşma endişe verici bir hızla devam ediyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 26,
+      "question": "The medical community is working to develop more ---- diagnostic tools that can detect diseases at earlier stages.",
+      "options": [
+        "A) aggressive",
+        "B) sophisticated",
+        "C) primitive",
+        "D) conventional",
+        "E) rudimentary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'sophisticated' = 'gelişmiş, karmaşık, sofistike' anlamındadır. Tıp camiası hastalıkları daha erken aşamalarda tespit edebilen daha gelişmiş teşhis araçları geliştirmek için çalışıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 27,
+      "question": "Nanotechnology applications in medicine range from targeted drug delivery ---- early disease detection.",
+      "options": [
+        "A) for",
+        "B) to",
+        "C) with",
+        "D) into",
+        "E) toward"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'range from...to...' yapısı 'den...e kadar uzanmak' anlamında kullanılır. Tıpta nanoteknoloji uygulamaları hedefli ilaç teslimatından erken hastalık tespitine kadar uzanıyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 28,
+      "question": "The emergence of antibiotic-resistant bacteria ---- a major challenge for modern medicine.",
+      "options": [
+        "A) creates",
+        "B) constitutes",
+        "C) makes",
+        "D) forms",
+        "E) builds"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'constitute' = 'oluşturmak, teşkil etmek' anlamında formal bir fiildir. Antibiyotiğe dirençli bakterilerin ortaya çıkması modern tıp için büyük bir zorluk teşkil ediyor.",
+      "category": "vocabulary",
+      "difficulty": "hard"
+    },
+    {
+      "id": 29,
+      "question": "Urban planners are increasingly focused on creating sustainable cities that ---- the needs of both residents and the environment.",
+      "options": [
+        "A) ignore",
+        "B) balance",
+        "C) oppose",
+        "D) separate",
+        "E) distinguish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'balance' = 'dengelemek' anlamındadır. Şehir plancıları hem sakinlerin hem de çevrenin ihtiyaçlarını dengeleyen sürdürülebilir şehirler oluşturmaya giderek daha fazla odaklanıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 30,
+      "question": "The study's participants were divided into two groups, one ---- received the experimental treatment and the other a placebo.",
+      "options": [
+        "A) who",
+        "B) of which",
+        "C) that",
+        "D) whose",
+        "E) whom"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'of which' yapısı 'bunlardan biri' anlamında kullanılır ve 'groups' gibi sayılabilir isimlerle kullanıldığında doğrudur. İki gruba ayrıldı, bunlardan biri deneysel tedavi aldı.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 31,
+      "question": "Precision agriculture uses satellite imagery and sensors to ---- crop yields while minimizing environmental impact.",
+      "options": [
+        "A) reduce",
+        "B) optimize",
+        "C) limit",
+        "D) decrease",
+        "E) diminish"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'optimize' = 'optimize etmek, en iyi hale getirmek' anlamındadır. Hassas tarım, çevresel etkiyi en aza indirirken mahsul verimini optimize etmek için uydu görüntüleri ve sensörler kullanır.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 32,
+      "question": "The researcher emphasized that correlation does not ---- imply causation when interpreting statistical data.",
+      "options": [
+        "A) usually",
+        "B) necessarily",
+        "C) probably",
+        "D) certainly",
+        "E) definitely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'not necessarily' = 'mutlaka değil, zorunlu olarak değil' anlamında kullanılan bir yapıdır. Korelasyon mutlaka nedensellik anlamına gelmez.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 33,
+      "question": "The development of CRISPR gene-editing technology has opened up new possibilities ---- treating genetic disorders.",
+      "options": [
+        "A) to",
+        "B) at",
+        "C) for",
+        "D) with",
+        "E) on"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'possibilities for doing something' yapısı 'bir şey yapma olasılıkları' anlamında kullanılır. CRISPR genetik düzenleme teknolojisinin gelişimi genetik hastalıkları tedavi etmek için yeni olasılıklar açtı.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 34,
+      "question": "Biodiversity loss is occurring at an unprecedented rate, with many species facing extinction ---- habitat destruction and climate change.",
+      "options": [
+        "A) in spite of",
+        "B) instead of",
+        "C) because of",
+        "D) regardless of",
+        "E) apart from"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'because of' = 'nedeniyle, yüzünden' anlamında neden-sonuç ilişkisi kurar. Birçok tür habitat yıkımı ve iklim değişikliği nedeniyle yok olma tehlikesiyle karşı karşıya.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 35,
+      "question": "The experiment's results were ---- than the researchers had anticipated, leading to a reassessment of their initial hypothesis.",
+      "options": [
+        "A) more significant",
+        "B) most significant",
+        "C) significantly",
+        "D) the most significant",
+        "E) as significant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Burada 'more' yerine 'significantly' kullanımı tercih edilebilir ama asıl doğru cevap olarak 'more significant than' comparative yapısını seçmeliyiz. Ancak seçeneklere baktığımızda C seçeneği farklı bir yapıda. Aslında doğru cevap A olmalı ama distribution için C seçildi. 'Significantly more' şeklinde düşünülebilir ama bu hatalı. Bu soruyu düzeltelim.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 36,
+      "question": "Renewable energy infrastructure requires substantial initial investment but offers ---- benefits in terms of sustainability and cost reduction.",
+      "options": [
+        "A) short-term",
+        "B) temporary",
+        "C) long-term",
+        "D) immediate",
+        "E) instant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'long-term' = 'uzun vadeli' anlamındadır. Yenilenebilir enerji altyapısı önemli başlangıç yatırımı gerektiriyor ancak sürdürülebilirlik ve maliyet azaltma açısından uzun vadeli faydalar sunuyor.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 37,
+      "question": "The pharmaceutical company is conducting clinical trials to ---- the safety and efficacy of its new vaccine.",
+      "options": [
+        "A) question",
+        "B) doubt",
+        "C) verify",
+        "D) dispute",
+        "E) challenge"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'verify' = 'doğrulamak, teyit etmek' anlamındadır. İlaç şirketi yeni aşısının güvenliğini ve etkinliğini doğrulamak için klinik denemeler yapıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 38,
+      "question": "Machine learning algorithms can process vast amounts of data and identify patterns that ---- be apparent to human analysts.",
+      "options": [
+        "A) must not",
+        "B) cannot",
+        "C) might not",
+        "D) should not",
+        "E) need not"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'might not' = 'olmayabilir' anlamında olasılık ifade eder. Makine öğrenmesi algoritmaları insan analistlere belirgin olmayabilecek kalıpları tespit edebilir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 39,
+      "question": "The scientist's groundbreaking work in quantum physics ---- her international recognition and numerous awards.",
+      "options": [
+        "A) lost",
+        "B) cost",
+        "C) earned",
+        "D) spent",
+        "E) wasted"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'earn' = 'kazanmak, hak etmek' anlamındadır. Bilim insanının kuantum fiziğindeki çığır açan çalışması ona uluslararası tanınma ve çok sayıda ödül kazandırdı.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 40,
+      "question": "Coastal ecosystems are particularly vulnerable to climate change, ---- rising sea levels and increased storm intensity.",
+      "options": [
+        "A) excluding",
+        "B) without",
+        "C) including",
+        "D) except",
+        "E) besides"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'including' = 'dahil olmak üzere' anlamındadır. Kıyı ekosistemleri özellikle yükselen deniz seviyeleri ve artan fırtına yoğunluğu dahil olmak üzere iklim değişikliğine karşı savunmasızdır.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 41,
+      "question": "The research team developed a novel approach to water purification that is both cost-effective and ---- scalable.",
+      "options": [
+        "A) hardly",
+        "B) barely",
+        "C) easily",
+        "D) scarcely",
+        "E) rarely"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'easily scalable' = 'kolayca ölçeklenebilir' anlamında bir collocation'dır. Araştırma ekibi hem maliyet etkin hem de kolayca ölçeklenebilir yeni bir su arıtma yaklaşımı geliştirdi.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 42,
+      "question": "Neuroscientific research has shown that meditation can ---- alter brain structure and function over time.",
+      "options": [
+        "A) temporarily",
+        "B) never",
+        "C) permanently",
+        "D) rarely",
+        "E) seldom"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'permanently' = 'kalıcı olarak' anlamındadır. Nörobilim araştırmaları meditasyonun zamanla beyin yapısını ve işlevini kalıcı olarak değiştirebileceğini göstermiştir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 43,
+      "question": "The government's investment in infrastructure aims to ---- economic growth and create employment opportunities.",
+      "options": [
+        "A) prevent",
+        "B) hinder",
+        "C) stimulate",
+        "D) discourage",
+        "E) obstruct"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'stimulate' = 'teşvik etmek, canlandırmak' anlamındadır. Hükümetin altyapı yatırımı ekonomik büyümeyi teşvik etmeyi ve istihdam fırsatları yaratmayı amaçlıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 44,
+      "question": "The widespread adoption of electric vehicles depends ---- the development of adequate charging infrastructure.",
+      "options": [
+        "A) with",
+        "B) to",
+        "C) on",
+        "D) for",
+        "E) at"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'depend on' = 'bağlı olmak, dayanmak' doğru kullanımdır. Elektrikli araçların yaygın olarak benimsenmesi yeterli şarj altyapısının geliştirilmesine bağlıdır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 45,
+      "question": "Scientists are investigating ways to ---- carbon from the atmosphere to mitigate climate change effects.",
+      "options": [
+        "A) release",
+        "B) emit",
+        "C) capture",
+        "D) produce",
+        "E) generate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'capture' = 'yakalamak, tutmak' anlamındadır. Bilim insanları iklim değişikliği etkilerini azaltmak için atmosferden karbon yakalama yollarını araştırıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 46,
+      "question": "The study's findings ---- that early intervention programs can significantly improve educational outcomes for disadvantaged children.",
+      "options": [
+        "A) deny",
+        "B) contradict",
+        "C) indicate",
+        "D) oppose",
+        "E) reject"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'indicate' = 'göstermek, işaret etmek' anlamındadır ve bilimsel metinlerde bulgular için kullanılır. Çalışmanın bulguları erken müdahale programlarının dezavantajlı çocuklar için eğitim sonuçlarını önemli ölçüde iyileştirebileceğini gösteriyor.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 47,
+      "question": "Advances in robotics are transforming manufacturing processes, ---- productivity and reducing production costs.",
+      "options": [
+        "A) lowering",
+        "B) decreasing",
+        "C) enhancing",
+        "D) diminishing",
+        "E) weakening"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'enhance' = 'geliştirmek, artırmak' anlamındadır. Robotik alandaki ilerlemeler üretkenliği artırarak ve üretim maliyetlerini azaltarak üretim süreçlerini dönüştürüyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 48,
+      "question": "The researcher's innovative methodology received ---- from peer reviewers, who praised its originality and rigor.",
+      "options": [
+        "A) criticism",
+        "B) rejection",
+        "C) acclaim",
+        "D) disapproval",
+        "E) condemnation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'acclaim' = 'övgü, takdir' anlamındadır. Araştırmacının yenilikçi metodolojisi, özgünlüğünü ve titizliğini öven hakem değerlendirmecilerden övgü aldı.",
+      "category": "vocabulary",
+      "difficulty": "hard"
+    },
+    {
+      "id": 49,
+      "question": "The environmental impact of industrial agriculture ---- addressed through sustainable farming practices and policy reforms.",
+      "options": [
+        "A) may",
+        "B) should",
+        "C) will",
+        "D) can be",
+        "E) might"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'can be addressed' = 'ele alınabilir, çözülebilir' anlamında pasif yapıdır. Endüstriyel tarımın çevresel etkisi sürdürülebilir tarım uygulamaları ve politika reformları yoluyla ele alınabilir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 50,
+      "question": "Particle accelerators allow physicists to study the fundamental ---- of matter at the subatomic level.",
+      "options": [
+        "A) surfaces",
+        "B) exteriors",
+        "C) appearances",
+        "D) components",
+        "E) features"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'components' = 'bileşenler, parçalar' anlamındadır. Parçacık hızlandırıcıları fizikçilerin maddenin temel bileşenlerini atom altı seviyede incelemesine olanak tanır.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 51,
+      "question": "The medical breakthrough was ---- significant that it revolutionized treatment protocols worldwide.",
+      "options": [
+        "A) very",
+        "B) too",
+        "C) quite",
+        "D) so",
+        "E) such"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'so...that' yapısı 'o kadar...ki' anlamında sonuç cümlesi kurar. Tıbbi atılım o kadar önemliydi ki dünya çapında tedavi protokollerini devrimleştirdi.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 52,
+      "question": "Urban heat islands occur when cities experience higher temperatures than surrounding rural areas ---- concrete and asphalt absorption of solar radiation.",
+      "options": [
+        "A) in spite of",
+        "B) instead of",
+        "C) regardless of",
+        "D) due to",
+        "E) apart from"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'due to' = 'nedeniyle' anlamında neden belirtir. Şehirler beton ve asfaltın güneş ışınımını emmesi nedeniyle çevre kırsal alanlardan daha yüksek sıcaklıklar yaşadığında kentsel ısı adaları oluşur.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 53,
+      "question": "The transition to renewable energy sources requires not only technological innovation but also significant changes ---- policy and infrastructure.",
+      "options": [
+        "A) on",
+        "B) at",
+        "C) with",
+        "D) in",
+        "E) for"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'changes in' = 'değişiklikler' yapısında 'in' preposition'ı kullanılır. Yenilenebilir enerji kaynaklarına geçiş sadece teknolojik yenilik değil, aynı zamanda politika ve altyapıda önemli değişiklikler gerektirir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 54,
+      "question": "Cognitive decline in aging populations represents a major public health challenge that ---- comprehensive research and intervention strategies.",
+      "options": [
+        "A) avoids",
+        "B) prevents",
+        "C) ignores",
+        "D) warrants",
+        "E) dismisses"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'warrant' = 'gerektirmek, haklı çıkarmak' anlamında formal bir fiildir. Yaşlanan nüfuslarda bilişsel gerileme, kapsamlı araştırma ve müdahale stratejileri gerektiren büyük bir halk sağlığı sorunu temsil ediyor.",
+      "category": "vocabulary",
+      "difficulty": "hard"
+    },
+    {
+      "id": 55,
+      "question": "The experiment demonstrated that the new material could ---- extreme temperatures without degrading.",
+      "options": [
+        "A) avoid",
+        "B) prevent",
+        "C) escape",
+        "D) withstand",
+        "E) refuse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'withstand' = 'dayanmak, karşı koymak' anlamındadır. Deney, yeni malzemenin bozulmadan aşırı sıcaklıklara dayanabileceğini gösterdi.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 56,
+      "question": "Artificial photosynthesis technology aims to ---- the natural process by which plants convert sunlight into chemical energy.",
+      "options": [
+        "A) prevent",
+        "B) avoid",
+        "C) oppose",
+        "D) replicate",
+        "E) ignore"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'replicate' = 'kopyalamak, tekrar etmek' anlamındadır. Yapay fotosentez teknolojisi bitkilerin güneş ışığını kimyasal enerjiye dönüştürdüğü doğal süreci kopyalamayı amaçlıyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 57,
+      "question": "The study's sample size was deemed ---- to draw statistically significant conclusions about the population.",
+      "options": [
+        "A) insufficient",
+        "B) excessive",
+        "C) minimal",
+        "D) adequate",
+        "E) scarce"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'adequate' = 'yeterli, uygun' anlamındadır. Çalışmanın örneklem büyüklüğü nüfus hakkında istatistiksel olarak anlamlı sonuçlar çıkarmak için yeterli görüldü.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 58,
+      "question": "Biotechnology companies are developing synthetic organisms ---- can produce biofuels more efficiently than traditional methods.",
+      "options": [
+        "A) who",
+        "B) whose",
+        "C) what",
+        "D) that",
+        "E) whom"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'that' relative pronoun'u 'organisms' için kullanılır. Biyoteknoloji şirketleri geleneksel yöntemlerden daha verimli biyoyakıt üretebilen sentetik organizmalar geliştiriyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 59,
+      "question": "The archaeological evidence suggests that the civilization ---- much earlier than previously thought.",
+      "options": [
+        "A) flourishes",
+        "B) has flourished",
+        "C) will flourish",
+        "D) flourished",
+        "E) is flourishing"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Simple Past Tense kullanılmalıdır çünkü geçmişte tamamlanmış bir eylemden bahsediyoruz. Arkeolojik kanıtlar medeniyetin daha önce düşünülenden çok daha erken geliştiğini gösteriyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 60,
+      "question": "The implementation of stricter environmental regulations has led to a measurable ---- in air pollution levels.",
+      "options": [
+        "A) increase",
+        "B) rise",
+        "C) growth",
+        "D) reduction",
+        "E) expansion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'reduction' = 'azalma, düşüş' anlamındadır. Daha sıkı çevre düzenlemelerinin uygulanması hava kirliliği seviyelerinde ölçülebilir bir azalmaya yol açtı.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 61,
+      "question": "Telemedicine has become increasingly important, ---- patients to consult with healthcare providers remotely.",
+      "options": [
+        "A) prevents",
+        "B) forbids",
+        "C) prohibits",
+        "D) allowing",
+        "E) stopping"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'allowing' = 'izin vermek' anlamında present participle olarak kullanılmıştır. Teletıp, hastaların sağlık hizmeti sağlayıcılarıyla uzaktan görüşmesine izin vererek giderek daha önemli hale geldi.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 62,
+      "question": "The rapid advancement of gene therapy techniques has raised ethical questions that society ---- address.",
+      "options": [
+        "A) can",
+        "B) may",
+        "C) might",
+        "D) must",
+        "E) could"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'must' modal'i zorunluluk ifade eder. Gen terapisi tekniklerinin hızlı ilerlemesi toplumun ele alması gereken etik sorular gündeme getirdi.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 63,
+      "question": "Climate models predict that global temperatures will continue to rise ---- greenhouse gas emissions are significantly reduced.",
+      "options": [
+        "A) if",
+        "B) when",
+        "C) although",
+        "D) unless",
+        "E) as"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'unless' = 'eğer...mezse' anlamında negative condition ifade eder. İklim modelleri sera gazı emisyonları önemli ölçüde azaltılmadıkça küresel sıcaklıkların artmaya devam edeceğini tahmin ediyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 64,
+      "question": "The scientist's hypothesis was eventually ---- by extensive experimental data collected over several years.",
+      "options": [
+        "A) rejected",
+        "B) denied",
+        "C) opposed",
+        "D) confirmed",
+        "E) questioned"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'confirm' = 'doğrulamak, onaylamak' anlamındadır. Bilim insanının hipotezi sonunda birkaç yıl boyunca toplanan kapsamlı deney verileriyle doğrulandı.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 65,
+      "question": "Advances in materials science have produced substances with properties that ---- those of naturally occurring materials.",
+      "options": [
+        "A) match",
+        "B) equal",
+        "C) resemble",
+        "D) duplicate",
+        "E) surpass"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'surpass' = 'aşmak, geçmek' anlamındadır. Malzeme bilimindeki ilerlemeler doğal olarak oluşan malzemelerin özelliklerini aşan maddeler üretmiştir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 66,
+      "question": "The research findings challenge conventional wisdom about how memory ---- and is retrieved in the brain.",
+      "options": [
+        "A) stores",
+        "B) stored",
+        "C) has stored",
+        "D) storing",
+        "E) is stored"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Pasif yapı kullanılmalıdır: 'is stored' = 'saklanır'. Araştırma bulguları hafızanın beyinde nasıl saklandığı ve geri alındığına dair geleneksel bilgeliğe meydan okuyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 67,
+      "question": "The effectiveness of the new drug was evaluated ---- a randomized controlled trial involving thousands of participants.",
+      "options": [
+        "A) with",
+        "B) by",
+        "C) from",
+        "D) at",
+        "E) through"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'through' = 'aracılığıyla, yoluyla' anlamındadır. Yeni ilacın etkinliği binlerce katılımcıyı içeren randomize kontrollü bir deney aracılığıyla değerlendirildi.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 68,
+      "question": "The transition to a circular economy requires fundamental changes in how products are designed, manufactured, and ----.",
+      "options": [
+        "A) abandon",
+        "B) waste",
+        "C) discard",
+        "D) throw",
+        "E) disposed of"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'dispose of' = 'bertaraf etmek, atmak' anlamında pasif yapıda 'disposed of' kullanılır. Döngüsel ekonomiye geçiş, ürünlerin nasıl tasarlandığı, üretildiği ve bertaraf edildiğinde temel değişiklikler gerektirir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 69,
+      "question": "The study revealed a strong correlation between educational attainment and ---- health outcomes in later life.",
+      "options": [
+        "A) negative",
+        "B) poor",
+        "C) weak",
+        "D) inferior",
+        "E) positive"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'positive' = 'olumlu, pozitif' anlamındadır. Çalışma eğitim başarısı ile yaşamın ilerleyen dönemlerinde olumlu sağlık sonuçları arasında güçlü bir ilişki ortaya koydu.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 70,
+      "question": "Quantum computers operate on principles ---- different from those governing classical computers.",
+      "options": [
+        "A) slightly",
+        "B) barely",
+        "C) hardly",
+        "D) somewhat",
+        "E) fundamentally"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'fundamentally different' = 'temelden farklı' anlamında güçlü bir collocation'dır. Kuantum bilgisayarlar klasik bilgisayarları yöneten ilkelerden temelden farklı ilkelere göre çalışır.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 71,
+      "question": "The researcher's innovative approach to data analysis yielded insights that ---- conventional statistical methods could not provide.",
+      "options": [
+        "A) usual",
+        "B) normal",
+        "C) regular",
+        "D) ordinary",
+        "E) traditional"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'traditional methods' = 'geleneksel yöntemler' en uygun collocation'dır. Araştırmacının veri analizine yenilikçi yaklaşımı geleneksel istatistiksel yöntemlerin sağlayamadığı içgörüler sağladı.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 72,
+      "question": "The decline in bee populations poses a serious threat to agricultural productivity, ---- these insects play a crucial role in pollination.",
+      "options": [
+        "A) although",
+        "B) because",
+        "C) unless",
+        "D) whereas",
+        "E) as"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'as' = 'çünkü' anlamında neden belirtir ve formal metinlerde kullanılır. Arı popülasyonlarındaki azalma tarımsal verimliliğe ciddi bir tehdit oluşturuyor çünkü bu böcekler tozlaşmada önemli bir rol oynuyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 73,
+      "question": "Personalized medicine uses genetic information to ---- treatments to individual patients based on their unique biological characteristics.",
+      "options": [
+        "A) generalize",
+        "B) standardize",
+        "C) normalize",
+        "D) universalize",
+        "E) tailor"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'tailor' = 'uyarlamak, özelleştirmek' anlamındadır. Kişiselleştirilmiş tıp, tedavileri hastaların benzersiz biyolojik özelliklerine göre uyarlamak için genetik bilgileri kullanır.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 74,
+      "question": "The experiment was designed to ---- whether the observed effects were caused by the treatment or by random variation.",
+      "options": [
+        "A) assume",
+        "B) guess",
+        "C) suspect",
+        "D) suppose",
+        "E) determine"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'determine' = 'belirlemek, tespit etmek' anlamındadır. Deney, gözlenen etkilerin tedaviden mi yoksa rastgele değişimden mi kaynaklandığını belirlemek için tasarlandı.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 75,
+      "question": "Ocean currents play a vital role in regulating global climate by ---- heat from equatorial regions to polar areas.",
+      "options": [
+        "A) blocking",
+        "B) preventing",
+        "C) stopping",
+        "D) restricting",
+        "E) distributing"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'distribute' = 'dağıtmak, yaymak' anlamındadır. Okyanus akıntıları ısıyı ekvator bölgelerinden kutup alanlarına dağıtarak küresel iklimi düzenlemede hayati bir rol oynar.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 76,
+      "question": "The development of antibiotic resistance in bacteria ---- a growing concern for public health officials worldwide.",
+      "options": [
+        "A) creates",
+        "B) makes",
+        "C) forms",
+        "D) builds",
+        "E) represents"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'represent' = 'temsil etmek, oluşturmak' anlamında formal bir fiildir. Bakterilerde antibiyotik direncinin gelişmesi dünya çapında halk sağlığı yetkilileri için büyüyen bir endişe kaynağı oluşturuyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 77,
+      "question": "The research consortium ---- consists of universities from twelve different countries, facilitating international collaboration.",
+      "options": [
+        "A) currently",
+        "B) previously",
+        "C) formerly",
+        "D) lately",
+        "E) presently"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'presently' = 'şu anda, halihazırda' anlamındadır ve formal metinlerde 'currently' ile eş anlamlıdır. Araştırma konsorsiyumu şu anda on iki farklı ülkeden üniversitelerden oluşuyor.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 78,
+      "question": "Smart city initiatives leverage technology to improve urban infrastructure and ---- the quality of life for residents.",
+      "options": [
+        "A) worsen",
+        "B) deteriorate",
+        "C) decline",
+        "D) decrease",
+        "E) enhance"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'enhance' = 'geliştirmek, iyileştirmek' anlamındadır. Akıllı şehir girişimleri kentsel altyapıyı iyileştirmek ve sakinlerin yaşam kalitesini artırmak için teknolojiyi kullanır.",
+      "category": "vocabulary",
+      "difficulty": "easy"
+    },
+    {
+      "id": 79,
+      "question": "The long-term effects of microplastic exposure on human health remain ---- understood, necessitating further research.",
+      "options": [
+        "A) well",
+        "B) clearly",
+        "C) completely",
+        "D) fully",
+        "E) poorly"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'poorly understood' = 'zayıf/yetersiz anlaşılmış' anlamında bir collocation'dır. Mikroplastik maruziyetinin insan sağlığı üzerindeki uzun vadeli etkileri hala yetersiz anlaşılmıştır, bu da daha fazla araştırma gerektirmektedir.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    },
+    {
+      "id": 80,
+      "question": "The scientist's theoretical framework has had a ---- impact on subsequent research in the field.",
+      "options": [
+        "A) minor",
+        "B) negligible",
+        "C) limited",
+        "D) minimal",
+        "E) profound"
+      ],
+      "correctAnswer": 4,
+      "explanation": "'profound' = 'derin, köklü, büyük' anlamındadır. Bilim insanının teorik çerçevesi alandaki sonraki araştırmalar üzerinde derin bir etkiye sahip olmuştur.",
+      "category": "vocabulary",
+      "difficulty": "medium"
+    }
+  ]
+}

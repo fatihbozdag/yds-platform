@@ -1,0 +1,901 @@
+{
+  "section": "1.3",
+  "title": "Anlamca En Yakın Cümle",
+  "subtopics": [
+    {
+      "id": "1.3.1",
+      "title": "Etken-Edilgen Dönüşümleri",
+      "content": "YDS ve YÖKDİL sınavlarında etken-edilgen dönüşümleri, anlamca en yakın cümle sorularının temel yapı taşlarından biridir. Bu dönüşümlerde dikkat edilmesi gereken en önemli nokta, özne-nesne değişimi ve zaman uyumudur.\n\nEtken cümle edilgen yapıya dönüştürülürken:\n- Nesne özne konumuna gelir\n- Özne \"by + agent\" yapısıyla ifade edilir (gerekirse)\n- Fiil zamanı korunur ancak edilgen forma çevrilir\n- Kiplik yapılar (can, must, should vb.) korunur\n\nÖzellikle akademik metinlerde edilgen yapılar tercih edilir çünkü:\n- Nesnellik sağlar\n- Yapan kişi yerine yapılan işe odaklanır\n- Formal üslup oluşturur\n\nDikkat edilmesi gereken yapılar:\n- Get-passive (get done, get written): Daha informal\n- By-phrase opsiyonelliği: Özne önemsizse atılabilir\n- Stative passives: \"The door is closed\" (durum) vs \"The door is being closed\" (işlem)\n- Complex tenses: Perfect ve continuous formların edilgen halleri\n\nTürkçe konuşucuların sık yaptığı hatalar:\n- Zaman uyumsuzluğu\n- Modal + passive kombinasyonlarında hata\n- By-phrase gereksiz kullanımı",
+      "examples": [
+        {
+          "original": "The committee approved the proposal unanimously.",
+          "closest": "The proposal was approved unanimously by the committee.",
+          "explanation": "Basit geçmiş zaman etken → edilgen. 'By the committee' eklenebilir ama opsiyonel."
+        },
+        {
+          "original": "Scientists are conducting extensive research on climate change.",
+          "closest": "Extensive research on climate change is being conducted by scientists.",
+          "explanation": "Present continuous etken → edilgen. 'Is being conducted' formu kritik."
+        },
+        {
+          "original": "The government should implement new regulations immediately.",
+          "closest": "New regulations should be implemented immediately.",
+          "explanation": "Modal + base form → modal + be + past participle. 'By the government' atılabilir."
+        },
+        {
+          "original": "No one has solved this mathematical problem yet.",
+          "closest": "This mathematical problem has not been solved yet.",
+          "explanation": "Present perfect etken → edilgen. 'No one' olumsuz anlam oluşturur."
+        },
+        {
+          "original": "They will deliver the package tomorrow morning.",
+          "closest": "The package will be delivered tomorrow morning.",
+          "explanation": "Simple future etken → edilgen. Agent belirsiz olduğu için atılır."
+        },
+        {
+          "original": "People believe that exercise improves mental health.",
+          "closest": "It is believed that exercise improves mental health.",
+          "explanation": "İnançla ilgili fiillerde 'It is believed/thought/said' yapısı kullanılır."
+        },
+        {
+          "original": "The teacher must have marked all the exams by now.",
+          "closest": "All the exams must have been marked by now.",
+          "explanation": "Modal perfect etken → edilgen: must have been + past participle."
+        },
+        {
+          "original": "Technology is transforming the way we communicate.",
+          "closest": "The way we communicate is being transformed by technology.",
+          "explanation": "Present continuous edilgen, complex nesne yapısı korunur."
+        },
+        {
+          "original": "Researchers had already published the findings before the controversy.",
+          "closest": "The findings had already been published before the controversy.",
+          "explanation": "Past perfect etken → edilgen. Zaman belirteci konumu önemli."
+        },
+        {
+          "original": "Someone should notify the participants of the schedule change.",
+          "closest": "The participants should be notified of the schedule change.",
+          "explanation": "Modal edilgen + edat yapısı ('of' korunur)."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "The university authorities will announce the exam results next week.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The exam results will be announced next week by the university authorities.",
+            "The exam results are going to announce next week.",
+            "Next week the university authorities are announcing the exam results.",
+            "The announcement of exam results will be next week.",
+            "They will have announced the exam results by next week."
+          ],
+          "correct": 0,
+          "explanation": "Simple future etken yapı edilgene dönüştürülür: 'will be announced'. Zaman belirteci ('next week') korunur ve cümle sonuna gelebilir veya başa geçebilir. 'By the university authorities' opsiyoneldir ama anlam değişikliği yaratmaz."
+        },
+        {
+          "question": "Nobody had informed us about the meeting cancellation.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The meeting cancellation was not informed to us.",
+            "We had not been informed about the meeting cancellation.",
+            "The meeting cancellation has not been informed.",
+            "Nobody was informing us about the cancellation.",
+            "We were not informed about the meeting cancellation."
+          ],
+          "correct": 1,
+          "explanation": "Past perfect etken ('had informed') edilgen forma dönüşür: 'had been informed'. 'Nobody' olumsuz özne olduğu için edilgen yapıda 'not' kullanılır. B seçeneği hem zaman uyumunu hem de edat yapısını ('about') korur."
+        },
+        {
+          "question": "Experts consider this discovery a major breakthrough in medicine.\nWhich sentence is closest in meaning?",
+          "options": [
+            "This discovery is considered a major breakthrough in medicine.",
+            "This discovery considers as a major breakthrough by experts.",
+            "A major breakthrough in medicine is being considered this discovery.",
+            "Experts are considering this discovery to be a major breakthrough.",
+            "It considers that this discovery is a major breakthrough."
+          ],
+          "correct": 0,
+          "explanation": "'Consider' fiili complex object (nesne + tümleç) alır. Edilgen yapıda 'is considered + tümleç' şeklinde kullanılır. 'As' kullanılmaz. A seçeneği doğru edilgen yapıyı korur ve anlam değişikliği olmaz."
+        },
+        {
+          "question": "The company may have already implemented the new policy.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The new policy may already be implemented.",
+            "The new policy may have already been implemented.",
+            "The new policy may have implemented already.",
+            "They may be implementing the new policy already.",
+            "The implementation of the new policy may have been already."
+          ],
+          "correct": 1,
+          "explanation": "Modal perfect etken ('may have implemented') edilgen forma dönüşür: 'may have been implemented'. Zaman ve kiplik yapısı korunmalıdır. B seçeneği doğru modal perfect passive yapısını kullanır."
+        },
+        {
+          "question": "People were discussing the issue extensively on social media.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The issue was being discussed extensively on social media.",
+            "The issue was discussed extensively on social media.",
+            "The issue is being discussed extensively on social media.",
+            "People had been discussing the issue extensively on social media.",
+            "The issue has been discussed extensively on social media."
+          ],
+          "correct": 0,
+          "explanation": "Past continuous etken ('were discussing') edilgen forma dönüşür: 'was being discussed'. Süreç bildiren continuous yapısı korunmalıdır. A seçeneği hem zamanı hem de aspect'i (devam eden eylem) korur."
+        },
+        {
+          "question": "The committee should review all applications before the deadline.\nWhich sentence is closest in meaning?",
+          "options": [
+            "All applications should review before the deadline.",
+            "All applications should be reviewed before the deadline.",
+            "The committee should be reviewing all applications before the deadline.",
+            "All applications must have been reviewed before the deadline.",
+            "The review of all applications should be before the deadline."
+        ],
+          "correct": 1,
+          "explanation": "Modal + infinitive etken ('should review') edilgen forma dönüşür: 'should be reviewed'. B seçeneği doğru modal passive yapısını kullanır ve zaman belirtecini korur."
+        },
+        {
+          "question": "They say that learning languages enhances cognitive abilities.\nWhich sentence is closest in meaning?",
+          "options": [
+            "It is said that learning languages enhances cognitive abilities.",
+            "Learning languages is said to enhance cognitive abilities.",
+            "That learning languages enhances cognitive abilities is said.",
+            "Cognitive abilities are said to be enhanced by learning languages.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Say, believe, think, report' gibi fiillerle iki tür edilgen yapı mümkündür: 1) It is said that... (dummy subject), 2) Learning languages is said to enhance... (subject raising). Her iki yapı da doğru ve anlamca eşdeğerdir."
+        },
+        {
+          "question": "No one can deny the importance of education in modern society.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The importance of education cannot deny in modern society.",
+            "The importance of education in modern society cannot be denied.",
+            "Nobody denies the importance of education in modern society.",
+            "The importance of education is not being denied in modern society.",
+            "Education's importance in modern society is undeniable."
+          ],
+          "correct": 1,
+          "explanation": "Modal + infinitive olumsuz ('can deny' with negative subject 'no one') edilgen forma dönüşür: 'cannot be denied'. B seçeneği doğru yapıyı kullanır. E seçeneği anlamca yakın olsa da, yapısal dönüşüm (etken→edilgen) değil, farklı bir ifade biçimidir."
+        },
+        {
+          "question": "Researchers have been studying this phenomenon for decades.\nWhich sentence is closest in meaning?",
+          "options": [
+            "This phenomenon has been studied for decades.",
+            "This phenomenon has been being studied for decades.",
+            "This phenomenon is being studied by researchers for decades.",
+            "This phenomenon had been studied for decades.",
+            "Researchers studied this phenomenon for decades."
+          ],
+          "correct": 0,
+          "explanation": "Present perfect continuous etken yapı edilgene dönüştürülürken genellikle present perfect passive kullanılır çünkü 'has been being studied' yapısı çok hantal ve nadiren kullanılır. A seçeneği en doğal ve yaygın edilgen karşılıktır."
+        },
+        {
+          "question": "The authorities must investigate all complaints thoroughly.\nWhich sentence is closest in meaning?",
+          "options": [
+            "All complaints must be investigated thoroughly.",
+            "All complaints must investigate thoroughly by the authorities.",
+            "The authorities must be investigating all complaints thoroughly.",
+            "All complaints are being investigated thoroughly.",
+            "Thorough investigation of all complaints is a must."
+          ],
+          "correct": 0,
+          "explanation": "Modal + infinitive etken ('must investigate') edilgen forma dönüşür: 'must be investigated'. A seçeneği doğru modal passive yapısını kullanır ve tarz zarfını (thoroughly) korur."
+        }
+      ]
+    },
+    {
+      "id": "1.3.2",
+      "title": "Adlaştırma/Yeniden İfade: that-clause, V-ing, nominalization",
+      "content": "Akademik İngilizcede aynı fikir farklı gramer yapılarıyla ifade edilebilir. YDS ve YÖKDİL'de bu dönüşümler sıkça test edilir çünkü akademik yazıda formal üslup ve bilgi yoğunluğu önemlidir.\n\n**That-clause (yan cümle) → Nominalization (isimleştirme)**\n- That he arrived late surprised everyone → His late arrival surprised everyone\n- That pollution is increasing worries scientists → The increase in pollution worries scientists\n\n**V-ing → Nominalization**\n- Protecting the environment is crucial → Environmental protection is crucial\n- Understanding these concepts requires practice → The understanding of these concepts requires practice\n\n**Nominalization avantajları:**\n- Daha formal ve akademik ton\n- Daha kompakt ve bilgi yoğun\n- Teknik terminolojide tercih edilir\n\n**Dönüşüm kuralları:**\n1. Fiil → İsim: develop → development, discover → discovery\n2. Sıfat → İsim: important → importance, scarce → scarcity\n3. Edat eklemeleri: \"of, in, to\" gibi edatlar bağlantı sağlar\n4. Possessive yapılar: his/her/their kullanımı\n\n**Dikkat edilecek noktalar:**\n- Anlam kayması olmamalı\n- Zaman referansı korunmalı (when possible)\n- Agent (yapan) önemliyse belirtilmeli\n- Aşırı nominalization okunabilirliği azaltır",
+      "examples": [
+        {
+          "original": "The fact that technology advances rapidly creates new opportunities.",
+          "closest": "The rapid advancement of technology creates new opportunities.",
+          "explanation": "That-clause nominalize edildi: 'advances rapidly' → 'rapid advancement'. Daha kompakt ve akademik."
+        },
+        {
+          "original": "Scientists discovered a new species, which was unexpected.",
+          "closest": "The unexpected discovery of a new species by scientists...",
+          "explanation": "Fiil 'discovered' → isim 'discovery'. Sıfat 'unexpected' eklenmiş, agent 'by scientists' opsiyonel."
+        },
+        {
+          "original": "Because the economy grew, unemployment decreased.",
+          "closest": "Economic growth led to a decrease in unemployment.",
+          "explanation": "Yan cümle nominalize edildi: 'economy grew' → 'economic growth', 'unemployment decreased' → 'decrease in unemployment'."
+        },
+        {
+          "original": "It is important to preserve cultural heritage.",
+          "closest": "The preservation of cultural heritage is important.",
+          "explanation": "To-infinitive → nominalization: 'to preserve' → 'preservation of'."
+        },
+        {
+          "original": "That governments invest in education benefits society.",
+          "closest": "Government investment in education benefits society.",
+          "explanation": "That-clause kompakt hale getirildi: özne 'governments' → possessive olmadan 'government', fiil 'invest' → 'investment'."
+        },
+        {
+          "original": "Researchers found that pollution affects health negatively.",
+          "closest": "Researchers found negative health effects of pollution.",
+          "explanation": "That-clause noun phrase'e dönüştürüldü: 'affects health negatively' → 'negative health effects'."
+        },
+        {
+          "original": "Understanding complex theories requires persistent effort.",
+          "closest": "The understanding of complex theories requires persistent effort.",
+          "explanation": "Gerund phrase daha formal nominalization'a dönüştürüldü. 'The understanding of' daha akademik."
+        },
+        {
+          "original": "Because resources are scarce, prices increase.",
+          "closest": "Resource scarcity leads to price increases.",
+          "explanation": "Çift nominalization: 'resources are scarce' → 'resource scarcity', 'prices increase' → 'price increases'."
+        },
+        {
+          "original": "The committee decided to implement the new policy.",
+          "closest": "The committee's decision was to implement the new policy.",
+          "explanation": "Fiil 'decided' → possessive noun 'committee's decision'. Alternatif: 'The committee decided on the implementation of the new policy.'"
+        },
+        {
+          "original": "Students achieve better when teachers provide feedback regularly.",
+          "closest": "Regular teacher feedback improves student achievement.",
+          "explanation": "Tüm yan cümle nominalize edildi: 'achieve better' → 'achievement', 'provide feedback regularly' → 'regular feedback'."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "The fact that the population is aging rapidly poses significant challenges.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Rapid population aging poses significant challenges.",
+            "The population's rapid aging is posing significant challenges.",
+            "That the population ages rapidly is challenging significantly.",
+            "The rapidly aging of population poses challenges.",
+            "Significant challenges are posed by population aging rapidly."
+          ],
+          "correct": 0,
+          "explanation": "That-clause en kompakt şekilde nominalize edildi: 'the population is aging rapidly' → 'rapid population aging'. A seçeneği en doğal ve akademik ifadedir. B de doğru ama possessive ('population's') gereksiz uzatır."
+        },
+        {
+          "question": "Because researchers collaborated internationally, scientific progress accelerated.\nWhich sentence is closest in meaning?",
+          "options": [
+            "International researcher collaboration accelerated scientific progress.",
+            "Researchers' international collaboration made scientific progress accelerate.",
+            "The international collaboration of researchers caused scientific progress to accelerate.",
+            "Scientific progress accelerated due to researchers collaborating internationally.",
+            "International collaboration among researchers accelerated scientific progress."
+          ],
+          "correct": 4,
+          "explanation": "Sebep-sonuç ilişkisi korunarak nominalize edilmeli. E seçeneği hem nominalization kullanır ('collaboration') hem de doğal ve akademik bir ifade sağlar. A seçeneği de nominalize ama 'researcher collaboration' doğal değil; 'collaboration among/between researchers' daha iyi."
+        },
+        {
+          "question": "It is essential to maintain biodiversity for future generations.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Maintaining biodiversity is essential for future generations.",
+            "The maintenance of biodiversity is essential for future generations.",
+            "Biodiversity maintenance for future generations is essential.",
+            "Essential is the maintenance of biodiversity for future generations.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "To-infinitive iki şekilde nominalize edilebilir: gerund (maintaining) veya noun (maintenance). Her ikisi de anlamca eşdeğer ve doğrudur. A gerund kullanır, B tam nominalization. Her iki yapı da akademik yazıda kabul edilir."
+        },
+        {
+          "question": "That industries consume excessive energy contributes to climate change.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Excessive energy consumption by industries contributes to climate change.",
+            "Industries' excessive energy consumption contributes to climate change.",
+            "The fact that industries consume excessive energy is contributing to climate change.",
+            "Excessive industrial energy consumption contributes to climate change.",
+            "Both A and D are correct."
+          ],
+          "correct": 4,
+          "explanation": "That-clause nominalize edilebilir. A'da 'by industries' agent olarak, D'de 'industrial' sıfat olarak kullanılmış. Her ikisi de doğru ve anlamca eşdeğer. D daha kompakt, A daha açık. B'deki possessive gereksiz uzatır."
+        },
+        {
+          "question": "Researchers observed that students perform better when they receive immediate feedback.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Researchers observed better student performance with immediate feedback.",
+            "Researchers observed that immediate feedback improves student performance.",
+            "The observation of researchers is that students perform better with immediate feedback.",
+            "Student performance improvement was observed by researchers with immediate feedback.",
+            "Researchers' observation was better student performance receiving immediate feedback."
+          ],
+          "correct": 0,
+          "explanation": "Nesne yan cümlesi (that-clause) noun phrase'e dönüştürülür: 'students perform better' → 'better student performance', 'receive immediate feedback' → 'with immediate feedback'. A en kompakt ve doğal ifadedir."
+        },
+        {
+          "question": "Because the government reduced taxes, consumer spending increased.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Government tax reduction led to increased consumer spending.",
+            "The reduction in taxes by the government increased consumer spending.",
+            "Consumer spending increased because of government reducing taxes.",
+            "Tax reduction by government was the reason for consumer spending increase.",
+            "The government's tax reduction resulted in an increase in consumer spending."
+          ],
+          "correct": 4,
+          "explanation": "Sebep-sonuç ilişkisi korunarak iki yan cümle de nominalize edilmeli. E seçeneği en tam ve akademik ifadedir: 'government reduced taxes' → 'government's tax reduction', 'spending increased' → 'increase in spending', sebep-sonuç 'resulted in' ile bağlanır."
+        },
+        {
+          "question": "That experts disagree on this issue makes reaching a consensus difficult.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Expert disagreement on this issue makes reaching a consensus difficult.",
+            "Experts' disagreement on this issue makes consensus difficult to reach.",
+            "The fact that experts disagree makes it difficult to reach a consensus on this issue.",
+            "Disagreement among experts on this issue complicates consensus-reaching.",
+            "All except C are correct."
+          ],
+          "correct": 4,
+          "explanation": "That-clause birkaç şekilde nominalize edilebilir: A ve B doğru nominalization kullanır, D de doğru ama 'complicates' farklı fiil (anlam yakın). C orijinal that-clause yapısını korur, nominalization değil. A, B, D hepsi geçerli nominalization örnekleri."
+        },
+        {
+          "question": "The discovery that certain bacteria resist antibiotics alarmed health officials.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The discovery of antibiotic-resistant bacteria alarmed health officials.",
+            "Health officials were alarmed by discovering certain bacteria resist antibiotics.",
+            "Certain bacteria's antibiotic resistance discovery alarmed health officials.",
+            "That certain bacteria resist antibiotics was a discovery alarming health officials.",
+            "The alarming discovery was that certain bacteria resist antibiotics for health officials."
+          ],
+          "correct": 0,
+          "explanation": "Appositive that-clause (açıklayıcı yan cümle) noun phrase'e dönüştürülür: 'certain bacteria resist antibiotics' → 'antibiotic-resistant bacteria'. A seçeneği en kompakt ve doğal akademik ifadedir."
+        },
+        {
+          "question": "Implementing these reforms will require substantial resources.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The implementation of these reforms will require substantial resources.",
+            "These reforms' implementation will require substantial resources.",
+            "To implement these reforms substantial resources will be required.",
+            "Substantial resources are required for implementing these reforms.",
+            "Both A and D are correct."
+          ],
+          "correct": 4,
+          "explanation": "Gerund subject (implementing) nominalize edilebilir veya edilgen yapıyla yeniden ifade edilebilir. A tam nominalization (implementation), D gerund + edilgen + prepositional phrase. Her ikisi de akademik yazıda yaygın ve doğrudur."
+        },
+        {
+          "question": "The committee recommended that the university adopt new admission criteria.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The committee's recommendation was the adoption of new admission criteria by the university.",
+            "The committee recommended the university's adoption of new admission criteria.",
+            "The committee recommended the adoption of new admission criteria by the university.",
+            "New admission criteria adoption was recommended to the university by the committee.",
+            "The committee's recommendation was that new admission criteria be adopted by the university."
+          ],
+          "correct": 2,
+          "explanation": "Nesne yan cümlesi (that-clause subjunctive) nominalize edilir: 'that the university adopt' → 'the adoption of...by the university'. C en doğal akademik ifadedir. A ve B de nominalize ama possessive kullanımı gereksiz karmaşık. E edilgen ama nominalization yok."
+        }
+      ]
+    },
+    {
+      "id": "1.3.3",
+      "title": "Zaman ve Kip Eşdeğerlikleri, Olasılık Dereceleri",
+      "content": "YDS ve YÖKDİL'de zaman ve kip eşdeğerlikleri, aynı anlamı farklı modal yapılar veya zaman kalıplarıyla ifade etme becerisini test eder. Bu sorularda olasılık, zorunluluk, tavsiye gibi kip anlamları korунmalıdır.\n\n**Olasılık Dereceleri (Probability/Certainty)**\n- Kesin: must/cannot, definitely, certainly\n- Çok olası: should, probably, likely, is expected to\n- Olası: may, might, could, possibly, perhaps\n- Düşük olasılık: might, could (past context), unlikely\n\n**Modal Eşdeğerlikleri:**\n- Must (zorunluluk) = have to, be obliged to, be required to\n- Must (güçlü çıkarım) = it is certain that, definitely\n- Should (tavsiye) = ought to, it is advisable to, had better\n- May/might (izin) = be allowed to, be permitted to\n- May/might (olasılık) = perhaps, possibly, it is possible that\n- Can (yetenek) = be able to, have the ability to\n- Cannot (imkansızlık) = it is impossible to\n\n**Zaman Eşdeğerlikleri:**\n- Present perfect = still relevant now, up to now\n- Past perfect = before another past action, by that time\n- Future perfect = by a future time, before X happens\n- Used to = would (repeated past), no longer does\n\n**Yapısal Dönüşümler:**\n- Modal + infinitive → it is certain/possible/necessary that...\n- Modal perfect → must/may/might/cannot + have + past participle\n- Conditional → unless, provided that, in case, on condition that",
+      "examples": [
+        {
+          "original": "She must have forgotten about the meeting.",
+          "closest": "It is certain that she forgot about the meeting.",
+          "explanation": "Modal perfect çıkarımı ('must have forgotten') kesinlik ifadesiyle ('it is certain that') eşdeğer. Geçmiş çıkarımı ifade eder."
+        },
+        {
+          "original": "Students should submit their assignments by Friday.",
+          "closest": "It is advisable for students to submit their assignments by Friday.",
+          "explanation": "'Should' (tavsiye/beklenti) = 'it is advisable'. Her ikisi de hafif zorunluluk/öneri anlamı taşır."
+        },
+        {
+          "original": "The results may indicate a significant trend.",
+          "closest": "It is possible that the results indicate a significant trend.",
+          "explanation": "'May' (olasılık modalı) = 'it is possible that'. Orta derece olasılık ifade eder."
+        },
+        {
+          "original": "You cannot solve this problem without understanding the theory.",
+          "closest": "It is impossible to solve this problem without understanding the theory.",
+          "explanation": "'Cannot' (imkansızlık) = 'it is impossible to'. Kesin olumsuz çıkarım."
+        },
+        {
+          "original": "They might have already left for the conference.",
+          "closest": "Perhaps they have already left for the conference.",
+          "explanation": "Modal perfect olasılık ('might have left') = 'perhaps' + present perfect. Geçmiş olasılık ifadesi."
+        },
+        {
+          "original": "Researchers are expected to complete the study by December.",
+          "closest": "Researchers should complete the study by December.",
+          "explanation": "'Be expected to' (beklenti) = 'should' (beklenti). Her ikisi de gelecek beklentisi ifade eder."
+        },
+        {
+          "original": "She used to work in that laboratory years ago.",
+          "closest": "She would often work in that laboratory years ago.",
+          "explanation": "'Used to' (geçmiş alışkanlık) = 'would often' (tekrarlanan geçmiş eylem). 'Would' tercih edilir ama 'used to' durum fiilleriyle de kullanılır."
+        },
+        {
+          "original": "By next month, they will have finished the renovations.",
+          "closest": "The renovations will be complete by next month.",
+          "explanation": "Future perfect (belli gelecek zamana kadar tamamlanma) = simple future/present + 'by next month'. Sonuç aynı."
+        },
+        {
+          "original": "It is likely that temperatures will rise significantly.",
+          "closest": "Temperatures are likely to rise significantly.",
+          "explanation": "'It is likely that + clause' = 'subject + be likely to + infinitive'. Subject raising yapısı."
+        },
+        {
+          "original": "Unless you practice regularly, you won't improve.",
+          "closest": "You won't improve if you don't practice regularly.",
+          "explanation": "'Unless' (olumsuz koşul) = 'if not'. Anlam değişmez, sadece yapı farkı."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "The committee must have approved the proposal already.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The committee was required to approve the proposal already.",
+            "It is certain that the committee has already approved the proposal.",
+            "The committee should have approved the proposal already.",
+            "The committee will definitely approve the proposal.",
+            "It is necessary for the committee to approve the proposal already."
+          ],
+          "correct": 1,
+          "explanation": "'Must have + past participle' geçmiş zamanda güçlü çıkarım/kesinlik ifade eder. B seçeneği 'it is certain that + present perfect' ile aynı anlamı verir. A zorunluluk (obligation) anlamı verir, C farklı modal (should), D gelecek zaman, E şimdiki zorunluluk."
+        },
+        {
+          "question": "Students may use the library resources for their research.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Students are allowed to use the library resources for their research.",
+            "It is possible that students use the library resources for their research.",
+            "Students should use the library resources for their research.",
+            "Students might be using the library resources for their research.",
+            "Both A and B are possible depending on context."
+          ],
+          "correct": 4,
+          "explanation": "'May' iki anlam taşıyabilir: 1) izin (permission) = 'are allowed to', 2) olasılık (possibility) = 'it is possible that'. Bağlam olmadan her iki yorum da geçerlidir. Genellikle akademik bağlamda 'may' izin anlamındadır."
+        },
+        {
+          "question": "By the time you arrive, we will have completed the experiment.\nWhich sentence is closest in meaning?",
+          "options": [
+            "We will complete the experiment when you arrive.",
+            "The experiment will be complete before you arrive.",
+            "We are completing the experiment by the time you arrive.",
+            "When you arrive, we will complete the experiment.",
+            "We have completed the experiment before you arrived."
+          ],
+          "correct": 1,
+          "explanation": "Future perfect ('will have completed') bir gelecek zaman noktasından önce tamamlanmayı ifade eder. B seçeneği aynı anlamı daha basit yapıyla verir: 'will be complete before'. A ve D eş zamanlılık ifade eder (yanlış), C zaman uyumsuz, E geçmiş zaman."
+        },
+        {
+          "question": "It is advisable for employees to attend the training session.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Employees must attend the training session.",
+            "Employees should attend the training session.",
+            "Employees are required to attend the training session.",
+            "Employees may attend the training session.",
+            "Employees will attend the training session."
+          ],
+          "correct": 1,
+          "explanation": "'It is advisable' tavsiye/öneri anlamı taşır ve 'should' ile eşdeğerdir. A ve C güçlü zorunluluk (obligation), D izin/olasılık, E sadece gelecek bildirir (öneri değil)."
+        },
+        {
+          "question": "The researchers cannot have overlooked this crucial evidence.\nWhich sentence is closest in meaning?",
+          "options": [
+            "It is impossible that the researchers overlooked this crucial evidence.",
+            "The researchers were not able to overlook this crucial evidence.",
+            "The researchers should not have overlooked this crucial evidence.",
+            "It is unlikely that the researchers overlooked this crucial evidence.",
+            "The researchers did not overlook this crucial evidence."
+          ],
+          "correct": 0,
+          "explanation": "'Cannot have + past participle' geçmiş zamanda güçlü olumsuz çıkarım/imkansızlık ifade eder. A seçeneği 'it is impossible that' ile aynı kesin olumsuz çıkarımı verir. B yetenek, C tavsiye/pişmanlık, D zayıf çıkarım, E basit geçmiş (çıkarım yok)."
+        },
+        {
+          "question": "Participants are expected to follow the guidelines carefully.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Participants must follow the guidelines carefully.",
+            "Participants should follow the guidelines carefully.",
+            "It is expected that participants follow the guidelines carefully.",
+            "Participants are required to follow the guidelines carefully.",
+            "Both B and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Be expected to' beklenti ifade eder ve 'should' (beklenti) ile eşdeğerdir. Ayrıca 'it is expected that' yapısıyla da aynı anlama gelir. A ve D daha güçlü zorunluluk ifade eder. B ve C her ikisi de doğru eşdeğerdir."
+        },
+        {
+          "question": "Unless the government implements reforms, the economy will deteriorate.\nWhich sentence is closest in meaning?",
+          "options": [
+            "If the government implements reforms, the economy will deteriorate.",
+            "The economy will deteriorate if the government doesn't implement reforms.",
+            "The government must implement reforms, or else the economy deteriorates.",
+            "Without implementing reforms, the government will let the economy deteriorate.",
+            "The economy will deteriorate despite government reforms."
+          ],
+          "correct": 1,
+          "explanation": "'Unless' = 'if not' (olumsuz koşul). B seçeneği 'unless' yapısını 'if...not' ile doğru şekilde ifade eder. A olumlu koşulla yanlış, C zaman ve yapı uyumsuz, D anlam değişmiş (fail to let), E 'despite' karşıtlık ifade eder (yanlış mantık)."
+        },
+        {
+          "question": "She might not have received the notification yet.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Perhaps she has not received the notification yet.",
+            "She definitely has not received the notification yet.",
+            "It is impossible that she has received the notification yet.",
+            "She should not have received the notification yet.",
+            "She was not able to receive the notification yet."
+          ],
+          "correct": 0,
+          "explanation": "'Might not have + past participle' geçmiş zamanda zayıf olumsuz olasılık/çıkarım ifade eder. A seçeneği 'perhaps' (belki) ile aynı belirsizlik derecesini verir. B kesinlik, C imkansızlık, D tavsiye/beklenti, E yetenek ifade eder."
+        },
+        {
+          "question": "Researchers ought to consider ethical implications before conducting experiments.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Researchers must consider ethical implications before conducting experiments.",
+            "Researchers should consider ethical implications before conducting experiments.",
+            "It is obligatory for researchers to consider ethical implications before conducting experiments.",
+            "Researchers are required to consider ethical implications before conducting experiments.",
+            "Researchers may consider ethical implications before conducting experiments."
+          ],
+          "correct": 1,
+          "explanation": "'Ought to' = 'should' (tavsiye, ahlaki zorunluluk, beklenti). B seçeneği tam eşdeğerdir. A, C, D daha güçlü zorunluluk (legal/formal obligation) ifade eder. E izin/olasılık ifade eder (yanlış)."
+        },
+        {
+          "question": "It is probable that the meeting will be postponed.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The meeting must be postponed.",
+            "The meeting will probably be postponed.",
+            "The meeting might be postponed.",
+            "The meeting should be postponed.",
+            "The meeting is certain to be postponed."
+          ],
+          "correct": 1,
+          "explanation": "'It is probable' yüksek olasılık ifade eder ve 'probably' zarfı veya 'will probably' ile eşdeğerdir. B en yakın eşdeğerdir. A kesinlik, C daha düşük olasılık, D tavsiye/beklenti, E kesin gelecek ifade eder."
+        }
+      ]
+    },
+    {
+      "id": "1.3.4",
+      "title": "Kapsam Daraltma/Genişletme, Niceliklendiriciler",
+      "content": "YDS ve YÖKDİL'de niceliklendiriciler (quantifiers) ve kapsam ifadeleri, anlam korunurken ifade biçiminin değiştirilmesinde kritik rol oynar. Bu sorularda 'all, some, most, few, many, no' gibi niceliklendiricilerin mantıksal ilişkileri test edilir.\n\n**Temel Niceliklendiriciler:**\n- All (hepsi) → every, each, the whole\n- Most (çoğu) → the majority of, a large proportion of\n- Many (çok sayıda) → a large number of, numerous\n- Some (bazı) → a number of, certain, several\n- Few (az) → a small number of, not many\n- No (hiç) → none of, not any\n\n**Mantıksal Eşdeğerlikler:**\n- All students passed → No student failed (tam olumsuzluk)\n- Not all students passed → Some students failed (kısmi olumsuzluk)\n- Most students → More than half of the students\n- Few students → A small minority of students\n- Hardly any → Almost no, very few\n\n**Kapsam Daraltma/Genişletme:**\n- Genişletme: 'some researchers' → 'researchers' (bazılarından genele)\n- Daraltma: 'people' → 'many people' (genelden belirli kısmına)\n\n**Olumsuzluk Kapsamı (Scope of Negation):**\n- Not all X are Y ≠ All X are not Y\n- Not all = Some are not\n- All...not = None\n\n**Dikkat Edilmesi Gerekenler:**\n- 'A few' (bazı, pozitif) ≠ 'few' (az, negatif ton)\n- 'A little' (biraz, pozitif) ≠ 'little' (az, negatif ton)\n- 'Each' tekil isim, 'every' tekil isim, 'all' çoğul isim\n- Percentage ifadeleri: '60% = the majority', '10% = a small proportion'",
+      "examples": [
+        {
+          "original": "All participants completed the survey.",
+          "closest": "None of the participants failed to complete the survey.",
+          "explanation": "'All X did Y' = 'No X failed to do Y'. Tam olumlu = tam olumsuzun olumsuzlanması."
+        },
+        {
+          "original": "Not all students agree with the new policy.",
+          "closest": "Some students do not agree with the new policy.",
+          "explanation": "'Not all' kısmi olumsuzluk = 'some...not'. Bazıları katılmıyor anlamı."
+        },
+        {
+          "original": "The majority of researchers support the hypothesis.",
+          "closest": "Most researchers support the hypothesis.",
+          "explanation": "'The majority of' = 'most' (çoğunluk). Yarıdan fazla anlamı."
+        },
+        {
+          "original": "Few countries have implemented such measures.",
+          "closest": "Only a small number of countries have implemented such measures.",
+          "explanation": "'Few' = 'a small number of', 'not many'. Negatif ton, az sayıda anlamı."
+        },
+        {
+          "original": "Almost no students failed the exam.",
+          "closest": "Hardly any students failed the exam.",
+          "explanation": "'Almost no' = 'hardly any'. Çok az, neredeyse hiç anlamı."
+        },
+        {
+          "original": "A significant proportion of the data was invalid.",
+          "closest": "Much of the data was invalid.",
+          "explanation": "'A significant proportion' = 'much', 'a large amount'. Sayılamayan isimlerle."
+        },
+        {
+          "original": "Every participant received identical instructions.",
+          "closest": "All participants received identical instructions.",
+          "explanation": "'Every + singular' = 'all + plural'. Bütünlük ifadesi, anlam aynı."
+        },
+        {
+          "original": "Numerous studies have shown similar results.",
+          "closest": "Many studies have shown similar results.",
+          "explanation": "'Numerous' = 'many', 'a large number of'. Çok sayıda anlamı."
+        },
+        {
+          "original": "None of the hypotheses were confirmed.",
+          "closest": "All of the hypotheses were rejected.",
+          "explanation": "'None were confirmed' = 'all were rejected' (not confirmed). Tam olumsuz eşdeğeri."
+        },
+        {
+          "original": "The vast majority of citizens support the reform.",
+          "closest": "Nearly all citizens support the reform.",
+          "explanation": "'The vast majority' = 'nearly all', 'almost all'. Neredeyse hepsi anlamı."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Not every student submitted the assignment on time.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Every student failed to submit the assignment on time.",
+            "Some students did not submit the assignment on time.",
+            "Most students did not submit the assignment on time.",
+            "No student submitted the assignment on time.",
+            "Few students submitted the assignment on time."
+          ],
+          "correct": 1,
+          "explanation": "'Not every' = kısmi olumsuzluk = 'some...not'. En az bir öğrenci zamanında vermedi anlamı taşır. B doğru mantıksal eşdeğerdir. A ve D tam olumsuzluk (yanlış), C çoğunluk (fazla güçlü), E 'few' olumlu fiille kullanılmış (yanlış mantık)."
+        },
+        {
+          "question": "All of the experiments yielded consistent results.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Most of the experiments yielded consistent results.",
+            "None of the experiments failed to yield consistent results.",
+            "The majority of experiments yielded consistent results.",
+            "Some experiments yielded consistent results.",
+            "Every experiment yielded consistent results."
+          ],
+          "correct": 1,
+          "explanation": "'All X did Y' mantıksal eşdeğeri 'No X failed to do Y' (hiçbiri başarısız olmadı = hepsi başarılı). B doğru olumsuz eşdeğerdir. E de doğru görünüyor ('every' = 'all') ama B daha tam mantıksal dönüşümdür."
+        },
+        {
+          "question": "Hardly any participants reported adverse effects.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Almost no participants reported adverse effects.",
+            "Few participants reported adverse effects.",
+            "Several participants reported adverse effects.",
+            "Most participants did not report adverse effects.",
+            "Both A and B are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Hardly any' = 'almost no' (neredeyse hiç) = 'very few' (çok az). A ve B her ikisi de aynı anlamı ifade eder: çok az katılımcı bildirdi. D 'most...not' daha geniş kapsam (yanlış değil ama 'hardly any' daha kuvvetli)."
+        },
+        {
+          "question": "The vast majority of respondents favored the proposal.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Most respondents favored the proposal.",
+            "All respondents favored the proposal.",
+            "Nearly all respondents favored the proposal.",
+            "Some respondents favored the proposal.",
+            "More than half of the respondents favored the proposal."
+          ],
+          "correct": 2,
+          "explanation": "'The vast majority' = 'nearly all', 'almost all' (neredeyse hepsi). C en yakın eşdeğerdir. A 'most' daha zayıf (sadece çoğunluk, %51+), E de benzer. B 'all' %100 anlamı (fazla güçlü). C 'nearly all' %85-95 gibi çok yüksek oran ifade eder."
+        },
+        {
+          "question": "A small minority of scientists dispute the theory.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Few scientists dispute the theory.",
+            "Some scientists dispute the theory.",
+            "Most scientists dispute the theory.",
+            "Hardly any scientists dispute the theory.",
+            "Several scientists dispute the theory."
+          ],
+          "correct": 0,
+          "explanation": "'A small minority' = 'few', 'a small number of'. A en yakın eşdeğerdir. B 'some' belirsiz (az veya çok olabilir), D 'hardly any' daha da az (neredeyse hiç), E 'several' genellikle 'some' ile eşdeğer ama 'small minority' daha spesifik."
+        },
+        {
+          "question": "None of the proposed solutions addressed the core problem.\nWhich sentence is closest in meaning?",
+          "options": [
+            "All of the proposed solutions failed to address the core problem.",
+            "Not all of the proposed solutions addressed the core problem.",
+            "Few of the proposed solutions addressed the core problem.",
+            "Some of the proposed solutions did not address the core problem.",
+            "Most of the proposed solutions did not address the core problem."
+          ],
+          "correct": 0,
+          "explanation": "'None of X did Y' = 'All of X failed to do Y' (hiçbiri yapmadı = hepsi yapamadı). A tam mantıksal eşdeğerdir. B kısmi olumsuzluk (bazıları yaptı), C, D, E de kısmi (hepsi değil)."
+        },
+        {
+          "question": "Many researchers have questioned the methodology.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The methodology has been questioned by numerous researchers.",
+            "Most researchers have questioned the methodology.",
+            "A large number of researchers have questioned the methodology.",
+            "Some researchers have questioned the methodology.",
+            "Both A and C are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Many' = 'numerous', 'a large number of' (çok sayıda). A edilgen yapıyla 'numerous', C etken yapıyla 'a large number' kullanır. Her ikisi de 'many' ile eşdeğerdir. B 'most' daha güçlü (çoğunluk), D 'some' daha zayıf."
+        },
+        {
+          "question": "A substantial number of studies support this conclusion.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Some studies support this conclusion.",
+            "Most studies support this conclusion.",
+            "Many studies support this conclusion.",
+            "All studies support this conclusion.",
+            "Few studies support this conclusion."
+          ],
+          "correct": 2,
+          "explanation": "'A substantial number' = 'many', 'a large number' (önemli sayıda, çok sayıda). C en yakın eşdeğerdir. A 'some' belirsiz ve zayıf, B 'most' çoğunluk (daha güçlü), D 'all' hepsi (çok güçlü), E 'few' az (zıt anlam)."
+        },
+        {
+          "question": "It is rare for students to achieve perfect scores.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Few students achieve perfect scores.",
+            "No students achieve perfect scores.",
+            "Some students rarely achieve perfect scores.",
+            "Most students do not achieve perfect scores.",
+            "Hardly any students achieve perfect scores."
+          ],
+          "correct": 0,
+          "explanation": "'It is rare' = 'few', 'not many', 'seldom happens'. A en yakın eşdeğerdir: az sayıda öğrenci alır. E 'hardly any' daha da güçlü (neredeyse hiç). D 'most...not' doğru ama daha zayıf çıkarım. B 'no' hiç anlamı (çok güçlü)."
+        },
+        {
+          "question": "Each participant was given the same instructions.\nWhich sentence is closest in meaning?",
+          "options": [
+            "All participants were given the same instructions.",
+            "Every participant received identical instructions.",
+            "Participants were all given the same instructions.",
+            "The same instructions were given to all participants.",
+            "All of the above are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Each + singular' = 'every + singular' = 'all + plural'. Hepsi aynı bütünlük anlamını ifade eder. A, B, C, D hepsi farklı yapılarla aynı anlamı verir: her katılımcı aynı talimatı aldı. Tümü doğru eşdeğerdir."
+        }
+      ]
+    },
+    {
+      "id": "1.3.5",
+      "title": "Çift Olumsuz ve Kapsam Tuzakları",
+      "content": "Çift olumsuzluk (double negation) ve olumsuzluk kapsamı (scope of negation) YDS ve YÖKDİL'in en zor konularından biridir. Türkçe konuşucular için özellikle zorludur çünkü Türkçe'de çift olumsuz doğaldır ancak İngilizce'de mantıksal kural farklıdır.\n\n**Çift Olumsuz Prensibi:**\n- İki olumsuz birbirini götürür (olumlu olur)\n- Not + negative word = positive meaning\n- Örnek: \"It is not impossible\" = \"It is possible\"\n\n**Yaygın Çift Olumsuz Yapılar:**\n- not...impossible → possible\n- not...unlikely → likely, probable\n- cannot deny → must acknowledge\n- not insignificant → significant, considerable\n- not uncommon → common, usual\n\n**Olumsuzluk Kapsamı (Scope):**\n1. **Not all (kısmi olumsuz) ≠ All...not (tam olumsuz)**\n   - Not all students passed = Some students failed\n   - All students did not pass = No student passed\n\n2. **Not...because (olumsuz sebep) ≠ Because...not (olumsuz sonuç)**\n   - He didn't leave because he was tired = He left, but not for that reason\n   - He left because he wasn't tired = Tiredness absence was the reason\n\n3. **Modal + not kapsam farkı:**\n   - You must not do it = forbidden (yasak)\n   - You don't have to do it = not obligatory (zorunlu değil)\n\n**Implicit Negatives (örtük olumsuzlar):**\n- Hardly, barely, scarcely = almost not\n- Rarely, seldom = not often\n- Lack, absence, without = not having\n\n**Litotes (olumlu ifade için çift olumsuz):**\n- Not bad = fairly good\n- Not unimportant = quite important\n- Cannot disagree = must agree",
+      "examples": [
+        {
+          "original": "It is not uncommon for researchers to face setbacks.",
+          "closest": "Researchers commonly face setbacks.",
+          "explanation": "Çift olumsuz: 'not uncommon' = 'common'. Litotes yapısı, olumlu anlam."
+        },
+        {
+          "original": "The results are not insignificant.",
+          "closest": "The results are quite significant.",
+          "explanation": "'Not insignificant' = 'significant'. Çift olumsuz, aslında önemli olduğunu vurgular."
+        },
+        {
+          "original": "One cannot deny the importance of this discovery.",
+          "closest": "One must acknowledge the importance of this discovery.",
+          "explanation": "'Cannot deny' = 'must acknowledge/accept'. Çift olumsuzun zorunluluk ifadesi."
+        },
+        {
+          "original": "Not all participants agreed with the conclusion.",
+          "closest": "Some participants disagreed with the conclusion.",
+          "explanation": "Kısmi olumsuzluk: 'not all' = 'some...not'. Bazıları katılmadı anlamı."
+        },
+        {
+          "original": "All participants did not complete the survey.",
+          "closest": "None of the participants completed the survey.",
+          "explanation": "Tam olumsuzluk (olumsuz kapsam geniş): 'all...not' = 'no...'. Hiçbiri tamamlamadı."
+        },
+        {
+          "original": "Hardly anyone objected to the proposal.",
+          "closest": "Almost no one objected to the proposal.",
+          "explanation": "'Hardly' = 'almost not', implicit negative. Neredeyse hiç kimse itiraz etmedi."
+        },
+        {
+          "original": "It is not unlikely that the theory will be revised.",
+          "closest": "It is probable that the theory will be revised.",
+          "explanation": "Çift olumsuz: 'not unlikely' = 'likely/probable'. Olası anlamı."
+        },
+        {
+          "original": "The absence of evidence does not prove the theory wrong.",
+          "closest": "The lack of evidence does not disprove the theory.",
+          "explanation": "'Absence of' = 'lack of' (implicit negative). 'Does not prove wrong' = 'does not disprove'."
+        },
+        {
+          "original": "She didn't fail to notice the error.",
+          "closest": "She noticed the error.",
+          "explanation": "Çift olumsuz: 'didn't fail to' = 'did'. Fark etti anlamı."
+        },
+        {
+          "original": "Rarely do researchers achieve such results.",
+          "closest": "Researchers seldom achieve such results.",
+          "explanation": "'Rarely' = 'seldom' (implicit negative). Nadiren, ender olarak anlamı. Devrik yapı (emphasis)."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "It is not impossible to solve this equation.\nWhich sentence is closest in meaning?",
+          "options": [
+            "It is impossible to solve this equation.",
+            "It is difficult to solve this equation.",
+            "It is possible to solve this equation.",
+            "It is easy to solve this equation.",
+            "Solving this equation is unlikely."
+          ],
+          "correct": 2,
+          "explanation": "Çift olumsuz: 'not impossible' = 'possible'. İki olumsuz birbirini götürür ve olumlu anlam verir. C doğru mantıksal eşdeğerdir. B 'difficult' yeni bilgi ekler (sadece mümkün, zorluk bilinmiyor), D 'easy' çok güçlü."
+        },
+        {
+          "question": "Not all experiments yielded positive results.\nWhich sentence is closest in meaning?",
+          "options": [
+            "All experiments yielded negative results.",
+            "Some experiments did not yield positive results.",
+            "Most experiments yielded negative results.",
+            "No experiments yielded positive results.",
+            "Few experiments yielded positive results."
+          ],
+          "correct": 1,
+          "explanation": "Kısmi olumsuzluk: 'not all' = 'some...not'. En az bir deney olumlu sonuç vermedi anlamı. B doğru mantıksal eşdeğerdir. A ve D tam olumsuzluk (yanlış), C ve E daha spesifik iddialar (orijinalde yok)."
+        },
+        {
+          "question": "One cannot overlook the significance of these findings.\nWhich sentence is closest in meaning?",
+          "options": [
+            "One must recognize the significance of these findings.",
+            "One might overlook the significance of these findings.",
+            "It is easy to overlook the significance of these findings.",
+            "One should not ignore the significance of these findings.",
+            "Both A and D are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Cannot overlook' = zorunluluk ('must recognize') veya güçlü tavsiye ('should not ignore'). Her iki ifade de eşdeğer: bu bulguların önemini göz ardı edemezsiniz = tanımalısınız/görmezlikten gelmemelisiniz. A ve D her ikisi de doğru."
+        },
+        {
+          "question": "Hardly any participants objected to the changes.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Almost no participants objected to the changes.",
+            "Many participants objected to the changes.",
+            "All participants objected to the changes.",
+            "Most participants did not object to the changes.",
+            "Both A and D are correct."
+          ],
+          "correct": 4,
+          "explanation": "'Hardly any' = 'almost no' (neredeyse hiç, çok az). A direkt eşdeğerdir. D mantıksal sonuç: eğer neredeyse hiç kimse itiraz etmediyse, çoğu itiraz etmedi. Her iki ifade de doğru, A daha direkt, D mantıksal çıkarım."
+        },
+        {
+          "question": "The theory is not without its critics.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The theory has no critics.",
+            "The theory has some critics.",
+            "The theory is widely criticized.",
+            "Critics support the theory.",
+            "The theory lacks critics."
+          ],
+          "correct": 1,
+          "explanation": "Çift olumsuz + 'without': 'not without' = 'has/with'. Teorinin eleştirmenleri var anlamı. B doğru eşdeğerdir. A ve E zıt anlam, C 'widely criticized' daha güçlü (orijinal sadece 'has critics' der), D tam ters."
+        },
+        {
+          "question": "All students did not submit their assignments.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Not all students submitted their assignments.",
+            "Some students did not submit their assignments.",
+            "None of the students submitted their assignments.",
+            "Most students did not submit their assignments.",
+            "Both A and B are correct."
+          ],
+          "correct": 2,
+          "explanation": "Tam olumsuzluk (dikkatli okuyun!): 'All...not' yapısında olumsuzluk tüm cümleyi kapsar = 'no...', 'none...'. Hiçbir öğrenci vermedi. C doğru. (Not: Günlük dilde 'all...not' genellikle 'not all' anlamında kullanılır ama YDS'de literal okuma yapılır.)"
+        },
+        {
+          "question": "It is not unlikely that the conference will be postponed.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The conference will definitely be postponed.",
+            "It is unlikely that the conference will be postponed.",
+            "The conference probably will be postponed.",
+            "The conference will not be postponed.",
+            "It is impossible for the conference to be postponed."
+          ],
+          "correct": 2,
+          "explanation": "Çift olumsuz: 'not unlikely' = 'likely/probable'. Konferansın ertelenmesi olası/muhtemel. C 'probably' ile doğru karşılık. A 'definitely' çok güçlü (kesin), B zıt anlam, D ve E de zıt."
+        },
+        {
+          "question": "She didn't leave because she was angry.\nWhich sentence is closest in meaning? (Assume standard interpretation)",
+          "options": [
+            "She left, but anger was not the reason.",
+            "She didn't leave, and she was angry.",
+            "She left because she wasn't angry.",
+            "She was angry, so she left.",
+            "Her anger prevented her from leaving."
+          ],
+          "correct": 0,
+          "explanation": "Olumsuzluk kapsamı belirsiz ama standart yorum: olumsuzluk 'because' clause'u etkiler = 'not because angry' (öfke sebep değil). A doğru: ayrıldı ama öfkeden dolayı değil. (Alternatif yorum: didn't leave/angry idi, ama A daha yaygın.)"
+        },
+        {
+          "question": "The results are by no means conclusive.\nWhich sentence is closest in meaning?",
+          "options": [
+            "The results are conclusive in every way.",
+            "The results are definitely not conclusive.",
+            "The results are somewhat conclusive.",
+            "The results might be conclusive.",
+            "The results are almost conclusive."
+          ],
+          "correct": 1,
+          "explanation": "'By no means' = 'definitely not', 'not at all' (hiçbir şekilde değil). Güçlü olumsuz ifade. B doğru eşdeğerdir: sonuçlar kesinlikle net değil. A tam zıt, C, D, E hepsi olumlu/olasılık içerir (yanlış)."
+        },
+        {
+          "question": "Rarely have researchers encountered such challenges.\nWhich sentence is closest in meaning?",
+          "options": [
+            "Researchers have often encountered such challenges.",
+            "Researchers have never encountered such challenges.",
+            "Researchers have seldom encountered such challenges.",
+            "Researchers frequently encounter such challenges.",
+            "Such challenges are common for researchers."
+          ],
+          "correct": 2,
+          "explanation": "'Rarely' = 'seldom' (nadiren, ender olarak), implicit negative. C direkt eşdeğerdir. Devrik yapı (rarely have) vurgu yapar ama anlam değişmez. B 'never' daha güçlü (hiç), A ve D zıt anlam, E de zıt."
+        }
+      ]
+    }
+  ]
+}

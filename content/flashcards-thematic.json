@@ -1,0 +1,1199 @@
+{
+  "flashcardSets": [
+    {
+      "id": "business-economics",
+      "title": "Business & Economics",
+      "description": "Essential academic vocabulary for business, finance, and economic contexts commonly tested in YDS/YÖKDİL",
+      "category": "thematic",
+      "difficulty": "intermediate-advanced",
+      "totalCards": 30,
+      "cards": [
+        {
+          "id": "be-001",
+          "word": "fluctuate",
+          "pronunciation": "/ˈflʌktʃueɪt/",
+          "partOfSpeech": "verb",
+          "definition": "to change frequently in size, amount, quality, etc., especially from one extreme to another",
+          "turkishMeaning": "dalgalanmak, iniş çıkış göstermek",
+          "exampleSentence": "Currency exchange rates tend to fluctuate based on global economic conditions.",
+          "collocations": ["fluctuate widely", "fluctuate between", "prices fluctuate"],
+          "synonyms": ["vary", "oscillate", "waver"],
+          "relatedForms": {
+            "noun": "fluctuation",
+            "adjective": "fluctuating"
+          }
+        },
+        {
+          "id": "be-002",
+          "word": "deficit",
+          "pronunciation": "/ˈdefɪsɪt/",
+          "partOfSpeech": "noun",
+          "definition": "the amount by which money spent or owed is greater than money earned in a particular period of time",
+          "turkishMeaning": "açık, eksiklik",
+          "exampleSentence": "The government is implementing measures to reduce the budget deficit.",
+          "collocations": ["budget deficit", "trade deficit", "reduce the deficit"],
+          "synonyms": ["shortfall", "deficiency", "shortage"],
+          "antonyms": ["surplus", "excess"]
+        },
+        {
+          "id": "be-003",
+          "word": "merger",
+          "pronunciation": "/ˈmɜːrdʒər/",
+          "partOfSpeech": "noun",
+          "definition": "an occasion when two or more companies join together to make one larger company",
+          "turkishMeaning": "birleşme, füzyon",
+          "exampleSentence": "The merger between the two pharmaceutical companies created a global industry leader.",
+          "collocations": ["corporate merger", "merger agreement", "merger and acquisition"],
+          "relatedForms": {
+            "verb": "merge"
+          }
+        },
+        {
+          "id": "be-004",
+          "word": "allocation",
+          "pronunciation": "/ˌæləˈkeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the process of distributing resources or duties for a particular purpose",
+          "turkishMeaning": "tahsis, dağıtım, ayırma",
+          "exampleSentence": "Effective resource allocation is crucial for project success.",
+          "collocations": ["resource allocation", "budget allocation", "allocate funds"],
+          "relatedForms": {
+            "verb": "allocate"
+          }
+        },
+        {
+          "id": "be-005",
+          "word": "leverage",
+          "pronunciation": "/ˈlevərɪdʒ/",
+          "partOfSpeech": "noun/verb",
+          "definition": "the influence or power used to achieve a desired result; to use something to maximum advantage",
+          "turkishMeaning": "kaldıraç etkisi, avantaj sağlamak",
+          "exampleSentence": "Companies can leverage technology to improve their competitive position.",
+          "collocations": ["financial leverage", "leverage resources", "gain leverage"],
+          "synonyms": ["influence", "advantage", "utilize"]
+        },
+        {
+          "id": "be-006",
+          "word": "venture",
+          "pronunciation": "/ˈventʃər/",
+          "partOfSpeech": "noun",
+          "definition": "a business project or activity, especially one that involves taking risks",
+          "turkishMeaning": "girişim, teşebbüs",
+          "exampleSentence": "The company's venture into renewable energy proved highly profitable.",
+          "collocations": ["business venture", "joint venture", "venture capital"],
+          "synonyms": ["enterprise", "undertaking", "endeavor"]
+        },
+        {
+          "id": "be-007",
+          "word": "incentive",
+          "pronunciation": "/ɪnˈsentɪv/",
+          "partOfSpeech": "noun",
+          "definition": "something that encourages a person to do something or to work harder",
+          "turkishMeaning": "teşvik, özendirme",
+          "exampleSentence": "The company offers financial incentives to employees who meet their targets.",
+          "collocations": ["financial incentive", "provide incentives", "tax incentive"],
+          "synonyms": ["motivation", "inducement", "stimulus"],
+          "relatedForms": {
+            "verb": "incentivize"
+          }
+        },
+        {
+          "id": "be-008",
+          "word": "subsidiarity",
+          "pronunciation": "/sʌbˌsɪdiˈærəti/",
+          "partOfSpeech": "noun",
+          "definition": "the principle that a central authority should have a subsidiary function, performing only tasks that cannot be performed at a local level",
+          "turkishMeaning": "destek, yardımcılık ilkesi",
+          "exampleSentence": "The principle of subsidiarity ensures that decisions are made at the most appropriate level.",
+          "collocations": ["principle of subsidiarity", "subsidiarity principle"],
+          "relatedForms": {
+            "adjective": "subsidiary",
+            "noun": "subsidiary (company)"
+          }
+        },
+        {
+          "id": "be-009",
+          "word": "turnover",
+          "pronunciation": "/ˈtɜːrnəʊvər/",
+          "partOfSpeech": "noun",
+          "definition": "the amount of business done in a particular period; the rate at which employees leave a company",
+          "turkishMeaning": "ciro, iş hacmi; personel devri",
+          "exampleSentence": "The company reported a turnover of $50 million in the last fiscal year.",
+          "collocations": ["annual turnover", "staff turnover", "high turnover"],
+          "synonyms": ["revenue", "sales volume"]
+        },
+        {
+          "id": "be-010",
+          "word": "liquidity",
+          "pronunciation": "/lɪˈkwɪdəti/",
+          "partOfSpeech": "noun",
+          "definition": "the state of owning things of value that can easily be exchanged for cash",
+          "turkishMeaning": "likidite, nakit varlık",
+          "exampleSentence": "Banks must maintain sufficient liquidity to meet customer withdrawals.",
+          "collocations": ["liquidity crisis", "maintain liquidity", "market liquidity"],
+          "relatedForms": {
+            "adjective": "liquid"
+          }
+        },
+        {
+          "id": "be-011",
+          "word": "diversify",
+          "pronunciation": "/daɪˈvɜːrsɪfaɪ/",
+          "partOfSpeech": "verb",
+          "definition": "to increase the variety of products or investments to reduce risk",
+          "turkishMeaning": "çeşitlendirmek, farklılaştırmak",
+          "exampleSentence": "Investors are advised to diversify their portfolios to minimize risk.",
+          "collocations": ["diversify investments", "diversify the portfolio", "diversify production"],
+          "relatedForms": {
+            "noun": "diversification",
+            "adjective": "diversified"
+          }
+        },
+        {
+          "id": "be-012",
+          "word": "downturn",
+          "pronunciation": "/ˈdaʊntɜːrn/",
+          "partOfSpeech": "noun",
+          "definition": "a time when business activity or performance is reduced or less successful than before",
+          "turkishMeaning": "gerileme, düşüş",
+          "exampleSentence": "The economic downturn resulted in widespread job losses.",
+          "collocations": ["economic downturn", "market downturn", "during a downturn"],
+          "synonyms": ["decline", "slump", "recession"],
+          "antonyms": ["upturn", "recovery", "boom"]
+        },
+        {
+          "id": "be-013",
+          "word": "stakeholder",
+          "pronunciation": "/ˈsteɪkhoʊldər/",
+          "partOfSpeech": "noun",
+          "definition": "a person or group with an interest or concern in something, especially a business",
+          "turkishMeaning": "paydaş, hissedar",
+          "exampleSentence": "The company must balance the interests of various stakeholders.",
+          "collocations": ["key stakeholder", "stakeholder engagement", "stakeholder interests"],
+          "synonyms": ["shareholder", "interested party"]
+        },
+        {
+          "id": "be-014",
+          "word": "monopoly",
+          "pronunciation": "/məˈnɑːpəli/",
+          "partOfSpeech": "noun",
+          "definition": "complete control of the supply of particular goods or services, or a company that has such control",
+          "turkishMeaning": "tekel, monopol",
+          "exampleSentence": "The government broke up the telecommunications monopoly to encourage competition.",
+          "collocations": ["hold a monopoly", "monopoly power", "state monopoly"],
+          "relatedForms": {
+            "verb": "monopolize",
+            "adjective": "monopolistic"
+          }
+        },
+        {
+          "id": "be-015",
+          "word": "tariff",
+          "pronunciation": "/ˈtærɪf/",
+          "partOfSpeech": "noun",
+          "definition": "a tax or duty to be paid on a particular class of imports or exports",
+          "turkishMeaning": "gümrük vergisi, tarife",
+          "exampleSentence": "The government imposed tariffs on imported steel to protect domestic producers.",
+          "collocations": ["impose tariffs", "trade tariff", "tariff barriers"],
+          "synonyms": ["duty", "tax", "levy"]
+        },
+        {
+          "id": "be-016",
+          "word": "procurement",
+          "pronunciation": "/prəˈkjʊərmənt/",
+          "partOfSpeech": "noun",
+          "definition": "the process of obtaining goods or services, especially for business purposes",
+          "turkishMeaning": "tedarik, satın alma",
+          "exampleSentence": "Effective procurement strategies can significantly reduce operational costs.",
+          "collocations": ["procurement process", "public procurement", "procurement policies"],
+          "relatedForms": {
+            "verb": "procure"
+          }
+        },
+        {
+          "id": "be-017",
+          "word": "consolidate",
+          "pronunciation": "/kənˈsɑːlɪdeɪt/",
+          "partOfSpeech": "verb",
+          "definition": "to combine several things into a single more effective or coherent whole",
+          "turkishMeaning": "birleştirmek, pekiştirmek",
+          "exampleSentence": "The company plans to consolidate its operations to improve efficiency.",
+          "collocations": ["consolidate power", "consolidate debt", "consolidate operations"],
+          "relatedForms": {
+            "noun": "consolidation"
+          }
+        },
+        {
+          "id": "be-018",
+          "word": "depreciation",
+          "pronunciation": "/dɪˌpriːʃiˈeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "a reduction in the value of an asset over time; a decrease in the value of a currency",
+          "turkishMeaning": "değer kaybı, amortisman",
+          "exampleSentence": "The depreciation of equipment must be accounted for in financial statements.",
+          "collocations": ["asset depreciation", "currency depreciation", "depreciation rate"],
+          "relatedForms": {
+            "verb": "depreciate"
+          },
+          "antonyms": ["appreciation"]
+        },
+        {
+          "id": "be-019",
+          "word": "remuneration",
+          "pronunciation": "/rɪˌmjuːnəˈreɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "money paid for work or a service; payment or compensation received for services or employment",
+          "turkishMeaning": "ücret, maaş, tazminat",
+          "exampleSentence": "The remuneration package includes salary, bonuses, and benefits.",
+          "collocations": ["executive remuneration", "fair remuneration", "remuneration package"],
+          "synonyms": ["compensation", "payment", "salary"],
+          "relatedForms": {
+            "verb": "remunerate"
+          }
+        },
+        {
+          "id": "be-020",
+          "word": "audit",
+          "pronunciation": "/ˈɔːdɪt/",
+          "partOfSpeech": "noun/verb",
+          "definition": "an official examination of accounts or records; to conduct such an examination",
+          "turkishMeaning": "denetim, teftiş",
+          "exampleSentence": "Independent auditors examine the company's financial statements annually.",
+          "collocations": ["financial audit", "audit report", "conduct an audit"],
+          "relatedForms": {
+            "noun": "auditor"
+          }
+        },
+        {
+          "id": "be-021",
+          "word": "subsidize",
+          "pronunciation": "/ˈsʌbsɪdaɪz/",
+          "partOfSpeech": "verb",
+          "definition": "to support an organization or activity financially",
+          "turkishMeaning": "sübvanse etmek, mali destek sağlamak",
+          "exampleSentence": "The government subsidizes agricultural production to ensure food security.",
+          "collocations": ["subsidize farmers", "heavily subsidized", "subsidize costs"],
+          "relatedForms": {
+            "noun": "subsidy"
+          }
+        },
+        {
+          "id": "be-022",
+          "word": "arbitration",
+          "pronunciation": "/ˌɑːrbɪˈtreɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the use of an arbitrator to settle a dispute",
+          "turkishMeaning": "tahkim, hakemlik",
+          "exampleSentence": "The parties agreed to settle their commercial dispute through arbitration.",
+          "collocations": ["international arbitration", "arbitration agreement", "binding arbitration"],
+          "relatedForms": {
+            "verb": "arbitrate",
+            "noun": "arbitrator"
+          }
+        },
+        {
+          "id": "be-023",
+          "word": "overhead",
+          "pronunciation": "/ˈoʊvərhed/",
+          "partOfSpeech": "noun",
+          "definition": "regular and necessary costs, such as rent and heating, that are involved in running a business",
+          "turkishMeaning": "genel giderler, sabit masraflar",
+          "exampleSentence": "Companies are constantly looking for ways to reduce overhead costs.",
+          "collocations": ["overhead costs", "reduce overhead", "fixed overhead"],
+          "synonyms": ["operating costs", "expenses"]
+        },
+        {
+          "id": "be-024",
+          "word": "collateral",
+          "pronunciation": "/kəˈlætərəl/",
+          "partOfSpeech": "noun",
+          "definition": "property or other assets pledged by a borrower to secure a loan",
+          "turkishMeaning": "teminat, rehin",
+          "exampleSentence": "The bank requires collateral before approving the business loan.",
+          "collocations": ["provide collateral", "collateral security", "use as collateral"],
+          "synonyms": ["security", "guarantee", "pledge"]
+        },
+        {
+          "id": "be-025",
+          "word": "benchmark",
+          "pronunciation": "/ˈbentʃmɑːrk/",
+          "partOfSpeech": "noun/verb",
+          "definition": "a standard or point of reference against which things may be compared",
+          "turkishMeaning": "kıyaslama ölçütü, referans noktası",
+          "exampleSentence": "The company's performance is benchmarked against industry standards.",
+          "collocations": ["industry benchmark", "benchmark performance", "set a benchmark"],
+          "synonyms": ["standard", "reference point", "yardstick"]
+        },
+        {
+          "id": "be-026",
+          "word": "portfolio",
+          "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+          "partOfSpeech": "noun",
+          "definition": "a range of investments held by a person or organization",
+          "turkishMeaning": "portföy, yatırım çeşitleri",
+          "exampleSentence": "A well-balanced investment portfolio reduces overall risk.",
+          "collocations": ["investment portfolio", "diversified portfolio", "portfolio management"],
+          "synonyms": ["collection", "range"]
+        },
+        {
+          "id": "be-027",
+          "word": "liability",
+          "pronunciation": "/ˌlaɪəˈbɪləti/",
+          "partOfSpeech": "noun",
+          "definition": "something for which a person or company is responsible, especially an amount of money owed; legal responsibility",
+          "turkishMeaning": "sorumluluk, borç, yükümlülük",
+          "exampleSentence": "The company's liabilities exceeded its assets, leading to bankruptcy.",
+          "collocations": ["legal liability", "limited liability", "current liabilities"],
+          "antonyms": ["asset"],
+          "relatedForms": {
+            "adjective": "liable"
+          }
+        },
+        {
+          "id": "be-028",
+          "word": "equity",
+          "pronunciation": "/ˈekwəti/",
+          "partOfSpeech": "noun",
+          "definition": "the value of shares issued by a company; ownership interest in a company",
+          "turkishMeaning": "özsermaye, hisse değeri",
+          "exampleSentence": "Shareholders' equity represents the owners' stake in the company.",
+          "collocations": ["equity investment", "equity capital", "shareholder equity"],
+          "synonyms": ["ownership", "shares"]
+        },
+        {
+          "id": "be-029",
+          "word": "outsource",
+          "pronunciation": "/ˈaʊtsɔːrs/",
+          "partOfSpeech": "verb",
+          "definition": "to obtain goods or services from an outside or foreign supplier",
+          "turkishMeaning": "dış kaynak kullanmak, dışarıdan tedarik etmek",
+          "exampleSentence": "Many companies outsource their customer service operations to reduce costs.",
+          "collocations": ["outsource production", "outsource services", "outsource to"],
+          "relatedForms": {
+            "noun": "outsourcing"
+          }
+        },
+        {
+          "id": "be-030",
+          "word": "prospectus",
+          "pronunciation": "/prəˈspektəs/",
+          "partOfSpeech": "noun",
+          "definition": "a printed document that advertises or describes a business or educational institution",
+          "turkishMeaning": "izahname, tanıtım belgesi",
+          "exampleSentence": "Investors should carefully read the prospectus before purchasing shares.",
+          "collocations": ["issue a prospectus", "investment prospectus", "preliminary prospectus"],
+          "synonyms": ["brochure", "document"]
+        }
+      ]
+    },
+    {
+      "id": "health-medicine",
+      "title": "Health & Medicine",
+      "description": "Critical academic vocabulary for health sciences, medicine, and public health commonly appearing in YDS/YÖKDİL",
+      "category": "thematic",
+      "difficulty": "intermediate-advanced",
+      "totalCards": 30,
+      "cards": [
+        {
+          "id": "hm-001",
+          "word": "pathogen",
+          "pronunciation": "/ˈpæθədʒən/",
+          "partOfSpeech": "noun",
+          "definition": "a bacterium, virus, or other microorganism that can cause disease",
+          "turkishMeaning": "patojen, hastalık yapıcı mikroorganizma",
+          "exampleSentence": "The immune system defends the body against various pathogens.",
+          "collocations": ["infectious pathogen", "pathogen transmission", "pathogen detection"],
+          "relatedForms": {
+            "adjective": "pathogenic"
+          }
+        },
+        {
+          "id": "hm-002",
+          "word": "prognosis",
+          "pronunciation": "/prɑːɡˈnoʊsɪs/",
+          "partOfSpeech": "noun",
+          "definition": "the likely course or outcome of a disease; a forecast of the likely outcome",
+          "turkishMeaning": "prognoz, hastalığın seyri hakkında öngörü",
+          "exampleSentence": "The patient's prognosis improved significantly after early intervention.",
+          "collocations": ["favorable prognosis", "poor prognosis", "long-term prognosis"],
+          "synonyms": ["forecast", "prediction", "outlook"],
+          "relatedForms": {
+            "verb": "prognosticate"
+          }
+        },
+        {
+          "id": "hm-003",
+          "word": "diagnosis",
+          "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+          "partOfSpeech": "noun",
+          "definition": "the identification of the nature of an illness or other problem by examination of the symptoms",
+          "turkishMeaning": "teşhis, tanı",
+          "exampleSentence": "Early diagnosis of cancer significantly improves survival rates.",
+          "collocations": ["accurate diagnosis", "make a diagnosis", "differential diagnosis"],
+          "relatedForms": {
+            "verb": "diagnose",
+            "adjective": "diagnostic"
+          }
+        },
+        {
+          "id": "hm-004",
+          "word": "chronic",
+          "pronunciation": "/ˈkrɑːnɪk/",
+          "partOfSpeech": "adjective",
+          "definition": "persisting for a long time or constantly recurring (of an illness or problem)",
+          "turkishMeaning": "kronik, süreğen",
+          "exampleSentence": "Chronic diseases such as diabetes require long-term management.",
+          "collocations": ["chronic illness", "chronic pain", "chronic condition"],
+          "antonyms": ["acute"],
+          "relatedForms": {
+            "adverb": "chronically"
+          }
+        },
+        {
+          "id": "hm-005",
+          "word": "endemic",
+          "pronunciation": "/enˈdemɪk/",
+          "partOfSpeech": "adjective",
+          "definition": "regularly found among particular people or in a certain area (of a disease)",
+          "turkishMeaning": "endemik, belirli bölgeye özgü",
+          "exampleSentence": "Malaria is endemic in many tropical regions.",
+          "collocations": ["endemic disease", "become endemic", "endemic areas"],
+          "synonyms": ["indigenous", "native"]
+        },
+        {
+          "id": "hm-006",
+          "word": "pandemic",
+          "pronunciation": "/pænˈdemɪk/",
+          "partOfSpeech": "noun/adjective",
+          "definition": "a disease prevalent over a whole country or the world",
+          "turkishMeaning": "pandemi, küresel salgın",
+          "exampleSentence": "The COVID-19 pandemic affected healthcare systems worldwide.",
+          "collocations": ["global pandemic", "pandemic response", "pandemic preparedness"],
+          "relatedWords": ["epidemic", "outbreak"]
+        },
+        {
+          "id": "hm-007",
+          "word": "immunization",
+          "pronunciation": "/ˌɪmjunəˈzeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the process of making a person or animal immune to infection, typically by vaccination",
+          "turkishMeaning": "bağışıklama, aşılama",
+          "exampleSentence": "Childhood immunization programs have dramatically reduced infectious diseases.",
+          "collocations": ["immunization program", "mass immunization", "routine immunization"],
+          "relatedForms": {
+            "verb": "immunize",
+            "adjective": "immune"
+          }
+        },
+        {
+          "id": "hm-008",
+          "word": "therapeutic",
+          "pronunciation": "/ˌθerəˈpjuːtɪk/",
+          "partOfSpeech": "adjective",
+          "definition": "relating to the healing of disease; having a beneficial effect on the body or mind",
+          "turkishMeaning": "tedavi edici, iyileştirici",
+          "exampleSentence": "The drug has significant therapeutic benefits for cancer patients.",
+          "collocations": ["therapeutic effect", "therapeutic intervention", "therapeutic approach"],
+          "relatedForms": {
+            "noun": "therapy",
+            "adverb": "therapeutically"
+          }
+        },
+        {
+          "id": "hm-009",
+          "word": "prevalence",
+          "pronunciation": "/ˈprevələns/",
+          "partOfSpeech": "noun",
+          "definition": "the proportion of a population found to have a condition at a specific time",
+          "turkishMeaning": "yaygınlık, prevalans",
+          "exampleSentence": "The prevalence of obesity has increased dramatically in recent decades.",
+          "collocations": ["disease prevalence", "high prevalence", "prevalence rate"],
+          "relatedForms": {
+            "adjective": "prevalent"
+          }
+        },
+        {
+          "id": "hm-010",
+          "word": "malignant",
+          "pronunciation": "/məˈlɪɡnənt/",
+          "partOfSpeech": "adjective",
+          "definition": "tending to invade normal tissue or to recur after removal; cancerous",
+          "turkishMeaning": "habis, kötü huylu (tümör)",
+          "exampleSentence": "Malignant tumors require aggressive treatment protocols.",
+          "collocations": ["malignant tumor", "malignant cells", "malignant disease"],
+          "antonyms": ["benign"],
+          "relatedForms": {
+            "noun": "malignancy"
+          }
+        },
+        {
+          "id": "hm-011",
+          "word": "deteriorate",
+          "pronunciation": "/dɪˈtɪriəreɪt/",
+          "partOfSpeech": "verb",
+          "definition": "to become progressively worse in quality or condition",
+          "turkishMeaning": "kötüleşmek, bozulmak",
+          "exampleSentence": "The patient's condition deteriorated rapidly despite intensive care.",
+          "collocations": ["condition deteriorates", "health deteriorates", "rapidly deteriorate"],
+          "synonyms": ["worsen", "decline", "degenerate"],
+          "relatedForms": {
+            "noun": "deterioration"
+          }
+        },
+        {
+          "id": "hm-012",
+          "word": "susceptible",
+          "pronunciation": "/səˈseptəbəl/",
+          "partOfSpeech": "adjective",
+          "definition": "likely or liable to be influenced or harmed by a particular thing; vulnerable to disease",
+          "turkishMeaning": "hassas, duyarlı, yatkın",
+          "exampleSentence": "Elderly individuals are more susceptible to respiratory infections.",
+          "collocations": ["susceptible to infection", "highly susceptible", "susceptible individuals"],
+          "relatedForms": {
+            "noun": "susceptibility"
+          }
+        },
+        {
+          "id": "hm-013",
+          "word": "contagious",
+          "pronunciation": "/kənˈteɪdʒəs/",
+          "partOfSpeech": "adjective",
+          "definition": "capable of being transmitted from one person to another by contact or close proximity",
+          "turkishMeaning": "bulaşıcı",
+          "exampleSentence": "Influenza is highly contagious and spreads rapidly in crowded environments.",
+          "collocations": ["highly contagious", "contagious disease", "contagious period"],
+          "synonyms": ["infectious", "communicable"],
+          "relatedForms": {
+            "noun": "contagion"
+          }
+        },
+        {
+          "id": "hm-014",
+          "word": "rehabilitation",
+          "pronunciation": "/ˌriːəˌbɪlɪˈteɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the action of restoring someone to health or normal life through training and therapy",
+          "turkishMeaning": "rehabilitasyon, iyileştirme",
+          "exampleSentence": "Physical rehabilitation is essential for stroke recovery.",
+          "collocations": ["rehabilitation program", "cardiac rehabilitation", "rehabilitation center"],
+          "relatedForms": {
+            "verb": "rehabilitate"
+          }
+        },
+        {
+          "id": "hm-015",
+          "word": "mortality",
+          "pronunciation": "/mɔːrˈtæləti/",
+          "partOfSpeech": "noun",
+          "definition": "the state of being subject to death; the number of deaths in a particular population",
+          "turkishMeaning": "ölüm oranı, mortalite",
+          "exampleSentence": "Infant mortality rates have declined significantly due to improved healthcare.",
+          "collocations": ["mortality rate", "infant mortality", "reduce mortality"],
+          "antonyms": ["survival"],
+          "relatedForms": {
+            "adjective": "mortal"
+          }
+        },
+        {
+          "id": "hm-016",
+          "word": "placebo",
+          "pronunciation": "/pləˈsiːboʊ/",
+          "partOfSpeech": "noun",
+          "definition": "a substance with no therapeutic effect used as a control in testing new drugs",
+          "turkishMeaning": "plasebo, etken madde içermeyen ilaç",
+          "exampleSentence": "Clinical trials typically compare the drug's effects against a placebo.",
+          "collocations": ["placebo effect", "placebo group", "placebo-controlled"],
+          "relatedWords": ["control group"]
+        },
+        {
+          "id": "hm-017",
+          "word": "symptom",
+          "pronunciation": "/ˈsɪmptəm/",
+          "partOfSpeech": "noun",
+          "definition": "a physical or mental feature indicating a condition of disease",
+          "turkishMeaning": "semptom, belirti",
+          "exampleSentence": "Fever and fatigue are common symptoms of viral infections.",
+          "collocations": ["symptom onset", "clinical symptoms", "symptom management"],
+          "relatedForms": {
+            "adjective": "symptomatic"
+          }
+        },
+        {
+          "id": "hm-018",
+          "word": "anesthetic",
+          "pronunciation": "/ˌænəsˈθetɪk/",
+          "partOfSpeech": "noun/adjective",
+          "definition": "a substance that induces insensitivity to pain; relating to or causing anesthesia",
+          "turkishMeaning": "anestezi, uyuşturucu",
+          "exampleSentence": "The surgery was performed under general anesthetic.",
+          "collocations": ["local anesthetic", "general anesthetic", "anesthetic agent"],
+          "relatedForms": {
+            "noun": "anesthesia",
+            "verb": "anesthetize"
+          }
+        },
+        {
+          "id": "hm-019",
+          "word": "metabolism",
+          "pronunciation": "/məˈtæbəlɪzəm/",
+          "partOfSpeech": "noun",
+          "definition": "the chemical processes that occur within a living organism to maintain life",
+          "turkishMeaning": "metabolizma",
+          "exampleSentence": "Regular exercise can boost your metabolism and aid weight management.",
+          "collocations": ["metabolic rate", "metabolism slows", "boost metabolism"],
+          "relatedForms": {
+            "verb": "metabolize",
+            "adjective": "metabolic"
+          }
+        },
+        {
+          "id": "hm-020",
+          "word": "preventive",
+          "pronunciation": "/prɪˈventɪv/",
+          "partOfSpeech": "adjective",
+          "definition": "designed to keep something undesirable from occurring; prophylactic",
+          "turkishMeaning": "önleyici, koruyucu",
+          "exampleSentence": "Preventive medicine focuses on disease prevention rather than treatment.",
+          "collocations": ["preventive care", "preventive measures", "preventive medicine"],
+          "synonyms": ["prophylactic", "precautionary"],
+          "relatedForms": {
+            "verb": "prevent",
+            "noun": "prevention"
+          }
+        },
+        {
+          "id": "hm-021",
+          "word": "pharmaceutical",
+          "pronunciation": "/ˌfɑːrməˈsuːtɪkəl/",
+          "partOfSpeech": "adjective/noun",
+          "definition": "relating to medicinal drugs; a medicinal drug",
+          "turkishMeaning": "farmasötik, ilaç ile ilgili",
+          "exampleSentence": "The pharmaceutical industry invests billions in drug development.",
+          "collocations": ["pharmaceutical company", "pharmaceutical products", "pharmaceutical research"],
+          "relatedForms": {
+            "noun": "pharmacy",
+            "noun": "pharmacist"
+          }
+        },
+        {
+          "id": "hm-022",
+          "word": "adverse",
+          "pronunciation": "/ædˈvɜːrs/",
+          "partOfSpeech": "adjective",
+          "definition": "preventing success or development; harmful; unfavorable (especially of drug effects)",
+          "turkishMeaning": "olumsuz, zararlı, yan etki",
+          "exampleSentence": "The medication was withdrawn due to adverse side effects.",
+          "collocations": ["adverse effects", "adverse reaction", "adverse events"],
+          "synonyms": ["harmful", "detrimental", "unfavorable"],
+          "relatedForms": {
+            "adverb": "adversely"
+          }
+        },
+        {
+          "id": "hm-023",
+          "word": "sedentary",
+          "pronunciation": "/ˈsedənteri/",
+          "partOfSpeech": "adjective",
+          "definition": "characterized by much sitting and little physical exercise",
+          "turkishMeaning": "hareketsiz, oturarak yapılan",
+          "exampleSentence": "A sedentary lifestyle increases the risk of cardiovascular disease.",
+          "collocations": ["sedentary lifestyle", "sedentary behavior", "sedentary work"],
+          "synonyms": ["inactive", "stationary"],
+          "antonyms": ["active", "mobile"]
+        },
+        {
+          "id": "hm-024",
+          "word": "contamination",
+          "pronunciation": "/kənˌtæmɪˈneɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the presence of unwanted substances or impurities; the action of making something impure",
+          "turkishMeaning": "kirlenme, bulaşma",
+          "exampleSentence": "Water contamination poses serious public health risks.",
+          "collocations": ["prevent contamination", "bacterial contamination", "contamination risk"],
+          "relatedForms": {
+            "verb": "contaminate"
+          }
+        },
+        {
+          "id": "hm-025",
+          "word": "resilience",
+          "pronunciation": "/rɪˈzɪliəns/",
+          "partOfSpeech": "noun",
+          "definition": "the capacity to recover quickly from difficulties; the ability to withstand or recover from illness",
+          "turkishMeaning": "dayanıklılık, esneklik",
+          "exampleSentence": "Mental resilience is crucial for coping with chronic illness.",
+          "collocations": ["build resilience", "emotional resilience", "resilience training"],
+          "relatedForms": {
+            "adjective": "resilient"
+          }
+        },
+        {
+          "id": "hm-026",
+          "word": "palliative",
+          "pronunciation": "/ˈpæliətɪv/",
+          "partOfSpeech": "adjective/noun",
+          "definition": "relieving pain or symptoms without curing the underlying disease",
+          "turkishMeaning": "palyatif, ağrı kesici",
+          "exampleSentence": "Palliative care focuses on improving quality of life for terminally ill patients.",
+          "collocations": ["palliative care", "palliative treatment", "palliative medicine"],
+          "relatedForms": {
+            "verb": "palliate"
+          }
+        },
+        {
+          "id": "hm-027",
+          "word": "remission",
+          "pronunciation": "/rɪˈmɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "a temporary or permanent decrease or disappearance of signs and symptoms of disease",
+          "turkishMeaning": "remisyon, hastalık belirtilerinin azalması",
+          "exampleSentence": "The cancer went into remission after chemotherapy.",
+          "collocations": ["complete remission", "partial remission", "achieve remission"],
+          "synonyms": ["abatement", "subsidence"]
+        },
+        {
+          "id": "hm-028",
+          "word": "incubation",
+          "pronunciation": "/ˌɪŋkjuˈbeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the period between exposure to an infection and the appearance of symptoms",
+          "turkishMeaning": "kuluçka dönemi, inkübasyon",
+          "exampleSentence": "The incubation period for influenza is typically one to four days.",
+          "collocations": ["incubation period", "incubation time", "during incubation"],
+          "relatedForms": {
+            "verb": "incubate"
+          }
+        },
+        {
+          "id": "hm-029",
+          "word": "etiology",
+          "pronunciation": "/ˌiːtiˈɑːlədʒi/",
+          "partOfSpeech": "noun",
+          "definition": "the cause or origin of a disease or condition",
+          "turkishMeaning": "etyoloji, hastalık nedeni",
+          "exampleSentence": "Researchers are studying the etiology of autoimmune disorders.",
+          "collocations": ["disease etiology", "unknown etiology", "etiological factors"],
+          "relatedForms": {
+            "adjective": "etiological"
+          }
+        },
+        {
+          "id": "hm-030",
+          "word": "comorbidity",
+          "pronunciation": "/ˌkoʊmɔːrˈbɪdəti/",
+          "partOfSpeech": "noun",
+          "definition": "the simultaneous presence of two or more diseases or medical conditions in a patient",
+          "turkishMeaning": "komorbidite, eşlik eden hastalık",
+          "exampleSentence": "Diabetes and hypertension are common comorbidities in elderly patients.",
+          "collocations": ["comorbidity rate", "multiple comorbidities", "comorbidity burden"],
+          "relatedForms": {
+            "adjective": "comorbid"
+          }
+        }
+      ]
+    },
+    {
+      "id": "environment-sustainability",
+      "title": "Environment & Sustainability",
+      "description": "Essential academic vocabulary for environmental science, ecology, and sustainability topics in YDS/YÖKDİL",
+      "category": "thematic",
+      "difficulty": "intermediate-advanced",
+      "totalCards": 30,
+      "cards": [
+        {
+          "id": "es-001",
+          "word": "biodiversity",
+          "pronunciation": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+          "partOfSpeech": "noun",
+          "definition": "the variety of plant and animal life in a particular habitat or in the world as a whole",
+          "turkishMeaning": "biyoçeşitlilik",
+          "exampleSentence": "Tropical rainforests contain the highest levels of biodiversity on Earth.",
+          "collocations": ["biodiversity loss", "protect biodiversity", "biodiversity conservation"],
+          "relatedForms": {
+            "adjective": "biodiverse"
+          }
+        },
+        {
+          "id": "es-002",
+          "word": "sustainable",
+          "pronunciation": "/səˈsteɪnəbəl/",
+          "partOfSpeech": "adjective",
+          "definition": "able to be maintained at a certain rate or level; conserving resources to avoid depletion",
+          "turkishMeaning": "sürdürülebilir",
+          "exampleSentence": "Sustainable development balances economic growth with environmental protection.",
+          "collocations": ["sustainable development", "sustainable practices", "sustainable energy"],
+          "relatedForms": {
+            "noun": "sustainability",
+            "verb": "sustain"
+          }
+        },
+        {
+          "id": "es-003",
+          "word": "deforestation",
+          "pronunciation": "/diːˌfɔːrɪˈsteɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the action of clearing a wide area of trees",
+          "turkishMeaning": "ormansızlaşma, ağaçsızlaşma",
+          "exampleSentence": "Deforestation contributes significantly to climate change and habitat loss.",
+          "collocations": ["prevent deforestation", "deforestation rate", "combat deforestation"],
+          "relatedForms": {
+            "verb": "deforest"
+          },
+          "antonyms": ["reforestation", "afforestation"]
+        },
+        {
+          "id": "es-004",
+          "word": "carbon footprint",
+          "pronunciation": "/ˈkɑːrbən ˈfʊtprɪnt/",
+          "partOfSpeech": "noun",
+          "definition": "the amount of carbon dioxide released into the atmosphere as a result of activities",
+          "turkishMeaning": "karbon ayak izi",
+          "exampleSentence": "Individuals can reduce their carbon footprint by using public transportation.",
+          "collocations": ["reduce carbon footprint", "carbon footprint calculation", "environmental footprint"],
+          "relatedWords": ["greenhouse gas", "emissions"]
+        },
+        {
+          "id": "es-005",
+          "word": "ecosystem",
+          "pronunciation": "/ˈiːkoʊsɪstəm/",
+          "partOfSpeech": "noun",
+          "definition": "a biological community of interacting organisms and their physical environment",
+          "turkishMeaning": "ekosistem",
+          "exampleSentence": "Marine ecosystems are threatened by pollution and overfishing.",
+          "collocations": ["ecosystem services", "fragile ecosystem", "ecosystem balance"],
+          "relatedWords": ["habitat", "biome"]
+        },
+        {
+          "id": "es-006",
+          "word": "renewable",
+          "pronunciation": "/rɪˈnuːəbəl/",
+          "partOfSpeech": "adjective",
+          "definition": "capable of being replaced by natural processes; not depleted when used",
+          "turkishMeaning": "yenilenebilir",
+          "exampleSentence": "Solar and wind power are examples of renewable energy sources.",
+          "collocations": ["renewable energy", "renewable resources", "renewable power"],
+          "antonyms": ["non-renewable", "finite"],
+          "relatedForms": {
+            "verb": "renew"
+          }
+        },
+        {
+          "id": "es-007",
+          "word": "conservation",
+          "pronunciation": "/ˌkɑːnsərˈveɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the protection and preservation of the natural environment and wildlife",
+          "turkishMeaning": "koruma, muhafaza",
+          "exampleSentence": "Wildlife conservation efforts have helped save endangered species from extinction.",
+          "collocations": ["conservation efforts", "nature conservation", "conservation area"],
+          "relatedForms": {
+            "verb": "conserve",
+            "noun": "conservationist"
+          }
+        },
+        {
+          "id": "es-008",
+          "word": "pollution",
+          "pronunciation": "/pəˈluːʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the presence of harmful or poisonous substances in the environment",
+          "turkishMeaning": "kirlilik, kirlenme",
+          "exampleSentence": "Air pollution in urban areas poses serious health risks.",
+          "collocations": ["air pollution", "water pollution", "pollution control"],
+          "relatedForms": {
+            "verb": "pollute",
+            "noun": "pollutant"
+          }
+        },
+        {
+          "id": "es-009",
+          "word": "mitigate",
+          "pronunciation": "/ˈmɪtɪɡeɪt/",
+          "partOfSpeech": "verb",
+          "definition": "to make less severe, serious, or painful; to lessen the impact of something harmful",
+          "turkishMeaning": "hafifletmek, azaltmak",
+          "exampleSentence": "Countries must take action to mitigate the effects of climate change.",
+          "collocations": ["mitigate risks", "mitigate climate change", "mitigate impact"],
+          "synonyms": ["alleviate", "reduce", "lessen"],
+          "relatedForms": {
+            "noun": "mitigation"
+          }
+        },
+        {
+          "id": "es-010",
+          "word": "emissions",
+          "pronunciation": "/ɪˈmɪʃənz/",
+          "partOfSpeech": "noun",
+          "definition": "the production and discharge of gases or radiation, especially pollutants",
+          "turkishMeaning": "emisyon, salım",
+          "exampleSentence": "The government aims to reduce greenhouse gas emissions by 50% by 2030.",
+          "collocations": ["carbon emissions", "reduce emissions", "emissions standards"],
+          "relatedForms": {
+            "verb": "emit"
+          }
+        },
+        {
+          "id": "es-011",
+          "word": "depletion",
+          "pronunciation": "/dɪˈpliːʃən/",
+          "partOfSpeech": "noun",
+          "definition": "reduction in the number or quantity of something; exhaustion of resources",
+          "turkishMeaning": "tükenme, azalma",
+          "exampleSentence": "Ozone layer depletion increases exposure to harmful UV radiation.",
+          "collocations": ["resource depletion", "ozone depletion", "depletion of reserves"],
+          "relatedForms": {
+            "verb": "deplete"
+          }
+        },
+        {
+          "id": "es-012",
+          "word": "habitat",
+          "pronunciation": "/ˈhæbɪtæt/",
+          "partOfSpeech": "noun",
+          "definition": "the natural home or environment of an animal, plant, or other organism",
+          "turkishMeaning": "yaşam alanı, habitat",
+          "exampleSentence": "Urbanization destroys natural habitats and threatens wildlife populations.",
+          "collocations": ["natural habitat", "habitat loss", "habitat destruction"],
+          "relatedWords": ["ecosystem", "environment"]
+        },
+        {
+          "id": "es-013",
+          "word": "erosion",
+          "pronunciation": "/ɪˈroʊʒən/",
+          "partOfSpeech": "noun",
+          "definition": "the process by which soil and rock are removed from the Earth's surface by wind or water",
+          "turkishMeaning": "erozyon, aşınma",
+          "exampleSentence": "Soil erosion reduces agricultural productivity and increases flooding risks.",
+          "collocations": ["soil erosion", "coastal erosion", "prevent erosion"],
+          "relatedForms": {
+            "verb": "erode"
+          }
+        },
+        {
+          "id": "es-014",
+          "word": "pesticide",
+          "pronunciation": "/ˈpestɪsaɪd/",
+          "partOfSpeech": "noun",
+          "definition": "a substance used for destroying insects or other organisms harmful to cultivated plants",
+          "turkishMeaning": "pestisit, tarım ilacı",
+          "exampleSentence": "Excessive pesticide use can contaminate groundwater and harm beneficial insects.",
+          "collocations": ["pesticide residue", "pesticide exposure", "pesticide application"],
+          "relatedWords": ["herbicide", "insecticide", "fungicide"]
+        },
+        {
+          "id": "es-015",
+          "word": "extinction",
+          "pronunciation": "/ɪkˈstɪŋkʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the state or process of a species, family, or larger group ceasing to exist",
+          "turkishMeaning": "nesli tükenme, yok olma",
+          "exampleSentence": "Climate change accelerates the extinction of vulnerable species.",
+          "collocations": ["mass extinction", "face extinction", "extinction risk"],
+          "relatedForms": {
+            "adjective": "extinct"
+          }
+        },
+        {
+          "id": "es-016",
+          "word": "landfill",
+          "pronunciation": "/ˈlændfɪl/",
+          "partOfSpeech": "noun",
+          "definition": "a place to dispose of waste material by burying it and covering it with soil",
+          "turkishMeaning": "çöp döküm alanı",
+          "exampleSentence": "Reducing waste sent to landfills is essential for environmental sustainability.",
+          "collocations": ["landfill site", "landfill waste", "sanitary landfill"],
+          "relatedWords": ["waste management", "recycling"]
+        },
+        {
+          "id": "es-017",
+          "word": "toxin",
+          "pronunciation": "/ˈtɑːksɪn/",
+          "partOfSpeech": "noun",
+          "definition": "a poisonous substance produced by living organisms; any harmful substance",
+          "turkishMeaning": "toksin, zehirli madde",
+          "exampleSentence": "Industrial toxins in water supplies pose serious health hazards.",
+          "collocations": ["environmental toxins", "toxin exposure", "release toxins"],
+          "relatedForms": {
+            "adjective": "toxic"
+          }
+        },
+        {
+          "id": "es-018",
+          "word": "recycle",
+          "pronunciation": "/ˌriːˈsaɪkəl/",
+          "partOfSpeech": "verb",
+          "definition": "to convert waste into reusable material",
+          "turkishMeaning": "geri dönüştürmek",
+          "exampleSentence": "Recycling plastic reduces pollution and conserves natural resources.",
+          "collocations": ["recycle waste", "recycle materials", "recycle plastic"],
+          "relatedForms": {
+            "noun": "recycling",
+            "adjective": "recyclable"
+          }
+        },
+        {
+          "id": "es-019",
+          "word": "greenhouse effect",
+          "pronunciation": "/ˈɡriːnhaʊs ɪˈfekt/",
+          "partOfSpeech": "noun",
+          "definition": "the trapping of the sun's warmth in a planet's atmosphere by greenhouse gases",
+          "turkishMeaning": "sera etkisi",
+          "exampleSentence": "The greenhouse effect is intensified by increased carbon dioxide emissions.",
+          "collocations": ["enhanced greenhouse effect", "greenhouse gases", "greenhouse effect causes"],
+          "relatedWords": ["global warming", "climate change"]
+        },
+        {
+          "id": "es-020",
+          "word": "desertification",
+          "pronunciation": "/dɪˌzɜːrtɪfɪˈkeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the process by which fertile land becomes desert, typically due to drought or deforestation",
+          "turkishMeaning": "çölleşme",
+          "exampleSentence": "Desertification threatens agricultural lands in arid and semi-arid regions.",
+          "collocations": ["combat desertification", "desertification process", "prevent desertification"],
+          "relatedForms": {
+            "verb": "desertify"
+          }
+        },
+        {
+          "id": "es-021",
+          "word": "irrigation",
+          "pronunciation": "/ˌɪrɪˈɡeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the supply of water to land or crops to help growth, typically by means of channels",
+          "turkishMeaning": "sulama, irrigasyon",
+          "exampleSentence": "Efficient irrigation systems can conserve water while maintaining crop yields.",
+          "collocations": ["irrigation system", "drip irrigation", "irrigation water"],
+          "relatedForms": {
+            "verb": "irrigate"
+          }
+        },
+        {
+          "id": "es-022",
+          "word": "biodegradable",
+          "pronunciation": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+          "partOfSpeech": "adjective",
+          "definition": "capable of being decomposed by bacteria or other living organisms",
+          "turkishMeaning": "biyolojik olarak parçalanabilir",
+          "exampleSentence": "Biodegradable packaging reduces environmental waste.",
+          "collocations": ["biodegradable materials", "biodegradable plastic", "biodegradable waste"],
+          "relatedForms": {
+            "verb": "biodegrade"
+          }
+        },
+        {
+          "id": "es-023",
+          "word": "resilience",
+          "pronunciation": "/rɪˈzɪliəns/",
+          "partOfSpeech": "noun",
+          "definition": "the capacity of an ecosystem to respond to disturbance and recover from it",
+          "turkishMeaning": "dayanıklılık, esneklik",
+          "exampleSentence": "Building ecosystem resilience helps communities adapt to climate change.",
+          "collocations": ["ecosystem resilience", "climate resilience", "build resilience"],
+          "relatedForms": {
+            "adjective": "resilient"
+          }
+        },
+        {
+          "id": "es-024",
+          "word": "watershed",
+          "pronunciation": "/ˈwɔːtərʃed/",
+          "partOfSpeech": "noun",
+          "definition": "an area of land that drains all streams and rainfall to a common outlet",
+          "turkishMeaning": "su toplama havzası",
+          "exampleSentence": "Protecting watersheds is essential for maintaining clean water supplies.",
+          "collocations": ["watershed management", "watershed protection", "watershed area"],
+          "synonyms": ["drainage basin", "catchment area"]
+        },
+        {
+          "id": "es-025",
+          "word": "aquifer",
+          "pronunciation": "/ˈækwɪfər/",
+          "partOfSpeech": "noun",
+          "definition": "a body of rock that can store groundwater and transmit it to wells and springs",
+          "turkishMeaning": "akifer, yeraltı su kaynağı",
+          "exampleSentence": "Overextraction from aquifers can lead to water scarcity and land subsidence.",
+          "collocations": ["aquifer recharge", "aquifer depletion", "groundwater aquifer"],
+          "relatedWords": ["groundwater", "water table"]
+        },
+        {
+          "id": "es-026",
+          "word": "compost",
+          "pronunciation": "/ˈkɑːmpoʊst/",
+          "partOfSpeech": "noun/verb",
+          "definition": "decayed organic material used as fertilizer; to make or use compost",
+          "turkishMeaning": "kompost, gübre",
+          "exampleSentence": "Composting organic waste reduces landfill burden and enriches soil.",
+          "collocations": ["compost bin", "compost pile", "organic compost"],
+          "relatedWords": ["fertilizer", "organic matter"]
+        },
+        {
+          "id": "es-027",
+          "word": "photosynthesis",
+          "pronunciation": "/ˌfoʊtoʊˈsɪnθəsɪs/",
+          "partOfSpeech": "noun",
+          "definition": "the process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water",
+          "turkishMeaning": "fotosentez",
+          "exampleSentence": "Photosynthesis is essential for oxygen production and carbon sequestration.",
+          "collocations": ["photosynthesis process", "photosynthetic organisms", "rate of photosynthesis"],
+          "relatedForms": {
+            "verb": "photosynthesize",
+            "adjective": "photosynthetic"
+          }
+        },
+        {
+          "id": "es-028",
+          "word": "sequestration",
+          "pronunciation": "/ˌsiːkwəˈstreɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "the action of isolating or hiding something away; carbon storage in natural systems",
+          "turkishMeaning": "tutma, depolama (karbon tutma)",
+          "exampleSentence": "Forests play a vital role in carbon sequestration.",
+          "collocations": ["carbon sequestration", "sequestration capacity", "sequestration technologies"],
+          "relatedForms": {
+            "verb": "sequester"
+          }
+        },
+        {
+          "id": "es-029",
+          "word": "eutrophication",
+          "pronunciation": "/juːˌtrɒfɪˈkeɪʃən/",
+          "partOfSpeech": "noun",
+          "definition": "excessive richness of nutrients in a body of water, causing dense plant growth",
+          "turkishMeaning": "ötrofikasyon, aşırı besinlenme",
+          "exampleSentence": "Eutrophication from agricultural runoff leads to algal blooms and oxygen depletion.",
+          "collocations": ["eutrophication process", "prevent eutrophication", "eutrophication effects"],
+          "relatedWords": ["algal bloom", "water pollution"]
+        },
+        {
+          "id": "es-030",
+          "word": "anthropogenic",
+          "pronunciation": "/ˌænθrəpəˈdʒenɪk/",
+          "partOfSpeech": "adjective",
+          "definition": "originating from human activity; caused or produced by humans",
+          "turkishMeaning": "insan kaynaklı, antropojenik",
+          "exampleSentence": "Anthropogenic climate change is primarily caused by fossil fuel combustion.",
+          "collocations": ["anthropogenic emissions", "anthropogenic impact", "anthropogenic activities"],
+          "relatedWords": ["human-caused", "man-made"]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "created": "2025-10-04",
+    "author": "YDS/YÖKDİL Expert System",
+    "totalSets": 3,
+    "totalCards": 90,
+    "targetExam": "YDS/YÖKDİL",
+    "difficultyLevel": "intermediate-advanced",
+    "usageNotes": [
+      "Each set contains 30 carefully selected academic vocabulary words",
+      "Words are chosen based on frequency in YDS/YÖKDİL exams",
+      "All entries include pronunciation, definitions, Turkish meanings, example sentences, and collocations",
+      "Collocations are essential for YDS/YÖKDİL success - practice them in context",
+      "Related forms help build word families for comprehensive vocabulary mastery",
+      "Example sentences demonstrate academic register appropriate for exam contexts"
+    ]
+  }
+}

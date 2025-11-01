@@ -1,0 +1,543 @@
+{
+  "section": "1.4",
+  "title": "Paragraf Tamamlama",
+  "subtopics": [
+    {
+      "id": "1.4.1",
+      "title": "Uyum ve Bağlaşıklık: İşaretleyiciler, Referans",
+      "content": "Paragraf tamamlama sorularında başarı, metindeki uyum (coherence) ve bağlaşıklık (cohesion) ipuçlarını doğru okumaya bağlıdır. YDS ve YÖKDİL'de bu sorular, doğru cümleyi bulabilmek için söylem işaretleyicilerini, referans yapılarını ve mantıksal akışı anlamayı gerektirir.\n\n**Bağlaşıklık Araçları (Cohesive Devices):**\n\n1. **Referans (Reference):**\n   - Zamirler: it, they, this, these, such, those\n   - The former/the latter: ilki/ikincisi\n   - The + isim: Daha önce bahsedilen kavrama geri dönüş\n\n2. **Söylem İşaretleyicileri (Discourse Markers):**\n   - Ekleme: moreover, furthermore, in addition, besides, also\n   - Karşıtlık: however, nevertheless, on the other hand, conversely\n   - Sebep-sonuç: therefore, thus, consequently, as a result, hence\n   - Örnek: for instance, for example, such as, namely\n   - Açıklama: in other words, that is, specifically, particularly\n\n3. **Lexical Cohesion (Sözcüksel Bağlaşıklık):**\n   - Tekrar: aynı kelimenin tekrarı\n   - Eşanlamlılar: study → research, significant → important\n   - Üstkavram-altkavram: animal → cat, vehicle → car\n   - Kolokasyon: conduct research, make a decision\n\n**Strateji:**\n- Boşluktan önceki ve sonraki cümleleri dikkatlice okuyun\n- Zamir referanslarını takip edin (it, this, these ne anlama geliyor?)\n- Söylem işaretleyicilerinin mantıksal bağlantısını kontrol edin\n- Konu tutarlılığını değerlendirin",
+      "examples": [
+        {
+          "context": "Scientists have long debated the origins of language. __________. This evidence suggests that language evolved gradually rather than suddenly.",
+          "correct": "Recent archaeological findings provide new insights into early human communication.",
+          "explanation": "'This evidence' sonraki cümlede yeni bulguları referans eder. Doğru cümle 'findings' ve 'insights' kelimelerini içermeli ki 'this evidence' anlamlı olsun."
+        },
+        {
+          "context": "Climate change poses significant threats to coastal regions. Rising sea levels endanger millions of people. __________. Moreover, extreme weather events are becoming more frequent.",
+          "correct": "Increased flooding destroys infrastructure and displaces communities.",
+          "explanation": "'Moreover' ekleme işaretleyicisi, bir önceki fikre benzer başka bir tehdit eklenmesini işaret eder. Doğru cümle deniz seviyesi yükselişinin sonuçlarını açıklamalı."
+        },
+        {
+          "context": "Traditional teaching methods rely heavily on lectures. __________. However, modern approaches emphasize student-centered learning and active participation.",
+          "correct": "Students typically listen passively and take notes during class.",
+          "explanation": "'However' karşıtlık işaretleyicisi, geleneksel (pasif) ve modern (aktif) yöntemler arasındaki zıtlığı vurgular. Boşluk geleneksel yöntemin pasif doğasını açıklamalı."
+        },
+        {
+          "context": "Bilingual education offers numerous cognitive advantages. __________. For instance, bilingual children often show enhanced problem-solving skills.",
+          "correct": "Research demonstrates that learning two languages strengthens mental flexibility.",
+          "explanation": "'For instance' örnek işaretleyicisi, genel iddiayı ('cognitive advantages') spesifik örnekle destekleyeceğini gösterir. Boşluk genel araştırma bulgusunu, sonraki cümle spesifik örneği verir."
+        },
+        {
+          "context": "The Industrial Revolution transformed manufacturing processes. __________. Consequently, urbanization accelerated rapidly as workers migrated to cities.",
+          "correct": "Factories replaced small-scale artisan production and created massive employment opportunities.",
+          "explanation": "'Consequently' sebep-sonuç işaretleyicisi. Boşluk fabrikalaşmayı ve iş fırsatlarını açıklamalı ki sonraki cümlede kentleşme mantıklı sonuç olsun."
+        },
+        {
+          "context": "Antibiotic resistance is a growing global health concern. Overuse of antibiotics in medicine and agriculture contributes to this problem. __________. In other words, bacteria evolve defenses faster than we develop new treatments.",
+          "correct": "Microorganisms adapt quickly to develop immunity against existing drugs.",
+          "explanation": "'In other words' açıklama/paraphrase işaretleyicisi. Boşluk bilimsel terimlerle ('adapt', 'immunity'), sonraki cümle aynı fikri daha basit ifade eder."
+        },
+        {
+          "context": "Economic inequality has widened in recent decades. The wealthy accumulate more resources while the poor struggle. __________. Such disparities undermine social cohesion and stability.",
+          "correct": "The gap between rich and poor continues to expand in most developed countries.",
+          "explanation": "'Such disparities' önceki cümlelerde bahsedilen eşitsizliği referans eder. Boşluk bu eşitsizlik trendini desteklemeli ki 'such' anlamlı olsun."
+        },
+        {
+          "context": "Renewable energy sources are becoming more cost-effective. Solar panel efficiency has improved dramatically. __________. These developments suggest fossil fuels may soon become economically uncompetitive.",
+          "correct": "Wind turbine technology has also advanced, reducing production costs significantly.",
+          "explanation": "'These developments' çoğul referansı, birden fazla yenilenebilir enerji gelişimini işaret eder. Boşluk solar'a ek olarak başka bir kaynak (wind) eklemeli."
+        },
+        {
+          "context": "Urbanization creates both opportunities and challenges. Cities offer employment and services. __________. Nevertheless, urban areas also face problems like overcrowding and pollution.",
+          "correct": "Educational and healthcare facilities are generally more accessible in metropolitan regions.",
+          "explanation": "'Nevertheless' karşıtlık işaretleyicisi, olumlu (opportunities) ve olumsuz (challenges) yönleri ayırır. Boşluk olumlu yönleri, sonraki cümle olumsuz yönleri açıklar."
+        },
+        {
+          "context": "Artificial intelligence is revolutionizing various industries. __________. For example, machine learning algorithms can diagnose diseases more accurately than human doctors in some cases.",
+          "correct": "Healthcare is one sector experiencing particularly dramatic transformations.",
+          "explanation": "'For example' somut örnek getirir. Boşluk genel sektörden (healthcare) bahsetmeli, sonraki cümle spesifik uygulama (diagnosis) örneği verir."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Plastic pollution threatens marine ecosystems worldwide. Millions of tons of plastic waste enter oceans annually. __________. Therefore, urgent action is needed to reduce plastic consumption and improve waste management.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Marine animals often mistake plastic debris for food, leading to injury or death.",
+            "Plastic is a versatile material used in countless products.",
+            "Recycling programs have been established in many countries.",
+            "The invention of plastic revolutionized manufacturing.",
+            "Scientists are studying ocean currents to understand water flow."
+          ],
+          "correct": 0,
+          "explanation": "'Therefore' sebep-sonuç işaretleyicisi, eylem çağrısının nedenini bekler. A plastik kirliliğinin zararlarını açıklar (sebep), sonraki cümle çözüm önerir (sonuç). B-E konu dışı veya bağlantısız."
+        },
+        {
+          "question": "The gut microbiome plays a crucial role in human health. __________. Moreover, imbalances in gut bacteria have been linked to obesity and diabetes.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "The human body contains trillions of cells.",
+            "These microorganisms help digest food and synthesize essential vitamins.",
+            "Antibiotics are commonly prescribed for bacterial infections.",
+            "Medical research requires significant funding.",
+            "Digestive problems affect millions of people annually."
+          ],
+          "correct": 1,
+          "explanation": "'Moreover' ekleme işaretleyicisi, mikrobiyomun bir başka önemli fonksiyonunu ekler. B mikrobiyomun pozitif rolünü açıklar, sonraki cümle negatif etkisini (imbalance) ekler. Mantıksal bağlantı var."
+        },
+        {
+          "question": "Traditional apprenticeship models are declining in many professions. __________. However, some skilled trades still rely on hands-on training and mentorship.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Formal education and certification programs have largely replaced them.",
+            "Craftsmen in medieval times learned through guild systems.",
+            "Vocational schools offer diverse training opportunities.",
+            "The economy has shifted toward service sectors.",
+            "Technology changes rapidly in modern workplaces."
+          ],
+          "correct": 0,
+          "explanation": "'However' karşıtlık işaretleyicisi, azalma trendine rağmen bazı alanlarda devam ettiğini gösterir. A azalma nedenini (formal education replacement) açıklar, sonraki cümle istisnayı (still rely) belirtir."
+        },
+        {
+          "question": "Deforestation contributes significantly to climate change. Trees absorb carbon dioxide from the atmosphere. __________. Consequently, protecting forests is essential for climate mitigation.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "When forests are cleared, this carbon storage capacity is lost.",
+            "Many species live in forest ecosystems.",
+            "Timber is an important economic resource.",
+            "Rainforests receive abundant rainfall throughout the year.",
+            "Satellites monitor forest coverage from space."
+          ],
+          "correct": 0,
+          "explanation": "'Consequently' sebep-sonuç işaretleyicisi. A orman kaybının karbon depolama kaybına yol açtığını açıklar (sebep), sonraki cümle koruma gerekliliğini vurgular (sonuç). Mantıksal akış doğru."
+        },
+        {
+          "question": "Procrastination is a common challenge among students. __________. In other words, delaying tasks creates a cycle where work becomes more stressful and difficult to complete.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Many students prefer studying in groups rather than alone.",
+            "Academic performance depends on multiple factors.",
+            "Postponing assignments often leads to anxiety and rushed, lower-quality work.",
+            "Time management skills can be learned through practice.",
+            "Universities offer various support services for students."
+          ],
+          "correct": 2,
+          "explanation": "'In other words' açıklama/paraphrase işaretleyicisi. C ertelemenin sonuçlarını akademik terimlerle açıklar, sonraki cümle aynı fikri daha basit ifade eder (cycle of stress). Anlamsal paralellik var."
+        },
+        {
+          "question": "Social media has transformed how people communicate. Users can instantly share information with global audiences. __________. Such connectivity has both positive and negative implications for society.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Internet access has expanded rapidly in developing countries.",
+            "Geographic distances no longer limit interpersonal interactions.",
+            "Traditional letter writing has become increasingly rare.",
+            "Privacy concerns arise with online data collection.",
+            "Smartphone technology advances every year."
+          ],
+          "correct": 1,
+          "explanation": "'Such connectivity' önceki cümlelerde bahsedilen bağlantı kapasitesini referans eder. B mesafe sınırlarının kalkmasını açıklar (connectivity'nin özü), bu 'such connectivity' referansını destekler."
+        },
+        {
+          "question": "The placebo effect demonstrates the mind's influence on physical health. __________. For instance, patients given sugar pills often report symptom improvement if they believe the treatment is real.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Medical ethics require informed consent from research participants.",
+            "Pharmaceutical companies conduct extensive clinical trials.",
+            "Beliefs and expectations can trigger genuine physiological changes.",
+            "Modern medicine relies on evidence-based treatments.",
+            "Pain management involves various therapeutic approaches."
+          ],
+          "correct": 2,
+          "explanation": "'For instance' somut örnek getirir. C plasebo etkisinin mekanizmasını (belief → physiological changes) açıklar (genel), sonraki cümle spesifik örnek (sugar pills) verir. Genel-spesifik yapısı doğru."
+        },
+        {
+          "question": "Biodiversity loss accelerates at unprecedented rates. Habitat destruction is the primary driver. __________. These factors collectively threaten countless species with extinction.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Conservation efforts require international cooperation and funding.",
+            "Climate change and pollution further compound the problem.",
+            "Zoos play a role in protecting endangered animals.",
+            "Biodiversity refers to the variety of life forms on Earth.",
+            "Genetic diversity strengthens species' resilience."
+          ],
+          "correct": 1,
+          "explanation": "'These factors' çoğul referansı, birden fazla tehdit faktörünü işaret eder. B habitat destruction'a ek faktörler (climate, pollution) ekler, böylece 'these factors' (çoğul) anlamlı olur. A çözüm önerir (bağlam sorunu), C-E bağlantısız."
+        },
+        {
+          "question": "Mindfulness meditation has gained popularity in Western psychology. __________. Nevertheless, scientific studies have begun validating some of its claimed benefits for stress reduction and mental clarity.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Buddhist monks have practiced meditation for centuries.",
+            "The practice was initially dismissed by many researchers as unscientific.",
+            "Stress affects both mental and physical health.",
+            "Modern life involves constant distractions and pressures.",
+            "Therapeutic techniques vary widely across cultures."
+          ],
+          "correct": 1,
+          "explanation": "'Nevertheless' karşıtlık işaretleyicisi, önceki olumsuz/şüpheci tutum ile sonraki olumlu gelişme (validation) arasındaki zıtlığı vurgular. B başlangıçtaki şüpheciliği açıklar, sonraki cümle şimdi kabul gördüğünü belirtir."
+        },
+        {
+          "question": "Urban gardens provide multiple benefits for city dwellers. They offer fresh produce and green spaces. __________. Additionally, community gardens strengthen neighborhood bonds and social cohesion.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Gardening requires knowledge of soil, water, and plant care.",
+            "Agricultural productivity has increased with modern farming methods.",
+            "These spaces also improve air quality and reduce urban heat island effects.",
+            "Supermarkets stock a wide variety of vegetables year-round.",
+            "City planning involves balancing residential and commercial zones."
+          ],
+          "correct": 2,
+          "explanation": "'Additionally' ekleme işaretleyicisi, bahsedilen faydalara yeni faydalar ekler. C çevresel faydaları (air quality, heat reduction) ekler, zaten bahsedilen food/green space'e ek olarak. Sonraki cümle sosyal faydayı ekler. Mantıksal akış doğru."
+        }
+      ]
+    },
+    {
+      "id": "1.4.2",
+      "title": "Tutarlı Konu Gelişimi: Konu Cümlesi, Destek, Sonuç",
+      "content": "Akademik paragraflar belirli bir yapıya sahiptir: konu cümlesi (topic sentence), destekleyici cümleler (supporting sentences), ve genellikle sonuç cümlesi (concluding sentence). YDS ve YÖKDİL'de paragraf tamamlama soruları bu yapıyı anlamayı test eder.\n\n**Paragraf Yapısı:**\n\n1. **Konu Cümlesi (Topic Sentence):**\n   - Ana fikri ifade eder\n   - Genellikle paragrafın başındadır\n   - Geniş bir iddia/argüman sunar\n   - Örnek: \"Renewable energy offers significant environmental benefits.\"\n\n2. **Destekleyici Cümleler (Supporting Sentences):**\n   - Konu cümlesini açıklar, detaylandırır, kanıtlar\n   - Örnekler, veriler, açıklamalar içerir\n   - Mantıksal sırayla düzenlenir (önem, zaman, sebep-sonuç)\n   - Örnek: \"Solar power reduces carbon emissions...\" \"Wind energy is cost-effective...\"\n\n3. **Sonuç Cümlesi (Concluding Sentence):**\n   - Ana fikri özetler veya yeniden ifade eder\n   - İleriye dönük çıkarım yapabilir\n   - \"Therefore, thus, in conclusion, overall\" gibi işaretleyiciler kullanabilir\n   - Örnek: \"Thus, transitioning to renewables is essential for sustainability.\"\n\n**Konu Gelişim Kalıpları:**\n- **Genel → Spesifik:** Geniş iddia → spesifik örnekler/detaylar\n- **Problem → Çözüm:** Sorun tanımı → çözüm önerileri\n- **Sebep → Sonuç:** Nedenler → etkiler/sonuçlar\n- **Karşılaştırma:** A'nın özellikleri → B'nin özellikleri → benzerlik/fark\n\n**Strateji:**\n- Paragrafın ana fikrini belirleyin\n- Boşluğun konumuna göre rol tahmin edin (başlangıç/gelişme/sonuç)\n- Önceki ve sonraki cümlelerle mantıksal bağlantıyı kontrol edin\n- Detay seviyesini değerlendirin (genel mi, spesifik mi?)",
+      "examples": [
+        {
+          "context": "__________. First, excessive screen time strains the eyes and disrupts sleep patterns. Second, prolonged sitting contributes to obesity and cardiovascular problems. Finally, constant connectivity increases stress and anxiety levels.",
+          "correct": "Modern technology use poses several health risks.",
+          "explanation": "Boşluk paragraf başında, konu cümlesi olmalı. Sonraki cümleler 'First, Second, Finally' ile sıralanmış sağlık riskleri listeler. Doğru cümle ana fikri (health risks of technology) genel olarak ifade eder."
+        },
+        {
+          "context": "Water scarcity affects billions of people globally. Agricultural irrigation consumes the largest share of freshwater. Industrial processes also require substantial water resources. __________. Therefore, sustainable water management is critical for future generations.",
+          "correct": "Domestic use, though smaller in volume, is essential for public health and sanitation.",
+          "explanation": "Boşluk destek cümlesi konumunda. Önceki cümleler tarım ve endüstriyel su kullanımını açıkladı. Mantıksal olarak ev kullanımı da eklenmeli ki 'therefore' sonucu anlamlı olsun (comprehensive list → sustainable management)."
+        },
+        {
+          "context": "Exercise provides numerous mental health benefits. Physical activity releases endorphins, which improve mood and reduce stress. Regular workouts enhance cognitive function and memory. Social aspects of group fitness foster community connections. __________.",
+          "correct": "Overall, incorporating exercise into daily routines significantly boosts psychological well-being.",
+          "explanation": "Boşluk paragraf sonunda, sonuç cümlesi olmalı. Önceki cümleler egzersizin mental faydalarını sıraladı. Doğru cümle 'overall' ile bu faydaları özetler ve ana fikre geri döner."
+        },
+        {
+          "context": "Online education has expanded access to learning opportunities. Students in remote areas can now attend courses from prestigious universities. __________. Working professionals benefit from flexible scheduling that allows them to study while maintaining careers.",
+          "correct": "Individuals with disabilities find virtual classrooms more accommodating than physical ones.",
+          "explanation": "Boşluk destek cümlesi konumunda. Önceki cümle bir grup (remote students), sonraki cümle başka grup (working professionals). Mantıksal olarak ara cümle başka bir faydalanan grup (disabled students) eklemeli."
+        },
+        {
+          "context": "Antibiotic overuse has created resistant bacterial strains. __________. Patients often demand antibiotics for viral infections where they are ineffective. Inadequate infection control in hospitals spreads resistant organisms. Agricultural practices that feed antibiotics to livestock compound the problem.",
+          "correct": "Doctors sometimes prescribe antibiotics unnecessarily to satisfy patient expectations.",
+          "explanation": "Konu cümlesi antibiyotik aşırı kullanımı. Boşluk ilk destek cümlesi, sorunun nedenlerini açıklamaya başlar. Doğru cümle doktorların rolünü açıklar, sonraki cümleler hastaların ve tarımın rolünü ekler (causes listed)."
+        },
+        {
+          "context": "Globalization has intensified cultural exchange. __________. International cuisine is now available in most major cities. Music and films cross borders effortlessly through digital platforms. Language learning has become more accessible via online resources. These trends demonstrate increasing cultural interconnection.",
+          "correct": "People worldwide consume similar brands and products, creating shared consumer experiences.",
+          "explanation": "Konu cümlesi kültürel değişim. Boşluk ilk örnek/destek cümlesi olmalı. Doğru cümle tüketim kültüründe benzerlik örneği verir, sonraki cümleler yemek, müzik, dil örnekleri ekler. Hepsi 'cultural exchange' temasını destekler."
+        },
+        {
+          "context": "Sleep deprivation impairs cognitive performance significantly. Memory consolidation occurs primarily during deep sleep stages. __________. Decision-making abilities deteriorate with insufficient rest. Reaction times slow, increasing accident risks. Chronic sleep loss even weakens immune function.",
+          "correct": "Without adequate sleep, learning and information retention become severely compromised.",
+          "explanation": "Konu cümlesi uyku eksikliğinin bilişsel zararları. Boşluk destek cümlesi, memory'den sonra learning/retention hakkında olmalı. Doğru cümle bilişsel etkileri (learning, retention) açıklar, sonraki cümleler decision-making ve reaction ekler."
+        },
+        {
+          "context": "Urban sprawl creates numerous environmental challenges. As cities expand outward, natural habitats are destroyed. Increased commuting distances raise carbon emissions. Infrastructure costs soar when services must cover larger areas. __________. Thus, compact urban planning offers a more sustainable alternative.",
+          "correct": "Farmland disappears under suburban developments, threatening local food security.",
+          "explanation": "Konu cümlesi urban sprawl'ın çevre sorunları. Boşluk son destek cümlesi, 'thus' sonucundan önce. Doğru cümle tarım arazisi kaybı ekler (environmental challenge), sonra 'thus' compact planning çözümünü önerir."
+        },
+        {
+          "context": "__________. Traditional textbooks become quickly outdated and expensive to replace. Digital resources can be instantly updated with new discoveries. Interactive simulations engage students more effectively than static images. Multimedia content accommodates diverse learning styles. These advantages make technology integration essential in modern classrooms.",
+          "correct": "Technology enhances educational quality and accessibility in multiple ways.",
+          "explanation": "Boşluk konu cümlesi konumunda. Sonraki cümleler teknolojinin eğitimdeki faydalarını listeler (updated content, interactivity, multimedia). Doğru cümle ana fikri (technology enhances education) genel olarak ifade eder."
+        },
+        {
+          "context": "Procrastination stems from complex psychological factors. Fear of failure causes some individuals to delay starting tasks. Perfectionism leads others to postpone work until conditions seem ideal. __________. Lack of intrinsic motivation makes unpleasant tasks easy to avoid. Understanding these root causes is the first step toward overcoming procrastination habits.",
+          "correct": "Poor time management skills prevent people from accurately estimating task duration.",
+          "explanation": "Konu cümlesi ertelemenin psikolojik nedenleri. Boşluk destek cümlesi, fear ve perfectionism'den sonra başka bir neden eklemeli. Doğru cümle time management ekler, sonraki cümle motivation ekler. 'Understanding these causes' hepsini referans eder."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "__________. First, it reduces dependence on fossil fuels and mitigates climate change. Second, renewable sources create jobs in manufacturing and installation. Third, distributed generation enhances energy security. These benefits make investing in renewables economically and environmentally sound.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Solar panels convert sunlight into electricity through photovoltaic cells.",
+            "Transitioning to renewable energy provides multiple societal advantages.",
+            "Fossil fuels have powered industrial development for centuries.",
+            "Wind turbines operate efficiently in coastal and mountainous regions.",
+            "Government subsidies often support renewable energy projects."
+          ],
+          "correct": 1,
+          "explanation": "Boşluk paragraf başında, konu cümlesi gerekir. Sonraki cümleler 'First, Second, Third' ile faydaları listeler (climate, jobs, security). B ana fikri (multiple advantages) genel olarak ifade eder. A ve D spesifik detaylar (destek olabilir ama konu cümlesi değil), C ve E bağlam dışı."
+        },
+        {
+          "question": "Childhood obesity has reached epidemic proportions in developed countries. Poor dietary habits contribute significantly to this crisis. __________. Sedentary lifestyles with excessive screen time reduce physical activity. Genetic factors also play a role in individual susceptibility. Addressing this complex problem requires multifaceted interventions.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Children should consume at least five servings of fruits and vegetables daily.",
+            "Processed foods high in sugar and fat are heavily marketed to young consumers.",
+            "Schools have implemented various health education programs.",
+            "Obesity increases risks of diabetes, heart disease, and other conditions.",
+            "Parents serve as important role models for healthy behaviors."
+          ],
+          "correct": 1,
+          "explanation": "Konu cümlesi çocuk obezitesi. Önceki cümle 'poor dietary habits', boşluk bunu açıklayan destek cümlesi olmalı. B işlenmiş gıda ve pazarlama detayı verir (dietary habits açıklaması). Sonraki cümleler sedanter yaşam ve genetik ekler. Mantıksal akış: diet → exercise → genetics."
+        },
+        {
+          "question": "Coral reefs support extraordinary marine biodiversity. These ecosystems provide habitat for approximately 25% of ocean species. __________. Reefs also protect coastlines from erosion and storm damage. Tourism and fishing industries depend heavily on healthy reef systems. Therefore, conservation efforts are essential for both ecological and economic reasons.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Many fish species exhibit colorful patterns and behaviors.",
+            "They serve as crucial nurseries where juvenile fish mature before migrating to open waters.",
+            "Scuba diving allows people to observe underwater environments.",
+            "Ocean acidification results from increased atmospheric carbon dioxide.",
+            "Marine protected areas restrict certain human activities."
+          ],
+          "correct": 1,
+          "explanation": "Konu cümlesi resif biyoçeşitliliği. Önceki cümle %25 tür barındırma, boşluk bu ekolojik rolü detaylandırmalı. B yavru balık kreş işlevi açıklar (biodiversity desteği). Sonraki cümleler kıyı koruması ve ekonomi ekler. 'Therefore' tüm bu nedenleri özetler."
+        },
+        {
+          "question": "Critical thinking skills are essential for academic success. Students must evaluate sources for credibility and bias. __________. Analyzing arguments requires identifying assumptions and logical fallacies. Synthesizing information from multiple perspectives leads to deeper understanding. Developing these abilities prepares students for complex real-world challenges.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Libraries provide access to scholarly databases and research materials.",
+            "Effective note-taking improves information retention during lectures.",
+            "Questioning claims and seeking evidence distinguishes correlation from causation.",
+            "Group projects encourage collaboration among peers.",
+            "Time management helps students balance coursework and extracurricular activities."
+          ],
+          "correct": 2,
+          "explanation": "Konu cümlesi eleştirel düşünme becerileri. Önceki cümle kaynak değerlendirme, boşluk başka bir eleştirel beceri eklemeli. C sorgulama ve kanıt arayışı ekler (critical skill). Sonraki cümle argüman analizi ekler. Hepsi 'critical thinking skills' temasını destekler."
+        },
+        {
+          "question": "__________. Mindfulness meditation reduces rumination and anxiety by anchoring attention in the present moment. Cognitive-behavioral therapy helps identify and change negative thought patterns. Regular exercise releases neurochemicals that naturally elevate mood. Social connections provide emotional support during difficult periods. Combining these approaches offers comprehensive mental health benefits.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Depression affects millions of people worldwide across all age groups.",
+            "Several evidence-based strategies effectively manage stress and depression.",
+            "Psychiatric medications work by altering brain chemistry.",
+            "Mental health awareness campaigns reduce stigma surrounding treatment.",
+            "Workplace stress contributes to burnout and job dissatisfaction."
+          ],
+          "correct": 1,
+          "explanation": "Boşluk konu cümlesi (paragraf başı). Sonraki cümleler farklı stratejileri listeler (mindfulness, CBT, exercise, social). B ana fikri (multiple strategies for stress/depression) genel olarak ifade eder. A sorun tanımlar ama çözümleri tanıtmaz, C-E tek yön veya bağlam dışı."
+        },
+        {
+          "question": "The gig economy transforms traditional employment relationships. Workers gain flexibility in choosing projects and schedules. __________. However, this model also creates instability, as income can fluctuate unpredictably. Benefits like healthcare and retirement plans are often unavailable. Regulatory frameworks struggle to adapt to these new labor arrangements.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Many companies now operate with remote teams across multiple time zones.",
+            "Freelancers can pursue diverse interests and avoid monotonous routines.",
+            "Labor unions historically protected workers' rights and negotiated contracts.",
+            "Automation threatens to eliminate many traditional job categories.",
+            "Education systems prepare students primarily for conventional careers."
+          ],
+          "correct": 1,
+          "explanation": "Önceki cümle gig economy'nin olumlu yönü (flexibility), boşluk bu temayı sürdürmeli çünkü sonraki 'however' olumsuz yönlere geçer. B freelance faydalarını ekler (positive side). Sonra 'however' instability, benefits lack gibi sorunlara geçer. Karşıtlık yapısı korunur."
+        },
+        {
+          "question": "Invasive species disrupt native ecosystems in multiple ways. They compete with indigenous organisms for resources like food and habitat. __________. Some invasives introduce diseases to which native species have no immunity. Lacking natural predators, invasive populations often grow unchecked. These cascading effects can fundamentally alter ecosystem functioning.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Biodiversity hotspots contain exceptionally high concentrations of endemic species.",
+            "Predation by invasive animals directly reduces native populations.",
+            "Conservation biology studies methods for protecting endangered species.",
+            "Climate change affects species distribution patterns globally.",
+            "Ecotourism generates revenue for local communities."
+          ],
+          "correct": 1,
+          "explanation": "Konu cümlesi invasive species'in ekosistemlere zararları. Önceki cümle kaynak rekabeti, boşluk başka bir zarar şekli eklemeli. B avcılık (predation) ekler. Sonraki cümleler hastalık ve predatör yokluğu ekler. Hepsi 'multiple ways' temasını destekleyen zarar örnekleri."
+        },
+        {
+          "question": "Financial literacy education should begin early in schooling. Children can learn basic concepts like saving and budgeting through age-appropriate activities. Teenagers benefit from understanding credit, loans, and investment fundamentals. __________. These skills empower individuals to make informed economic decisions throughout life.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Many adults struggle with debt management and retirement planning.",
+            "Stock markets fluctuate based on economic indicators and investor sentiment.",
+            "Young adults entering the workforce need knowledge about taxes, insurance, and retirement accounts.",
+            "Economic inequality has widened significantly in recent decades.",
+            "Banks offer various savings accounts with different interest rates."
+          ],
+          "correct": 2,
+          "explanation": "Konu cümlesi finansal okuryazarlık eğitimi. Yaş grupları sıralanıyor: children → teenagers → boşluk (young adults) mantıklı. C genç yetişkinlerin ihtiyaçlarını ekler (taxes, insurance, retirement). Sonuç cümlesi 'throughout life' tüm yaş gruplarını özetler. Yaşa göre ilerleme yapısı doğru."
+        },
+        {
+          "question": "Telemedicine expands healthcare access to underserved populations. Rural residents can consult specialists without traveling long distances. __________. Elderly patients with mobility limitations receive care from home. Emergency triage systems prioritize urgent cases remotely. Thus, technology reduces geographic and physical barriers to medical services.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Medical schools train doctors in clinical diagnosis and treatment protocols.",
+            "Patients with chronic conditions require ongoing monitoring and management.",
+            "Individuals in areas with physician shortages gain access to expert consultations.",
+            "Healthcare costs have risen faster than general inflation rates.",
+            "Electronic health records improve coordination among providers."
+          ],
+          "correct": 2,
+          "explanation": "Konu cümlesi telemedicine ve erişim genişletme. Önceki cümle rural residents, boşluk başka bir yararlanıcı grup eklemeli. C doktor eksikliği olan bölgelerdeki hastalar ekler (underserved population örneği). Sonraki cümleler elderly ve emergency ekler. 'Thus' tüm grupları özetler."
+        },
+        {
+          "question": "Historical preservation serves multiple purposes beyond nostalgia. __________. Buildings and artifacts provide tangible connections to past events and cultures. Heritage sites support local economies through tourism and related businesses. Restored structures demonstrate sustainable architecture and craftsmanship techniques. Communities maintain cultural identity and continuity through protecting their heritage. These diverse benefits justify investing in conservation efforts.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Many ancient civilizations developed sophisticated engineering capabilities.",
+            "Preserving the past offers educational opportunities for understanding societal development.",
+            "Archaeologists excavate sites to uncover new historical information.",
+            "Museums curate collections to display important historical objects.",
+            "Funding for preservation projects often comes from government grants."
+          ],
+          "correct": 1,
+          "explanation": "Konu cümlesi tarihi koruma amaçları (multiple purposes). Boşluk ilk amaç/fayda cümlesi, sonrakiler buildings/artifacts, tourism, architecture, cultural identity ekler. B eğitimsel değer ekler (bir amaç). Sonraki cümleler diğer faydaları listeler. 'These diverse benefits' hepsini özetler."
+        }
+      ]
+    },
+    {
+      "id": "1.4.3",
+      "title": "Ton, Tavır, Değerlendirme İpuçları",
+      "content": "YDS ve YÖKDİL'de paragraf tamamlama sorularında başarı için yazarın tonu, tavrı ve değerlendirmesini (stance) doğru tespit etmek kritiktir. Doğru cümle, paragrafın genel tonuyla uyumlu olmalıdır.\n\n**Ton Türleri (Tone Types):**\n\n1. **Objektif/Nötral (Objective/Neutral):**\n   - Kişisel görüş içermez, olgular sunar\n   - Akademik yazının varsayılan tonu\n   - Örnek: \"Research indicates that...\", \"Studies show...\"\n\n2. **Olumlu (Positive):**\n   - Destekleyici, iyimser, onaylayıcı\n   - Kelimeler: beneficial, advantageous, promising, effective\n   - Örnek: \"This innovative approach offers significant benefits.\"\n\n3. **Olumsuz/Eleştirel (Negative/Critical):**\n   - Kuşkucu, eleştirel, endişeli\n   - Kelimeler: problematic, concerning, inadequate, flawed\n   - Örnek: \"However, this method has serious limitations.\"\n\n4. **Dengeli/Nüanslı (Balanced/Nuanced):**\n   - Hem olumlu hem olumsuz yönleri kabul eder\n   - Kelimeler: while, although, despite, on the other hand\n   - Örnek: \"While X offers benefits, it also presents challenges.\"\n\n**Değerlendirme İşaretleyicileri (Stance Markers):**\n- **Kesinlik (Certainty):** clearly, undoubtedly, definitely, obviously\n- **Belirsizlik (Hedging):** perhaps, possibly, may, might, appears to\n- **Zorunluluk (Obligation):** must, should, need to, essential\n- **Önem (Importance):** significantly, critically, crucially, notably\n\n**Tutarlılık Stratejisi:**\n- Paragraftaki sıfat/zarf seçimlerine dikkat edin\n- Modalların kullanımını gözlemleyin (certainty vs. possibility)\n- Genel tavrı belirleyin: savunma, eleştiri, tarafsız analiz?\n- Doğru cümle aynı tonu ve değerlendirme derecesini korumalı",
+      "examples": [
+        {
+          "context": "Autonomous vehicles represent a revolutionary transportation breakthrough. Self-driving technology promises to dramatically reduce accidents caused by human error. Traffic efficiency will improve as vehicles communicate seamlessly. __________. This transformative innovation will reshape urban planning and mobility.",
+          "correct": "Furthermore, elderly and disabled individuals will gain unprecedented independence.",
+          "explanation": "Paragraf ton: olumlu, iyimser (revolutionary, promises, dramatically). Doğru cümle aynı olumlu tonu sürdürür: 'unprecedented independence' (benefit). 'Furthermore' ekleme yaparak pozitif değerlendirmeyi destekler."
+        },
+        {
+          "context": "Current standardized testing practices face mounting criticism. Critics argue these exams inadequately measure student abilities. __________. Socioeconomic biases in test design perpetuate educational inequality. These serious flaws demand comprehensive assessment reform.",
+          "correct": "The narrow focus on rote memorization stifles creativity and critical thinking.",
+          "explanation": "Paragraf ton: eleştirel, olumsuz (criticism, inadequately, flaws, demand reform). Doğru cümle aynı eleştirel tonu korur: 'stifles' (negative verb), 'narrow focus' (limitation). Değerlendirme tutarlı."
+        },
+        {
+          "context": "Genetic engineering raises complex ethical questions. While the technology could potentially cure hereditary diseases, unregulated applications pose risks. __________. Society must carefully balance innovation with precautionary principles.",
+          "correct": "Concerns about designer babies and genetic inequality warrant serious consideration.",
+          "explanation": "Paragraf ton: dengeli, temkinli (complex, could potentially, but risks, must carefully balance). Doğru cümle aynı dikkatli tonu sürdürür: 'concerns warrant consideration' (balanced, neither fully positive nor negative)."
+        },
+        {
+          "context": "Recent climate data leaves little room for doubt. Global temperatures have risen consistently over the past century. Ice sheet melting accelerates at alarming rates. __________. The evidence overwhelmingly confirms human-caused climate change.",
+          "correct": "Sea level rise threatens coastal cities across every continent.",
+          "explanation": "Paragraf ton: kesin, güçlü (little doubt, overwhelmingly confirms). Doğru cümle aynı kesinliği korur: 'threatens' (definite negative consequence), 'every continent' (comprehensive scope). Objective ama güçlü ifade."
+        },
+        {
+          "context": "Mindfulness practices may offer benefits for stress management. Some studies suggest meditation reduces anxiety. __________. However, the evidence base remains limited and requires further investigation.",
+          "correct": "Preliminary research indicates potential improvements in emotional regulation.",
+          "explanation": "Paragraf ton: belirsiz, temkinli, hedging (may, some studies suggest, remains limited). Doğru cümle aynı belirsizliği korur: 'preliminary', 'indicates', 'potential' (hedging words). 'However' ile sonraki çekince uyumlu."
+        },
+        {
+          "context": "Microplastic pollution permeates every marine ecosystem. Tiny plastic particles contaminate seafood consumed by humans. __________. This pervasive environmental threat demands immediate global action.",
+          "correct": "Even remote polar waters contain alarming concentrations of synthetic polymers.",
+          "explanation": "Paragraf ton: ciddi, endişeli (permeates every, contaminate, threat, demands). Doğru cümle aynı ciddiyet tonunu korur: 'even remote' (extent emphasis), 'alarming' (negative evaluation). Değerlendirme tutarlı: urgent problem."
+        },
+        {
+          "context": "Bilingual education programs show promising results in various contexts. Children demonstrate enhanced cognitive flexibility. __________. These positive outcomes support expanding multilingual instruction.",
+          "correct": "Academic performance often equals or exceeds that of monolingual peers.",
+          "explanation": "Paragraf ton: olumlu, destekleyici (promising, enhanced, positive outcomes, support expanding). Doğru cümle aynı olumlu değerlendirmeyi sürdürür: 'equals or exceeds' (positive comparison). Ton tutarlı."
+        },
+        {
+          "context": "Cryptocurrency adoption remains uncertain. Regulatory frameworks vary wildly across jurisdictions. __________. The long-term viability of digital currencies depends on resolving these fundamental challenges.",
+          "correct": "Price volatility and security vulnerabilities continue to deter mainstream users.",
+          "explanation": "Paragraf ton: belirsiz, kuşkucu (uncertain, vary wildly, depends on resolving challenges). Doğru cümle aynı kuşkucu tonu korur: 'volatility', 'vulnerabilities', 'deter' (negative/uncertain language). Değerlendirme: problem-focused."
+        },
+        {
+          "context": "Clearly, vaccination programs represent one of medicine's greatest achievements. Smallpox eradication stands as irrefutable proof of vaccines' effectiveness. __________. Opposition to immunization lacks any credible scientific foundation.",
+          "correct": "Measles and polio rates have plummeted wherever vaccination campaigns are implemented.",
+          "explanation": "Paragraf ton: çok güçlü olumlu, kesin (clearly, greatest achievements, irrefutable proof, lacks any credible foundation). Doğru cümle aynı kesinliği korur: 'plummeted' (dramatic positive change), 'wherever implemented' (universal success). Strong stance."
+        },
+        {
+          "context": "Artificial intelligence applications raise important considerations. The technology offers efficiency gains but may displace workers. Privacy protections require updating for algorithmic decision-making. __________. Thoughtful regulation can maximize benefits while mitigating risks.",
+          "correct": "Bias in training data can perpetuate or amplify societal inequalities.",
+          "explanation": "Paragraf ton: dengeli, dikkatlı (important considerations, offers...but may, require updating, maximize benefits while mitigating risks). Doğru cümle aynı balanced tonu korur: sorun tanımlar ('bias') ama çözülebilir şekilde. Final sentence ile uyumlu."
+        }
+      ],
+      "exercises": [
+        {
+          "question": "Renewable energy technologies have achieved remarkable cost reductions. Solar panel efficiency continues to improve rapidly. Wind power now competes economically with fossil fuels. __________. These advances position clean energy as the future of power generation.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "However, intermittency issues require further research and development.",
+            "Storage battery costs have dropped substantially, addressing grid reliability concerns.",
+            "Some critics question the environmental impact of manufacturing processes.",
+            "Government subsidies may not remain available indefinitely.",
+            "Fossil fuel industries employ millions of workers worldwide."
+          ],
+          "correct": 1,
+          "explanation": "Paragraf ton: olumlu, iyimser (remarkable, continues to improve, competes economically, advances, future). B aynı olumlu tonu sürdürür: cost drop, addressing concerns (solution-oriented). A-E olumsuz/kuşkucu ifadeler, ton çelişkisi yaratır."
+        },
+        {
+          "question": "The current healthcare system suffers from critical inefficiencies. Administrative costs consume nearly 30% of spending. __________. Patients face unconscionable delays for essential treatments. These systemic failures necessitate fundamental restructuring.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Medical technology has advanced considerably in recent decades.",
+            "Many healthcare workers demonstrate exceptional dedication to patients.",
+            "Fragmented record-keeping leads to dangerous medical errors and duplicated tests.",
+            "Some hospitals have implemented innovative care coordination programs.",
+            "Health insurance provides financial protection for many families."
+          ],
+          "correct": 2,
+          "explanation": "Paragraf ton: eleştirel, olumsuz (suffers, critical inefficiencies, unconscionable delays, failures, necessitate restructuring). C aynı eleştirel tonu korur: 'fragmented', 'dangerous errors' (problems). A, B, D, E olumlu/nötral ifadeler, ton uyumsuz."
+        },
+        {
+          "question": "Social media's impact on society presents a nuanced picture. These platforms facilitate valuable connections across distances. __________. Regulators face difficult tradeoffs between free expression and content moderation. Balancing benefits and harms requires ongoing attention.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Yet misinformation spreads rapidly, potentially undermining democratic processes.",
+            "Users waste countless hours scrolling through meaningless content.",
+            "Social networks clearly represent humanity's greatest communication breakthrough.",
+            "Studies overwhelmingly prove that social media causes depression in teenagers.",
+            "Everyone should immediately delete their social media accounts."
+          ],
+          "correct": 0,
+          "explanation": "Paragraf ton: dengeli, nüanslı (nuanced picture, valuable...yet difficult tradeoffs, balancing benefits and harms). A aynı balanced tonu korur: 'valuable...yet misinformation' (acknowledges both sides). B-E tek taraflı, extreme, dengeyi bozar."
+        },
+        {
+          "question": "Evidence unequivocally demonstrates that exercise benefits mental health. Numerous rigorous studies confirm mood improvements. __________. The data clearly supports prescribing physical activity for depression and anxiety.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Some research suggests possible cognitive benefits.",
+            "Exercise might help certain individuals manage stress.",
+            "Physical activity consistently reduces symptoms across diverse populations.",
+            "Further investigation may reveal additional mechanisms.",
+            "Preliminary findings indicate potential applications."
+          ],
+          "correct": 2,
+          "explanation": "Paragraf ton: çok güçlü, kesin (unequivocally, numerous rigorous, confirm, clearly supports). C aynı güçlü kesinliği korur: 'consistently', 'across diverse populations' (strong evidence). A, B, D, E hedging language (some, might, may, preliminary), ton uyumsuz."
+        },
+        {
+          "question": "Quantum computing remains in early developmental stages. Researchers have achieved limited proof-of-concept demonstrations. __________. Whether the technology will fulfill its theoretical promise is uncertain. Cautious optimism seems warranted at this juncture.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Quantum computers will revolutionize every industry within five years.",
+            "Significant technical obstacles still hinder practical applications.",
+            "This breakthrough definitively solves all computational problems.",
+            "The technology has completely failed to deliver results.",
+            "Quantum mechanics clearly proves these devices are impossible."
+          ],
+          "correct": 1,
+          "explanation": "Paragraf ton: belirsiz, temkinli (remains early, limited proof, uncertain, cautious optimism). B aynı temkinli tonu korur: 'significant obstacles still hinder' (acknowledges challenges without extreme claims). A, C extreme positive; D, E extreme negative."
+        },
+        {
+          "question": "The biodiversity crisis threatens ecosystem stability worldwide. Species extinction rates have accelerated to alarming levels. __________. Habitat loss continues relentlessly despite conservation efforts. Immediate, coordinated global action is imperative to prevent catastrophic collapse.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Some species are adapting successfully to changing conditions.",
+            "Protected areas provide safe havens for many endangered animals.",
+            "Deforestation destroys critical habitats at unprecedented rates.",
+            "Conservation successes demonstrate that recovery is possible.",
+            "Ecotourism generates revenue while protecting wildlife."
+          ],
+          "correct": 2,
+          "explanation": "Paragraf ton: ciddi, alarm verici (crisis, threatens, alarming, relentlessly, imperative, catastrophic). C aynı ciddi/alarm tonu korur: 'destroys', 'unprecedented rates' (urgent problem). A, B, D, E olumlu/umut verici, ton çelişkisi."
+        },
+        {
+          "question": "Work-from-home arrangements offer both advantages and challenges. Employees appreciate flexible schedules and reduced commuting. __________. Organizations must develop policies that address both employee preferences and operational needs. Hybrid models may provide optimal solutions.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Remote work definitively increases productivity in all cases.",
+            "Offices are completely obsolete and should be eliminated.",
+            "However, some workers report isolation and difficulty separating work from personal life.",
+            "Telecommuting clearly destroys company culture and collaboration.",
+            "Everyone should be required to return to offices immediately."
+          ],
+          "correct": 2,
+          "explanation": "Paragraf ton: dengeli, her iki yönü de kabul eden (both advantages and challenges, must address both, may provide optimal solutions). C aynı balanced tonu korur: pozitif sonra 'however' ile negatif (both sides). A, B, D, E extreme tek taraflı."
+        },
+        {
+          "question": "Preliminary findings hint at a possible connection between diet and cognitive decline. A few small studies suggest potential correlations. __________. Much more research is needed before drawing definitive conclusions. These early results simply indicate areas warranting further investigation.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "The evidence overwhelmingly proves that specific foods cause dementia.",
+            "Certain dietary patterns may be associated with memory changes in some populations.",
+            "Diet definitely determines cognitive health outcomes for everyone.",
+            "Nutrition clearly has no relationship to brain function whatsoever.",
+            "These studies conclusively demonstrate causation beyond doubt."
+          ],
+          "correct": 1,
+          "explanation": "Paragraf ton: çok belirsiz, hedging (preliminary, hint, possible, few, suggest, potential, much more needed, simply indicate). B aynı hedging tonu korur: 'may be', 'some populations' (tentative). A, C, D, E kesin iddialar, hedging'i bozar."
+        },
+        {
+          "question": "__________. The methodology employed serious flaws in sampling and data analysis. Confounding variables were not adequately controlled. __________. Consequently, the study's conclusions lack credibility and should be disregarded.\n\nWhich pair of sentences best completes the paragraph?",
+          "options": [
+            "This research represents a major breakthrough. / Results appear promising for future applications.",
+            "The published study contains significant methodological shortcomings. / Statistical analyses failed to meet accepted standards.",
+            "Some interesting findings emerged from this work. / Further research might clarify these results.",
+            "This groundbreaking study will transform the field. / The innovative approach yields remarkable insights.",
+            "The research raises important questions. / Additional investigation could prove valuable."
+          ],
+          "correct": 1,
+          "explanation": "Paragraf ton: eleştirel, olumsuz (serious flaws, not adequately, lack credibility, should be disregarded). B aynı eleştirel tonu korur her iki boşlukta: 'significant shortcomings', 'failed to meet standards'. Diğerleri olumlu/nötral, ton uyumsuz."
+        },
+        {
+          "question": "Vaccination stands as modern medicine's most effective public health intervention. Immunization programs have saved countless millions of lives globally. __________. Herd immunity protects even those who cannot be vaccinated. The overwhelming scientific consensus supports routine childhood vaccination.\n\nWhich sentence best completes the paragraph?",
+          "options": [
+            "Some parents have concerns about vaccine safety that deserve consideration.",
+            "Polio, measles, and other once-devastating diseases are now largely preventable.",
+            "Further research may reveal additional benefits or risks.",
+            "The evidence on vaccine efficacy remains somewhat mixed.",
+            "Immunization programs face ongoing challenges and uncertainties."
+          ],
+          "correct": 1,
+          "explanation": "Paragraf ton: çok güçlü olumlu, kesin (most effective, saved countless millions, overwhelming consensus supports). B aynı güçlü olumlu tonu korur: specific diseases 'now largely preventable' (clear success). A, C, D, E hedging/kuşkucu ifadeler, ton uyumsuz."
+        }
+      ]
+    }
+  ]
+}

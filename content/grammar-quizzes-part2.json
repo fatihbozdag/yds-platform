@@ -1,0 +1,1102 @@
+{
+  "reported-speech": {
+    "id": "reported-speech",
+    "title": "Reported Speech",
+    "description": "Direct and indirect speech transformation rules",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "\"I will visit my parents tomorrow,\" she said. She said that she ---- her parents ----.",
+        "options": [
+          "will visit / tomorrow",
+          "would visit / the next day",
+          "visited / the next day",
+          "would visit / tomorrow",
+          "will visit / the next day"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Direct speech'teki 'will' reported speech'te 'would' olur ve 'tomorrow' ise 'the next day' olarak değişir. Zaman kayması (tense backshift) kuralı uygulanır.",
+        "topic": "Reported Speech - Tense Changes"
+      },
+      {
+        "id": 2,
+        "text": "The teacher asked the students ---- they had finished their homework.",
+        "options": [
+          "that",
+          "if",
+          "what",
+          "which",
+          "whose"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Ask' fiili yes/no sorusu bildirirken 'if' veya 'whether' kullanır. 'That' bildirme cümlelerinde, diğerleri ise soru sözcüğü gerektiren durumlarda kullanılır.",
+        "topic": "Reported Questions"
+      },
+      {
+        "id": 3,
+        "text": "\"Don't forget to lock the door,\" my mother reminded me. My mother reminded me ---- to lock the door.",
+        "options": [
+          "don't forget",
+          "not forget",
+          "not to forget",
+          "to not forget",
+          "that not forget"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Emir ve isteklerin reported speech'te infinitive yapısı kullanılır. Olumsuz için 'not to + verb' kullanılır, 'to not verb' değil.",
+        "topic": "Reported Commands"
+      },
+      {
+        "id": 4,
+        "text": "He said, \"I have been working here for five years.\" He said that he ---- there for five years.",
+        "options": [
+          "has been working",
+          "had been working",
+          "was working",
+          "has worked",
+          "would be working"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Present Perfect Continuous (have been working) reported speech'te Past Perfect Continuous (had been working) olur. 'Here' ise 'there' olarak değişir.",
+        "topic": "Reported Speech - Perfect Tenses"
+      },
+      {
+        "id": 5,
+        "text": "\"Where did you put my keys?\" she asked me. She asked me where ---- her keys.",
+        "options": [
+          "I put",
+          "did I put",
+          "I had put",
+          "had I put",
+          "I have put"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Wh-questions reported speech'te düz cümle yapısına döner (soru yapısı kalkmaz) ve tense bir adım geriye gider (did → had). 'My' ise 'her' olur.",
+        "topic": "Reported Wh-Questions"
+      },
+      {
+        "id": 6,
+        "text": "The manager told us ---- the meeting room before leaving.",
+        "options": [
+          "that we tidy",
+          "to tidy",
+          "tidying",
+          "tidy",
+          "that tidying"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Tell someone to do something' yapısı kullanılır. Emir/talimat bildiren cümlelerde infinitive (to + verb) yapısı tercih edilir.",
+        "topic": "Reported Commands with Tell"
+      },
+      {
+        "id": 7,
+        "text": "\"I may not attend the conference,\" he said. He said that he ---- not attend the conference.",
+        "options": [
+          "may",
+          "might",
+          "can",
+          "could",
+          "would"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Modal 'may' reported speech'te 'might' olur. Diğer modal değişimleri: can→could, will→would, must→had to.",
+        "topic": "Reported Speech - Modal Verbs"
+      },
+      {
+        "id": 8,
+        "text": "She asked me ---- I could help her with the project.",
+        "options": [
+          "that",
+          "if",
+          "what",
+          "which",
+          "when"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Yes/no sorularını aktarırken 'if' veya 'whether' kullanılır. 'Ask if' yapısı 'Can you...?' gibi soruları aktarmak için standarttır.",
+        "topic": "Reported Yes/No Questions"
+      },
+      {
+        "id": 9,
+        "text": "\"Let's go to the cinema,\" Tom suggested. Tom suggested ---- to the cinema.",
+        "options": [
+          "to go",
+          "going",
+          "that we go",
+          "us to go",
+          "go"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Suggest' fiili gerund (-ing) veya 'that + subject + verb' yapısı alır. 'Suggest going' veya 'suggest that we go' doğrudur.",
+        "topic": "Reported Suggestions"
+      },
+      {
+        "id": 10,
+        "text": "The doctor advised him ---- smoking immediately.",
+        "options": [
+          "to stop",
+          "stopping",
+          "that stop",
+          "stop",
+          "stopped"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Advise someone to do something' yapısı kullanılır. Tavsiye bildiren fiiller (advise, recommend, urge) infinitive ile kullanılır.",
+        "topic": "Reported Advice"
+      },
+      {
+        "id": 11,
+        "text": "\"I must finish this report today,\" she said. She said that she ---- finish that report that day.",
+        "options": [
+          "must",
+          "had to",
+          "has to",
+          "should",
+          "would"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Must' (zorunluluk anlamında) reported speech'te 'had to' olur. 'Today' ise 'that day' olarak değişir.",
+        "topic": "Reported Speech - Must"
+      },
+      {
+        "id": 12,
+        "text": "He warned us ---- near the construction site.",
+        "options": [
+          "not go",
+          "don't go",
+          "not to go",
+          "to not go",
+          "that not go"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Warn someone not to do something' yapısı kullanılır. Uyarılarda olumsuz infinitive 'not to + verb' şeklindedir.",
+        "topic": "Reported Warnings"
+      },
+      {
+        "id": 13,
+        "text": "\"Could you please pass me the salt?\" she asked. She asked me ---- her the salt.",
+        "options": [
+          "if I could pass",
+          "could I pass",
+          "that I pass",
+          "to pass",
+          "passing"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Nazik istekler (Could you...?) reported speech'te 'if/whether + subject + could' yapısıyla aktarılır veya 'to pass' şeklinde basitleştirilebilir.",
+        "topic": "Reported Requests"
+      },
+      {
+        "id": 14,
+        "text": "The guide explained to us ---- the ancient ruins were discovered.",
+        "options": [
+          "that",
+          "if",
+          "how",
+          "what",
+          "which"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'How' soru sözcüğü reported speech'te aynen korunur. Açıklama cümleleri 'explain how/why/what' yapısıyla aktarılır.",
+        "topic": "Reported Explanations"
+      },
+      {
+        "id": 15,
+        "text": "\"I wish I had studied harder,\" John said. John said that he wished he ---- harder.",
+        "options": [
+          "studied",
+          "had studied",
+          "has studied",
+          "would study",
+          "studies"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Wish cümleleri reported speech'te tense değişimi yapmaz çünkü zaten geçmişi ifade eder. 'Wish + Past Perfect' yapısı korunur.",
+        "topic": "Reported Speech - Wish"
+      }
+    ]
+  },
+  "infinitives-gerunds": {
+    "id": "infinitives-gerunds",
+    "title": "Infinitives vs Gerunds",
+    "description": "When to use infinitive (to + verb) and gerund (-ing)",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "She decided ---- abroad for her master's degree.",
+        "options": [
+          "studying",
+          "to study",
+          "study",
+          "studied",
+          "having studied"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Decide' fiili infinitive (to + verb) alır. Karar bildiren fiiller (decide, plan, hope, agree) infinitive ile kullanılır.",
+        "topic": "Verbs + Infinitive"
+      },
+      {
+        "id": 2,
+        "text": "I enjoy ---- classical music in my free time.",
+        "options": [
+          "to listen",
+          "listen",
+          "listening",
+          "listened",
+          "to listening"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Enjoy' fiili gerund (-ing) alır. Zevk/hoşlanma bildiren fiiller (enjoy, like, love, dislike, hate) genellikle gerund ile kullanılır.",
+        "topic": "Verbs + Gerund"
+      },
+      {
+        "id": 3,
+        "text": "He stopped ---- when the doctor warned him about his health.",
+        "options": [
+          "to smoke",
+          "smoke",
+          "smoking",
+          "smoked",
+          "having smoked"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Stop smoking' = sigarayı bırakmak. 'Stop + gerund' bir aktiviteyi durdurmak anlamına gelir. 'Stop to smoke' ise sigara içmek için durmak demektir.",
+        "topic": "Stop + Gerund/Infinitive"
+      },
+      {
+        "id": 4,
+        "text": "Don't forget ---- the lights before you leave.",
+        "options": [
+          "turning off",
+          "to turn off",
+          "turn off",
+          "turned off",
+          "having turned off"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Forget to do' = yapmayı unutmak (henüz yapılmamış). 'Forget doing' = yaptığını unutmak (zaten yapılmış). Burada ışıkları kapatmayı hatırla deniliyor.",
+        "topic": "Forget + Gerund/Infinitive"
+      },
+      {
+        "id": 5,
+        "text": "I'm looking forward to ---- you at the conference.",
+        "options": [
+          "see",
+          "seeing",
+          "saw",
+          "seen",
+          "be seeing"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Look forward to' yapısındaki 'to' bir preposition (edat) olduğu için ardından gerund gelir. Infinitive'in 'to'su değildir.",
+        "topic": "Preposition + Gerund"
+      },
+      {
+        "id": 6,
+        "text": "The manager made us ---- late to finish the project.",
+        "options": [
+          "to stay",
+          "staying",
+          "stay",
+          "stayed",
+          "to staying"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Make someone do something' yapısı bare infinitive (to'suz) alır. Make, let, have fiilleri bu yapıdadır.",
+        "topic": "Bare Infinitive"
+      },
+      {
+        "id": 7,
+        "text": "She admitted ---- the window accidentally.",
+        "options": [
+          "to break",
+          "break",
+          "breaking",
+          "broke",
+          "to breaking"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Admit' fiili gerund alır. İtiraf/kabul bildiren fiiller (admit, deny, confess) gerund ile kullanılır.",
+        "topic": "Verbs + Gerund"
+      },
+      {
+        "id": 8,
+        "text": "I remember ---- her at the party last year.",
+        "options": [
+          "to meet",
+          "meet",
+          "meeting",
+          "met",
+          "to meeting"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Remember doing' = yaptığını hatırlamak (geçmişte yapıldı). 'Remember to do' = yapmayı hatırlamak (gelecekte yapılacak). Burada geçmiş anı anlatılıyor.",
+        "topic": "Remember + Gerund/Infinitive"
+      },
+      {
+        "id": 9,
+        "text": "He offered ---- me with my luggage.",
+        "options": [
+          "helping",
+          "to help",
+          "help",
+          "helped",
+          "to helping"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Offer' fiili infinitive alır. Teklif/öneri bildiren fiiller (offer, promise, refuse, volunteer) infinitive ile kullanılır.",
+        "topic": "Verbs + Infinitive"
+      },
+      {
+        "id": 10,
+        "text": "I can't stand ---- in long queues.",
+        "options": [
+          "to wait",
+          "wait",
+          "waiting",
+          "waited",
+          "to waiting"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Can't stand' (dayanamamak) gerund alır. Hoşlanmama bildiren ifadeler (can't stand, can't help, can't bear) gerund ile kullanılır.",
+        "topic": "Verbs + Gerund"
+      },
+      {
+        "id": 11,
+        "text": "They postponed ---- the decision until next week.",
+        "options": [
+          "to make",
+          "make",
+          "making",
+          "made",
+          "to making"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Postpone' fiili gerund alır. Erteleme/geciktirme bildiren fiiller (postpone, delay, put off) gerund ile kullanılır.",
+        "topic": "Verbs + Gerund"
+      },
+      {
+        "id": 12,
+        "text": "She let her children ---- TV before finishing their homework.",
+        "options": [
+          "to watch",
+          "watching",
+          "watch",
+          "watched",
+          "to watching"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Let someone do something' yapısı bare infinitive (to'suz) alır. Let, make, have fiilleri bu şekilde kullanılır.",
+        "topic": "Bare Infinitive"
+      },
+      {
+        "id": 13,
+        "text": "I tried ---- the problem but I couldn't find a solution.",
+        "options": [
+          "to solve",
+          "solve",
+          "solving",
+          "solved",
+          "to solving"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Try to do' = yapmaya çalışmak (çaba göstermek). 'Try doing' = denemek (farklı yöntem). Burada problemi çözmeye çalıştı ama çözemedi deniliyor.",
+        "topic": "Try + Gerund/Infinitive"
+      },
+      {
+        "id": 14,
+        "text": "We regret ---- you that your application has been rejected.",
+        "options": [
+          "informing",
+          "to inform",
+          "inform",
+          "informed",
+          "to informing"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'Regret to do' = üzülerek yapmak (formal). 'Regret doing' = yaptığına pişman olmak. Burada formal bildirim yapılıyor.",
+        "topic": "Regret + Gerund/Infinitive"
+      },
+      {
+        "id": 15,
+        "text": "It's worth ---- this book if you're interested in psychology.",
+        "options": [
+          "to read",
+          "read",
+          "reading",
+          "to reading",
+          "having read"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Worth' kelimesi gerund alır. 'It's worth doing something' yapısı standarttır. 'It's worth to do' yanlıştır.",
+        "topic": "Worth + Gerund"
+      }
+    ]
+  },
+  "relative-clauses": {
+    "id": "relative-clauses",
+    "title": "Relative Clauses",
+    "description": "Defining and non-defining relative clauses with who, which, that, where, whose",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "The woman ---- is standing by the door is my English teacher.",
+        "options": [
+          "which",
+          "whose",
+          "whom",
+          "who",
+          "where"
+        ],
+        "correctAnswer": 3,
+        "explanation": "'Who' kişiler için relative pronoun olarak kullanılır ve özne konumundadır. 'The woman' = person, özne olarak 'who' alır.",
+        "topic": "Relative Pronouns - Who"
+      },
+      {
+        "id": 2,
+        "text": "This is the house ---- I grew up as a child.",
+        "options": [
+          "which",
+          "that",
+          "where",
+          "when",
+          "whose"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Where' yer bildiren isimlerin ardından kullanılır. 'The house' bir yerdir ve 'I grew up in the house' = 'where I grew up'.",
+        "topic": "Relative Adverbs - Where"
+      },
+      {
+        "id": 3,
+        "text": "The book ---- you lent me last week was very interesting.",
+        "options": [
+          "who",
+          "whom",
+          "which",
+          "whose",
+          "where"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Which' nesneler için relative pronoun olarak kullanılır. 'The book' = thing, nesne olarak 'which' veya 'that' alır.",
+        "topic": "Relative Pronouns - Which"
+      },
+      {
+        "id": 4,
+        "text": "The scientist ---- research won the Nobel Prize works at our university.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "whom",
+          "that"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Whose' sahiplik bildirir (whose = of whom/of which). 'The scientist's research' = 'whose research'. İyelik için 'whose' kullanılır.",
+        "topic": "Relative Pronouns - Whose"
+      },
+      {
+        "id": 5,
+        "text": "My brother, ---- lives in London, is visiting us next week.",
+        "options": [
+          "that",
+          "who",
+          "which",
+          "whom",
+          "whose"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Non-defining relative clause (virgülle ayrılır) 'that' kullanmaz. Sadece 'who/which/whose' kullanılır. Burada kişi için 'who' gerekir.",
+        "topic": "Non-Defining Relative Clauses"
+      },
+      {
+        "id": 6,
+        "text": "I remember the day ---- we first met.",
+        "options": [
+          "which",
+          "that",
+          "when",
+          "where",
+          "whose"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'When' zaman bildiren isimlerle kullanılır. 'The day' = time, 'we met on that day' = 'when we met'.",
+        "topic": "Relative Adverbs - When"
+      },
+      {
+        "id": 7,
+        "text": "The students ---- have completed the course will receive certificates.",
+        "options": [
+          "which",
+          "whose",
+          "whom",
+          "who",
+          "where"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Defining relative clause'da özne konumundaki kişiler için 'who' veya 'that' kullanılır. 'The students' = people, özne pozisyonunda.",
+        "topic": "Defining Relative Clauses"
+      },
+      {
+        "id": 8,
+        "text": "The company ---- products are sold worldwide is expanding rapidly.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "that",
+          "where"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Whose' kuruluşlar ve nesneler için de kullanılabilir. 'The company's products' = 'whose products'. Sahiplik için 'whose' gerekir.",
+        "topic": "Relative Pronouns - Whose"
+      },
+      {
+        "id": 9,
+        "text": "The person to ---- you spoke yesterday is the new director.",
+        "options": [
+          "who",
+          "whom",
+          "which",
+          "whose",
+          "that"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Preposition (to) sonrasında kişi için 'whom' kullanılır (formal). 'You spoke to whom' = 'to whom you spoke'.",
+        "topic": "Relative Pronouns - Whom"
+      },
+      {
+        "id": 10,
+        "text": "The laptop, ---- I bought last month, has already broken down.",
+        "options": [
+          "that",
+          "which",
+          "what",
+          "who",
+          "whose"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Non-defining relative clause (virgülle ayrılır) nesneler için 'which' kullanır. 'That' non-defining clause'da kullanılmaz.",
+        "topic": "Non-Defining Relative Clauses"
+      },
+      {
+        "id": 11,
+        "text": "This is the reason ---- I couldn't attend the meeting.",
+        "options": [
+          "which",
+          "that",
+          "why",
+          "when",
+          "whose"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Why' sebep bildiren 'reason' kelimesiyle kullanılır. 'The reason why' = 'for which'. 'Why' veya 'that' kullanılabilir.",
+        "topic": "Relative Adverbs - Why"
+      },
+      {
+        "id": 12,
+        "text": "The restaurant ---- we had dinner last night was excellent.",
+        "options": [
+          "which",
+          "that",
+          "where",
+          "when",
+          "whose"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Where' yer bildiren isimlerle kullanılır. 'We had dinner at the restaurant' = 'where we had dinner'.",
+        "topic": "Relative Adverbs - Where"
+      },
+      {
+        "id": 13,
+        "text": "All ---- she said was true.",
+        "options": [
+          "which",
+          "that",
+          "what",
+          "who",
+          "whose"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'All that' yapısı yaygındır. 'Everything that', 'all that', 'the only thing that' gibi yapılar 'which' yerine 'that' alır.",
+        "topic": "Relative Clauses - That"
+      },
+      {
+        "id": 14,
+        "text": "The teacher ---- class I attended was very knowledgeable.",
+        "options": [
+          "who",
+          "which",
+          "whose",
+          "whom",
+          "that"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Whose class' = 'the teacher's class'. Sahiplik için 'whose' kullanılır. 'Whose' hem kişiler hem de nesneler için kullanılabilir.",
+        "topic": "Relative Pronouns - Whose"
+      },
+      {
+        "id": 15,
+        "text": "The project ---- we are working on is due next month.",
+        "options": [
+          "which",
+          "who",
+          "whose",
+          "where",
+          "when"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Which' veya 'that' nesneler için kullanılır. 'We are working on the project' = 'which we are working on'. Preposition (on) sonda kalabilir.",
+        "topic": "Relative Pronouns - Which"
+      }
+    ]
+  },
+  "articles": {
+    "id": "articles",
+    "title": "Articles (A/An/The)",
+    "description": "Definite and indefinite articles usage rules",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "She is ---- engineer working for ---- international company.",
+        "options": [
+          "an / an",
+          "a / an",
+          "an / a",
+          "the / the",
+          "a / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Engineer' sesli harfle başladığı için 'an' alır. 'International' da sesli harfle başlar, 'an' gerekir. İlk bahsedilen tekil meslekler 'a/an' alır.",
+        "topic": "Indefinite Articles - A/An"
+      },
+      {
+        "id": 2,
+        "text": "---- sun rises in ---- east and sets in ---- west.",
+        "options": [
+          "A / the / the",
+          "The / the / the",
+          "The / an / an",
+          "A / an / an",
+          "- / the / the"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Doğal fenomenler (the sun, the moon) ve yönler (the east, the west) 'the' alır. Tek olan veya herkesin bildiği şeyler için 'the' kullanılır.",
+        "topic": "Definite Article - The"
+      },
+      {
+        "id": 3,
+        "text": "I went to ---- hospital to visit my friend who had ---- operation.",
+        "options": [
+          "the / an",
+          "a / the",
+          "the / the",
+          "a / an",
+          "- / an"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'The hospital' (belirli bir hastane, ziyaret için). 'An operation' (ilk bahsedilen, sayılabilir isim, sesli harfle başlıyor).",
+        "topic": "Articles with Places"
+      },
+      {
+        "id": 4,
+        "text": "---- Mount Everest is ---- highest mountain in ---- world.",
+        "options": [
+          "The / the / the",
+          "- / the / the",
+          "The / a / the",
+          "- / a / a",
+          "A / the / the"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Dağ isimleri article almaz (Mount Everest). Superlative sıfatlar 'the' alır (the highest). 'The world' tekil ve herkes tarafından bilinir.",
+        "topic": "Articles with Geographical Names"
+      },
+      {
+        "id": 5,
+        "text": "She plays ---- piano beautifully, but she can't play ---- guitar.",
+        "options": [
+          "the / the",
+          "a / a",
+          "the / a",
+          "a / the",
+          "- / -"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Müzik aletleri 'the' ile kullanılır (the piano, the guitar, the violin). 'Play the + musical instrument' yapısı standarttır.",
+        "topic": "Articles with Musical Instruments"
+      },
+      {
+        "id": 6,
+        "text": "---- life is short, so make ---- most of every moment.",
+        "options": [
+          "The / the",
+          "A / the",
+          "- / the",
+          "The / a",
+          "- / -"
+        ],
+        "correctAnswer": 2,
+        "explanation": "'Life' genel anlamda (hayat kavramı) article almaz. 'Make the most of' (en iyi şekilde değerlendirmek) sabit ifadedir ve 'the' gerektirir.",
+        "topic": "Zero Article"
+      },
+      {
+        "id": 7,
+        "text": "I had ---- egg and ---- slice of toast for ---- breakfast.",
+        "options": [
+          "an / a / the",
+          "an / a / -",
+          "the / the / the",
+          "a / a / -",
+          "an / the / -"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'An egg' (sesli harfle başlar), 'a slice' (sessiz harfle başlar). 'Breakfast/lunch/dinner' öğün isimleri article almaz.",
+        "topic": "Articles with Meals"
+      },
+      {
+        "id": 8,
+        "text": "---- Mediterranean Sea is located between Europe and Africa.",
+        "options": [
+          "A",
+          "An",
+          "The",
+          "-",
+          "Some"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Deniz, okyanus, nehir isimleri 'the' alır (the Mediterranean Sea, the Pacific Ocean, the Nile). Göl isimleri almaz (Lake Michigan).",
+        "topic": "Articles with Geographical Names"
+      },
+      {
+        "id": 9,
+        "text": "My brother is ---- teacher at ---- university in London.",
+        "options": [
+          "a / a",
+          "a / an",
+          "the / the",
+          "an / a",
+          "a / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Teacher' meslek, ilk bahsediliyor, 'a' alır. 'University' /juːnɪˈvɜːrsəti/ 'y' sesi ile başlar (sessiz), 'a' alır ('u' sesli olmasına rağmen).",
+        "topic": "Indefinite Articles - A/An"
+      },
+      {
+        "id": 10,
+        "text": "---- honesty is ---- best policy in any relationship.",
+        "options": [
+          "The / the",
+          "- / the",
+          "The / a",
+          "A / the",
+          "- / -"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Soyut kavramlar genel anlamda article almaz (honesty). Superlative sıfatlar 'the' alır (the best). 'Honesty is the best policy' sabit sözdür.",
+        "topic": "Articles with Abstract Nouns"
+      },
+      {
+        "id": 11,
+        "text": "He was elected ---- president of ---- United States.",
+        "options": [
+          "the / the",
+          "a / the",
+          "- / the",
+          "the / -",
+          "- / -"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Unvan/görevler (president, king) tektir, article almaz. Ülke isimleri genelde article almaz ama 'the United States' istisnadır.",
+        "topic": "Articles with Titles and Countries"
+      },
+      {
+        "id": 12,
+        "text": "I need to buy ---- new car because ---- old one keeps breaking down.",
+        "options": [
+          "a / the",
+          "the / the",
+          "a / an",
+          "the / an",
+          "- / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'A new car' (ilk bahsedilen, herhangi bir yeni araba). 'The old one' (daha önce bahsedilen, belirli bir eski araba).",
+        "topic": "Definite vs Indefinite Articles"
+      },
+      {
+        "id": 13,
+        "text": "She went to ---- prison to visit her brother who is serving ---- sentence.",
+        "options": [
+          "the / a",
+          "a / the",
+          "the / the",
+          "- / a",
+          "a / a"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'The prison' (ziyaret amaçlı, bina olarak). 'A sentence' (ilk bahsedilen ceza). 'Go to prison' (mahkum olarak) article almaz.",
+        "topic": "Articles with Places"
+      },
+      {
+        "id": 14,
+        "text": "---- Amazon is ---- longest river in ---- South America.",
+        "options": [
+          "The / the / the",
+          "- / the / -",
+          "The / the / -",
+          "- / - / the",
+          "The / a / -"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Nehir isimleri 'the' alır (the Amazon). Superlative 'the' alır (the longest). Kıta isimleri article almaz (South America).",
+        "topic": "Articles with Geographical Names"
+      },
+      {
+        "id": 15,
+        "text": "---- time you spend with your family is ---- time well spent.",
+        "options": [
+          "The / the",
+          "A / a",
+          "The / a",
+          "- / -",
+          "A / the"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'The time' (belirli bir zaman, aile ile geçirilen). 'The time' (bu belirli zaman). 'Time' genel kavram olarak article almaz ama burada spesifik.",
+        "topic": "Definite Article - The"
+      }
+    ]
+  },
+  "prepositions": {
+    "id": "prepositions",
+    "title": "Prepositions",
+    "description": "Common prepositions of time, place, and direction",
+    "difficulty": "intermediate",
+    "timeLimit": 20,
+    "passingScore": 70,
+    "questions": [
+      {
+        "id": 1,
+        "text": "The meeting is scheduled ---- 3 p.m. ---- Friday afternoon.",
+        "options": [
+          "at / on",
+          "in / at",
+          "on / in",
+          "at / in",
+          "in / on"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Saat için 'at' kullanılır (at 3 p.m.). Gün ve gün kısımları için 'on' kullanılır (on Friday, on Friday afternoon).",
+        "topic": "Prepositions of Time"
+      },
+      {
+        "id": 2,
+        "text": "She has been living ---- Paris ---- 2015.",
+        "options": [
+          "in / since",
+          "at / since",
+          "in / for",
+          "at / for",
+          "on / since"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Şehir isimleri ile 'in' kullanılır (in Paris). Başlangıç zamanı için 'since' kullanılır (since 2015). Süre için 'for' kullanılır.",
+        "topic": "Prepositions of Place and Time"
+      },
+      {
+        "id": 3,
+        "text": "The book is ---- the shelf ---- the living room.",
+        "options": [
+          "in / on",
+          "on / in",
+          "at / in",
+          "in / at",
+          "on / at"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Raf gibi yüzeyler için 'on' kullanılır (on the shelf). Kapalı alanlar için 'in' kullanılır (in the living room).",
+        "topic": "Prepositions of Place"
+      },
+      {
+        "id": 4,
+        "text": "I'm interested ---- learning more ---- linguistics.",
+        "options": [
+          "in / about",
+          "at / of",
+          "on / in",
+          "in / in",
+          "at / about"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Interested in' (bir şeyle ilgilenmek) sabit ifadedir. 'Learn about' (bir şey hakkında öğrenmek) yaygın kullanımdır.",
+        "topic": "Dependent Prepositions"
+      },
+      {
+        "id": 5,
+        "text": "She arrived ---- the airport just ---- time for her flight.",
+        "options": [
+          "at / in",
+          "to / on",
+          "at / on",
+          "in / in",
+          "to / at"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Arrive at' küçük yerler için (airport, station). 'In time' (zamanında, vaktinde). 'On time' (tam vaktinde, dakik).",
+        "topic": "Prepositions with Verbs"
+      },
+      {
+        "id": 6,
+        "text": "He's been working ---- this project ---- three months.",
+        "options": [
+          "on / for",
+          "at / since",
+          "on / since",
+          "in / for",
+          "at / for"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Work on' (bir proje/şey üzerinde çalışmak) sabit ifadedir. 'For three months' (üç ay boyunca) süre bildirir.",
+        "topic": "Prepositions with Verbs and Time"
+      },
+      {
+        "id": 7,
+        "text": "The train travels ---- London ---- Edinburgh ---- about five hours.",
+        "options": [
+          "from / to / in",
+          "to / from / in",
+          "from / to / for",
+          "between / and / in",
+          "to / from / for"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'From... to...' (bir yerden bir yere) hareket yönü bildirir. 'In about five hours' (yaklaşık beş saatte) süre bildirir.",
+        "topic": "Prepositions of Movement"
+      },
+      {
+        "id": 8,
+        "text": "I'm not good ---- mathematics, but I excel ---- languages.",
+        "options": [
+          "at / in",
+          "in / at",
+          "at / at",
+          "in / in",
+          "on / in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Good at' (bir konuda iyi olmak) sabit ifadedir. 'Excel in/at' (bir konuda üstün olmak) her ikisi de kullanılabilir, 'in' daha yaygın.",
+        "topic": "Dependent Prepositions"
+      },
+      {
+        "id": 9,
+        "text": "She graduated ---- university ---- June 2020.",
+        "options": [
+          "from / in",
+          "at / on",
+          "from / on",
+          "in / in",
+          "at / in"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Graduate from' (bir okuldan mezun olmak) sabit ifadedir. Ay isimleri için 'in' kullanılır (in June).",
+        "topic": "Prepositions with Verbs and Time"
+      },
+      {
+        "id": 10,
+        "text": "The cat jumped ---- the wall and ran ---- the garden.",
+        "options": [
+          "over / through",
+          "on / in",
+          "above / across",
+          "over / across",
+          "on / through"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Jump over' (üzerinden atlamak). 'Run through' (içinden geçerek koşmak). Hareket yönü edatları.",
+        "topic": "Prepositions of Movement"
+      },
+      {
+        "id": 11,
+        "text": "I prefer tea ---- coffee, and I usually drink it ---- milk.",
+        "options": [
+          "to / with",
+          "than / with",
+          "to / by",
+          "from / with",
+          "than / by"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Prefer X to Y' (X'i Y'ye tercih etmek) sabit ifadedir. 'With milk' (sütlü, süt ile).",
+        "topic": "Dependent Prepositions"
+      },
+      {
+        "id": 12,
+        "text": "They arrived ---- New York ---- midnight ---- a rainy night.",
+        "options": [
+          "in / at / on",
+          "at / in / on",
+          "in / on / at",
+          "at / at / in",
+          "to / at / on"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Arrive in' büyük yerler için (cities/countries). 'At midnight' (gece yarısında). 'On a rainy night' (yağmurlu bir gecede) özel gece.",
+        "topic": "Prepositions of Place and Time"
+      },
+      {
+        "id": 13,
+        "text": "The difference ---- these two theories is significant ---- researchers.",
+        "options": [
+          "between / to",
+          "among / for",
+          "between / for",
+          "of / to",
+          "among / to"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Difference between' (iki şey arasındaki fark). 'Significant to' (bir grup için önemli) veya 'for' (bir amaç için).",
+        "topic": "Dependent Prepositions"
+      },
+      {
+        "id": 14,
+        "text": "She's been absent ---- school ---- two weeks due ---- illness.",
+        "options": [
+          "from / for / to",
+          "at / since / to",
+          "from / since / of",
+          "in / for / to",
+          "at / for / of"
+        ],
+        "correctAnswer": 0,
+        "explanation": "'Absent from' (bir yerden uzak, yok). 'For two weeks' (iki hafta boyunca). 'Due to' (nedeniyle, yüzünden).",
+        "topic": "Dependent Prepositions"
+      },
+      {
+        "id": 15,
+        "text": "The store is located ---- the corner ---- Main Street and First Avenue.",
+        "options": [
+          "on / of",
+          "at / of",
+          "in / at",
+          "on / at",
+          "at / on"
+        ],
+        "correctAnswer": 1,
+        "explanation": "'At the corner' (köşede, kesişimde). 'Corner of X and Y' (X ve Y'nin kesiştiği köşe).",
+        "topic": "Prepositions of Place"
+      }
+    ]
+  }
+}

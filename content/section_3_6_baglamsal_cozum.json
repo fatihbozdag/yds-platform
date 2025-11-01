@@ -1,0 +1,342 @@
+{
+  "section": "3.6",
+  "title": "Bağlamsal Çözüm Teknikleri (Context Clues)",
+  "topics": [
+    {
+      "id": "3.6.1",
+      "title": "Tanım, Örnek, Zıtlık, Sebep-Sonuç İşaretlerinden Anlam Çıkarma",
+      "content": "YDS/YÖKDİL sınavlarında bilinmeyen kelimelerin anlamını tahmin etmek kritik bir beceridir. Bağlamsal ipuçları (context clues), metindeki diğer kelimeler, cümle yapısı ve mantıksal ilişkilerden yararlanarak bilinmeyen kelimelerin anlamını çıkarmayı sağlar. Bu teknik hem zaman kazandırır hem de kelime bilgisinin sınırlarını aşmanıza yardımcı olur.\n\nTanım İpuçları (Definition Clues): Yazar bilinmeyen kelimeyi hemen ardından açıklar. İşaretler: IS, MEANS, IS DEFINED AS, IS CALLED, REFERS TO, THAT IS (i.e.), IN OTHER WORDS, virgül + açıklama, tire (—) + açıklama, parantez içinde açıklama. Örnek: 'Photosynthesis, the process by which plants convert sunlight into energy, is essential for life.' → 'photosynthesis' kelimesinin anlamı virgülden sonra tanımlanmış. 'Mitosis—the division of a cell's nucleus—results in two identical daughter cells.' → Tire arasında tanım var.\n\nÖrnek İpuçları (Example Clues): Yazar bilinmeyen kelimeye örnekler vererek açıklar. İşaretler: SUCH AS, FOR EXAMPLE, FOR INSTANCE, INCLUDING, LIKE, ESPECIALLY, virgül + örnek listesi. Örnek: 'Legumes, such as beans, lentils, and peas, are excellent sources of protein.' → 'legumes' kelimesinin anlamı verilen örneklerden (beans, lentils, peas) anlaşılır. 'Coniferous trees, including pine, spruce, and fir, retain their needles year-round.' → 'coniferous' kelimesinin anlamı örneklerden çıkarılabilir (iğne yapraklı ağaçlar).\n\nZıtlık İpuçları (Contrast Clues): Yazar bilinmeyen kelimeyi zıt veya farklı bir kavramla karşılaştırır. İşaretler: BUT, HOWEVER, ALTHOUGH, WHILE, WHEREAS, ON THE OTHER HAND, IN CONTRAST, UNLIKE, DESPITE, NEVERTHELESS, YET, RATHER THAN, INSTEAD OF. Örnek: 'Unlike her gregarious sister, Maria was quite introverted and preferred solitude.' → 'gregarious' kelimesi 'introverted' ile zıt, dolayısıyla 'sosyal, dışa dönük' anlamına gelir. 'While the experiment yielded copious data, the control group produced only sparse results.' → 'copious' ve 'sparse' zıt; 'copious' = bol, 'sparse' = seyrek.\n\nSebep-Sonuç İpuçları (Cause-Effect Clues): Kelime ile bir neden veya sonuç arasındaki ilişkiden anlam çıkarılır. İşaretler: BECAUSE, SINCE, AS A RESULT, CONSEQUENTLY, THEREFORE, THUS, SO, DUE TO, BECAUSE OF, AS A CONSEQUENCE, LEADS TO, CAUSES, RESULTS IN. Örnek: 'The arid climate resulted in severe water shortages.' → 'arid' kelimesi su kıtlığına (water shortage) neden oluyor, dolayısıyla 'kurak' anlamına gelir. 'Because the evidence was irrefutable, the defendant was convicted.' → 'irrefutable' kanıtlar mahkumiyet getirdi, dolayısıyla 'çürütülemez' anlamında.\n\nYeniden İfade (Restatement): Yazar aynı fikri farklı kelimelerle tekrar eder. İşaretler: OR, IN OTHER WORDS, THAT IS TO SAY, TO PUT IT ANOTHER WAY, NAMELY. Örnek: 'The student's loquacious nature, or tendency to talk excessively, often disrupted the class.' → 'loquacious' = konuşkan.",
+      "examples": [
+        "TANIM: Osmosis, the movement of water across a semipermeable membrane, is crucial for cell function.",
+        "TANIM: The catalyst—a substance that speeds up a reaction without being consumed—reduced reaction time significantly.",
+        "ÖRNEK: Amphibians, such as frogs, salamanders, and newts, can live both in water and on land.",
+        "ÖRNEK: Root vegetables, including carrots, beets, and turnips, are rich in nutrients.",
+        "ZITLIK: Unlike the lucid explanations in the textbook, the professor's lecture was quite obscure.",
+        "ZITLIK: While the protagonist was altruistic and selfless, the antagonist was entirely self-serving.",
+        "SEBEP-SONUÇ: The deleterious effects of smoking, such as lung disease and cancer, are well documented.",
+        "SEBEP-SONUÇ: Because the weather was inclement, with heavy rain and strong winds, the event was cancelled.",
+        "YENİDEN İFADE: The findings were inconclusive, or not definite enough to draw firm conclusions.",
+        "YENİDEN İFADE: The author's verbose style—his tendency to use more words than necessary—made the text difficult to read.",
+        "TANIM: Biodiversity refers to the variety of life forms in a particular ecosystem.",
+        "ÖRNEK: Nocturnal animals, like owls, bats, and raccoons, are active during the night.",
+        "ZITLIK: Despite the austere conditions of the monastery, the monks appeared content and peaceful. (austere ≠ content)",
+        "SEBEP-SONUÇ: The prolonged drought caused crops to wither and die, leading to widespread famine.",
+        "TANIM: Plagiarism, the act of using someone else's work without proper attribution, is a serious academic offense."
+      ],
+      "exercises": [
+        {
+          "question": "Unlike the lucid and well-organized presentation, the discussion that followed was chaotic and confusing.\n\nIn this sentence, 'lucid' most likely means:",
+          "options": [
+            "clear",
+            "unclear",
+            "bright",
+            "boring",
+            "complicated"
+          ],
+          "correct": 0,
+          "explanation": "ZITLIK İPUCU: 'Unlike' kelimesi zıtlık işareti. 'Chaotic and confusing' ile zıt olduğuna göre 'lucid' = 'clear, açık' anlamında."
+        },
+        {
+          "question": "The arid climate of the desert, with its extremely low rainfall and high temperatures, makes agriculture nearly impossible.\n\nIn this sentence, 'arid' most likely means:",
+          "options": [
+            "dry",
+            "wet",
+            "cold",
+            "fertile",
+            "moderate"
+          ],
+          "correct": 0,
+          "explanation": "TANIM İPUCU: Virgülden sonra açıklama var: 'extremely low rainfall and high temperatures' → 'arid' = 'kurak, kuru'."
+        },
+        {
+          "question": "Herbivorous animals, such as deer, rabbits, and elephants, feed exclusively on plant material.\n\nIn this sentence, 'herbivorous' most likely means:",
+          "options": [
+            "plant-eating",
+            "meat-eating",
+            "insect-eating",
+            "omnivorous",
+            "carnivorous"
+          ],
+          "correct": 0,
+          "explanation": "ÖRNEK İPUCU: 'Such as' örnekler veriyor (deer, rabbits, elephants) ve 'feed on plant material' açıklaması var → 'herbivorous' = 'otçul, bitki yiyen'."
+        },
+        {
+          "question": "The deleterious effects of pollution on marine ecosystems have been extensively documented by scientists.\n\nIn this sentence, 'deleterious' most likely means:",
+          "options": [
+            "harmful",
+            "beneficial",
+            "neutral",
+            "positive",
+            "helpful"
+          ],
+          "correct": 0,
+          "explanation": "SEBEP-SONUÇ İPUCU: Kirlilik ekosistemler üzerinde 'deleterious effects' yaratıyor → mantıken zararlı olmalı → 'deleterious' = 'harmful, zararlı'."
+        },
+        {
+          "question": "The findings were inconclusive, or not definite enough to support a firm conclusion about the hypothesis.\n\nIn this sentence, 'inconclusive' most likely means:",
+          "options": [
+            "not definite",
+            "very clear",
+            "absolutely certain",
+            "completely proven",
+            "highly convincing"
+          ],
+          "correct": 0,
+          "explanation": "YENİDEN İFADE: 'Or' kelimesinden sonra açıklama yapılmış: 'not definite enough' → 'inconclusive' = 'kesin olmayan, yetersiz'."
+        },
+        {
+          "question": "Despite the team's meticulous planning and preparation, the project encountered numerous unexpected obstacles.\n\nIn this sentence, 'meticulous' most likely means:",
+          "options": [
+            "very careful and detailed",
+            "careless and hasty",
+            "simple and basic",
+            "quick and efficient",
+            "random and disorganized"
+          ],
+          "correct": 0,
+          "explanation": "ZITLIK İPUCU: 'Despite' zıtlık işareti. Dikkatli planlama olmasına rağmen sorunlar çıktı → 'meticulous' = 'titiz, özenli'."
+        },
+        {
+          "question": "The professor's verbose explanations, full of unnecessary details and lengthy digressions, often confused students.\n\nIn this sentence, 'verbose' most likely means:",
+          "options": [
+            "wordy",
+            "brief",
+            "clear",
+            "simple",
+            "concise"
+          ],
+          "correct": 0,
+          "explanation": "TANIM İPUCU: Virgülden sonra açıklama: 'full of unnecessary details and lengthy digressions' → 'verbose' = 'gereksiz ayrıntılı, lafı uzatan'."
+        },
+        {
+          "question": "Because the evidence was irrefutable, with multiple witnesses and DNA confirmation, the jury reached a guilty verdict.\n\nIn this sentence, 'irrefutable' most likely means:",
+          "options": [
+            "undeniable",
+            "questionable",
+            "weak",
+            "doubtful",
+            "uncertain"
+          ],
+          "correct": 0,
+          "explanation": "SEBEP-SONUÇ: Kanıt 'irrefutable' olduğu için (+ multiple witnesses, DNA) suçlu kararı verildi → 'irrefutable' = 'çürütülemez, tartışmasız'."
+        },
+        {
+          "question": "Nocturnal creatures, including owls, bats, and certain species of rodents, are active primarily during nighttime hours.\n\nIn this sentence, 'nocturnal' most likely means:",
+          "options": [
+            "active at night",
+            "active during day",
+            "sleeping at night",
+            "hunting during day",
+            "dormant at night"
+          ],
+          "correct": 0,
+          "explanation": "ÖRNEK + TANIM: Örnekler verilmiş (owls, bats) + 'active during nighttime hours' açıklaması → 'nocturnal' = 'gece aktif olan'."
+        },
+        {
+          "question": "While the initial hypothesis was plausible and well-reasoned, the alternative explanation seemed far-fetched and implausible.\n\nIn this sentence, 'plausible' most likely means:",
+          "options": [
+            "believable",
+            "unbelievable",
+            "impossible",
+            "ridiculous",
+            "absurd"
+          ],
+          "correct": 0,
+          "explanation": "ZITLIK İPUCU: 'While' zıtlık işareti. 'Plausible' ↔ 'implausible (far-fetched)' → 'plausible' = 'inandırıcı, makul'."
+        },
+        {
+          "question": "The cacophony of car horns, sirens, and construction noise made it impossible to concentrate on work.\n\nIn this sentence, 'cacophony' most likely means:",
+          "options": [
+            "harsh, discordant mixture of sounds",
+            "pleasant harmony of sounds",
+            "complete silence",
+            "soft background music",
+            "gentle whisper"
+          ],
+          "correct": 0,
+          "explanation": "ÖRNEK İPUCU: 'Of' kelimesinden sonra örnekler: car horns, sirens, construction noise (rahatsız edici sesler) → 'cacophony' = 'gürültü, kakofonik ses karışımı'."
+        },
+        {
+          "question": "The transient nature of the phenomenon—lasting only a few seconds before disappearing—made it difficult to study.\n\nIn this sentence, 'transient' most likely means:",
+          "options": [
+            "temporary",
+            "permanent",
+            "lasting",
+            "enduring",
+            "stable"
+          ],
+          "correct": 0,
+          "explanation": "TANIM İPUCU: Tire arasında açıklama: 'lasting only a few seconds before disappearing' → 'transient' = 'geçici, kısa süreli'."
+        }
+      ]
+    },
+    {
+      "id": "3.6.2",
+      "title": "Morfolojik İpuçları, Üst-Alt Kavram İlişkileri",
+      "content": "Bağlamsal çözümün bir diğer önemli boyutu morfolojik ipuçları (kelime yapısı) ve kavramsal ilişkilerdir. Kelime köklerini, prefix'leri ve suffix'leri tanımak, bilinmeyen kelimelerin anlamını tahmin etmeyi kolaylaştırır. Ayrıca üst kavram (hypernym) ve alt kavram (hyponym) ilişkilerini anlamak, metindeki kelime anlamlarını netleştirir.\n\nMorfolojik İpuçları (Morphological Clues): Kelimenin yapısını (kök + prefix + suffix) analiz ederek anlam çıkarma. PREFIX analizı: UN-believable (UN- = olumsuz → 'inanılmaz'), DIS-agree (DIS- = zıt → 'aynı fikirde olmamak'), RE-construct (RE- = tekrar → 'yeniden inşa etmek'), PRE-determine (PRE- = önce → 'önceden belirlemek'), OVER-estimate (OVER- = aşırı → 'olduğundan fazla tahmin etmek'). SUFFIX analizi: care-LESS (LESS = olmayan → 'dikkatsiz'), read-ABLE (ABLE = edilebilir → 'okunabilir'), dark-NESS (NESS = durum → 'karanlık'), quick-LY (LY = zarf → 'hızlıca'). KÖK analizi: BENE (iyi) → benefit, benevolent, beneficial; DICT (söylemek) → predict, contradict, dictionary; PORT (taşımak) → transport, portable, export; SCRIB/SCRIPT (yazmak) → describe, manuscript, prescription.\n\nMorfolojik Strateji: Bilinmeyen kelimeyi parçalara ayırın. Örnek: 'The medication was ineffective in treating the condition.' → IN-EFFECT-IVE: IN- (olumsuz) + EFFECT (etki) + IVE (sıfat) = 'etkisiz'. 'Biodegradable materials decompose naturally.' → BIO-DEGRAD-ABLE: BIO (yaşam) + DEGRAD (bozunma) + ABLE (edilebilir) = 'biyolojik olarak bozunabilir'.\n\nÜst-Alt Kavram İlişkileri (Hypernym-Hyponym Relations): Üst kavram (hypernym) daha genel, kapsayıcı bir kategoridir. Alt kavram (hyponym) daha spesifik örneklerdir. ÜSTBILIM KAVRAM: ANIMAL (hayvan) → Alt kavramlar: dog, cat, elephant, bird. VEHICLE (araç) → Alt kavramlar: car, bus, bicycle, train. EMOTION (duygu) → Alt kavramlar: happiness, sadness, anger, fear. DISEASE (hastalık) → Alt kavramlar: cancer, diabetes, influenza, malaria.\n\nMetinde Kullanımı: Yazarlar genellikle önce spesifik örnekler (hyponyms) verir, sonra genel kategoriyi (hypernym) ifade eder veya tam tersi. Örnek: 'Dogs, cats, and rabbits make excellent pets. These animals provide companionship and emotional support.' → 'animals' kelimesi dogs, cats, rabbits için üst kavramdır. 'Photosynthesis is a biochemical process. Other biochemical processes include cellular respiration and protein synthesis.' → 'biochemical processes' üst kavram, örnekler alt kavramlar.\n\nStrateji: Metinde bilinmeyen bir kelime görüyorsanız, önce/sonra spesifik örnekler var mı kontrol edin. Örnek: 'Various legumes, including lentils, chickpeas, and soybeans, are rich in protein.' → 'legumes' bilinmiyor ancak örnekler (lentils, chickpeas, soybeans) üst kavramın 'baklagiller' olduğunu gösterir.",
+      "examples": [
+        "MORFOLOJİK: The research findings were indisputable. (IN-DISPUT-ABLE: olumsuz + tartışma + edilebilir = tartışılmaz)",
+        "MORFOLOJİK: The biodegradable packaging reduces environmental impact. (BIO-DEGRAD-ABLE: yaşam + bozunma + edilebilir)",
+        "MORFOLOJİK: The professor's explanation was incomprehensible to most students. (IN-COMPREHEND-IBLE: olumsuz + anlama + edilebilir)",
+        "MORFOLOJİK: The data were recalculated to ensure accuracy. (RE-CALCUL-ATE: tekrar + hesaplama + fiil)",
+        "MORFOLOJİK: The government's decision was predetermined by political considerations. (PRE-DETERMIN-ED: önce + belirleme + edilmiş)",
+        "ÜST-ALT: Oak, maple, and pine are examples of trees commonly found in temperate forests. (trees = hypernym)",
+        "ÜST-ALT: Various root vegetables, such as carrots, beets, and turnips, are nutritious. (root vegetables = hypernym)",
+        "ÜST-ALT: Cardiovascular diseases, including heart attack and stroke, are leading causes of death. (cardiovascular diseases = hypernym)",
+        "ÜST-ALT: The study examined natural disasters like earthquakes, hurricanes, and floods. (natural disasters = hypernym)",
+        "ÜST-ALT: Amphibians such as frogs and salamanders undergo metamorphosis. (amphibians = hypernym)",
+        "MORFOLOJİK: The treatment proved to be ineffective despite initial promising results. (IN-EFFECT-IVE)",
+        "MORFOLOJİK: Scientists worked to demystify the complex phenomenon. (DE-MYSTIFY: uzaklaştırma + gizem + yapmak)",
+        "ÜST-ALT: Renewable energy sources, particularly solar and wind power, are becoming more affordable. (renewable energy sources = hypernym)",
+        "ÜST-ALT: The museum houses various artifacts, including pottery, tools, and jewelry from ancient civilizations. (artifacts = hypernym)",
+        "MORFOLOJİK: The witness's testimony was irrefutable, supported by video evidence. (IR-REFUT-ABLE: olumsuz + çürütme + edilebilir)"
+      ],
+      "exercises": [
+        {
+          "question": "The medication proved to be ineffective in alleviating the patient's symptoms despite multiple dosage adjustments.\n\nBased on morphological analysis, 'ineffective' most likely means:",
+          "options": [
+            "not producing the desired result",
+            "producing the desired result",
+            "very powerful",
+            "extremely useful",
+            "highly beneficial"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: IN- (olumsuz prefix) + EFFECT (etki) + IVE (sıfat suffix) = 'etkisiz, işe yaramaz'."
+        },
+        {
+          "question": "Various legumes, including lentils, chickpeas, and beans, are excellent sources of plant-based protein.\n\nBased on the context, 'legumes' most likely refers to:",
+          "options": [
+            "a category of plants that includes lentils and beans",
+            "a type of grain",
+            "a kind of meat",
+            "a dairy product",
+            "a type of fruit"
+          ],
+          "correct": 0,
+          "explanation": "ÜST-ALT KAVRAM: 'Legumes' üst kavram (hypernym), verilen örnekler (lentils, chickpeas, beans) alt kavramlar. 'Legumes' = baklagiller."
+        },
+        {
+          "question": "The scientist's hypothesis was irrefutable, supported by overwhelming experimental evidence and replicated results.\n\nBased on morphological analysis, 'irrefutable' most likely means:",
+          "options": [
+            "cannot be disproven",
+            "can be easily disproven",
+            "questionable",
+            "doubtful",
+            "uncertain"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: IR- (olumsuz prefix) + REFUT (çürütme) + ABLE (edilebilir suffix) = 'çürütülemez, tartışmasız'."
+        },
+        {
+          "question": "Coniferous trees, such as pine, spruce, and fir, retain their needles throughout winter unlike deciduous species.\n\nBased on the context, 'coniferous trees' most likely refers to:",
+          "options": [
+            "trees with needles like pine and spruce",
+            "trees that lose leaves in winter",
+            "fruit-bearing trees",
+            "trees with broad leaves",
+            "tropical trees"
+          ],
+          "correct": 0,
+          "explanation": "ÜST-ALT KAVRAM: 'Coniferous trees' üst kavram, örnekler (pine, spruce, fir) alt kavramlar. Bağlamdan 'iğne yapraklı ağaçlar' olduğu anlaşılıyor."
+        },
+        {
+          "question": "The company decided to reorganize its departments to improve efficiency and communication.\n\nBased on morphological analysis, 'reorganize' most likely means:",
+          "options": [
+            "organize again in a different way",
+            "remove organization",
+            "organize for the first time",
+            "destroy organization",
+            "maintain current organization"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: RE- (tekrar prefix) + ORGANIZE (düzenlemek) = 'yeniden düzenlemek, yeniden organize etmek'."
+        },
+        {
+          "question": "The biodegradable packaging material decomposes naturally without harming the environment.\n\nBased on morphological analysis, 'biodegradable' most likely means:",
+          "options": [
+            "able to be broken down by living organisms",
+            "cannot be broken down",
+            "harmful to living organisms",
+            "resistant to decomposition",
+            "requires chemical treatment to decompose"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: BIO- (yaşam) + DEGRAD (bozunma) + ABLE (edilebilir) = 'biyolojik olarak bozunabilir'. Bağlam da destekliyor: 'decomposes naturally'."
+        },
+        {
+          "question": "Various nocturnal animals, including owls, bats, and raccoons, are active during nighttime hours.\n\nBased on the context, 'nocturnal animals' most likely refers to:",
+          "options": [
+            "animals active at night like owls and bats",
+            "animals active during day",
+            "animals that sleep at night",
+            "marine animals",
+            "domesticated animals"
+          ],
+          "correct": 0,
+          "explanation": "ÜST-ALT KAVRAM: 'Nocturnal animals' üst kavram, örnekler (owls, bats, raccoons) alt kavramlar. 'Active during nighttime' açıklaması anlamı netleştiriyor."
+        },
+        {
+          "question": "The committee's decision was predetermined by political pressures before the meeting even began.\n\nBased on morphological analysis, 'predetermined' most likely means:",
+          "options": [
+            "decided in advance",
+            "decided during the meeting",
+            "decided after the meeting",
+            "not decided yet",
+            "randomly decided"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: PRE- (önce prefix) + DETERMIN (belirleme) + ED (edilmiş) = 'önceden belirlenmiş'. Bağlam destekliyor: 'before the meeting'."
+        },
+        {
+          "question": "The professor's explanation was incomprehensible, filled with jargon and complex terminology that confused students.\n\nBased on morphological analysis, 'incomprehensible' most likely means:",
+          "options": [
+            "impossible to understand",
+            "easy to understand",
+            "clear and simple",
+            "well-explained",
+            "straightforward"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: IN- (olumsuz) + COMPREHEND (anlama) + IBLE (edilebilir) = 'anlaşılamaz'. Bağlam destekliyor: 'confused students'."
+        },
+        {
+          "question": "Root vegetables, particularly carrots, beets, and turnips, are rich in essential nutrients and fiber.\n\nBased on the context, 'root vegetables' most likely refers to:",
+          "options": [
+            "vegetables that grow underground like carrots and beets",
+            "vegetables that grow on trees",
+            "leafy green vegetables",
+            "vegetables that grow in water",
+            "frozen vegetables"
+          ],
+          "correct": 0,
+          "explanation": "ÜST-ALT KAVRAM: 'Root vegetables' üst kavram, örnekler (carrots, beets, turnips) alt kavramlar. Kelime yapısı (root = kök) ipucu veriyor: toprak altında büyüyen sebzeler."
+        },
+        {
+          "question": "The theory was disproven when new experimental evidence contradicted its fundamental assumptions.\n\nBased on morphological analysis, 'disproven' most likely means:",
+          "options": [
+            "shown to be false",
+            "shown to be true",
+            "supported by evidence",
+            "confirmed",
+            "validated"
+          ],
+          "correct": 0,
+          "explanation": "MORFOLOJİK ANALİZ: DIS- (olumsuz/tersine çevirme prefix) + PROVE (kanıtlama) + N (edilmiş) = 'çürütülmüş, yanlış olduğu kanıtlanmış'. Bağlam destekliyor: 'contradicted'."
+        },
+        {
+          "question": "Infectious diseases, such as influenza, tuberculosis, and malaria, continue to pose significant public health challenges.\n\nBased on the context, 'infectious diseases' most likely refers to:",
+          "options": [
+            "diseases that can spread from person to person like influenza",
+            "genetic diseases",
+            "chronic diseases",
+            "non-contagious diseases",
+            "inherited diseases"
+          ],
+          "correct": 0,
+          "explanation": "ÜST-ALT KAVRAM: 'Infectious diseases' üst kavram, örnekler (influenza, tuberculosis, malaria - bulaşıcı hastalıklar) alt kavramlar. 'Infectious' kelime yapısı (infect = bulaştırmak) ipucu veriyor."
+        }
+      ]
+    }
+  ]
+}
