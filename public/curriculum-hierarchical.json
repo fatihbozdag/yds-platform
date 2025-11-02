@@ -230,6 +230,230 @@
               "The research methodology involved both collecting quantitative data and ---- qualitative interviews.\n(A) to conduct\n(B) conducting\n(C) the conduction of\n(D) conduct\n(E) conducted\n\nCevap: B\nAçıklama: 'Both...and' yapısında parallel: collecting (gerund) + conducting (gerund).",
               "The temperature in the laboratory must be controlled carefully because ---- can affect the experimental results.\n(A) they\n(B) these\n(C) it\n(D) them\n(E) those\n\nCevap: C\nAçıklama: 'It' singular noun 'temperature'a referans verir."
             ]
+          },
+          {
+            "id": "1.1.8",
+            "name": "Passive Voice ve Akademik Kullanımı",
+            "description": "Passive voice structures and academic usage patterns",
+            "priority": "A",
+            "order_index": 8,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Passive voice (edilgen çatı), YDS ve YÖKDİL sınavlarında en sık karşılaşılan yapılardan biridir. Akademik metinlerde aktif yapıdan daha fazla tercih edilir çünkü odağı eylem yapan yerine eylemin kendisine veya sonucuna kaydırır.\n\n**Ne zaman Passive Voice kullanılır:**\n1. Eylemi yapan bilinmiyorsa veya önemsizse: \"The theory was developed in the 1950s.\"\n2. Eylemi yapan açıksa: \"English is spoken in many countries.\"\n3. Eylem veya sonuç, eylem yapandan önemliyse: \"The experiment was conducted carefully.\"\n4. Akademik yazımda nesnellik sağlamak için: \"It has been suggested that...\"\n5. Olumsuz haberlerde sorumluluktan kaçınmak için: \"Mistakes were made.\"\n\n**YDS'de Passive Voice ile ilgili yaygın hatalar:**\n1. Tense uyumsuzluğu: \"The book was being written\" (Past Continuous Passive) vs \"The book has been written\" (Present Perfect Passive)\n2. By-agent gereksiz kullanımı: \"The letter was written by someone\" (kötü) vs \"The letter was written\" (iyi)\n3. Stative verbs ile passive: \"The book is belonged to me\" (YANLIŞ) → \"The book belongs to me\" (DOĞRU)\n4. Modal passive yapısı: \"must be done\", \"should be considered\", \"can be seen\"\n\n**Akademik metinlerde sık kullanılan passive yapılar:**\n- It is believed/thought/suggested/argued that...\n- It has been found/shown/demonstrated/proven that...\n- It can be seen/observed/noted that...\n- It should be noted/mentioned/emphasized that...\n- The results are presented/discussed/analyzed in...\n\n**YDS stratejisi:**\nBoşluk tamamlama sorularında, cümlenin mantığını ve subject-object ilişkisini analiz edin. Eğer subject eylemi yapan değil, eyleme maruz kalan ise, passive yapı kullanılmalıdır.",
+            "examples": [
+              "Active: Scientists conducted the experiment carefully. → Passive: The experiment was conducted carefully (by scientists).",
+              "Active: They have discovered a new species. → Passive: A new species has been discovered.",
+              "Active: People speak English worldwide. → Passive: English is spoken worldwide.",
+              "Active: The committee will announce the results tomorrow. → Passive: The results will be announced tomorrow.",
+              "Active: Someone should have informed us earlier. → Passive: We should have been informed earlier.",
+              "It is widely believed that climate change poses a significant threat to ecosystems.",
+              "The data were collected over a period of five years and analyzed using statistical methods.",
+              "Several factors must be taken into account when interpreting these findings.",
+              "The hypothesis has been tested in numerous studies, and the results have been consistently replicated.",
+              "It can be argued that technological advancement has both positive and negative impacts on society."
+            ],
+            "exercises": [
+              "The research findings ---- in a prestigious journal last month.\n(A) published\n(B) have published\n(C) were published\n(D) are publishing\n(E) will publish\n\nCevap: C\nAçıklama: 'Last month' geçmiş zaman belirteci ve 'findings' yayınlanan şey olduğu için passive yapı gerekir: 'were published'.",
+              "It ---- that regular exercise can significantly reduce the risk of heart disease.\n(A) has been proven\n(B) has proven\n(C) was proving\n(D) proves\n(E) is proving\n\nCevap: A\nAçıklama: 'It has been proven that...' akademik metinlerde sık kullanılan passive yapıdır. Present Perfect Passive kullanımı doğrudur.",
+              "The ancient manuscript ---- by archaeologists in a remote cave last year.\n(A) discovered\n(B) was discovered\n(C) has discovered\n(D) is discovering\n(E) discovers\n\nCevap: B\nAçıklama: Manuscript (elyazması) keşfedilen şeydir, keşfeden değil. 'Last year' ile Simple Past Passive: 'was discovered'.",
+              "New regulations ---- to address the environmental concerns raised by local communities.\n(A) are being implemented\n(B) have implemented\n(C) were implementing\n(D) implement\n(E) will implement\n\nCevap: A\nAçıklama: Düzenlemeler şu anda uygulanıyor (devam eden süreç). Present Continuous Passive: 'are being implemented'.",
+              "The proposal ---- carefully before a final decision is made.\n(A) must consider\n(B) must be considered\n(C) must have considered\n(D) is considering\n(E) considers\n\nCevap: B\nAçıklama: Proposal (teklif) değerlendirilen şeydir. Modal passive yapı: 'must be considered'.",
+              "It ---- that the new policy will have far-reaching implications for the economy.\n(A) expects\n(B) is expecting\n(C) is expected\n(D) has expected\n(E) was expected\n\nCevap: C\nAçıklama: 'It is expected that...' yapısı gelecekteki beklentileri ifade eder. Present Simple Passive.",
+              "Several measures ---- by the government to combat inflation over the past decade.\n(A) have been taken\n(B) have taken\n(C) were taken\n(D) are taken\n(E) had taken\n\nCevap: A\nAçıklama: 'Over the past decade' Present Perfect zamanı gerektirir ve measures (önlemler) alınan şeydir: 'have been taken'.",
+              "The samples ---- in a controlled environment to ensure accuracy.\n(A) should store\n(B) should be stored\n(C) should have stored\n(D) are storing\n(E) have stored\n\nCevap: B\nAçıklama: Samples (örnekler) saklanan şeydir. Modal passive: 'should be stored'."
+            ]
+          },
+          {
+            "id": "1.1.9",
+            "name": "Formulaic Sequences ve Kalıplaşmış İfadeler",
+            "description": "Fixed expressions and formulaic sequences with subjects and complements",
+            "priority": "A",
+            "order_index": 9,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Formulaic sequences (kalıplaşmış diziler), akademik İngilizcede sık kullanılan sabit ifade kalıplarıdır. Bu yapılar genellikle subject + verb + complement şeklinde gelir ve YDS'de hem kelime hem de yapı sorularında test edilir.\n\n**Formulaic Sequences özellikleri:**\n1. Sabit kelime sırası: kelimelerin yeri değiştirilemez\n2. Tahmin edilebilir yapı: native speakerlar bu yapıları otomatik tanır\n3. Anlamsal bütünlük: kelimeler birlikte tek bir anlam üretir\n4. Akademik yazımda sıklık: formal metinlerde standart ifadelerdir\n\n**Subject + Verb + Complement yapıları:**\n\n**Düşünce ve İnanç ifadeleri:**\n- It is believed that... (İnanılmaktadır ki...)\n- It is assumed that... (Varsayılmaktadır ki...)\n- It is widely accepted that... (Yaygın olarak kabul edilmektedir ki...)\n- It stands to reason that... (Mantıklı olarak... söylenebilir)\n- It goes without saying that... (Söylemeye gerek yok ki...)\n\n**Araştırma ve Bulgu ifadeleri:**\n- The study suggests that... (Çalışma göstermektedir ki...)\n- The findings indicate that... (Bulgular işaret etmektedir ki...)\n- The data reveal that... (Veriler ortaya koymaktadır ki...)\n- The evidence points to the fact that... (Kanıtlar şu gerçeğe işaret etmektedir ki...)\n- The results demonstrate that... (Sonuçlar göstermektedir ki...)\n\n**Sebep-Sonuç ifadeleri:**\n- This is due to the fact that... (Bu, şu gerçekten kaynaklanmaktadır...)\n- This can be attributed to... (Bu... atfedilebilir)\n- This stems from the idea that... (Bu, şu fikirden kaynaklanmaktadır...)\n- This gives rise to... (Bu... yol açmaktadır)\n- This leads to the conclusion that... (Bu, şu sonuca götürmektedir...)\n\n**Açıklama ve Örnekleme:**\n- It should be noted that... (Belirtilmelidir ki...)\n- It is important to note that... (Önemle belirtmek gerekir ki...)\n- It is worth noting that... (Belirtmeye değer ki...)\n- A case in point is... (Konuyla ilgili bir örnek...)\n- To illustrate this point... (Bu noktayı örneklemek için...)\n\n**YDS'de Formulaic Sequences stratejisi:**\n1. Kalıbı bütün olarak tanıyın (kelime kelime değil)\n2. Preposition seçimlerine dikkat edin (attribute TO, result FROM)\n3. Subject-verb agreement kontrolü yapın\n4. Formal/informal register uygunluğunu değerlendirin",
+            "examples": [
+              "It is widely believed that climate change will have severe consequences for future generations.",
+              "The findings indicate that early intervention can significantly improve outcomes for at-risk children.",
+              "This phenomenon can be attributed to several interconnected factors, including economic instability and social change.",
+              "It goes without saying that proper preparation is essential for success in competitive examinations.",
+              "The evidence points to the fact that regular physical activity reduces the risk of chronic diseases.",
+              "It is important to note that correlation does not necessarily imply causation.",
+              "A case in point is the economic development of South Korea, which demonstrates the effectiveness of export-oriented policies.",
+              "This approach gives rise to several ethical concerns that must be carefully addressed.",
+              "It stands to reason that increased investment in education will yield long-term economic benefits.",
+              "The data reveal that there has been a significant shift in consumer preferences over the past decade."
+            ],
+            "exercises": [
+              "It ---- that the new technology will revolutionize the healthcare industry.\n(A) widely believes\n(B) is widely believed\n(C) has widely believed\n(D) widely believed\n(E) was believing widely\n\nCevap: B\nAçıklama: 'It is widely believed that...' kalıplaşmış ifade. Passive yapı kullanılır.",
+              "The decline in sales can ---- the recent economic downturn.\n(A) be attributed to\n(B) attribute to\n(C) be attributing to\n(D) have attributed to\n(E) attributing to\n\nCevap: A\nAçıklama: 'Can be attributed to' = ...atfedilebilir. Passive yapı ve 'to' edatı sabittir.",
+              "The study ---- that bilingual children develop better cognitive flexibility.\n(A) is suggesting\n(B) has suggested\n(C) suggests\n(D) was suggested\n(E) suggesting\n\nCevap: C\nAçıklama: 'The study suggests that...' kalıbında active voice, Simple Present kullanılır.",
+              "It ---- saying that effective communication is crucial for team success.\n(A) goes without\n(B) is going without\n(C) has gone without\n(D) went without\n(E) will go without\n\nCevap: A\nAçıklama: 'It goes without saying that...' sabit ifade, Simple Present kullanılır.",
+              "This problem ---- the lack of adequate funding for research and development.\n(A) stems from\n(B) is stemming from\n(C) has stemmed from\n(D) stemmed from\n(E) was stemming from\n\nCevap: A\nAçıklama: 'This stems from...' = Bu...dan kaynaklanmaktadır. Simple Present tercih edilir.",
+              "It ---- to reason that higher education levels correlate with better employment opportunities.\n(A) is standing\n(B) has stood\n(C) stands\n(D) stood\n(E) will stand\n\nCevap: C\nAçıklama: 'It stands to reason that...' sabit ifade, Simple Present.",
+              "The evidence ---- to the fact that social media usage affects mental health.\n(A) is pointing\n(B) points\n(C) has pointed\n(D) was pointing\n(E) will point\n\nCevap: B\nAçıklama: 'The evidence points to the fact that...' kalıbı Simple Present kullanır.",
+              "It ---- noted that the sample size was relatively small, which may limit the generalizability of the findings.\n(A) is important to\n(B) important to be\n(C) should be noted\n(D) should be important\n(E) is noting\n\nCevap: C\nAçıklama: 'It should be noted that...' doğru kalıp. Modal + passive yapı."
+            ]
+          },
+          {
+            "id": "1.1.10",
+            "name": "Reported Speech (Dolaylı Anlatım)",
+            "description": "Direct and indirect speech conversion, tense backshift, and reporting verbs",
+            "priority": "B",
+            "order_index": 10,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Reported Speech (dolaylı anlatım), birinin sözlerini doğrudan aktarmak yerine dolaylı olarak aktarma yöntemidir. YDS'de özellikle akademik metinlerde araştırmacıların, yazarların veya uzmanların görüşlerini aktarırken kullanılır.\n\n**Tense Backshift Kuralları:**\n\nDirect → Indirect dönüşümünde zamanlar genellikle bir adım geriye gider:\n- Present Simple → Past Simple\n- Present Continuous → Past Continuous\n- Present Perfect → Past Perfect\n- Past Simple → Past Perfect\n- Will → Would\n- Can → Could\n- May → Might\n\n**Tense Backshift YAPILMAZ:**\n1. Reporting verb Present/Present Perfect ise: She says (that) she is tired.\n2. Genel gerçekler için: He said that water boils at 100°C.\n3. Hâlâ geçerli durumlar için: She said she lives in Istanbul (hâlâ orada yaşıyorsa).\n\n**Reporting Verbs (Aktarma Fiilleri):**\n\n**Düz aktarım:** say, tell, mention, state, remark\n- He said (that) he was busy.\n- She told me (that) she would come.\n\n**Soru:** ask, inquire, wonder, want to know\n- He asked if/whether I was ready.\n- She wondered where he had gone.\n\n**Öneri/Tavsiye:** suggest, recommend, advise, propose\n- He suggested (that) we should leave early.\n- She recommended that I see a doctor.\n\n**Emir/Rica:** order, command, request, tell, ask\n- He ordered us to stay calm.\n- She asked me to help her.\n\n**İddia/İnanç:** claim, assert, maintain, argue, insist\n- He claimed (that) he had seen a UFO.\n- She insisted (that) she was right.\n\n**Uyarı/Hatırlatma:** warn, remind, inform, notify\n- He warned me not to touch the wire.\n- She reminded me to call her.\n\n**Zaman/Yer değişimleri:**\n- now → then\n- today → that day\n- yesterday → the day before / the previous day\n- tomorrow → the next day / the following day\n- ago → before\n- here → there\n- this → that\n- these → those\n\n**YDS'de Reported Speech stratejisi:**\n1. Reporting verb'ün tense'ine dikkat edin\n2. Tense backshift gerekip gerekmediğini belirleyin\n3. Zamir değişikliklerini kontrol edin (I → he/she, you → I/we)\n4. Zaman/yer ifadelerindeki değişimleri uygulayın\n5. Soru cümlesinde word order değişir: \"Where is he?\" → She asked where he was.",
+            "examples": [
+              "Direct: \"I am conducting research on climate change,\" the scientist said. → Indirect: The scientist said (that) he was conducting research on climate change.",
+              "Direct: \"Have you completed the assignment?\" the teacher asked. → Indirect: The teacher asked if/whether I had completed the assignment.",
+              "Direct: \"We will publish the results next month,\" they announced. → Indirect: They announced (that) they would publish the results the following month.",
+              "Direct: \"Don't forget to submit your report,\" she reminded me. → Indirect: She reminded me not to forget to submit my report. / She reminded me to submit my report.",
+              "Direct: \"I have been working here for five years,\" he mentioned. → Indirect: He mentioned (that) he had been working there for five years.",
+              "Direct: \"Where did you find this information?\" he inquired. → Indirect: He inquired where I had found that information.",
+              "The researcher claimed that his findings contradicted previous studies in the field.",
+              "The professor suggested that students should read the article before the next class.",
+              "The witness insisted that he had seen the suspect near the crime scene that night.",
+              "The committee recommended that the policy be revised to address the concerns raised."
+            ],
+            "exercises": [
+              "The expert stated that the problem ---- more serious than initially thought.\n(A) is\n(B) was\n(C) has been\n(D) will be\n(E) would be\n\nCevap: B\nAçıklama: 'stated' past tense reporting verb olduğu için tense backshift uygulanır: 'is' → 'was'.",
+              "She asked me ---- the report by the end of the week.\n(A) to finish\n(B) finish\n(C) finishing\n(D) finished\n(E) will finish\n\nCevap: A\nAçıklama: 'ask someone to do something' yapısı kullanılır. Dolaylı emir/rica.",
+              "The study suggests that regular exercise ---- the risk of heart disease.\n(A) reduces\n(B) reduced\n(C) has reduced\n(D) would reduce\n(E) had reduced\n\nCevap: A\nAçıklama: 'suggests' Present tense ve genel gerçek olduğu için tense backshift yapılmaz.",
+              "He wondered ---- she had been so upset the previous day.\n(A) that\n(B) if\n(C) why\n(D) what\n(E) which\n\nCevap: C\nAçıklama: 'Why was she upset?' sorusunun dolaylı anlatımı. Soru kelimesi 'why' korunur.",
+              "The manager warned us ---- the deadline under any circumstances.\n(A) not miss\n(B) to not miss\n(C) not to miss\n(D) don't miss\n(E) didn't miss\n\nCevap: C\nAçıklama: 'warn someone not to do something' yapısı. 'not' infinitive'den önce gelir.",
+              "The scientist announced that the team ---- a significant breakthrough the month before.\n(A) has made\n(B) had made\n(C) made\n(D) makes\n(E) will make\n\nCevap: B\nAçıklama: 'the month before' past time reference ve reporting verb 'announced' (past) olduğu için Past Perfect kullanılır.",
+              "She inquired ---- the results of the experiment were ready.\n(A) that\n(B) if\n(C) what\n(D) which\n(E) how\n\nCevap: B\nAçıklama: Yes/No sorusunun dolaylı anlatımında 'if' veya 'whether' kullanılır.",
+              "The author claims that his theory ---- a new perspective on the issue.\n(A) provides\n(B) provided\n(C) has provided\n(D) would provide\n(E) had provided\n\nCevap: A\nAçıklama: 'claims' Present tense ve hâlâ geçerli bir durum olduğu için tense backshift yapılmaz."
+            ]
+          },
+          {
+            "id": "1.1.11",
+            "name": "Causative Verbs (Have/Get/Make)",
+            "description": "Causative structures: have/get something done, make/let someone do",
+            "priority": "B",
+            "order_index": 11,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Causative verbs (ettirgen fiiller), bir kişinin başka birisine bir şey yaptırmasını ifade eden yapılardır. YDS'de hem active hem passive causative yapıları sıklıkla test edilir.\n\n**HAVE + object + past participle (passive causative)**\nBir şeyin yapılmasını sağlamak (genellikle para karşılığı bir hizmet):\n- I had my car repaired. (Arabamı tamir ettirdim.)\n- She had her hair cut. (Saçını kestirdi.)\n- We need to have the documents translated. (Belgeleri tercüme ettirmemiz gerekiyor.)\n\n**GET + object + past participle (passive causative)**\n'Have' ile aynı anlam ama daha informal:\n- I got my car repaired. (Arabamı tamir ettirdim.)\n- She got her hair cut. (Saçını kestirdi.)\n- They finally got the problem solved. (Sonunda sorunu çözdürdüler.)\n\n**GET vs HAVE farkı:**\n- HAVE: daha formal, planlı\n- GET: daha informal, çaba/zorluk ima eder\n\n**HAVE + person + bare infinitive (active causative)**\nBirinin bir şey yapmasını sağlamak (otorite/ikna ile):\n- The teacher had the students write an essay. (Öğretmen öğrencilere bir kompozisyon yazdırdı.)\n- I'll have my assistant call you. (Asistanımın sizi aramasını sağlayacağım.)\n\n**GET + person + to infinitive (active causative)**\nBirini bir şey yapmaya ikna etmek (çaba gerektirir):\n- I got him to help me. (Onu bana yardım etmeye ikna ettim.)\n- She got her brother to drive her to the airport. (Kardeşini havaalanına götürmesi için ikna etti.)\n\n**MAKE + person + bare infinitive**\nBirini zorla bir şey yaptırmak:\n- The teacher made the students stay after class. (Öğretmen öğrencileri dersten sonra kalmaya zorladı.)\n- Don't make me laugh! (Beni güldürme!)\n- What made you change your mind? (Fikrinizi değiştirmenize ne sebep oldu?)\n\nÖNEMLİ: Passive yapıda 'make' → 'to infinitive' alır:\n- Active: They made him work overtime.\n- Passive: He was made to work overtime.\n\n**LET + person + bare infinitive**\nBirine izin vermek:\n- My parents let me go to the party. (Ailem partiye gitmeme izin verdi.)\n- Don't let this opportunity pass. (Bu fırsatı kaçırma.)\n- Let me help you with that. (İzin ver sana yardım edeyim.)\n\n**HELP + person + (to) infinitive / bare infinitive**\nBirine yardım etmek:\n- She helped me (to) prepare for the exam. (Sınava hazırlanmama yardım etti.)\n- Can you help me carry these boxes? (Bu kutuları taşımama yardım eder misin?)\n\n**YDS'de Causative Verbs stratejisi:**\n1. Active mi passive causative mi olduğunu belirleyin\n2. Formal/informal context'e göre have/get seçin\n3. Make/let ayrımına dikkat: make = zorlamak, let = izin vermek\n4. Infinitive tipini kontrol edin: bare infinitive mi, to infinitive mi?",
+            "examples": [
+              "I need to have my computer fixed before the presentation tomorrow.",
+              "She got her thesis proofread by a professional editor.",
+              "The manager had the team revise the proposal three times.",
+              "We couldn't get him to change his opinion despite all our efforts.",
+              "The new regulations make companies report their emissions annually.",
+              "He was made to apologize for his inappropriate comments.",
+              "My supervisor let me leave early because I wasn't feeling well.",
+              "The government had the old building demolished to make way for a new park.",
+              "She finally got her landlord to fix the broken heating system.",
+              "The teacher made the students rewrite their essays to improve clarity."
+            ],
+            "exercises": [
+              "I need to ---- my eyes ---- before I can get new glasses.\n(A) have / testing\n(B) have / tested\n(C) make / test\n(D) get / to test\n(E) let / tested\n\nCevap: B\nAçıklama: Passive causative yapı: 'have + object + past participle'. Gözlerimi muayene ettirmek.",
+              "The professor ---- the students ---- the experiment again due to errors in the data.\n(A) made / conduct\n(B) made / to conduct\n(C) had / to conduct\n(D) got / conduct\n(E) let / conducting\n\nCevap: A\nAçıklama: 'make + person + bare infinitive' yapısı. Öğrencileri zorla tekrar yaptırmak.",
+              "After hours of negotiation, we finally ---- them ---- to our terms.\n(A) had / agree\n(B) made / agree\n(C) got / to agree\n(D) let / to agree\n(E) have / agreed\n\nCevap: C\nAçıklama: 'get + person + to infinitive' yapısı. İkna ederek kabul ettirmek, çaba gerektirir ('finally' kelimesi ipucu).",
+              "The company ---- all employees ---- safety training last month.\n(A) had / attend\n(B) got / attend\n(C) made / to attend\n(D) let / attended\n(E) have / attending\n\nCevap: A\nAçıklama: 'have + person + bare infinitive'. Şirket çalışanların eğitime katılmasını sağladı (otorite).",
+              "She ---- her car ---- at the garage on Main Street.\n(A) got / servicing\n(B) had / service\n(C) made / serviced\n(D) had / serviced\n(E) let / to service\n\nCevap: D\nAçıklama: Passive causative: 'have/get + object + past participle'. Arabasını servise götürdü.",
+              "The new policy ---- companies ---- their environmental impact.\n(A) makes / assess\n(B) makes / to assess\n(C) has / assess\n(D) gets / assessing\n(E) lets / assessed\n\nCevap: A\nAçıklama: 'make + person/thing + bare infinitive'. Politika şirketleri zorla değerlendirme yapmaya yönlendiriyor.",
+              "My parents ---- me ---- studying abroad after I convinced them.\n(A) made / go\n(B) had / go\n(C) let / go\n(D) got / go\n(E) have / gone\n\nCevap: C\nAçıklama: 'let + person + bare infinitive'. İzin vermek. 'After I convinced them' ifadesi izin anlamını destekliyor.",
+              "He was ---- to resign from his position due to the scandal.\n(A) made\n(B) let\n(C) had\n(D) got\n(E) have\n\nCevap: A\nAçıklama: Passive yapıda 'make' → 'was made to + infinitive'. İstifaya zorlandı."
+            ]
+          },
+          {
+            "id": "1.1.12",
+            "name": "Gerunds ve Infinitives",
+            "description": "Gerund and infinitive usage patterns, verb + ing vs to-infinitive",
+            "priority": "A",
+            "order_index": 12,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Gerunds (-ing form) ve Infinitives (to + verb) İngilizcede çok sık kullanılan yapılardır. YDS'de bu yapılar arasındaki farkları bilmek kritiktir çünkü bazı fiiller sadece gerund, bazıları sadece infinitive, bazıları ise her ikisini de alır ancak anlam değişir.\n\n**GERUND (-ing) alan fiiller:**\n\n**Mental activities and preferences:**\n- enjoy, mind, avoid, consider, suggest, imagine, admit, deny, finish, postpone, delay, keep (on), quit, miss, risk\n- Örnek: \"I enjoy reading academic journals.\" / \"She suggested postponing the meeting.\"\n\n**Phrasal verbs with prepositions:**\n- give up, put off, carry on, keep on, end up, look forward to, be used to, get used to\n- Örnek: \"We should give up trying to solve this problem today.\"\n\n**Expression patterns:**\n- It's no use/good + gerund\n- It's (not) worth + gerund\n- can't help + gerund\n- can't stand + gerund\n- Örnek: \"It's no use crying over spilt milk.\"\n\n**INFINITIVE (to + verb) alan fiiller:**\n\n**Decisions, intentions, future plans:**\n- want, plan, decide, hope, expect, agree, refuse, manage, fail, promise, offer, learn, afford, arrange\n- Örnek: \"They decided to invest in renewable energy.\" / \"He managed to finish the project on time.\"\n\n**ANLAM DEĞİŞEN FİİLLER:**\n\n**REMEMBER:**\n- remember + gerund = geçmişte olan bir şeyi hatırlamak\n  \"I remember meeting him at the conference.\" (Onu konferansta gördüğümü hatırlıyorum.)\n- remember + infinitive = yapılması gereken şeyi hatırlamak\n  \"Remember to submit your assignment.\" (Ödevini vermeyi unutma.)\n\n**FORGET:**\n- forget + gerund = geçmişte olan bir şeyi unutmak\n  \"I'll never forget seeing the Northern Lights.\" (Kuzey Işıklarını gördüğümü asla unutmayacağım.)\n- forget + infinitive = yapılması gereken şeyi unutmak\n  \"Don't forget to lock the door.\" (Kapıyı kilitlemeyi unutma.)\n\n**TRY:**\n- try + gerund = bir yöntem denemek\n  \"If you can't sleep, try drinking warm milk.\" (Uyuyamıyorsan sıcak süt içmeyi dene.)\n- try + infinitive = çaba göstermek, gayret etmek\n  \"He tried to solve the problem but failed.\" (Sorunu çözmeye çalıştı ama başaramadı.)\n\n**STOP:**\n- stop + gerund = bir eylemi durdurmak\n  \"He stopped smoking last year.\" (Geçen yıl sigarayı bıraktı.)\n- stop + infinitive = bir şey yapmak için durmak\n  \"He stopped to smoke a cigarette.\" (Sigara içmek için durdu.)\n\n**REGRET:**\n- regret + gerund = geçmişte yaptığı bir şeye pişman olmak\n  \"I regret not studying harder.\" (Daha çok çalışmadığıma pişmanım.)\n- regret + infinitive = formal olarak bir şey söylemekten üzüntü duymak\n  \"We regret to inform you that...\" (Size bildirir(mekten üzüntü duyar)ız ki...)\n\n**GO ON:**\n- go on + gerund = aynı eyleme devam etmek\n  \"He went on talking for hours.\" (Saatlerce konuşmaya devam etti.)\n- go on + infinitive = sonraki eyleme geçmek\n  \"After discussing the problem, we went on to propose solutions.\" (Sorunu tartıştıktan sonra çözüm önermeye geçtik.)\n\n**Preposition + Gerund:**\nPrepositionlardan sonra DAIMA gerund kullanılır:\n- interested in, good at, tired of, worried about, responsible for, capable of, afraid of, fond of, succeed in, insist on\n- Örnek: \"She is interested in studying linguistics.\"\n\n**YDS Stratejisi:**\n1. Fiili tanıyın: gerund mu infinitive mi alır?\n2. Anlam değişen fiillerde context'i analiz edin\n3. Prepositiondan sonra daima gerund\n4. Modal verbs'den sonra bare infinitive (without 'to')",
+            "examples": [
+              "They considered moving to a larger office but decided against it due to high costs.",
+              "She managed to complete her dissertation despite numerous obstacles.",
+              "I remember attending that lecture; it was incredibly inspiring.",
+              "Remember to cite all sources properly to avoid plagiarism.",
+              "The researcher tried using a different methodology to validate the results.",
+              "He tried to replicate the experiment but encountered technical difficulties.",
+              "After presenting the findings, the speaker went on to discuss the implications.",
+              "Many companies have stopped investing in fossil fuels and are now focusing on renewables.",
+              "We regret to inform you that your application has not been successful.",
+              "I regret not taking that opportunity when it was available."
+            ],
+            "exercises": [
+              "The committee decided ---- the project until more funding became available.\n(A) postponing\n(B) to postpone\n(C) postpone\n(D) having postponed\n(E) postponed\n\nCevap: B\nAçıklama: 'decide' fiili infinitive alır: 'decided to postpone'.",
+              "She enjoys ---- about complex philosophical questions.\n(A) to think\n(B) think\n(C) thinking\n(D) to thinking\n(E) thought\n\nCevap: C\nAçıklama: 'enjoy' fiili gerund alır: 'enjoys thinking'.",
+              "I remember ---- her at the conference last year.\n(A) to meet\n(B) meet\n(C) meeting\n(D) to meeting\n(E) met\n\nCevap: C\nAçıklama: 'remember + gerund' = geçmişte olan bir şeyi hatırlamak. 'Last year' geçmiş zaman göstergesi.",
+              "Don't forget ---- your passport when you go to the airport.\n(A) bringing\n(B) to bring\n(C) bring\n(D) brought\n(E) to bringing\n\nCevap: B\nAçıklama: 'forget + infinitive' = yapılması gereken şeyi unutma. Gelecek eylem.",
+              "The researchers tried ---- different methods to improve accuracy.\n(A) to use\n(B) use\n(C) using\n(D) to using\n(E) used\n\nCevap: C\nAçıklama: 'try + gerund' = bir yöntem denemek. Farklı metodları denediler.",
+              "He stopped ---- after his doctor warned him about health risks.\n(A) to smoke\n(B) smoke\n(C) smoking\n(D) to smoking\n(E) smoked\n\nCevap: C\nAçıklama: 'stop + gerund' = bir eylemi durdurmak/bırakmak. Sigara içmeyi bıraktı.",
+              "After analyzing the data, the team went on ---- the report.\n(A) writing\n(B) to write\n(C) write\n(D) written\n(E) wrote\n\nCevap: B\nAçıklama: 'go on + infinitive' = sonraki eyleme geçmek. Veri analizinden sonra rapor yazmaya geçtiler.",
+              "She is very good at ---- complex problems quickly.\n(A) to solve\n(B) solve\n(C) solving\n(D) to solving\n(E) solved\n\nCevap: C\nAçıklama: Preposition (at) + gerund. 'Good at + -ing'."
+            ]
+          },
+          {
+            "id": "1.1.13",
+            "name": "Articles (a/an/the/zero article)",
+            "description": "Definite, indefinite, and zero articles usage rules",
+            "priority": "B",
+            "order_index": 13,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Articles (tanımlıklar), İngilizcede en sık yapılan hatalardan biridir. YDS'de doğru article kullanımı kritiktir çünkü anlam farkı yaratabilir.\n\n**INDEFINITE ARTICLES: A / AN**\n\n**Kullanım:**\n1. Tekil, sayılabilen, ilk kez bahsedilen bir şey:\n   - \"I saw a dog in the park.\" (ilk defa bahsediliyor)\n   - \"She is a teacher.\" (meslek)\n\n2. 'A' = ünsüz sesle başlayan kelimeler: a book, a university (yu-niversity), a European (yu-ropean)\n\n3. 'An' = ünlü sesle başlayan kelimeler: an apple, an hour (our), an MBA (em-bi-ey)\n\n4. 'One' anlamında: \"I need a pen.\" (bir tane kalem)\n\n5. Genelleme yaparken (tekil): \"A dog is a faithful animal.\"\n\n**DEFINITE ARTICLE: THE**\n\n**Kullanım:**\n1. Daha önce bahsedilen şey:\n   - \"I saw a dog. The dog was running.\" (ikinci bahsediş)\n\n2. Tekil ve unique olan şeyler:\n   - the sun, the moon, the earth, the sky, the world\n\n3. Superlative:\n   - the best, the most important, the largest\n\n4. Sıra bildiren sayılar:\n   - the first, the second, the last\n\n5. Müzik aletleri:\n   - play the piano, play the guitar\n\n6. Coğrafi isimler:\n   - the Pacific Ocean, the Netherlands, the Alps, the Middle East\n   - AMA: Mount Everest, Lake Victoria (tek isim)\n\n7. Newspaper/hotel/organization isimleri:\n   - the New York Times, the United Nations, the BBC\n\n8. 'Only' ile:\n   - \"She is the only person who can help.\"\n\n9. Belirli bir grup:\n   - the rich (zenginler), the elderly (yaşlılar), the unemployed (işsizler)\n\n**ZERO ARTICLE (article kullanılmaz)**\n\n**Kullanım:**\n1. Çoğul genelleme:\n   - \"Dogs are faithful animals.\" (genel olarak köpekler)\n   - \"Books are important for education.\"\n\n2. Sayılamayan isimler (genelleme):\n   - \"Water is essential for life.\"\n   - \"Knowledge is power.\"\n\n3. Meals (öğünler):\n   - have breakfast, have lunch, have dinner\n   - AMA: \"The dinner we had last night was delicious.\" (specific)\n\n4. Oyunlar ve sporlar:\n   - play football, play chess\n\n5. Languages:\n   - speak English, learn Turkish\n   - AMA: \"the English language\" (specific)\n\n6. Akademik dersler:\n   - study mathematics, study biology\n\n7. Ülkeler (çoğu):\n   - Turkey, England, France\n   - AMA: the USA, the UK, the Czech Republic (plural form)\n\n8. By + transportation:\n   - by car, by train, by bus, by plane\n   - AMA: \"in/on a car/train\" (specific)\n\n9. Görev/pozisyon (tekil, ünvan gibi):\n   - President of the company, head of department\n\n**YDS'de sık karışan durumlar:**\n\n1. School/hospital/prison:\n   - go to school (öğrenci olarak)\n   - go to the school (ziyaret için)\n   - be in hospital (hasta olarak)\n   - be in the hospital (ziyaret/çalışma)\n\n2. University:\n   - \"at university\" (UK English - öğrenci olarak)\n   - \"at the university\" (ABD veya ziyaret)\n\n3. Nature:\n   - \"in nature\" (genelde doğada)\n   - \"in the nature of...\" (specific - bir şeyin doğası)\n\n**YDS Stratejisi:**\n1. İlk bahis mi, ikinci bahis mi?\n2. Sayılabilen/sayılamayan?\n3. Genelleme mi, specific mi?\n4. Unique bir şey mi?\n5. İdiomatic expression mı?",
+            "examples": [
+              "A student approached me after the lecture to ask a question. The student was interested in my research.",
+              "The sun rises in the east and sets in the west.",
+              "She is the most talented musician I have ever met.",
+              "Water is essential for all forms of life.",
+              "I go to work by train every day.",
+              "The conference will be held at the University of Cambridge.",
+              "Knowledge of multiple languages is an asset in today's global economy.",
+              "The rich should contribute more to help the poor.",
+              "Mount Everest is the highest mountain in the world.",
+              "She plays the violin beautifully and also speaks French fluently."
+            ],
+            "exercises": [
+              "---- research conducted by scientists has shown that climate change is accelerating.\n(A) A\n(B) An\n(C) The\n(D) —\n(E) Some\n\nCevap: C\nAçıklama: Specific bir araştırmadan bahsediliyor ('conducted by scientists' ile belirli kılınmış). 'The' kullanılır.",
+              "---- patience is required when working with young children.\n(A) A\n(B) An\n(C) The\n(D) —\n(E) Many\n\nCevap: D\nAçıklama: 'Patience' sayılamayan isim ve genelleme yapılıyor. Article kullanılmaz.",
+              "She is ---- engineer at a multinational company.\n(A) a\n(B) an\n(C) the\n(D) —\n(E) one\n\nCevap: B\nAçıklama: Meslek belirtiliyor ve 'engineer' ünlü sesle başlıyor. 'an engineer' kullanılır.",
+              "The study was published in ---- journal that focuses on linguistics.\n(A) a\n(B) an\n(C) the\n(D) —\n(E) some\n\nCevap: A\nAçıklama: İlk defa bahsedilen bir dergi ('journal' ünsüz sesle başlıyor). 'a journal' kullanılır.",
+              "---- education is the key to economic development.\n(A) A\n(B) An\n(C) The\n(D) —\n(E) Some\n\nCevap: D\nAçıklama: 'Education' genel anlamda kullanılıyor (abstract noun, genelleme). Article kullanılmaz.",
+              "This is ---- most important decision we will make this year.\n(A) a\n(B) an\n(C) the\n(D) —\n(E) very\n\nCevap: C\nAçıklama: Superlative ('most important') kullanılıyor. 'the' gereklidir.",
+              "He went to ---- hospital to visit his friend who had surgery.\n(A) a\n(B) an\n(C) the\n(D) —\n(E) some\n\nCevap: C\nAçıklama: Ziyaret amacıyla hastaneye gidiyor (hasta değil). 'the hospital' kullanılır.",
+              "---- United Nations plays a crucial role in international diplomacy.\n(A) A\n(B) An\n(C) The\n(D) —\n(E) Some\n\nCevap: C\nAçıklama: Kurum isimleri 'the' alır. 'The United Nations' kullanılır."
+            ]
+          },
+          {
+            "id": "1.1.14",
+            "name": "Modal Verbs (Detailed)",
+            "description": "Modal verbs: ability, possibility, permission, obligation, advice, deduction",
+            "priority": "A",
+            "order_index": 14,
+            "parent_id": "1.1",
+            "level": 3,
+            "content": "Modal verbs (kiplik yardımcı fiiller), eylemin kesinliğini, olasılığını, yeteneğini, iznini veya gerekliliğini ifade eder. YDS'de modal verb kullanımı sıklıkla test edilir çünkü her biri farklı anlam nüansları taşır.\n\n**CAN / COULD**\n\n**Ability (yetenek):**\n- Present: \"She can speak five languages.\"\n- Past: \"When I was young, I could run very fast.\"\n- Future: \"will be able to\" (can'in future formu yok)\n\n**Possibility (olasılık):**\n- \"Learning a new language can be challenging.\" (genel olasılık)\n- \"This approach could work if implemented correctly.\" (şu an veya gelecek)\n\n**Permission (izin):**\n- \"Can I leave early today?\" (informal)\n- \"Could I use your phone?\" (more polite)\n\n**Requests (rica):**\n- \"Can you help me?\" (informal)\n- \"Could you explain this again?\" (more polite)\n\n**MAY / MIGHT**\n\n**Possibility (olasılık - less certain than can):**\n- \"The results may/might indicate a correlation.\" (belki gösterebilir)\n- \"She may/might not come to the meeting.\" (%50 olasılık)\n\n**Permission (formal izin):**\n- \"You may use the library resources.\" (formal)\n- \"May I ask a question?\" (very formal/polite)\n\n**MAY vs MIGHT:**\n- Present/Future: Her ikisi de kullanılabilir, might biraz daha az kesin\n- Past possibility: might kullanılır\n  \"He might have been sick.\" (belki hastaydı)\n\n**MUST / HAVE TO**\n\n**Obligation (zorunluluk):**\n- \"Students must submit their assignments by Friday.\" (personal/moral obligation)\n- \"You have to pass the exam to get the certificate.\" (external rule)\n\nFark: must = kişisel zorunluluk, have to = dış kuraldan kaynaklanan zorunluluk\n\n**Deduction (güçlü çıkarım - %95 kesin):**\n- \"He must be tired. He's been working all day.\" (muhakkak yorgun)\n- \"She must have forgotten about the meeting.\" (past deduction)\n\n**Negative:**\n- \"You mustn't smoke here.\" (yasak - prohibition)\n- \"You don't have to come.\" (zorunlu değil - not necessary)\n\n**SHOULD / OUGHT TO**\n\n**Advice (tavsiye):**\n- \"You should exercise regularly.\"\n- \"Students ought to read more academic journals.\"\n\n**Expectation (beklenti):**\n- \"The package should arrive tomorrow.\" (beklendiği gibi)\n- \"The results ought to be ready by now.\"\n\n**Past criticism:**\n- \"You should have studied harder.\" (çalışmalıydın ama çalışmadın)\n- \"They shouldn't have made that decision.\" (o kararı vermemeliydi)\n\n**SHALL**\n\n**Offers/Suggestions (öneri - formal):**\n- \"Shall we begin the meeting?\" (UK English)\n- \"Shall I open the window?\"\n\n**Future (formal, özellikle legal documents):**\n- \"The committee shall review all applications.\"\n\n**WILL / WOULD**\n\n**Future:**\n- \"The conference will take place in May.\"\n\n**Willingness:**\n- \"I'll help you with the project.\"\n\n**Polite request (would):**\n- \"Would you mind closing the door?\"\n\n**Past habit (would):**\n- \"When I was a child, I would play in the garden every day.\"\n\n**Conditional:**\n- \"If I had time, I would learn another language.\"\n\n**NEED / DARE (semi-modals)**\n\n**Need:**\n- Affirmative: \"You need to register.\" (to + infinitive)\n- Negative: \"You needn't worry.\" (modal - no 'to') veya \"You don't need to worry.\"\n\n**YDS'de Modal Verbs Stratejisi:**\n1. Anlam farkını belirle: yetenek/olasılık/zorunluluk/tavsiye?\n2. Kesinlik derecesine dikkat et: must (%95) > may/might (%50) > could (possible)\n3. Present mi Past mi Future mı? (must/may geçmiş form almaz, could/might/should + have + V3)\n4. Formal/informal context'e göre seç\n5. Negative formların farklı anlamlarına dikkat et (mustn't ≠ don't have to)",
+            "examples": [
+              "The researcher must have spent years collecting this data; the sample size is enormous.",
+              "Students should review the material before the exam to ensure better performance.",
+              "You needn't submit the report today; the deadline has been extended.",
+              "The results may indicate a significant correlation between the two variables.",
+              "She could have passed the exam if she had prepared more thoroughly.",
+              "Participants must not disclose confidential information obtained during the study.",
+              "You don't have to attend the meeting if you have other commitments.",
+              "The theory might explain some phenomena, but further research is needed.",
+              "Would you mind providing more details about your methodology?",
+              "Children ought to learn critical thinking skills at an early age."
+            ],
+            "exercises": [
+              "The data ---- be analyzed more carefully before drawing any conclusions.\n(A) should\n(B) might\n(C) can\n(D) would\n(E) could\n\nCevap: A\nAçıklama: Tavsiye/öneri anlamı var. 'should' kullanılır.",
+              "You ---- submit your application by Friday, or it won't be considered.\n(A) should\n(B) must\n(C) might\n(D) could\n(E) would\n\nCevap: B\nAçıklama: Güçlü zorunluluk ('or it won't be considered' kesin sonuç). 'must' kullanılır.",
+              "She ---- have forgotten about the meeting; she's usually very punctual.\n(A) should\n(B) must\n(C) can\n(D) will\n(E) shall\n\nCevap: B\nAçıklama: Past deduction (güçlü çıkarım). 'must have + V3' kullanılır.",
+              "Students ---- wear uniforms at this school; it's optional.\n(A) mustn't\n(B) don't have to\n(C) shouldn't\n(D) can't\n(E) needn't to\n\nCevap: B\nAçıklama: Zorunlu olmadığını söylüyor ('optional'). 'don't have to' = gerekmez.",
+              "The experiment ---- be replicated to verify the results.\n(A) ought to\n(B) must\n(C) has to\n(D) should\n(E) A, B, C, ve D hepsi kullanılabilir\n\nCevap: E\nAçıklama: Hepsi 'zorunluluk/tavsiye' anlamında kullanılabilir. Context'e göre hepsi uygun.",
+              "You ---- have told me about the change in schedule earlier.\n(A) should\n(B) must\n(C) can\n(D) will\n(E) shall\n\nCevap: A\nAçıklama: Past criticism. 'should have told' = söylemeliydin (ama söylemedin).",
+              "---- you help me carry these boxes upstairs?\n(A) Must\n(B) Should\n(C) Could\n(D) Ought\n(E) Shall\n\nCevap: C\nAçıklama: Polite request. 'Could you...' kibar rica ifadesi.",
+              "This approach ---- work, but we need to test it first.\n(A) must\n(B) should\n(C) might\n(D) has to\n(E) ought\n\nCevap: C\nAçıklama: Belirsiz olasılık ('but we need to test' belirsizlik göstergesi). 'might' kullanılır."
+            ]
           }
         ]
       },
