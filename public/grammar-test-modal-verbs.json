@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.14",
+  "title": "Modal Verbs (Detailed) - Ünite Testi",
+  "topicId": "1.1.14",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The data ---- be analyzed more carefully before drawing any conclusions.",
+      "options": [
+        "A) should",
+        "B) might",
+        "C) can",
+        "D) would",
+        "E) could"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tavsiye/öneri anlamı var. 'should' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "You ---- submit your application by Friday, or it won't be considered.",
+      "options": [
+        "A) should",
+        "B) must",
+        "C) might",
+        "D) could",
+        "E) would"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Güçlü zorunluluk ('or it won't be considered' kesin sonuç). 'must' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "She ---- have forgotten about the meeting; she's usually very punctual.",
+      "options": [
+        "A) should",
+        "B) must",
+        "C) can",
+        "D) will",
+        "E) shall"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past deduction (güçlü çıkarım). 'must have + V3' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Students ---- wear uniforms at this school; it's optional.",
+      "options": [
+        "A) mustn't",
+        "B) don't have to",
+        "C) shouldn't",
+        "D) can't",
+        "E) needn't to"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zorunlu olmadığını söylüyor ('optional'). 'don't have to' = gerekmez.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "The experiment ---- be replicated to verify the results.",
+      "options": [
+        "A) ought to",
+        "B) must",
+        "C) has to",
+        "D) should",
+        "E) could"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tavsiye/öneri anlamında 'should' en uygunudur. Diğer seçenekler de kullanılabilir ama 'should' daha yaygın.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "You ---- have told me about the change in schedule earlier.",
+      "options": [
+        "A) should",
+        "B) must",
+        "C) can",
+        "D) will",
+        "E) shall"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Past criticism. 'should have told' = söylemeliydin (ama söylemedin).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "---- you help me carry these boxes upstairs?",
+      "options": [
+        "A) Must",
+        "B) Should",
+        "C) Could",
+        "D) Ought",
+        "E) Shall"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Polite request. 'Could you...' kibar rica ifadesi.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "This approach ---- work, but we need to test it first.",
+      "options": [
+        "A) must",
+        "B) should",
+        "C) might",
+        "D) has to",
+        "E) ought"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Belirsiz olasılık ('but we need to test' belirsizlik göstergesi). 'might' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "She ---- speak three languages fluently when she was younger.",
+      "options": [
+        "A) can",
+        "B) could",
+        "C) may",
+        "D) might",
+        "E) must"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past ability. 'could' geçmişte yetenek ifade eder.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "You ---- smoke in this building; it's strictly prohibited.",
+      "options": [
+        "A) don't have to",
+        "B) needn't",
+        "C) mustn't",
+        "D) shouldn't",
+        "E) might not"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'mustn't' = yasak (prohibition). 'strictly prohibited' ifadesi bunu destekler.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "The package ---- arrive tomorrow, according to the tracking information.",
+      "options": [
+        "A) must",
+        "B) should",
+        "C) can",
+        "D) may",
+        "E) would"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'should' beklenti ifade eder. Takip bilgisine göre yarın gelmeli.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "---- I ask you a personal question?",
+      "options": [
+        "A) Must",
+        "B) Should",
+        "C) May",
+        "D) Ought",
+        "E) Have to"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Formal permission. 'May I...' çok kibar izin isteme.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "He ---- be at home now; I just saw his car in the garage.",
+      "options": [
+        "A) might",
+        "B) could",
+        "C) may",
+        "D) must",
+        "E) should"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Present deduction (güçlü çıkarım). Arabasını gördüm, evde olmalı. 'must' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "She ---- have passed the exam if she had studied harder.",
+      "options": [
+        "A) must",
+        "B) should",
+        "C) can",
+        "D) could",
+        "E) may"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Past possibility in conditional. 'could have + V3' geçmişte olabilecek şey.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 15,
+      "question": "You ---- take a break; you've been working for hours.",
+      "options": [
+        "A) must",
+        "B) have to",
+        "C) should",
+        "D) can",
+        "E) may"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tavsiye. 'should' mola vermeni öneriyorum anlamında.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "The results ---- be ready by now; they said it would take two hours.",
+      "options": [
+        "A) must",
+        "B) should",
+        "C) can",
+        "D) may",
+        "E) would"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Expectation. 'should' beklenti ifade eder (iki saat dediler).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "---- we start the presentation now, or should we wait for everyone?",
+      "options": [
+        "A) Must",
+        "B) Should",
+        "C) Can",
+        "D) Shall",
+        "E) May"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Suggestion/offer. 'Shall we...' öneri ifadesi (UK English).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "Participants ---- not disclose any confidential information.",
+      "options": [
+        "A) should",
+        "B) must",
+        "C) might",
+        "D) could",
+        "E) would"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Strong obligation/prohibition. 'must not' gizli bilgi paylaşmamalı (zorunluluk).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "I ---- play the piano when I was a child, but I've forgotten now.",
+      "options": [
+        "A) can",
+        "B) could",
+        "C) may",
+        "D) might",
+        "E) must"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Past ability. 'could' geçmişte yetenek ifade eder.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "The theory ---- explain the phenomenon, but further evidence is required.",
+      "options": [
+        "A) must",
+        "B) should",
+        "C) might",
+        "D) has to",
+        "E) ought"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Uncertain possibility. 'might' belirsiz olasılık ('but further evidence is required').",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

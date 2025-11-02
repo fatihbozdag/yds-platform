@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.12",
+  "title": "Gerunds ve Infinitives - Ünite Testi",
+  "topicId": "1.1.12",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The committee decided ---- the project until more funding became available.",
+      "options": [
+        "A) postponing",
+        "B) to postpone",
+        "C) postpone",
+        "D) having postponed",
+        "E) postponed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'decide' fiili infinitive alır: 'decided to postpone'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "She enjoys ---- about complex philosophical questions.",
+      "options": [
+        "A) to think",
+        "B) think",
+        "C) thinking",
+        "D) to thinking",
+        "E) thought"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'enjoy' fiili gerund alır: 'enjoys thinking'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "I remember ---- her at the conference last year.",
+      "options": [
+        "A) to meet",
+        "B) meet",
+        "C) meeting",
+        "D) to meeting",
+        "E) met"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'remember + gerund' = geçmişte olan bir şeyi hatırlamak. 'Last year' geçmiş zaman göstergesi.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "Don't forget ---- your passport when you go to the airport.",
+      "options": [
+        "A) bringing",
+        "B) to bring",
+        "C) bring",
+        "D) brought",
+        "E) to bringing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'forget + infinitive' = yapılması gereken şeyi unutma. Gelecek eylem.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "The researchers tried ---- different methods to improve accuracy.",
+      "options": [
+        "A) to use",
+        "B) use",
+        "C) using",
+        "D) to using",
+        "E) used"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'try + gerund' = bir yöntem denemek. Farklı metodları denediler.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 6,
+      "question": "He stopped ---- after his doctor warned him about health risks.",
+      "options": [
+        "A) to smoke",
+        "B) smoke",
+        "C) smoking",
+        "D) to smoking",
+        "E) smoked"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'stop + gerund' = bir eylemi durdurmak/bırakmak. Sigara içmeyi bıraktı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "After analyzing the data, the team went on ---- the report.",
+      "options": [
+        "A) writing",
+        "B) to write",
+        "C) write",
+        "D) written",
+        "E) wrote"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'go on + infinitive' = sonraki eyleme geçmek. Veri analizinden sonra rapor yazmaya geçtiler.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "She is very good at ---- complex problems quickly.",
+      "options": [
+        "A) to solve",
+        "B) solve",
+        "C) solving",
+        "D) to solving",
+        "E) solved"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Preposition (at) + gerund. 'Good at + -ing'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "They managed ---- the deadline despite numerous obstacles.",
+      "options": [
+        "A) meeting",
+        "B) to meet",
+        "C) meet",
+        "D) to meeting",
+        "E) met"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'manage' fiili infinitive alır: 'managed to meet'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "I regret ---- you that your application was unsuccessful.",
+      "options": [
+        "A) informing",
+        "B) to inform",
+        "C) inform",
+        "D) to informing",
+        "E) informed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'regret + infinitive' = formal olarak bir şey söylemekten üzüntü duymak. 'Regret to inform' standart yapı.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "She avoided ---- about her previous job during the interview.",
+      "options": [
+        "A) to talk",
+        "B) talk",
+        "C) talking",
+        "D) to talking",
+        "E) talked"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'avoid' fiili gerund alır: 'avoided talking'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "We need ---- a decision before the end of the week.",
+      "options": [
+        "A) making",
+        "B) to make",
+        "C) make",
+        "D) to making",
+        "E) made"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'need' fiili infinitive alır: 'need to make'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "He tried ---- the problem but failed to find a solution.",
+      "options": [
+        "A) solving",
+        "B) to solve",
+        "C) solve",
+        "D) to solving",
+        "E) solved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'try + infinitive' = çaba göstermek, gayret etmek. 'but failed' ifadesi çaba gösterdiğini destekliyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "I look forward to ---- from you soon.",
+      "options": [
+        "A) hear",
+        "B) hearing",
+        "C) to hear",
+        "D) heard",
+        "E) have heard"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'look forward to + gerund'. 'to' burada preposition olduğu için gerund kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "She suggested ---- the meeting to next week.",
+      "options": [
+        "A) to postpone",
+        "B) postpone",
+        "C) postponing",
+        "D) to postponing",
+        "E) postponed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'suggest' fiili gerund alır: 'suggested postponing'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "He stopped ---- a cup of coffee on his way to work.",
+      "options": [
+        "A) having",
+        "B) to have",
+        "C) have",
+        "D) to having",
+        "E) had"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'stop + infinitive' = bir şey yapmak için durmak. Kahve içmek için durdu.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "They are interested in ---- more about the research project.",
+      "options": [
+        "A) to learn",
+        "B) learn",
+        "C) learning",
+        "D) to learning",
+        "E) learned"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Preposition (in) + gerund. 'Interested in + -ing'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "I'll never forget ---- the Northern Lights for the first time.",
+      "options": [
+        "A) to see",
+        "B) see",
+        "C) seeing",
+        "D) to seeing",
+        "E) saw"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'forget + gerund' = geçmişte olan bir şeyi unutmak. Geçmiş deneyim.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "The company expects ---- significant growth next year.",
+      "options": [
+        "A) achieving",
+        "B) to achieve",
+        "C) achieve",
+        "D) to achieving",
+        "E) achieved"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'expect' fiili infinitive alır: 'expects to achieve'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "She went on ---- for hours without realizing the time.",
+      "options": [
+        "A) to talk",
+        "B) talk",
+        "C) talking",
+        "D) to talking",
+        "E) talked"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'go on + gerund' = aynı eyleme devam etmek. Konuşmaya devam etti.",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

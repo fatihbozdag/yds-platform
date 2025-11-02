@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.11",
+  "title": "Causative Verbs (Have/Get/Make) - Ünite Testi",
+  "topicId": "1.1.11",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "I need to ---- my eyes ---- before I can get new glasses.",
+      "options": [
+        "A) have / testing",
+        "B) have / tested",
+        "C) make / test",
+        "D) get / to test",
+        "E) let / tested"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive causative yapı: 'have + object + past participle'. Gözlerimi muayene ettirmek.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "The professor ---- the students ---- the experiment again due to errors in the data.",
+      "options": [
+        "A) made / conduct",
+        "B) made / to conduct",
+        "C) had / to conduct",
+        "D) got / conduct",
+        "E) let / conducting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person + bare infinitive' yapısı. Öğrencileri zorla tekrar yaptırmak.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "After hours of negotiation, we finally ---- them ---- to our terms.",
+      "options": [
+        "A) had / agree",
+        "B) made / agree",
+        "C) got / to agree",
+        "D) let / to agree",
+        "E) have / agreed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'get + person + to infinitive' yapısı. İkna ederek kabul ettirmek, çaba gerektirir ('finally' kelimesi ipucu).",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "The company ---- all employees ---- safety training last month.",
+      "options": [
+        "A) had / attend",
+        "B) got / attend",
+        "C) made / to attend",
+        "D) let / attended",
+        "E) have / attending"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'have + person + bare infinitive'. Şirket çalışanların eğitime katılmasını sağladı (otorite).",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "She ---- her car ---- at the garage on Main Street.",
+      "options": [
+        "A) got / servicing",
+        "B) had / service",
+        "C) made / serviced",
+        "D) had / serviced",
+        "E) let / to service"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Passive causative: 'have/get + object + past participle'. Arabasını servise götürdü.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "The new policy ---- companies ---- their environmental impact.",
+      "options": [
+        "A) makes / assess",
+        "B) makes / to assess",
+        "C) has / assess",
+        "D) gets / assessing",
+        "E) lets / assessed"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person/thing + bare infinitive'. Politika şirketleri zorla değerlendirme yapmaya yönlendiriyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "My parents ---- me ---- studying abroad after I convinced them.",
+      "options": [
+        "A) made / go",
+        "B) had / go",
+        "C) let / go",
+        "D) got / go",
+        "E) have / gone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'let + person + bare infinitive'. İzin vermek. 'After I convinced them' ifadesi izin anlamını destekliyor.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "He was ---- to resign from his position due to the scandal.",
+      "options": [
+        "A) made",
+        "B) let",
+        "C) had",
+        "D) got",
+        "E) have"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Passive yapıda 'make' → 'was made to + infinitive'. İstifaya zorlandı.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 9,
+      "question": "I need to ---- my laptop ---- as soon as possible.",
+      "options": [
+        "A) have / repair",
+        "B) have / repaired",
+        "C) make / repair",
+        "D) let / repaired",
+        "E) get / repair"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive causative: 'have + object + past participle'. Laptop'umu tamir ettirmek.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "The manager couldn't ---- the team ---- the proposal on time.",
+      "options": [
+        "A) make / complete",
+        "B) make / to complete",
+        "C) have / to complete",
+        "D) let / complete",
+        "E) got / complete"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person + bare infinitive'. Takımı tamamlamaya zorlayamadı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "She finally ---- her landlord ---- the broken heating system.",
+      "options": [
+        "A) had / fix",
+        "B) made / fix",
+        "C) got / to fix",
+        "D) let / fixing",
+        "E) have / fixed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'get + person + to infinitive'. İkna ederek tamir ettirmek. 'finally' çaba göstergesi.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 12,
+      "question": "Don't ---- me ---- my mind about this decision.",
+      "options": [
+        "A) make / change",
+        "B) make / to change",
+        "C) have / change",
+        "D) get / change",
+        "E) let / changing"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person + bare infinitive'. Zorla fikir değiştirtmek.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "I'm going to ---- my hair ---- this weekend.",
+      "options": [
+        "A) have / cutting",
+        "B) have / cut",
+        "C) make / cut",
+        "D) let / cut",
+        "E) get / to cut"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive causative: 'have + object + past participle'. Saçımı kestireceğim.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "The supervisor ---- all staff members ---- the new safety procedures.",
+      "options": [
+        "A) had / follow",
+        "B) made / to follow",
+        "C) got / follow",
+        "D) let / to follow",
+        "E) have / following"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'have + person + bare infinitive'. Personelin prosedürleri takip etmesini sağladı (otorite).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "She ---- her assistant ---- the documents before the meeting.",
+      "options": [
+        "A) had / prepare",
+        "B) made / prepare",
+        "C) got / prepare",
+        "D) let / preparing",
+        "E) have / prepared"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'have + person + bare infinitive'. Asistanın belgeleri hazırlamasını sağladı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "Will you ---- me ---- your phone for a minute?",
+      "options": [
+        "A) make / use",
+        "B) have / use",
+        "C) let / use",
+        "D) get / to use",
+        "E) got / use"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'let + person + bare infinitive'. İzin vermek (rica ederken).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "The teacher ---- the students ---- their essays to improve clarity.",
+      "options": [
+        "A) made / rewrite",
+        "B) made / to rewrite",
+        "C) had / to rewrite",
+        "D) got / rewrite",
+        "E) let / rewriting"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person + bare infinitive'. Öğrencileri zorla tekrar yazdırdı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "I need to ---- the documents ---- into English.",
+      "options": [
+        "A) have / translate",
+        "B) have / translated",
+        "C) make / translate",
+        "D) get / translate",
+        "E) let / translated"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Passive causative: 'have + object + past participle'. Belgeleri tercüme ettirmek.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "They couldn't ---- him ---- his opinion despite all their efforts.",
+      "options": [
+        "A) make / change",
+        "B) make / to change",
+        "C) have / change",
+        "D) let / change",
+        "E) got / change"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'make + person + bare infinitive'. Zorla fikir değiştirtmeye çalıştılar ama başaramadılar.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "She was ---- to apologize for her inappropriate comments.",
+      "options": [
+        "A) made",
+        "B) let",
+        "C) had",
+        "D) got",
+        "E) have"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Passive yapı: 'was made to apologize'. Özür dilemeye zorlandı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

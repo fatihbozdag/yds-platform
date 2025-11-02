@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.10",
+  "title": "Reported Speech (Dolaylı Anlatım) - Ünite Testi",
+  "topicId": "1.1.10",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The expert stated that the problem ---- more serious than initially thought.",
+      "options": [
+        "A) is",
+        "B) was",
+        "C) has been",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'stated' past tense reporting verb olduğu için tense backshift uygulanır: 'is' → 'was'.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "She asked me ---- the report by the end of the week.",
+      "options": [
+        "A) to finish",
+        "B) finish",
+        "C) finishing",
+        "D) finished",
+        "E) will finish"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'ask someone to do something' yapısı kullanılır. Dolaylı emir/rica.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "The study suggests that regular exercise ---- the risk of heart disease.",
+      "options": [
+        "A) reduces",
+        "B) reduced",
+        "C) has reduced",
+        "D) would reduce",
+        "E) had reduced"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'suggests' Present tense ve genel gerçek olduğu için tense backshift yapılmaz.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "He wondered ---- she had been so upset the previous day.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) why",
+        "D) what",
+        "E) which"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Why was she upset?' sorusunun dolaylı anlatımı. Soru kelimesi 'why' korunur.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "The manager warned us ---- the deadline under any circumstances.",
+      "options": [
+        "A) not miss",
+        "B) to not miss",
+        "C) not to miss",
+        "D) don't miss",
+        "E) didn't miss"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'warn someone not to do something' yapısı. 'not' infinitive'den önce gelir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "The scientist announced that the team ---- a significant breakthrough the month before.",
+      "options": [
+        "A) has made",
+        "B) had made",
+        "C) made",
+        "D) makes",
+        "E) will make"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'the month before' past time reference ve reporting verb 'announced' (past) olduğu için Past Perfect kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "She inquired ---- the results of the experiment were ready.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) what",
+        "D) which",
+        "E) how"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Yes/No sorusunun dolaylı anlatımında 'if' veya 'whether' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "The author claims that his theory ---- a new perspective on the issue.",
+      "options": [
+        "A) provides",
+        "B) provided",
+        "C) has provided",
+        "D) would provide",
+        "E) had provided"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'claims' Present tense ve hâlâ geçerli bir durum olduğu için tense backshift yapılmaz.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "He told me that he ---- in London for five years before moving to Paris.",
+      "options": [
+        "A) lives",
+        "B) lived",
+        "C) has lived",
+        "D) had lived",
+        "E) will live"
+      ],
+      "correctAnswer": 3,
+      "explanation": "İki geçmiş olay var: önce London'da yaşadı, sonra Paris'e taşındı. İlk olay için Past Perfect: 'had lived'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "The professor suggested that students ---- the article before the next class.",
+      "options": [
+        "A) read",
+        "B) to read",
+        "C) reading",
+        "D) should read",
+        "E) will read"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'suggest that someone should do something' yapısı tavsiye için kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "She reminded me ---- my passport when I go to the airport.",
+      "options": [
+        "A) bringing",
+        "B) to bring",
+        "C) bring",
+        "D) brought",
+        "E) to bringing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'remind someone to do something' yapısı kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "The witness insisted that he ---- the suspect near the scene that night.",
+      "options": [
+        "A) sees",
+        "B) saw",
+        "C) has seen",
+        "D) had seen",
+        "E) will see"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'insisted' past tense ve olay daha önceki bir zamanda gerçekleşti. Past Perfect: 'had seen'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 13,
+      "question": "He asked me ---- I had completed the assignment.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) what",
+        "D) which",
+        "E) why"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Yes/No sorusunun dolaylı anlatımı: 'if' veya 'whether' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "The committee recommended that the policy ---- revised.",
+      "options": [
+        "A) is",
+        "B) was",
+        "C) be",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'recommend that something be done' subjunctive yapısı. Base form kullanılır.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 15,
+      "question": "She explained that she ---- unable to attend the meeting the day before.",
+      "options": [
+        "A) is",
+        "B) was",
+        "C) has been",
+        "D) had been",
+        "E) will be"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'the day before' past time reference. 'explained' past tense. Past Perfect: 'had been'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "The teacher asked ---- had submitted their homework on time.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) who",
+        "D) what",
+        "E) which"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Who submitted...?' sorusunun dolaylı anlatımı. Soru kelimesi 'who' korunur.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "He promised that he ---- the project by Friday.",
+      "options": [
+        "A) finishes",
+        "B) finished",
+        "C) has finished",
+        "D) would finish",
+        "E) had finished"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'promised' past tense, gelecek için 'would finish' kullanılır (will → would backshift).",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "The researcher mentioned that the data ---- collected over a period of three years.",
+      "options": [
+        "A) were",
+        "B) have been",
+        "C) are",
+        "D) had been",
+        "E) will be"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'mentioned' past tense ve veri toplama daha önceki bir zamanda tamamlandı. Past Perfect Passive: 'had been collected'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "She wanted to know ---- the conference would take place.",
+      "options": [
+        "A) that",
+        "B) if",
+        "C) where",
+        "D) what",
+        "E) which"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'Where will the conference take place?' sorusunun dolaylı anlatımı. 'where' korunur.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "The doctor advised me ---- smoking immediately.",
+      "options": [
+        "A) stop",
+        "B) to stop",
+        "C) stopping",
+        "D) stopped",
+        "E) to stopping"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'advise someone to do something' yapısı tavsiye için kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

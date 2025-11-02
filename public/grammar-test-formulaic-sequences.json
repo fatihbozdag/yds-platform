@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.9",
+  "title": "Formulaic Sequences ve Kalıplaşmış İfadeler - Ünite Testi",
+  "topicId": "1.1.9",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "It ---- that the new technology will revolutionize the healthcare industry.",
+      "options": [
+        "A) widely believes",
+        "B) is widely believed",
+        "C) has widely believed",
+        "D) widely believed",
+        "E) was believing widely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'It is widely believed that...' kalıplaşmış ifade. Passive yapı kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "The decline in sales can ---- the recent economic downturn.",
+      "options": [
+        "A) be attributed to",
+        "B) attribute to",
+        "C) be attributing to",
+        "D) have attributed to",
+        "E) attributing to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Can be attributed to' = ...atfedilebilir. Passive yapı ve 'to' edatı sabittir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "The study ---- that bilingual children develop better cognitive flexibility.",
+      "options": [
+        "A) is suggesting",
+        "B) has suggested",
+        "C) suggests",
+        "D) was suggested",
+        "E) suggesting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The study suggests that...' kalıbında active voice, Simple Present kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "It ---- saying that effective communication is crucial for team success.",
+      "options": [
+        "A) goes without",
+        "B) is going without",
+        "C) has gone without",
+        "D) went without",
+        "E) will go without"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It goes without saying that...' sabit ifade, Simple Present kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "This problem ---- the lack of adequate funding for research and development.",
+      "options": [
+        "A) stems from",
+        "B) is stemming from",
+        "C) has stemmed from",
+        "D) stemmed from",
+        "E) was stemming from"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'This stems from...' = Bu...dan kaynaklanmaktadır. Simple Present tercih edilir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "It ---- to reason that higher education levels correlate with better employment opportunities.",
+      "options": [
+        "A) is standing",
+        "B) has stood",
+        "C) stands",
+        "D) stood",
+        "E) will stand"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'It stands to reason that...' sabit ifade, Simple Present.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "The evidence ---- to the fact that social media usage affects mental health.",
+      "options": [
+        "A) is pointing",
+        "B) points",
+        "C) has pointed",
+        "D) was pointing",
+        "E) will point"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'The evidence points to the fact that...' kalıbı Simple Present kullanır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "It should ---- that the sample size was relatively small.",
+      "options": [
+        "A) be noted",
+        "B) note",
+        "C) have noted",
+        "D) noting",
+        "E) notes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It should be noted that...' doğru kalıp. Modal + passive yapı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "The findings ---- that early intervention can significantly improve outcomes.",
+      "options": [
+        "A) are indicating",
+        "B) have indicated",
+        "C) indicate",
+        "D) were indicated",
+        "E) indicating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The findings indicate that...' kalıbı Simple Present kullanır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "This approach ---- several ethical concerns that must be addressed.",
+      "options": [
+        "A) gives rise to",
+        "B) is giving rise to",
+        "C) has given rise to",
+        "D) gave rise to",
+        "E) will give rise to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'This gives rise to...' = Bu... yol açmaktadır. Simple Present kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "It ---- important to note that correlation does not imply causation.",
+      "options": [
+        "A) is",
+        "B) has been",
+        "C) was",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is important to note that...' kalıplaşmış akademik ifade.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "The results ---- that there has been a significant shift in consumer preferences.",
+      "options": [
+        "A) are demonstrating",
+        "B) have demonstrated",
+        "C) demonstrate",
+        "D) were demonstrated",
+        "E) demonstrating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The results demonstrate that...' Simple Present ile kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "It ---- worth noting that the study had several limitations.",
+      "options": [
+        "A) is",
+        "B) has been",
+        "C) was",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is worth noting that...' = Belirtmeye değer ki... Sabit ifade.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 14,
+      "question": "This phenomenon can ---- several interconnected factors.",
+      "options": [
+        "A) be attributed to",
+        "B) attribute to",
+        "C) have attributed to",
+        "D) attributing to",
+        "E) attributes to"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'Can be attributed to' modal passive yapı. Phenomenon (olgu) atfedilen şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "The data ---- that environmental factors play a crucial role.",
+      "options": [
+        "A) are revealing",
+        "B) have revealed",
+        "C) reveal",
+        "D) were revealed",
+        "E) revealing"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'The data reveal that...' Simple Present ile kullanılır. Data çoğul kabul edilir.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 16,
+      "question": "It ---- widely accepted that exercise benefits mental health.",
+      "options": [
+        "A) is",
+        "B) has been",
+        "C) was",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is widely accepted that...' genel kabul gören gerçekler için kullanılan kalıp.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "This leads ---- the conclusion that further research is needed.",
+      "options": [
+        "A) to",
+        "B) at",
+        "C) in",
+        "D) for",
+        "E) with"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'This leads to the conclusion that...' kalıbında 'to' edatı kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "A case ---- point is the economic development of South Korea.",
+      "options": [
+        "A) at",
+        "B) in",
+        "C) on",
+        "D) for",
+        "E) with"
+      ],
+      "correctAnswer": 1,
+      "explanation": "'A case in point' = Konuyla ilgili bir örnek. Sabit preposition kullanımı.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 19,
+      "question": "It ---- assumed that participants had prior knowledge of the topic.",
+      "options": [
+        "A) is",
+        "B) has been",
+        "C) was",
+        "D) will be",
+        "E) would be"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Geçmiş bir varsayım anlatıldığı için 'It was assumed that...' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 20,
+      "question": "The theory ---- from the idea that humans are inherently social beings.",
+      "options": [
+        "A) stems",
+        "B) is stemming",
+        "C) has stemmed",
+        "D) stemmed",
+        "E) will stem"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'The theory stems from...' temel fikri belirtirken Simple Present kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.8",
+  "title": "Passive Voice ve Akademik Kullanımı - Ünite Testi",
+  "topicId": "1.1.8",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The ancient ruins ---- by archaeologists for over fifty years.",
+      "options": [
+        "A) have been studying",
+        "B) have been studied",
+        "C) are studying",
+        "D) were studying",
+        "E) had studied"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Present Perfect Passive yapısı gerekir. Ruins (kalıntılar) çalışılan şeydir, çalışan değil. 'have been studied' doğru kullanımdır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "It ---- that bilingualism enhances cognitive development in children.",
+      "options": [
+        "A) is widely believed",
+        "B) widely believes",
+        "C) has widely believed",
+        "D) was believing widely",
+        "E) believes widely"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is widely believed that...' akademik metinlerde sık kullanılan passive yapıdır. Genel bir inanç ifade eder.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "The new policy ---- next month to address environmental concerns.",
+      "options": [
+        "A) will implement",
+        "B) is implementing",
+        "C) will be implemented",
+        "D) has implemented",
+        "E) implements"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Future Passive yapı gerekir. Policy (politika) uygulanan şeydir. 'will be implemented' doğrudur.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 4,
+      "question": "The manuscript ---- in a vault until it was discovered last year.",
+      "options": [
+        "A) has been kept",
+        "B) was being kept",
+        "C) had been kept",
+        "D) is kept",
+        "E) keeps"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Geçmişte başlayıp, başka bir geçmiş olaydan (discovered) önce devam eden durum için Past Perfect Passive kullanılır.",
+      "category": "grammar",
+      "difficulty": "hard"
+    },
+    {
+      "id": 5,
+      "question": "Several factors must ---- when evaluating the effectiveness of the program.",
+      "options": [
+        "A) consider",
+        "B) be considered",
+        "C) have considered",
+        "D) be considering",
+        "E) have been considered"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modal + Passive yapı: 'must be considered'. Factors (faktörler) değerlendirilen şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "The results ---- at the conference before they were published in a journal.",
+      "options": [
+        "A) were presented",
+        "B) have been presented",
+        "C) are presented",
+        "D) had been presented",
+        "E) will be presented"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Simple Past Passive yeterlidir. İki geçmiş olay arasında öncelik vurgusu yoksa 'were presented' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "It ---- that early childhood education significantly impacts academic success.",
+      "options": [
+        "A) has been demonstrated",
+        "B) has demonstrated",
+        "C) is demonstrating",
+        "D) demonstrates",
+        "E) was demonstrating"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It has been demonstrated that...' araştırma sonuçlarını bildirirken kullanılan akademik passive yapıdır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 8,
+      "question": "The samples ---- in a controlled environment to prevent contamination.",
+      "options": [
+        "A) should store",
+        "B) should be stored",
+        "C) should have stored",
+        "D) are storing",
+        "E) have stored"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modal passive yapı: 'should be stored'. Samples (örnekler) saklanan şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "New regulations ---- to combat climate change by most governments worldwide.",
+      "options": [
+        "A) are being implemented",
+        "B) have implemented",
+        "C) were implementing",
+        "D) implement",
+        "E) will implement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Present Continuous Passive: 'are being implemented'. Şu anda devam eden bir süreç.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 10,
+      "question": "The theory ---- by numerous studies over the past two decades.",
+      "options": [
+        "A) has been validated",
+        "B) has validated",
+        "C) was validated",
+        "D) is validating",
+        "E) validates"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'over the past two decades' Present Perfect gerektirir. Theory (teori) doğrulanan şeydir: 'has been validated'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 11,
+      "question": "It can ---- from the data that there is a strong correlation between the variables.",
+      "options": [
+        "A) be concluded",
+        "B) conclude",
+        "C) have concluded",
+        "D) be concluding",
+        "E) concludes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Modal passive: 'can be concluded'. 'It can be concluded that...' yapısı akademik metinlerde sonuç bildirirken kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "The building ---- down next week to make way for a new shopping center.",
+      "options": [
+        "A) will pull",
+        "B) is pulling",
+        "C) will be pulled",
+        "D) has pulled",
+        "E) pulls"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Future Passive: 'will be pulled down'. Building (bina) yıkılan şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "Considerable progress ---- in the field of renewable energy in recent years.",
+      "options": [
+        "A) has been made",
+        "B) has made",
+        "C) was made",
+        "D) is making",
+        "E) makes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'in recent years' Present Perfect gerektirir. 'Progress is made' (passive) kullanımı doğrudur.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "The proposal ---- by the committee before a final decision is reached.",
+      "options": [
+        "A) must review",
+        "B) must be reviewed",
+        "C) must have reviewed",
+        "D) is reviewing",
+        "E) reviews"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modal passive: 'must be reviewed'. Proposal (teklif) incelenen şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "It ---- that the new treatment is more effective than traditional methods.",
+      "options": [
+        "A) is expected",
+        "B) expects",
+        "C) has expected",
+        "D) was expecting",
+        "E) will expect"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is expected that...' yapısı beklentileri ifade eden akademik passive yapıdır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "All participants ---- to sign a consent form before joining the study.",
+      "options": [
+        "A) were required",
+        "B) have required",
+        "C) are requiring",
+        "D) will require",
+        "E) require"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Passive yapı gerekir: 'were required'. Katılımcılar imza atmaya zorunlu tutulan kişilerdir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 17,
+      "question": "The laboratory equipment ---- regularly to ensure accurate measurements.",
+      "options": [
+        "A) must calibrate",
+        "B) must be calibrated",
+        "C) must have calibrated",
+        "D) is calibrating",
+        "E) calibrates"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Modal passive: 'must be calibrated'. Ekipman kalibre edilen şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "The findings ---- by several independent researchers before publication.",
+      "options": [
+        "A) had been verified",
+        "B) have verified",
+        "C) were verifying",
+        "D) verify",
+        "E) will verify"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Yayından önce tamamlanan eylem için Past Perfect Passive: 'had been verified'.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "It ---- that exercise and healthy diet contribute to longevity.",
+      "options": [
+        "A) is well established",
+        "B) well establishes",
+        "C) has well established",
+        "D) was establishing well",
+        "E) establishes well"
+      ],
+      "correctAnswer": 0,
+      "explanation": "'It is well established that...' bilinen gerçekleri bildiren akademik passive yapıdır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "The data ---- using sophisticated statistical software.",
+      "options": [
+        "A) analyzed",
+        "B) were analyzed",
+        "C) have analyzed",
+        "D) are analyzing",
+        "E) will analyze"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Simple Past Passive: 'were analyzed'. Data (veriler) analiz edilen şeydir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    }
+  ]
+}

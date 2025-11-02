@@ -1,0 +1,309 @@
+{
+  "examId": "grammar-test-1.1.13",
+  "title": "Articles (a/an/the/zero article) - Ünite Testi",
+  "topicId": "1.1.13",
+  "duration": 20,
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "---- research conducted by scientists has shown that climate change is accelerating.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Specific bir araştırmadan bahsediliyor ('conducted by scientists' ile belirli kılınmış). 'The' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 2,
+      "question": "---- patience is required when working with young children.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Many"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Patience' sayılamayan isim ve genelleme yapılıyor. Article kullanılmaz.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 3,
+      "question": "She is ---- engineer at a multinational company.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) one"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meslek belirtiliyor ve 'engineer' ünlü sesle başlıyor. 'an engineer' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "The study was published in ---- journal that focuses on linguistics.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 0,
+      "explanation": "İlk defa bahsedilen bir dergi ('journal' ünsüz sesle başlıyor). 'a journal' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 5,
+      "question": "---- education is the key to economic development.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Education' genel anlamda kullanılıyor (abstract noun, genelleme). Article kullanılmaz.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "This is ---- most important decision we will make this year.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) very"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Superlative ('most important') kullanılıyor. 'the' gereklidir.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 7,
+      "question": "He went to ---- hospital to visit his friend who had surgery.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ziyaret amacıyla hastaneye gidiyor (hasta değil). 'the hospital' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "---- United Nations plays a crucial role in international diplomacy.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Kurum isimleri 'the' alır. 'The United Nations' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "She plays ---- violin beautifully.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müzik aletleri 'the' alır. 'play the violin' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "---- water is essential for all forms of life.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Water' sayılamayan isim ve genelleme yapılıyor. Article kullanılmaz.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 11,
+      "question": "I go to work by ---- train every day.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'by + transportation' yapısında article kullanılmaz. 'by train' doğrudur.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 12,
+      "question": "---- sun rises in the east and sets in the west.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Unique olan şeyler 'the' alır. 'The sun' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 13,
+      "question": "Children should go to ---- school to receive education.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'go to school' (öğrenci olarak) article almaz. Genelleme yapılıyor.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 14,
+      "question": "She is ---- only person who can solve this problem.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) one"
+      ],
+      "correctAnswer": 2,
+      "explanation": "'only' ile 'the' kullanılır. 'the only person' doğrudur.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 15,
+      "question": "I had ---- breakfast at 7 AM this morning.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Meals (öğünler) genellikle article almaz. 'have breakfast' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 16,
+      "question": "---- Mount Everest is the highest mountain in the world.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dağ isimleri article almaz. 'Mount Everest' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 17,
+      "question": "She speaks ---- French fluently.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Languages article almaz. 'speak French' kullanılır.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 18,
+      "question": "---- conference will be held at the University of Cambridge.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Belirli bir konferans ('the conference will be held' = o konferans). 'The' kullanılır.",
+      "category": "grammar",
+      "difficulty": "medium"
+    },
+    {
+      "id": 19,
+      "question": "---- life is full of challenges and opportunities.",
+      "options": [
+        "A) A",
+        "B) An",
+        "C) The",
+        "D) —",
+        "E) Some"
+      ],
+      "correctAnswer": 3,
+      "explanation": "'Life' genel anlamda (abstract noun). Article kullanılmaz.",
+      "category": "grammar",
+      "difficulty": "easy"
+    },
+    {
+      "id": 20,
+      "question": "She is ---- President of the company.",
+      "options": [
+        "A) a",
+        "B) an",
+        "C) the",
+        "D) —",
+        "E) one"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Görev/pozisyon ünvanı olarak kullanıldığında article kullanılmaz. 'President of the company' doğrudur.",
+      "category": "grammar",
+      "difficulty": "medium"
+    }
+  ]
+}
