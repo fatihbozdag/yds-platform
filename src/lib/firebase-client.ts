@@ -150,6 +150,42 @@ export class FirebaseClient {
       } catch (error) {
         return { error }
       }
+    },
+
+    resendVerificationEmail: async ({
+      email,
+      password
+    }: {
+      email: string
+      password: string
+    }): Promise<FirebaseResponse<{ message: string }>> => {
+      try {
+        // Sign in user temporarily to get user object
+        const userCredential = await signInWithEmailAndPassword(auth, email, password)
+        const user = userCredential.user
+
+        // Check if already verified
+        if (user.emailVerified) {
+          await signOut(auth)
+          throw new Error('Email already verified')
+        }
+
+        // Send verification email
+        await sendEmailVerification(user, {
+          url: 'https://yds-yokdil.netlify.app/login',
+          handleCodeInApp: false
+        })
+
+        // Sign out (don't keep them logged in)
+        await signOut(auth)
+
+        return {
+          data: { message: 'Verification email sent' },
+          error: null
+        }
+      } catch (error) {
+        return { data: null, error }
+      }
     }
   }
 

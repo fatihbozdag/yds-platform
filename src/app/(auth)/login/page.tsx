@@ -27,6 +27,10 @@ export default function LoginPage() {
   const router = useRouter()
   const [loading, setLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
+  const [showResendForm, setShowResendForm] = useState(false)
+  const [resendLoading, setResendLoading] = useState(false)
+  const [resendSuccess, setResendSuccess] = useState<string | null>(null)
+  const [resendError, setResendError] = useState<string | null>(null)
 
   const {
     register,
@@ -39,7 +43,7 @@ export default function LoginPage() {
   const handleLogin = async (data: LoginForm) => {
     setLoading(true)
     setError(null)
-    
+
     console.log('Login form submitted:', data)
 
     try {
@@ -76,7 +80,7 @@ export default function LoginPage() {
       }
     } catch (error: unknown) {
       console.error('Login error:', error)
-      
+
       // Handle different error types
       const errorMessage = error instanceof Error ? error.message : 'Unknown error'
       if (errorMessage.includes('Invalid login credentials')) {
@@ -88,6 +92,42 @@ export default function LoginPage() {
       }
     } finally {
       setLoading(false)
+    }
+  }
+
+  const handleResendVerification = async (data: LoginForm) => {
+    setResendLoading(true)
+    setResendError(null)
+    setResendSuccess(null)
+
+    try {
+      const { error: resendError } = await firebase.auth.resendVerificationEmail({
+        email: data.email,
+        password: data.password
+      })
+
+      if (resendError) {
+        throw resendError
+      }
+
+      setResendSuccess('Doğrulama e-postası gönderildi! Gelen kutunuzu kontrol edin.')
+      setTimeout(() => {
+        setShowResendForm(false)
+        setResendSuccess(null)
+      }, 3000)
+    } catch (error: unknown) {
+      console.error('Resend verification error:', error)
+
+      const errorMessage = error instanceof Error ? error.message : 'Unknown error'
+      if (errorMessage.includes('Invalid login credentials')) {
+        setResendError('E-posta veya şifre hatalı')
+      } else if (errorMessage.includes('Email already verified')) {
+        setResendError('E-posta zaten doğrulanmış. Giriş yapabilirsiniz.')
+      } else {
+        setResendError('E-posta gönderilirken bir hata oluştu. Lütfen tekrar deneyiniz.')
+      }
+    } finally {
+      setResendLoading(false)
     }
   }
 
@@ -216,16 +256,112 @@ export default function LoginPage() {
           )}
 
           <CardFooter>
-            <div className="text-center w-full">
+            <div className="text-center w-full space-y-3">
               <p className="text-sm text-slate-600">
                 Hesabınız yok mu?{' '}
                 <Link href="/register" className="text-blue-600 hover:text-blue-800 font-semibold transition-colors">
                   Kayıt Ol
                 </Link>
               </p>
+              <button
+                type="button"
+                onClick={() => setShowResendForm(!showResendForm)}
+                className="text-sm text-blue-600 hover:text-blue-800 transition-colors underline"
+              >
+                Doğrulama e-postası almadınız mı?
+              </button>
             </div>
           </CardFooter>
         </Card>
+
+        {/* Resend Verification Email Form */}
+        {showResendForm && (
+          <Card variant="glass" padding="lg" className="backdrop-blur-sm mt-4">
+            <CardHeader
+              title="Doğrulama E-postası Gönder"
+              subtitle="E-posta ve şifrenizi girerek yeni bir doğrulama e-postası alabilirsiniz"
+              className="text-center"
+            />
+
+            {resendSuccess && (
+              <div className="mb-6 p-4 bg-green-50 border border-green-200 rounded-xl">
+                <div className="flex items-center gap-2">
+                  <svg className="w-5 h-5 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  <p className="text-green-700 text-sm font-medium">{resendSuccess}</p>
+                </div>
+              </div>
+            )}
+
+            {resendError && (
+              <div className="mb-6 p-4 bg-red-50 border border-red-200 rounded-xl">
+                <div className="flex items-center gap-2">
+                  <svg className="w-5 h-5 text-red-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                  <p className="text-red-700 text-sm font-medium">{resendError}</p>
+                </div>
+              </div>
+            )}
+
+            <CardContent>
+              <form onSubmit={handleSubmit(handleResendVerification)} className="space-y-6">
+                <Input
+                  {...register('email')}
+                  type="email"
+                  label="E-posta Adresi"
+                  placeholder="ornek@email.com"
+                  error={errors.email?.message}
+                  icon={
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207" />
+                    </svg>
+                  }
+                />
+
+                <Input
+                  {...register('password')}
+                  type="password"
+                  label="Şifre"
+                  placeholder="Şifrenizi giriniz"
+                  error={errors.password?.message}
+                  icon={
+                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
+                    </svg>
+                  }
+                />
+
+                <div className="flex gap-3">
+                  <Button
+                    type="button"
+                    variant="secondary"
+                    size="lg"
+                    fullWidth
+                    onClick={() => setShowResendForm(false)}
+                  >
+                    İptal
+                  </Button>
+                  <Button
+                    type="submit"
+                    variant="primary"
+                    size="lg"
+                    fullWidth
+                    loading={resendLoading}
+                    icon={
+                      <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
+                      </svg>
+                    }
+                  >
+                    {resendLoading ? 'Gönderiliyor...' : 'E-posta Gönder'}
+                  </Button>
+                </div>
+              </form>
+            </CardContent>
+          </Card>
+        )}
       </div>
     </div>
   )
