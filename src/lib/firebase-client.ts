@@ -10,7 +10,8 @@ import {
   signOut,
   onAuthStateChanged,
   User as FirebaseUser,
-  updateProfile
+  updateProfile,
+  sendEmailVerification
 } from 'firebase/auth'
 import {
   collection,
@@ -79,7 +80,12 @@ export class FirebaseClient {
       try {
         const userCredential = await signInWithEmailAndPassword(auth, email, password)
         const user = userCredential.user
-        
+
+        // Check if email is verified
+        if (!user.emailVerified) {
+          throw new Error('Email not confirmed')
+        }
+
         return {
           data: {
             user: this.formatUser(user),
@@ -112,6 +118,12 @@ export class FirebaseClient {
         if (options?.data?.full_name) {
           await updateProfile(user, { displayName: options.data.full_name })
         }
+
+        // Send email verification
+        await sendEmailVerification(user, {
+          url: 'https://yds-yokdil.netlify.app/login',
+          handleCodeInApp: false
+        })
 
         // Create user profile in Firestore
         await addDoc(collection(db, 'profiles'), {
