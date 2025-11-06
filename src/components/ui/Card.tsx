@@ -10,34 +10,34 @@ interface CardProps extends React.HTMLAttributes<HTMLDivElement> {
 }
 
 const Card = forwardRef<HTMLDivElement, CardProps>(
-  ({ 
-    variant = 'default', 
-    padding = 'md', 
+  ({
+    variant = 'default',
+    padding = 'md',
     hover = false,
     interactive = false,
-    className = '', 
-    children, 
-    ...props 
+    className = '',
+    children,
+    ...props
   }, ref) => {
-    const baseClasses = 'rounded-2xl transition-all duration-200'
-    
+    const baseClasses = 'rounded-xl transition-all duration-200'
+
     const variantClasses = {
-      default: 'bg-white border border-slate-200',
-      elevated: 'bg-white shadow-lg border border-white/20',
-      outlined: 'bg-transparent border-2 border-slate-300',
-      glass: 'bg-white/80 backdrop-blur-sm border border-white/20'
+      default: 'bg-white border border-slate-200 shadow-sm',
+      elevated: 'bg-white shadow-md hover:shadow-lg border border-slate-100',
+      outlined: 'bg-transparent border-2 border-slate-200',
+      glass: 'bg-white/70 backdrop-blur-md border border-slate-200/50 shadow-sm'
     }
-    
+
     const paddingClasses = {
       none: '',
       sm: 'p-4',
-      md: 'p-6',
-      lg: 'p-8'
+      md: 'p-5',
+      lg: 'p-7'
     }
-    
-    const hoverClasses = hover ? 'hover:shadow-xl hover:-translate-y-1' : ''
-    const interactiveClasses = interactive ? 'cursor-pointer hover:shadow-lg hover:-translate-y-0.5' : ''
-    
+
+    const hoverClasses = hover ? 'hover:shadow-lg hover:-translate-y-0.5' : ''
+    const interactiveClasses = interactive ? 'cursor-pointer hover:shadow-md hover:-translate-y-0.5 hover:border-indigo-200' : ''
+
     const classes = `${baseClasses} ${variantClasses[variant]} ${paddingClasses[padding]} ${hoverClasses} ${interactiveClasses} ${className}`
     
     return (

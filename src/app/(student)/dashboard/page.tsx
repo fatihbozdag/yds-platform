@@ -51,7 +51,7 @@ export default function StudentDashboard() {
 
       if (examResults) {
         const totalScore = examResults.reduce((sum, result) => sum + result.score, 0)
-        const totalQuestions = examResults.reduce((sum, result) => 
+        const totalQuestions = examResults.reduce((sum, result) =>
           sum + result.correct_count + result.wrong_count + result.empty_count, 0)
 
         const uniqueDays = new Set(
@@ -78,8 +78,8 @@ export default function StudentDashboard() {
       <div className="container mx-auto py-8">
         <div className="flex items-center justify-center py-12">
           <div className="text-center">
-            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto"></div>
-            <p className="mt-4">Dashboard yükleniyor...</p>
+            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-indigo-600 mx-auto"></div>
+            <p className="mt-4 text-slate-600">Dashboard yükleniyor...</p>
           </div>
         </div>
       </div>
@@ -87,205 +87,196 @@ export default function StudentDashboard() {
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
       <div className="container mx-auto py-8 px-4">
         {/* Welcome Header */}
         <div className="mb-8">
-          <div className="flex items-center gap-4 mb-4">
-            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center shadow-lg">
-              <span className="text-3xl">🎉</span>
-            </div>
-            <div>
-              <h1 className="text-4xl font-bold text-slate-900 mb-2">
-                Hoş Geldiniz!
-              </h1>
-              <p className="text-lg text-slate-600">
-                YDS hazırlık yolculuğunuzda bugüne kadar kaydettiğiniz ilerleme
-              </p>
-            </div>
+          <div className="flex items-center gap-3 mb-2">
+            <h1 className="text-3xl font-bold text-slate-900">
+              Hoş Geldiniz! 👋
+            </h1>
           </div>
+          <p className="text-slate-600">
+            YDS hazırlık yolculuğunuzda bugüne kadar kaydettiğiniz ilerleme
+          </p>
         </div>
 
         {/* Performance Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📝</span>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5 mb-8">
+          <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-center justify-between mb-3">
+              <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
+                <span className="text-xl">📝</span>
               </div>
               <div className="text-right">
-                <p className="text-3xl font-bold text-blue-600">{stats.totalExams}</p>
-                <p className="text-xs text-slate-500">Toplam</p>
+                <p className="text-2xl font-bold text-blue-600">{stats.totalExams}</p>
               </div>
             </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çözülen Sınav</h3>
-            <p className="text-xs text-slate-500">Deneme sınavları</p>
-          </div>
-          
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📊</span>
-              </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-green-600">%{stats.averageScore}</p>
-                <p className="text-xs text-slate-500">Ortalama</p>
-              </div>
-            </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Ortalama Puan</h3>
-            <p className="text-xs text-slate-500">Genel başarı</p>
-          </div>
-          
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📅</span>
-              </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-purple-600">{stats.studyDays}</p>
-                <p className="text-xs text-slate-500">Gün</p>
-              </div>
-            </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çalışma Günü</h3>
-            <p className="text-xs text-slate-500">Aktif günler</p>
+            <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Çözülen Sınav</h3>
+            <p className="text-xs text-slate-500">Toplam deneme sınavı</p>
           </div>
 
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">✅</span>
+          <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-center justify-between mb-3">
+              <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center">
+                <span className="text-xl">📊</span>
               </div>
               <div className="text-right">
-                <p className="text-3xl font-bold text-orange-600">{stats.totalQuestions}</p>
-                <p className="text-xs text-slate-500">Soru</p>
+                <p className="text-2xl font-bold text-emerald-600">%{stats.averageScore}</p>
               </div>
             </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çözülen Soru</h3>
+            <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Ortalama Puan</h3>
+            <p className="text-xs text-slate-500">Genel başarı oranı</p>
+          </div>
+
+          <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-center justify-between mb-3">
+              <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
+                <span className="text-xl">📅</span>
+              </div>
+              <div className="text-right">
+                <p className="text-2xl font-bold text-purple-600">{stats.studyDays}</p>
+              </div>
+            </div>
+            <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Çalışma Günü</h3>
+            <p className="text-xs text-slate-500">Aktif çalışma günü</p>
+          </div>
+
+          <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+            <div className="flex items-center justify-between mb-3">
+              <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-orange-600 rounded-lg flex items-center justify-center">
+                <span className="text-xl">✅</span>
+              </div>
+              <div className="text-right">
+                <p className="text-2xl font-bold text-orange-600">{stats.totalQuestions}</p>
+              </div>
+            </div>
+            <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Çözülen Soru</h3>
             <p className="text-xs text-slate-500">Toplam soru sayısı</p>
           </div>
         </div>
 
         {/* Main Navigation */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-          <Link href="/konular" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📚</span>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 mb-8">
+          <Link href="/konular" className="group bg-white p-5 rounded-xl border border-slate-200 hover:border-indigo-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl">📚</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">YDS Konuları</h3>
-                <p className="text-sm text-slate-600">Konuları sırasıyla öğren</p>
+                <h3 className="font-bold text-slate-900">YDS Konuları</h3>
+                <p className="text-xs text-slate-600">Konuları sırasıyla öğren</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Grammar, vocabulary ve diğer YDS konularını detaylı şekilde öğrenin.
+              Grammar, vocabulary ve diğer YDS konularını detaylı öğrenin
             </p>
           </Link>
 
-          <Link href="/sinavlar" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📝</span>
+          <Link href="/sinavlar" className="group bg-white p-5 rounded-xl border border-slate-200 hover:border-indigo-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl">📝</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">Deneme Sınavları</h3>
-                <p className="text-sm text-slate-600">Pratik yap, başarını ölç</p>
+                <h3 className="font-bold text-slate-900">Deneme Sınavları</h3>
+                <p className="text-xs text-slate-600">Pratik yap, başarını ölç</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Gerçek YDS formatında deneme sınavları çözerek kendinizi test edin.
+              Gerçek YDS formatında deneme sınavları çöz
             </p>
           </Link>
 
-          <Link href="/ilerleme" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📊</span>
+          <Link href="/ilerleme" className="group bg-white p-5 rounded-xl border border-slate-200 hover:border-indigo-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl">📊</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">İlerleme Takibi</h3>
-                <p className="text-sm text-slate-600">Başarını görselleştir</p>
+                <h3 className="font-bold text-slate-900">İlerleme Takibi</h3>
+                <p className="text-xs text-slate-600">Başarını görselleştir</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Çalışma istatistiklerinizi ve gelişiminizi takip edin.
+              Çalışma istatistiklerini ve gelişimini takip et
             </p>
           </Link>
 
-          <Link href="/hedefler" className="group bg-gradient-to-br from-blue-50 to-purple-50 p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-blue-200/50">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-purple-500 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl text-white">🎯</span>
+          <Link href="/hedefler" className="group bg-gradient-to-br from-indigo-50 to-purple-50 p-5 rounded-xl border border-indigo-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-indigo-600 to-purple-600 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl text-white">🎯</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">Hedeflerim</h3>
-                <p className="text-sm text-slate-600">Çalışma hedeflerin</p>
+                <h3 className="font-bold text-slate-900">Hedeflerim</h3>
+                <p className="text-xs text-slate-600">Çalışma hedeflerin</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Kişisel hedefler belirleyerek motivasyonunuzu artırın ve ilerlemenizi takip edin.
+              Kişisel hedefler belirle ve motivasyonunu artır
             </p>
           </Link>
 
-          <Link href="/bildirimler" className="group bg-gradient-to-br from-yellow-50 to-orange-50 p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-yellow-200/50">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-yellow-500 to-orange-500 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl text-white">🔔</span>
+          <Link href="/bildirimler" className="group bg-gradient-to-br from-amber-50 to-orange-50 p-5 rounded-xl border border-amber-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-amber-500 to-orange-500 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl text-white">🔔</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">Bildirimler</h3>
-                <p className="text-sm text-slate-600">Sistem bildirimleri</p>
+                <h3 className="font-bold text-slate-900">Bildirimler</h3>
+                <p className="text-xs text-slate-600">Sistem bildirimleri</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Önemli güncellemeler, hatırlatmalar ve başarım bildirimlerinizi görün.
+              Güncellemeler, hatırlatmalar ve başarım bildirimleri
             </p>
           </Link>
 
-          <Link href="/egitmene-sor" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-red-500 to-red-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">❓</span>
+          <Link href="/egitmene-sor" className="group bg-white p-5 rounded-xl border border-slate-200 hover:border-indigo-200 shadow-sm hover:shadow-md transition-all">
+            <div className="flex items-center gap-3 mb-3">
+              <div className="w-12 h-12 bg-gradient-to-br from-red-500 to-red-600 rounded-lg flex items-center justify-center group-hover:scale-105 transition-transform">
+                <span className="text-xl">❓</span>
               </div>
               <div>
-                <h3 className="font-bold text-slate-900 text-lg">Eğitmene Sor</h3>
-                <p className="text-sm text-slate-600">Uzman desteği al</p>
+                <h3 className="font-bold text-slate-900">Eğitmene Sor</h3>
+                <p className="text-xs text-slate-600">Uzman desteği al</p>
               </div>
             </div>
             <p className="text-sm text-slate-500 leading-relaxed">
-              Anlamadığınız konular hakkında eğitmenlerden yardım alın.
+              Anlamadığın konular hakkında eğitmenlerden yardım al
             </p>
           </Link>
         </div>
 
         {/* Recent Exam Results */}
         {stats.recentExams.length > 0 && (
-          <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg mb-8 border border-white/20">
-            <div className="flex items-center gap-3 mb-6">
-              <div className="w-10 h-10 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center">
-                <span className="text-xl">📈</span>
+          <div className="bg-white p-6 rounded-xl border border-slate-200 shadow-sm mb-8">
+            <div className="flex items-center gap-2 mb-5">
+              <div className="w-9 h-9 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center">
+                <span className="text-lg">📈</span>
               </div>
-              <h3 className="text-xl font-bold text-slate-900">Son Sınav Sonuçları</h3>
+              <h3 className="text-lg font-bold text-slate-900">Son Sınav Sonuçları</h3>
             </div>
-            <div className="space-y-4">
+            <div className="space-y-3">
               {stats.recentExams.map((exam) => (
-                <div key={exam.id} className="group p-4 bg-gradient-to-r from-slate-50 to-blue-50 rounded-xl hover:shadow-md transition-all duration-200 border border-slate-200/50">
+                <div key={exam.id} className="p-4 bg-slate-50 rounded-lg hover:bg-slate-100 transition-colors border border-slate-200">
                   <div className="flex justify-between items-center">
                     <div className="flex-1">
-                      <p className="font-semibold text-slate-900 mb-1">
+                      <p className="font-semibold text-slate-900 mb-2">
                         {exam.exams?.title || 'Sınav'}
                       </p>
-                      <div className="flex flex-wrap gap-4 text-sm text-slate-600">
-                        <span className="flex items-center gap-1">
-                          <span className="w-2 h-2 bg-green-500 rounded-full"></span>
+                      <div className="flex flex-wrap gap-4 text-xs text-slate-600">
+                        <span className="flex items-center gap-1.5">
+                          <span className="w-2 h-2 bg-emerald-500 rounded-full"></span>
                           Doğru: {exam.correct_count}
                         </span>
-                        <span className="flex items-center gap-1">
+                        <span className="flex items-center gap-1.5">
                           <span className="w-2 h-2 bg-red-500 rounded-full"></span>
                           Yanlış: {exam.wrong_count}
                         </span>
-                        <span className="flex items-center gap-1">
-                          <span className="w-2 h-2 bg-gray-400 rounded-full"></span>
+                        <span className="flex items-center gap-1.5">
+                          <span className="w-2 h-2 bg-slate-400 rounded-full"></span>
                           Boş: {exam.empty_count}
                         </span>
                         <span className="text-slate-500">
@@ -293,9 +284,9 @@ export default function StudentDashboard() {
                         </span>
                       </div>
                     </div>
-                    <div className={`text-2xl font-bold px-3 py-1 rounded-lg ${
-                      exam.score >= 70 ? 'bg-green-100 text-green-700' :
-                      exam.score >= 50 ? 'bg-yellow-100 text-yellow-700' :
+                    <div className={`text-xl font-bold px-3 py-1.5 rounded-lg ${
+                      exam.score >= 70 ? 'bg-emerald-100 text-emerald-700' :
+                      exam.score >= 50 ? 'bg-amber-100 text-amber-700' :
                       'bg-red-100 text-red-700'
                     }`}>
                       %{exam.score}
@@ -304,8 +295,8 @@ export default function StudentDashboard() {
                 </div>
               ))}
             </div>
-            <div className="mt-6 pt-4 border-t border-slate-200">
-              <Link href="/ilerleme" className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 font-medium transition-colors">
+            <div className="mt-5 pt-4 border-t border-slate-200">
+              <Link href="/ilerleme" className="inline-flex items-center gap-2 text-indigo-600 hover:text-indigo-700 font-medium text-sm transition-colors">
                 Tüm sonuçları görüntüle
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
@@ -315,51 +306,30 @@ export default function StudentDashboard() {
           </div>
         )}
 
-        {/* Study Tips & Recommendations */}
-        <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 rounded-2xl shadow-lg border border-blue-200/50">
-          <div className="flex items-center gap-3 mb-6">
-            <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center">
-              <span className="text-xl">💡</span>
+        {/* Study Tips */}
+        <div className="bg-gradient-to-br from-indigo-50 to-purple-50 p-6 rounded-xl border border-indigo-200 shadow-sm">
+          <div className="flex items-center gap-2 mb-5">
+            <div className="w-9 h-9 bg-gradient-to-br from-indigo-600 to-indigo-700 rounded-lg flex items-center justify-center">
+              <span className="text-lg">💡</span>
             </div>
-            <h3 className="text-xl font-bold text-slate-900">Başarı İpuçları</h3>
+            <h3 className="text-lg font-bold text-slate-900">Başarı İpuçları</h3>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-slate-600">
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-3 text-sm text-slate-600">
+            {[
+              'Düzenli çalışma programı oluşturun ve buna sadık kalın',
+              'Kişisel hedefler belirleyerek motivasyonunuzu artırın',
+              'Her konu sonunda mutlaka test çözerek pekiştirin',
+              'Bildirimleri etkinleştirerek hiçbir fırsatı kaçırmayın',
+              'Anlamadığınız yerleri not alın ve eğitmene sorun',
+              'İlerleme raporlarınızı düzenli olarak kontrol edin'
+            ].map((tip, index) => (
+              <div key={index} className="flex items-start gap-2 p-3 bg-white/70 rounded-lg">
+                <div className="w-5 h-5 bg-indigo-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
+                  <span className="text-white text-xs font-bold">✓</span>
+                </div>
+                <span>{tip}</span>
               </div>
-              <span>Düzenli çalışma programı oluşturun ve buna sadık kalın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Kişisel hedefler belirleyerek motivasyonunuzu artırın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Her konu sonunda mutlaka test çözerek pekiştirin</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-orange-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Bildirimleri etkinleştirerek hiçbir fırsatı kaçırmayın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Anlamadığınız yerleri not alın ve eğitmene sorun</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-red-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>İlerleme raporlarınızı düzenli olarak kontrol edin</span>
-            </div>
+            ))}
           </div>
         </div>
       </div>
