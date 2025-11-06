@@ -6,7 +6,6 @@ import Link from 'next/link'
 import { firebase } from '@/lib/firebase-client'
 import { Profile } from '@/types'
 import Button from '@/components/ui/Button'
-import Card from '@/components/ui/Card'
 import DarkModeToggle from '@/components/ui/DarkModeToggle'
 import LoadingSpinner from '@/components/ui/LoadingSpinner'
 
@@ -27,7 +26,7 @@ export default function AdminLayout({
   const checkAdminAccess = async () => {
     try {
       const { data: { user } } = await firebase.auth.getUser()
-      
+
       if (!user) {
         router.push('/login')
         return
@@ -64,16 +63,16 @@ export default function AdminLayout({
   }
 
   const navigation = [
-    { name: 'Dashboard', href: '/admin', icon: '🏠', description: 'Genel bakış ve istatistikler' },
-    { name: 'Konu Yönetimi', href: '/admin/konular', icon: '📚', description: 'Eğitim içeriklerini yönet' },
-    { name: 'Sınav Yönetimi', href: '/admin/sinavlar', icon: '📝', description: 'Sınavları oluştur ve düzenle' },
-    { name: 'Öğrenci İstatistikleri', href: '/admin/ogrenciler', icon: '👥', description: 'Öğrenci performansını takip et' },
-    { name: 'Eğitmene Sor', href: '/admin/sorular', icon: '❓', description: 'Öğrenci sorularını yanıtla' },
+    { name: 'Dashboard', href: '/admin', icon: '🏠', description: 'Genel bakış' },
+    { name: 'Konu Yönetimi', href: '/admin/konular', icon: '📚', description: 'İçerik yönet' },
+    { name: 'Sınav Yönetimi', href: '/admin/sinavlar', icon: '📝', description: 'Sınavları düzenle' },
+    { name: 'Öğrenci İstatistikleri', href: '/admin/ogrenciler', icon: '👥', description: 'Performans takibi' },
+    { name: 'Eğitmene Sor', href: '/admin/sorular', icon: '❓', description: 'Soruları yanıtla' },
   ]
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50 flex items-center justify-center">
+      <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex items-center justify-center">
         <LoadingSpinner size="lg" text="Yetki kontrol ediliyor..." />
       </div>
     )
@@ -84,25 +83,25 @@ export default function AdminLayout({
   }
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100">
       {/* Top Header */}
-      <header className="bg-white/90 backdrop-blur-md shadow-lg border-b border-slate-200/50 sticky top-0 z-50">
+      <header className="bg-white border-b border-slate-200 sticky top-0 z-50 shadow-sm">
         <div className="px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-4">
-            <div className="flex items-center gap-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-red-500 to-pink-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-white font-bold text-lg">A</span>
+          <div className="flex justify-between items-center py-3">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 bg-gradient-to-br from-red-500 to-pink-600 rounded-lg flex items-center justify-center shadow-sm">
+                <span className="text-white font-bold text-base">A</span>
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-slate-900">YDS Admin Panel</h1>
-                <p className="text-sm text-slate-500">Yönetim Paneli</p>
+                <h1 className="text-lg font-bold text-slate-900">YDS Admin Panel</h1>
+                <p className="text-xs text-slate-500">Yönetim Paneli</p>
               </div>
             </div>
-            <div className="flex items-center gap-4">
+            <div className="flex items-center gap-3">
               <DarkModeToggle />
               <div className="text-right hidden sm:block">
                 <p className="text-sm font-semibold text-slate-900">
-                  Merhaba, {profile.full_name}!
+                  {profile.full_name}
                 </p>
                 <p className="text-xs text-slate-500">Admin</p>
               </div>
@@ -116,7 +115,7 @@ export default function AdminLayout({
                   </svg>
                 }
               >
-                Çıkış Yap
+                Çıkış
               </Button>
             </div>
           </div>
@@ -125,37 +124,34 @@ export default function AdminLayout({
 
       <div className="flex">
         {/* Sidebar */}
-        <aside className="w-72 bg-white/80 backdrop-blur-sm min-h-screen border-r border-slate-200/50 shadow-lg">
-          <nav className="p-6">
-            <div className="mb-6">
-              <h2 className="text-lg font-semibold text-slate-900 mb-2">Yönetim Menüsü</h2>
-              <p className="text-sm text-slate-600">Platform yönetimi için araçlar</p>
+        <aside className="w-64 bg-white min-h-screen border-r border-slate-200">
+          <nav className="p-5">
+            <div className="mb-5">
+              <h2 className="text-sm font-semibold text-slate-900 mb-1">Yönetim Menüsü</h2>
+              <p className="text-xs text-slate-600">Platform yönetimi</p>
             </div>
-            <ul className="space-y-3">
+            <ul className="space-y-1.5">
               {navigation.map((item) => {
                 const isActive = pathname === item.href
                 return (
                   <li key={item.name}>
                     <Link
                       href={item.href}
-                      className={`group flex items-center px-4 py-4 text-sm font-medium rounded-xl transition-all duration-200 ${
+                      className={`group flex items-center px-3 py-2.5 text-sm font-medium rounded-lg transition-all duration-200 ${
                         isActive
-                          ? 'bg-gradient-to-r from-blue-500 to-indigo-600 text-white shadow-lg'
-                          : 'text-slate-700 hover:bg-slate-100 hover:shadow-md'
+                          ? 'bg-indigo-600 text-white shadow-sm'
+                          : 'text-slate-700 hover:bg-slate-100'
                       }`}
                     >
-                      <span className={`text-xl mr-4 transition-transform duration-200 ${isActive ? 'scale-110' : 'group-hover:scale-110'}`}>
+                      <span className={`text-base mr-3 transition-transform duration-200 ${isActive ? 'scale-105' : 'group-hover:scale-105'}`}>
                         {item.icon}
                       </span>
-                      <div className="flex-1">
-                        <div className="font-semibold">{item.name}</div>
-                        <div className={`text-xs ${isActive ? 'text-blue-100' : 'text-slate-500'}`}>
+                      <div className="flex-1 min-w-0">
+                        <div className="font-medium truncate">{item.name}</div>
+                        <div className={`text-xs truncate ${isActive ? 'text-indigo-100' : 'text-slate-500'}`}>
                           {item.description}
                         </div>
                       </div>
-                      {isActive && (
-                        <div className="w-2 h-2 bg-white rounded-full"></div>
-                      )}
                     </Link>
                   </li>
                 )
@@ -165,7 +161,7 @@ export default function AdminLayout({
         </aside>
 
         {/* Main Content */}
-        <main className="flex-1 p-8">
+        <main className="flex-1 p-6 lg:p-8">
           <div className="max-w-7xl mx-auto">
             {children}
           </div>

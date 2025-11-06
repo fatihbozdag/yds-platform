@@ -21,7 +21,7 @@ export default function AdminDashboard() {
   const fetchProfile = async () => {
     try {
       const { data: { user } } = await firebase.auth.getUser()
-      
+
       if (!user) {
         router.push('/login')
         return
@@ -37,7 +37,7 @@ export default function AdminDashboard() {
         console.error('Profile fetch error:', error)
       } else {
         setProfile(profileData)
-        
+
         // Check if user is admin
         if (profileData.role !== 'admin') {
           router.push('/dashboard')
@@ -48,15 +48,6 @@ export default function AdminDashboard() {
       console.error('Error:', error)
     } finally {
       setLoading(false)
-    }
-  }
-
-  const handleLogout = async () => {
-    const { error } = await firebase.auth.signOut()
-    if (error) {
-      console.error('Logout error:', error)
-    } else {
-      router.push('/login')
     }
   }
 
@@ -71,176 +62,205 @@ export default function AdminDashboard() {
   return (
     <div className="space-y-8">
       {/* Welcome Header */}
-      <div className="flex items-center gap-4 mb-8">
-        <div className="w-16 h-16 bg-gradient-to-br from-red-500 to-pink-600 rounded-2xl flex items-center justify-center shadow-lg">
-          <span className="text-3xl">👨‍💼</span>
-        </div>
-        <div>
-          <h1 className="text-4xl font-bold text-slate-900 mb-2">
-            Hoş Geldiniz, {profile?.full_name || 'Admin'}!
+      <div className="mb-8">
+        <div className="flex items-center gap-3 mb-2">
+          <h1 className="text-3xl font-bold text-slate-900">
+            Hoş Geldiniz, {profile?.full_name || 'Admin'}! 👨‍💼
           </h1>
-          <p className="text-lg text-slate-600">
-            YDS Platform yönetim paneline hoş geldiniz. Platform yönetimi için araçları kullanabilirsiniz.
-          </p>
         </div>
+        <p className="text-slate-600">
+          YDS Platform yönetim paneline hoş geldiniz. Platform yönetimi için araçları kullanabilirsiniz.
+        </p>
       </div>
 
       {/* Quick Stats */}
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">📝</span>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-5">
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div className="flex items-center justify-between mb-3">
+            <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📝</span>
+            </div>
+            <div className="text-right">
+              <p className="text-2xl font-bold text-blue-600">150+</p>
+            </div>
           </div>
-          <h3 className="text-2xl font-bold text-blue-600 mb-2">150+</h3>
-          <p className="text-sm text-slate-600">Toplam Soru</p>
-        </Card>
+          <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Toplam Soru</h3>
+          <p className="text-xs text-slate-500">Soru bankasında</p>
+        </div>
 
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">📊</span>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div className="flex items-center justify-between mb-3">
+            <div className="w-10 h-10 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📊</span>
+            </div>
+            <div className="text-right">
+              <p className="text-2xl font-bold text-emerald-600">25+</p>
+            </div>
           </div>
-          <h3 className="text-2xl font-bold text-green-600 mb-2">25+</h3>
-          <p className="text-sm text-slate-600">Aktif Sınav</p>
-        </Card>
+          <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Aktif Sınav</h3>
+          <p className="text-xs text-slate-500">Yayınlanmış sınav</p>
+        </div>
 
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">👥</span>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div className="flex items-center justify-between mb-3">
+            <div className="w-10 h-10 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">👥</span>
+            </div>
+            <div className="text-right">
+              <p className="text-2xl font-bold text-purple-600">1,250+</p>
+            </div>
           </div>
-          <h3 className="text-2xl font-bold text-purple-600 mb-2">1,250+</h3>
-          <p className="text-sm text-slate-600">Kayıtlı Öğrenci</p>
-        </Card>
+          <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Kayıtlı Öğrenci</h3>
+          <p className="text-xs text-slate-500">Toplam kullanıcı</p>
+        </div>
 
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">📚</span>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md transition-shadow">
+          <div className="flex items-center justify-between mb-3">
+            <div className="w-10 h-10 bg-gradient-to-br from-orange-500 to-orange-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📚</span>
+            </div>
+            <div className="text-right">
+              <p className="text-2xl font-bold text-orange-600">50+</p>
+            </div>
           </div>
-          <h3 className="text-2xl font-bold text-orange-600 mb-2">50+</h3>
-          <p className="text-sm text-slate-600">Konu Anlatımı</p>
-        </Card>
+          <h3 className="text-sm font-semibold text-slate-900 mb-0.5">Konu Anlatımı</h3>
+          <p className="text-xs text-slate-500">Eğitim içeriği</p>
+        </div>
       </div>
 
       {/* Management Cards */}
-      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="Sorular"
-            subtitle="Sınav sorularını yönetin"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">📝</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Sınav sorularını ekleyin, düzenleyin ve organize edin.</p>
-            <Link href="/admin/sorular">
-              <Button variant="primary" fullWidth>
-                Soruları Yönet
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+      <div className="grid gap-5 md:grid-cols-2 lg:grid-cols-3">
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📝</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">Sorular</h3>
+              <p className="text-xs text-slate-600">Sınav sorularını yönetin</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Sınav sorularını ekleyin, düzenleyin ve organize edin.</p>
+          <Link href="/admin/sorular">
+            <Button variant="primary" fullWidth size="sm">
+              Soruları Yönet
+            </Button>
+          </Link>
+        </div>
 
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="Sınavlar"
-            subtitle="Sınavları oluşturun ve düzenleyin"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">📊</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Yeni sınavlar oluşturun ve mevcut sınavları düzenleyin.</p>
-            <Link href="/admin/sinavlar">
-              <Button variant="success" fullWidth>
-                Sınavları Yönet
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-emerald-500 to-emerald-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📊</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">Sınavlar</h3>
+              <p className="text-xs text-slate-600">Sınavları oluşturun</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Yeni sınavlar oluşturun ve mevcut sınavları düzenleyin.</p>
+          <Link href="/admin/sinavlar">
+            <Button variant="success" fullWidth size="sm">
+              Sınavları Yönet
+            </Button>
+          </Link>
+        </div>
 
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="Konular"
-            subtitle="Eğitim içeriklerini düzenleyin"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">📚</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Eğitim içeriklerini ve konu anlatımlarını yönetin.</p>
-            <Link href="/admin/konular">
-              <Button variant="secondary" fullWidth>
-                Konuları Yönet
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📚</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">Konular</h3>
+              <p className="text-xs text-slate-600">Eğitim içeriklerini düzenleyin</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Eğitim içeriklerini ve konu anlatımlarını yönetin.</p>
+          <Link href="/admin/konular">
+            <Button variant="secondary" fullWidth size="sm">
+              Konuları Yönet
+            </Button>
+          </Link>
+        </div>
 
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="Öğrenciler"
-            subtitle="Öğrenci performansını takip edin"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">👥</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Öğrenci performansını ve istatistiklerini görüntüleyin.</p>
-            <Link href="/admin/ogrenciler">
-              <Button variant="warning" fullWidth>
-                Öğrencileri Görüntüle
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">👥</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">Öğrenciler</h3>
+              <p className="text-xs text-slate-600">Performansı takip edin</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Öğrenci performansını ve istatistiklerini görüntüleyin.</p>
+          <Link href="/admin/ogrenciler">
+            <Button variant="warning" fullWidth size="sm">
+              Öğrencileri Görüntüle
+            </Button>
+          </Link>
+        </div>
 
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="İçerik Yükle"
-            subtitle="Section 1 içeriğini sisteme yükleyin"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-indigo-500 to-indigo-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">📥</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Hazır içerikleri sisteme toplu olarak yükleyin.</p>
-            <Link href="/admin/import-content">
-              <Button variant="info" fullWidth>
-                İçerik Yükle
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-indigo-500 to-indigo-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">📥</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">İçerik Yükle</h3>
+              <p className="text-xs text-slate-600">Toplu içerik yükleyin</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Section 1 içeriğini sisteme yükleyin.</p>
+          <Link href="/admin/sinavlar/import">
+            <Button variant="primary" fullWidth size="sm">
+              İçerik Yükle
+            </Button>
+          </Link>
+        </div>
 
-        <Card variant="glass" padding="lg" hover>
-          <CardHeader
-            title="Demo Hesap"
-            subtitle="Demo öğrenci hesabı oluşturun"
-            action={
-              <div className="w-12 h-12 bg-gradient-to-br from-pink-500 to-pink-600 rounded-xl flex items-center justify-center shadow-lg">
-                <span className="text-2xl">🎓</span>
-              </div>
-            }
-          />
-          <CardContent>
-            <p className="text-slate-600 mb-6">Test amaçlı demo öğrenci hesabı oluşturun.</p>
-            <Link href="/admin/demo-account">
-              <Button variant="ghost" fullWidth>
-                Demo Hesap Oluştur
-              </Button>
-            </Link>
-          </CardContent>
-        </Card>
+        <div className="bg-white p-5 rounded-xl border border-slate-200 shadow-sm hover:shadow-md hover:border-indigo-200 transition-all">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-12 h-12 bg-gradient-to-br from-pink-500 to-pink-600 rounded-lg flex items-center justify-center">
+              <span className="text-xl">🎓</span>
+            </div>
+            <div>
+              <h3 className="font-bold text-slate-900">Demo Hesap</h3>
+              <p className="text-xs text-slate-600">Test hesabı oluşturun</p>
+            </div>
+          </div>
+          <p className="text-sm text-slate-600 mb-4">Test amaçlı demo öğrenci hesabı oluşturun.</p>
+          <Link href="/admin/demo-account">
+            <Button variant="ghost" fullWidth size="sm">
+              Demo Hesap Oluştur
+            </Button>
+          </Link>
+        </div>
+      </div>
+
+      {/* Quick Actions */}
+      <div className="bg-gradient-to-br from-indigo-50 to-purple-50 p-6 rounded-xl border border-indigo-200 shadow-sm">
+        <div className="flex items-center gap-2 mb-4">
+          <div className="w-9 h-9 bg-gradient-to-br from-indigo-600 to-indigo-700 rounded-lg flex items-center justify-center">
+            <span className="text-lg">⚡</span>
+          </div>
+          <h3 className="text-lg font-bold text-slate-900">Hızlı İşlemler</h3>
+        </div>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
+          <Link href="/admin/sinavlar/import" className="flex items-center gap-2 p-3 bg-white/70 rounded-lg hover:bg-white transition-colors">
+            <span className="text-lg">📥</span>
+            <span className="text-sm font-medium text-slate-900">Sınav İçe Aktar</span>
+          </Link>
+          <Link href="/admin/sorular" className="flex items-center gap-2 p-3 bg-white/70 rounded-lg hover:bg-white transition-colors">
+            <span className="text-lg">➕</span>
+            <span className="text-sm font-medium text-slate-900">Yeni Soru Ekle</span>
+          </Link>
+          <Link href="/admin/ogrenciler" className="flex items-center gap-2 p-3 bg-white/70 rounded-lg hover:bg-white transition-colors">
+            <span className="text-lg">📊</span>
+            <span className="text-sm font-medium text-slate-900">İstatistikleri Görüntüle</span>
+          </Link>
+        </div>
       </div>
     </div>
   )
