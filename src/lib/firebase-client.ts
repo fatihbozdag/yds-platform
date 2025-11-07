@@ -81,10 +81,8 @@ export class FirebaseClient {
         const userCredential = await signInWithEmailAndPassword(auth, email, password)
         const user = userCredential.user
 
-        // Check if email is verified
-        if (!user.emailVerified) {
-          throw new Error('Email not confirmed')
-        }
+        // Note: Email verification is checked in the UI, not blocking login
+        // This allows unverified users to access the platform with a warning banner
 
         return {
           data: {
