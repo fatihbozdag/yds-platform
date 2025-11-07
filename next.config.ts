@@ -2,9 +2,9 @@ import type { NextConfig } from "next";
 import path from "path";
 
 const nextConfig: NextConfig = {
-  // Netlify will handle the build process
   // Force correct root to avoid Next inferring workspace root from another lockfile
   outputFileTracingRoot: path.resolve(__dirname),
+  // Netlify uses its own Next.js runtime, no need for standalone output
   eslint: {
     ignoreDuringBuilds: true,
   },

@@ -4,7 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
-    "public": "out",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
@@ -13,7 +13,7 @@
     "rewrites": [
       {
         "source": "**",
-        "destination": "/index.html"
+        "function": "nextjs"
       }
     ],
     "headers": [
@@ -37,6 +37,23 @@
       }
     ]
   },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint",
+        "npm --prefix \"$RESOURCE_DIR/..\" run build",
+        "bash -c 'rm -rf \"$RESOURCE_DIR\"/.next && cp -r \"$RESOURCE_DIR\"/../.next/standalone \"$RESOURCE_DIR\"/.next && cp -r \"$RESOURCE_DIR\"/../.next/static \"$RESOURCE_DIR\"/.next/static 2>/dev/null || true'"
+      ]
+    }
+  ],
   "storage": {
     "rules": "storage.rules"
   }

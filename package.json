@@ -5,10 +5,9 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "export": "next build && next export",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "npm run export && firebase deploy --only hosting"
+    "deploy": "netlify deploy --prod"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.1",
@@ -26,6 +25,7 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
+    "@netlify/plugin-nextjs": "^5.14.5",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
