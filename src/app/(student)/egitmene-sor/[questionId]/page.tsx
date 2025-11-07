@@ -1,10 +1,8 @@
 import QuestionDetailClient from './QuestionDetailClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ questionId: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function QuestionDetailPage() {
   return <QuestionDetailClient />

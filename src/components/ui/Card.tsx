@@ -22,10 +22,10 @@ const Card = forwardRef<HTMLDivElement, CardProps>(
     const baseClasses = 'rounded-2xl transition-all duration-200'
     
     const variantClasses = {
-      default: 'bg-white border border-slate-200',
-      elevated: 'bg-white shadow-lg border border-white/20',
+      default: 'bg-white border border-slate-200 shadow-md',
+      elevated: 'bg-white shadow-xl border border-slate-200/60',
       outlined: 'bg-transparent border-2 border-slate-300',
-      glass: 'bg-white/80 backdrop-blur-sm border border-white/20'
+      glass: 'bg-white/80 backdrop-blur-xl border border-slate-200/60 shadow-lg'
     }
     
     const paddingClasses = {

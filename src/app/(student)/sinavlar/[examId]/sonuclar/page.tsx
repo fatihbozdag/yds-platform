@@ -1,10 +1,8 @@
 import ExamHistoryClient from './ExamHistoryClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ examId: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function ExamHistoryPage() {
   return <ExamHistoryClient />

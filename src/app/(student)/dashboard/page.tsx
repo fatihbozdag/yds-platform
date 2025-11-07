@@ -39,7 +39,6 @@ export default function StudentDashboard() {
       const { data: { user } } = await firebase.auth.getUser()
       if (!user) return
 
-      // Fetch exam results
       const { data: examResults } = await firebase
         .from('exam_results')
         .select(`
@@ -75,28 +74,61 @@ export default function StudentDashboard() {
 
   if (loading) {
     return (
-      <div className="container mx-auto py-8">
-        <div className="flex items-center justify-center py-12">
-          <div className="text-center">
-            <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto"></div>
-            <p className="mt-4">Dashboard yükleniyor...</p>
-          </div>
+      <div className="min-h-screen bg-gradient-to-br from-slate-50 to-cyan-50/30 flex items-center justify-center">
+        <div className="text-center">
+          <div className="w-16 h-16 border-4 border-cyan-500 border-t-transparent rounded-full animate-spin mx-auto"></div>
+          <p className="mt-4 text-slate-600 font-medium">Dashboard yükleniyor...</p>
         </div>
       </div>
     )
   }
 
+  const statCards = [
+    {
+      icon: '📝',
+      value: stats.totalExams,
+      label: 'Çözülen Sınav',
+      sublabel: 'Toplam deneme',
+      gradient: 'from-blue-500 to-cyan-500',
+      bgGradient: 'from-blue-50 to-cyan-50'
+    },
+    {
+      icon: '📊',
+      value: `%${stats.averageScore}`,
+      label: 'Ortalama Puan',
+      sublabel: 'Genel başarı',
+      gradient: 'from-green-500 to-emerald-500',
+      bgGradient: 'from-green-50 to-emerald-50'
+    },
+    {
+      icon: '📅',
+      value: stats.studyDays,
+      label: 'Çalışma Günü',
+      sublabel: 'Aktif günler',
+      gradient: 'from-purple-500 to-pink-500',
+      bgGradient: 'from-purple-50 to-pink-50'
+    },
+    {
+      icon: '✅',
+      value: stats.totalQuestions,
+      label: 'Çözülen Soru',
+      sublabel: 'Toplam soru',
+      gradient: 'from-orange-500 to-amber-500',
+      bgGradient: 'from-orange-50 to-amber-50'
+    }
+  ]
+
   return (
-    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-blue-50 to-indigo-50">
-      <div className="container mx-auto py-8 px-4">
+    <div className="min-h-screen bg-gradient-to-br from-slate-50 via-white to-cyan-50/20">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* Welcome Header */}
-        <div className="mb-8">
-          <div className="flex items-center gap-4 mb-4">
-            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center shadow-lg">
-              <span className="text-3xl">🎉</span>
+        <div className="mb-10">
+          <div className="flex items-center gap-4 mb-2">
+            <div className="w-14 h-14 bg-gradient-to-br from-cyan-500 to-teal-600 rounded-2xl flex items-center justify-center shadow-lg">
+              <span className="text-2xl">👋</span>
             </div>
             <div>
-              <h1 className="text-4xl font-bold text-slate-900 mb-2">
+              <h1 className="text-4xl font-bold text-slate-900 mb-1">
                 Hoş Geldiniz!
               </h1>
               <p className="text-lg text-slate-600">
@@ -106,194 +138,153 @@ export default function StudentDashboard() {
           </div>
         </div>
 
-        {/* Performance Stats */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📝</span>
+        {/* Stats Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-10">
+          {statCards.map((stat, idx) => (
+            <div 
+              key={idx}
+              className={`group bg-gradient-to-br ${stat.bgGradient} p-6 rounded-2xl border border-white/60 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1`}
+            >
+              <div className="flex items-center justify-between mb-4">
+                <div className={`w-12 h-12 bg-gradient-to-br ${stat.gradient} rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300`}>
+                  <span className="text-xl">{stat.icon}</span>
+                </div>
+                <div className="text-right">
+                  <p className={`text-3xl font-bold bg-gradient-to-r ${stat.gradient} bg-clip-text text-transparent`}>
+                    {stat.value}
+                  </p>
+                  <p className="text-xs text-slate-500 mt-1">{stat.sublabel}</p>
+                </div>
               </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-blue-600">{stats.totalExams}</p>
-                <p className="text-xs text-slate-500">Toplam</p>
-              </div>
+              <h3 className="text-sm font-semibold text-slate-700">{stat.label}</h3>
             </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çözülen Sınav</h3>
-            <p className="text-xs text-slate-500">Deneme sınavları</p>
-          </div>
-          
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📊</span>
-              </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-green-600">%{stats.averageScore}</p>
-                <p className="text-xs text-slate-500">Ortalama</p>
-              </div>
-            </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Ortalama Puan</h3>
-            <p className="text-xs text-slate-500">Genel başarı</p>
-          </div>
-          
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📅</span>
-              </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-purple-600">{stats.studyDays}</p>
-                <p className="text-xs text-slate-500">Gün</p>
-              </div>
-            </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çalışma Günü</h3>
-            <p className="text-xs text-slate-500">Aktif günler</p>
-          </div>
-
-          <div className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center justify-between mb-4">
-              <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">✅</span>
-              </div>
-              <div className="text-right">
-                <p className="text-3xl font-bold text-orange-600">{stats.totalQuestions}</p>
-                <p className="text-xs text-slate-500">Soru</p>
-              </div>
-            </div>
-            <h3 className="text-sm font-semibold text-slate-700 mb-1">Çözülen Soru</h3>
-            <p className="text-xs text-slate-500">Toplam soru sayısı</p>
-          </div>
+          ))}
         </div>
 
-        {/* Main Navigation */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-          <Link href="/konular" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📚</span>
+        {/* Quick Actions */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+          {[
+            {
+              href: '/konular',
+              icon: '📚',
+              title: 'YDS Konuları',
+              description: 'Konuları sırasıyla öğren',
+              detail: 'Grammar, vocabulary ve diğer YDS konularını detaylı şekilde öğrenin.',
+              gradient: 'from-blue-500 to-cyan-500'
+            },
+            {
+              href: '/sinavlar',
+              icon: '📝',
+              title: 'Deneme Sınavları',
+              description: 'Pratik yap, başarını ölç',
+              detail: 'Gerçek YDS formatında deneme sınavları çözerek kendinizi test edin.',
+              gradient: 'from-green-500 to-emerald-500'
+            },
+            {
+              href: '/ilerleme',
+              icon: '📊',
+              title: 'İlerleme Takibi',
+              description: 'Başarını görselleştir',
+              detail: 'Çalışma istatistiklerinizi ve gelişiminizi takip edin.',
+              gradient: 'from-purple-500 to-pink-500'
+            },
+            {
+              href: '/hedefler',
+              icon: '🎯',
+              title: 'Hedeflerim',
+              description: 'Çalışma hedeflerin',
+              detail: 'Kişisel hedefler belirleyerek motivasyonunuzu artırın.',
+              gradient: 'from-cyan-500 to-teal-500'
+            },
+            {
+              href: '/bildirimler',
+              icon: '🔔',
+              title: 'Bildirimler',
+              description: 'Sistem bildirimleri',
+              detail: 'Önemli güncellemeler ve hatırlatmalarınızı görün.',
+              gradient: 'from-orange-500 to-amber-500'
+            },
+            {
+              href: '/egitmene-sor',
+              icon: '💬',
+              title: 'Eğitmene Sor',
+              description: 'Uzman desteği al',
+              detail: 'Anlamadığınız konular hakkında eğitmenlerden yardım alın.',
+              gradient: 'from-indigo-500 to-purple-500'
+            }
+          ].map((action, idx) => (
+            <Link 
+              key={idx}
+              href={action.href}
+              className="group bg-white p-6 rounded-2xl border border-slate-200 hover:border-cyan-300 shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
+            >
+              <div className="flex items-start gap-4 mb-4">
+                <div className={`w-14 h-14 bg-gradient-to-br ${action.gradient} rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-300 flex-shrink-0`}>
+                  <span className="text-2xl">{action.icon}</span>
+                </div>
+                <div className="flex-1">
+                  <h3 className="font-bold text-slate-900 text-lg mb-1 group-hover:text-cyan-600 transition-colors">
+                    {action.title}
+                  </h3>
+                  <p className="text-sm text-slate-500 mb-2">{action.description}</p>
+                </div>
+                <svg className="w-5 h-5 text-slate-400 group-hover:text-cyan-600 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
               </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">YDS Konuları</h3>
-                <p className="text-sm text-slate-600">Konuları sırasıyla öğren</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Grammar, vocabulary ve diğer YDS konularını detaylı şekilde öğrenin.
-            </p>
-          </Link>
-
-          <Link href="/sinavlar" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📝</span>
-              </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">Deneme Sınavları</h3>
-                <p className="text-sm text-slate-600">Pratik yap, başarını ölç</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Gerçek YDS formatında deneme sınavları çözerek kendinizi test edin.
-            </p>
-          </Link>
-
-          <Link href="/ilerleme" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">📊</span>
-              </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">İlerleme Takibi</h3>
-                <p className="text-sm text-slate-600">Başarını görselleştir</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Çalışma istatistiklerinizi ve gelişiminizi takip edin.
-            </p>
-          </Link>
-
-          <Link href="/hedefler" className="group bg-gradient-to-br from-blue-50 to-purple-50 p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-blue-200/50">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-blue-500 to-purple-500 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl text-white">🎯</span>
-              </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">Hedeflerim</h3>
-                <p className="text-sm text-slate-600">Çalışma hedeflerin</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Kişisel hedefler belirleyerek motivasyonunuzu artırın ve ilerlemenizi takip edin.
-            </p>
-          </Link>
-
-          <Link href="/bildirimler" className="group bg-gradient-to-br from-yellow-50 to-orange-50 p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-yellow-200/50">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-yellow-500 to-orange-500 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl text-white">🔔</span>
-              </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">Bildirimler</h3>
-                <p className="text-sm text-slate-600">Sistem bildirimleri</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Önemli güncellemeler, hatırlatmalar ve başarım bildirimlerinizi görün.
-            </p>
-          </Link>
-
-          <Link href="/egitmene-sor" className="group bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-white/20">
-            <div className="flex items-center mb-4">
-              <div className="w-14 h-14 bg-gradient-to-br from-red-500 to-red-600 rounded-xl flex items-center justify-center mr-4 shadow-lg group-hover:scale-110 transition-transform duration-300">
-                <span className="text-2xl">❓</span>
-              </div>
-              <div>
-                <h3 className="font-bold text-slate-900 text-lg">Eğitmene Sor</h3>
-                <p className="text-sm text-slate-600">Uzman desteği al</p>
-              </div>
-            </div>
-            <p className="text-sm text-slate-500 leading-relaxed">
-              Anlamadığınız konular hakkında eğitmenlerden yardım alın.
-            </p>
-          </Link>
+              <p className="text-sm text-slate-600 leading-relaxed">
+                {action.detail}
+              </p>
+            </Link>
+          ))}
         </div>
 
         {/* Recent Exam Results */}
         {stats.recentExams.length > 0 && (
-          <div className="bg-white/80 backdrop-blur-sm p-6 rounded-2xl shadow-lg mb-8 border border-white/20">
+          <div className="bg-white rounded-2xl shadow-lg border border-slate-200 p-8 mb-10">
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-10 h-10 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center">
+              <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-emerald-500 rounded-xl flex items-center justify-center shadow-lg">
                 <span className="text-xl">📈</span>
               </div>
-              <h3 className="text-xl font-bold text-slate-900">Son Sınav Sonuçları</h3>
+              <div>
+                <h3 className="text-2xl font-bold text-slate-900">Son Sınav Sonuçları</h3>
+                <p className="text-sm text-slate-500">En son çözdüğünüz sınavlar</p>
+              </div>
             </div>
-            <div className="space-y-4">
+            <div className="space-y-3">
               {stats.recentExams.map((exam) => (
-                <div key={exam.id} className="group p-4 bg-gradient-to-r from-slate-50 to-blue-50 rounded-xl hover:shadow-md transition-all duration-200 border border-slate-200/50">
+                <div 
+                  key={exam.id} 
+                  className="group p-5 bg-gradient-to-r from-slate-50 to-cyan-50/50 rounded-xl hover:shadow-md transition-all duration-200 border border-slate-200/60 hover:border-cyan-300"
+                >
                   <div className="flex justify-between items-center">
                     <div className="flex-1">
-                      <p className="font-semibold text-slate-900 mb-1">
+                      <p className="font-semibold text-slate-900 mb-2 text-lg">
                         {exam.exams?.title || 'Sınav'}
                       </p>
                       <div className="flex flex-wrap gap-4 text-sm text-slate-600">
-                        <span className="flex items-center gap-1">
+                        <span className="flex items-center gap-2">
                           <span className="w-2 h-2 bg-green-500 rounded-full"></span>
-                          Doğru: {exam.correct_count}
+                          Doğru: <span className="font-semibold text-green-600">{exam.correct_count}</span>
                         </span>
-                        <span className="flex items-center gap-1">
+                        <span className="flex items-center gap-2">
                           <span className="w-2 h-2 bg-red-500 rounded-full"></span>
-                          Yanlış: {exam.wrong_count}
+                          Yanlış: <span className="font-semibold text-red-600">{exam.wrong_count}</span>
                         </span>
-                        <span className="flex items-center gap-1">
-                          <span className="w-2 h-2 bg-gray-400 rounded-full"></span>
-                          Boş: {exam.empty_count}
+                        <span className="flex items-center gap-2">
+                          <span className="w-2 h-2 bg-slate-400 rounded-full"></span>
+                          Boş: <span className="font-semibold text-slate-600">{exam.empty_count}</span>
                         </span>
                         <span className="text-slate-500">
-                          {new Date(exam.completed_at).toLocaleDateString('tr-TR')}
+                          {new Date(exam.completed_at).toLocaleDateString('tr-TR', { 
+                            day: 'numeric', 
+                            month: 'long', 
+                            year: 'numeric' 
+                          })}
                         </span>
                       </div>
                     </div>
-                    <div className={`text-2xl font-bold px-3 py-1 rounded-lg ${
+                    <div className={`text-3xl font-bold px-4 py-2 rounded-xl shadow-md ${
                       exam.score >= 70 ? 'bg-green-100 text-green-700' :
                       exam.score >= 50 ? 'bg-yellow-100 text-yellow-700' :
                       'bg-red-100 text-red-700'
@@ -304,10 +295,13 @@ export default function StudentDashboard() {
                 </div>
               ))}
             </div>
-            <div className="mt-6 pt-4 border-t border-slate-200">
-              <Link href="/ilerleme" className="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 font-medium transition-colors">
+            <div className="mt-6 pt-6 border-t border-slate-200">
+              <Link 
+                href="/ilerleme" 
+                className="inline-flex items-center gap-2 text-cyan-600 hover:text-cyan-700 font-semibold transition-colors"
+              >
                 Tüm sonuçları görüntüle
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                 </svg>
               </Link>
@@ -315,51 +309,33 @@ export default function StudentDashboard() {
           </div>
         )}
 
-        {/* Study Tips & Recommendations */}
-        <div className="bg-gradient-to-br from-blue-50 to-indigo-50 p-6 rounded-2xl shadow-lg border border-blue-200/50">
+        {/* Study Tips */}
+        <div className="bg-gradient-to-br from-cyan-50 to-teal-50 rounded-2xl p-8 border border-cyan-200/60 shadow-lg">
           <div className="flex items-center gap-3 mb-6">
-            <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center">
+            <div className="w-12 h-12 bg-gradient-to-br from-cyan-500 to-teal-600 rounded-xl flex items-center justify-center shadow-lg">
               <span className="text-xl">💡</span>
             </div>
-            <h3 className="text-xl font-bold text-slate-900">Başarı İpuçları</h3>
+            <div>
+              <h3 className="text-2xl font-bold text-slate-900">Başarı İpuçları</h3>
+              <p className="text-sm text-slate-600">Daha iyi sonuçlar için öneriler</p>
+            </div>
           </div>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-slate-600">
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            {[
+              'Düzenli çalışma programı oluşturun ve buna sadık kalın',
+              'Kişisel hedefler belirleyerek motivasyonunuzu artırın',
+              'Her konu sonunda mutlaka test çözerek pekiştirin',
+              'Bildirimleri etkinleştirerek hiçbir fırsatı kaçırmayın',
+              'Anlamadığınız yerleri not alın ve eğitmene sorun',
+              'İlerleme raporlarınızı düzenli olarak kontrol edin'
+            ].map((tip, idx) => (
+              <div key={idx} className="flex items-start gap-3 p-4 bg-white/80 rounded-xl border border-white/60">
+                <div className="w-6 h-6 bg-gradient-to-br from-cyan-500 to-teal-600 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5 shadow-md">
+                  <span className="text-white text-xs font-bold">✓</span>
+                </div>
+                <span className="text-sm text-slate-700 leading-relaxed">{tip}</span>
               </div>
-              <span>Düzenli çalışma programı oluşturun ve buna sadık kalın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Kişisel hedefler belirleyerek motivasyonunuzu artırın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-green-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Her konu sonunda mutlaka test çözerek pekiştirin</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-orange-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Bildirimleri etkinleştirerek hiçbir fırsatı kaçırmayın</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>Anlamadığınız yerleri not alın ve eğitmene sorun</span>
-            </div>
-            <div className="flex items-start gap-3 p-3 bg-white/60 rounded-lg">
-              <div className="w-6 h-6 bg-red-500 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-white text-xs font-bold">✓</span>
-              </div>
-              <span>İlerleme raporlarınızı düzenli olarak kontrol edin</span>
-            </div>
+            ))}
           </div>
         </div>
       </div>

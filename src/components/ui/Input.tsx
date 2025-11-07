@@ -30,9 +30,9 @@ const Input = forwardRef<HTMLInputElement, InputProps>(
     const baseClasses = 'w-full px-4 py-3 text-sm border rounded-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed'
     
     const variantClasses = {
-      default: 'bg-white border-slate-300 focus:border-blue-500 focus:ring-blue-500',
-      filled: 'bg-slate-50 border-slate-200 focus:border-blue-500 focus:ring-blue-500 focus:bg-white',
-      outlined: 'bg-transparent border-2 border-slate-300 focus:border-blue-500 focus:ring-blue-500'
+      default: 'bg-white border-slate-300 focus:border-cyan-500 focus:ring-cyan-500',
+      filled: 'bg-slate-50 border-slate-200 focus:border-cyan-500 focus:ring-cyan-500 focus:bg-white',
+      outlined: 'bg-transparent border-2 border-slate-300 focus:border-cyan-500 focus:ring-cyan-500'
     }
     
     const errorClasses = error ? 'border-red-500 focus:border-red-500 focus:ring-red-500' : ''

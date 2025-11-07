@@ -1,10 +1,8 @@
 import FlashcardsClient from './FlashcardsClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ setId: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function FlashcardsPage() {
   return <FlashcardsClient />

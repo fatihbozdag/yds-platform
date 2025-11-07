@@ -1,10 +1,8 @@
 import QuizClient from './QuizClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ quizId: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function QuizPage() {
   return <QuizClient />

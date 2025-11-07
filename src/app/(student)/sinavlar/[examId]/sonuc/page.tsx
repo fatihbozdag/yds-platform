@@ -1,10 +1,8 @@
 import ExamResultClient from './ExamResultClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ examId: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function ExamResultPage() {
   return <ExamResultClient />

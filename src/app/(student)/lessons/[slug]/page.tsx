@@ -1,10 +1,8 @@
 import LessonClient from './LessonClient'
 
-export async function generateStaticParams() {
+export async function generateStaticParams(): Promise<{ slug: string }[]> {
   return []
 }
-
-export const dynamic = 'force-static'
 
 export default function LessonPage() {
   return <LessonClient />
