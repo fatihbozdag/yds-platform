@@ -1,19 +1,123 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useRef } from 'react'
 import Link from 'next/link'
 import { firebase } from '@/lib/firebase-client'
 import { Exam, Topic } from '@/types'
-import Button from '@/components/ui/Button'
-import Card, { CardHeader, CardContent } from '@/components/ui/Card'
-import Badge from '@/components/ui/Badge'
-import LoadingSpinner from '@/components/ui/LoadingSpinner'
 
 interface ExamWithTopic extends Exam {
   topics?: Topic | null
   attempts?: number
   bestScore?: number
   lastAttempt?: string
+}
+
+// Animated counter hook
+function useCountUp(end: number, duration = 1500, startOnView = true) {
+  const [count, setCount] = useState(0)
+  const [hasStarted, setHasStarted] = useState(!startOnView)
+  const ref = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    if (!startOnView) return
+
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting && !hasStarted) {
+          setHasStarted(true)
+        }
+      },
+      { threshold: 0.5 }
+    )
+
+    if (ref.current) observer.observe(ref.current)
+    return () => observer.disconnect()
+  }, [startOnView, hasStarted])
+
+  useEffect(() => {
+    if (!hasStarted) return
+
+    let startTime: number
+    const animate = (currentTime: number) => {
+      if (!startTime) startTime = currentTime
+      const progress = Math.min((currentTime - startTime) / duration, 1)
+      const easeOut = 1 - Math.pow(1 - progress, 3)
+      setCount(Math.floor(easeOut * end))
+      if (progress < 1) requestAnimationFrame(animate)
+    }
+    requestAnimationFrame(animate)
+  }, [end, duration, hasStarted])
+
+  return { count, ref }
+}
+
+// SVG Icons
+const Icons = {
+  scroll: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-8 h-8">
+      <path d="M12 6.5v11M8 10.5l4-4 4 4" strokeLinecap="round" strokeLinejoin="round"/>
+      <rect x="4" y="3" width="16" height="18" rx="2" strokeLinecap="round"/>
+    </svg>
+  ),
+  checkCircle: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <circle cx="12" cy="12" r="9"/>
+      <path d="M9 12l2 2 4-4" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  ),
+  clock: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <circle cx="12" cy="12" r="9"/>
+      <path d="M12 7v5l3 3" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  ),
+  award: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <circle cx="12" cy="8" r="5"/>
+      <path d="M8.5 13.5L7 21l5-3 5 3-1.5-7.5" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  ),
+  target: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <circle cx="12" cy="12" r="9"/>
+      <circle cx="12" cy="12" r="5"/>
+      <circle cx="12" cy="12" r="1"/>
+    </svg>
+  ),
+  questions: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2"/>
+      <rect x="9" y="3" width="6" height="4" rx="1"/>
+      <path d="M9 12h6M9 16h4" strokeLinecap="round"/>
+    </svg>
+  ),
+  timer: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <circle cx="12" cy="13" r="8"/>
+      <path d="M12 9v4l2 2M10 2h4M12 2v2" strokeLinecap="round"/>
+    </svg>
+  ),
+  play: (
+    <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
+      <path d="M8 5.14v14.72a1 1 0 001.5.86l11-7.36a1 1 0 000-1.72l-11-7.36a1 1 0 00-1.5.86z"/>
+    </svg>
+  ),
+  refresh: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M4 12a8 8 0 018-8 8 8 0 017.4 5M20 12a8 8 0 01-8 8 8 8 0 01-7.4-5" strokeLinecap="round"/>
+      <path d="M19 4v5h-5M5 20v-5h5" strokeLinecap="round" strokeLinejoin="round"/>
+    </svg>
+  ),
+  chart: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M4 20h16M6 16v-4M10 16V8M14 16v-6M18 16V6" strokeLinecap="round"/>
+    </svg>
+  ),
+  quote: (
+    <svg viewBox="0 0 24 24" fill="currentColor" className="w-8 h-8 opacity-20">
+      <path d="M11 7H7a4 4 0 00-4 4v1a3 3 0 003 3h1a2 2 0 012 2v1a4 4 0 01-4 4H4m16-15h-4a4 4 0 00-4 4v1a3 3 0 003 3h1a2 2 0 012 2v1a4 4 0 01-4 4h-1"/>
+    </svg>
+  )
 }
 
 export default function StudentExamsPage() {
@@ -30,7 +134,6 @@ export default function StudentExamsPage() {
       const { data: { user } } = await firebase.auth.getUser()
       if (!user) return
 
-      // Load exams from public JSON file
       const response = await fetch('/exams-data.json')
       if (!response.ok) {
         console.error('Failed to load exams data')
@@ -39,34 +142,28 @@ export default function StudentExamsPage() {
       }
 
       const examsMap = await response.json()
-      const demoExams = Object.values(examsMap)
+      const demoExams = Object.values(examsMap) as Exam[]
 
-      // Get user's exam results from localStorage
       const resultsKey = `exam_results_${user.id}`
       const storedResults = localStorage.getItem(resultsKey)
       const resultsData = storedResults ? JSON.parse(storedResults) : []
 
-      // Combine exams with attempt data
       const examsWithAttempts = demoExams.map(exam => {
-        const examResults = resultsData.filter((result: any) => result.exam_id === exam.id)
+        const examResults = resultsData.filter((result: { exam_id: string }) => result.exam_id === exam.id)
         const attempts = examResults.length
-        const bestScore = attempts > 0 ? Math.max(...examResults.map((r: any) => r.score)) : undefined
+        const bestScore = attempts > 0 ? Math.max(...examResults.map((r: { score: number }) => r.score)) : undefined
         const lastAttempt = attempts > 0
-          ? examResults.sort((a: any, b: any) => new Date(b.completed_at).getTime() - new Date(a.completed_at).getTime())[0].completed_at
+          ? examResults.sort((a: { completed_at: string }, b: { completed_at: string }) =>
+              new Date(b.completed_at).getTime() - new Date(a.completed_at).getTime()
+            )[0].completed_at
           : undefined
 
-        return {
-          ...exam,
-          attempts,
-          bestScore,
-          lastAttempt
-        }
+        return { ...exam, attempts, bestScore, lastAttempt }
       })
 
       setExams(examsWithAttempts)
     } catch (error) {
       console.error('Error fetching exams:', error)
-      alert('Sınavlar yüklenirken bir hata oluştu')
     } finally {
       setLoading(false)
     }
@@ -84,267 +181,277 @@ export default function StudentExamsPage() {
   }
 
   const getScoreColor = (score?: number) => {
-    if (!score) return 'text-slate-500'
-    if (score >= 80) return 'text-green-600'
-    if (score >= 60) return 'text-blue-600'
-    if (score >= 40) return 'text-yellow-600'
-    return 'text-red-600'
-  }
-
-  const getScoreBadge = (score?: number) => {
-    if (!score) return null
-    if (score >= 80) return 'bg-green-100 text-green-800'
-    if (score >= 60) return 'bg-blue-100 text-blue-800'
-    if (score >= 40) return 'bg-yellow-100 text-yellow-800'
-    return 'bg-red-100 text-red-800'
+    if (!score) return 'text-[var(--muted-slate)]'
+    if (score >= 80) return 'text-[var(--forest-sage)]'
+    if (score >= 60) return 'text-[var(--burnished-gold)]'
+    if (score >= 40) return 'text-[var(--antique-bronze)]'
+    return 'text-[var(--deep-burgundy)]'
   }
 
   const filteredExams = getFilteredExams()
   const attemptedCount = exams.filter(e => e.attempts && e.attempts > 0).length
   const notAttemptedCount = exams.filter(e => !e.attempts || e.attempts === 0).length
+  const averageScore = attemptedCount > 0
+    ? Math.round(exams.reduce((acc, exam) => acc + (exam.bestScore || 0), 0) / attemptedCount)
+    : 0
+
+  // Animated counters
+  const totalCounter = useCountUp(exams.length, 1200)
+  const attemptedCounter = useCountUp(attemptedCount, 1200)
+  const pendingCounter = useCountUp(notAttemptedCount, 1200)
+  const avgCounter = useCountUp(averageScore, 1500)
 
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-12">
-        <LoadingSpinner size="lg" text="Sınavlar yükleniyor..." />
+      <div className="min-h-screen flex items-center justify-center paper-texture">
+        <div className="text-center luxury-fade-up">
+          <div className="w-16 h-16 mx-auto mb-6 relative">
+            <div className="absolute inset-0 border-2 border-[var(--burnished-gold)] border-t-transparent rounded-full animate-spin" />
+            <div className="absolute inset-2 border-2 border-[var(--antique-bronze)] border-b-transparent rounded-full animate-spin" style={{ animationDirection: 'reverse', animationDuration: '1.5s' }} />
+          </div>
+          <p className="font-body text-[var(--muted-slate)] tracking-wide">Sınavlar hazırlanıyor...</p>
+        </div>
       </div>
     )
   }
 
   return (
-    <div className="max-w-7xl mx-auto p-6">
-      {/* Header */}
-      <div className="flex items-center gap-4 mb-8">
-        <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-2xl flex items-center justify-center shadow-lg">
-          <span className="text-3xl">📝</span>
-        </div>
-        <div>
-          <h1 className="text-4xl font-bold text-slate-900 mb-2">YDS Deneme Sınavları</h1>
-          <p className="text-lg text-slate-600">
-            Gerçek YDS formatında hazırlanmış deneme sınavları ile kendinizi test edin.
-          </p>
-        </div>
-      </div>
+    <div className="min-h-screen paper-texture">
+      <div className="max-w-6xl mx-auto px-6 py-12">
 
-      {/* Stats Overview */}
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-6 mb-8">
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">📊</span>
+        {/* Header */}
+        <header className="mb-16 luxury-fade-up">
+          <div className="flex items-start gap-6">
+            <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-[var(--rich-navy)] to-[#2a3a5c] flex items-center justify-center text-[var(--burnished-gold)] shadow-lg">
+              {Icons.scroll}
+            </div>
+            <div className="flex-1">
+              <h1 className="font-display text-5xl font-semibold text-[var(--rich-navy)] tracking-tight mb-3 line-draw">
+                Deneme Sınavları
+              </h1>
+              <p className="font-body text-lg text-[var(--muted-slate)] max-w-xl leading-relaxed">
+                Gerçek YDS formatında hazırlanmış kapsamlı deneme sınavları ile başarıya giden yolda emin adımlarla ilerleyin.
+              </p>
+            </div>
           </div>
-          <h3 className="text-3xl font-bold text-blue-600 mb-2">{exams.length}</h3>
-          <p className="text-sm text-slate-600">Toplam Sınav</p>
-        </Card>
+        </header>
 
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-green-500 to-green-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">✅</span>
-          </div>
-          <h3 className="text-3xl font-bold text-green-600 mb-2">{attemptedCount}</h3>
-          <p className="text-sm text-slate-600">Çözülmüş</p>
-        </Card>
-
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-orange-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">⏳</span>
-          </div>
-          <h3 className="text-3xl font-bold text-orange-600 mb-2">{notAttemptedCount}</h3>
-          <p className="text-sm text-slate-600">Çözülmemiş</p>
-        </Card>
-
-        <Card variant="glass" padding="md" hover className="text-center">
-          <div className="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-600 rounded-xl flex items-center justify-center mx-auto mb-4 shadow-lg">
-            <span className="text-2xl">🎯</span>
-          </div>
-          <h3 className="text-3xl font-bold text-purple-600 mb-2">
-            {attemptedCount > 0 
-              ? Math.round(exams.reduce((acc, exam) => acc + (exam.bestScore || 0), 0) / attemptedCount)
-              : 0
-            }
-          </h3>
-          <p className="text-sm text-slate-600">Ortalama Puan</p>
-        </Card>
-      </div>
-
-      {/* Filter Tabs */}
-      <div className="bg-white/80 backdrop-blur-sm rounded-2xl p-2 mb-8 shadow-lg border border-white/20">
-        <nav className="flex space-x-2">
+        {/* Stats Grid */}
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
           {[
-            { id: 'all', label: 'Tümü', count: exams.length, icon: '📋' },
-            { id: 'not-attempted', label: 'Çözülmemiş', count: notAttemptedCount, icon: '⏳' },
-            { id: 'attempted', label: 'Çözülmüş', count: attemptedCount, icon: '✅' }
-          ].map((tab) => (
-            <button
-              key={tab.id}
-              onClick={() => setFilter(tab.id as 'all' | 'attempted' | 'not-attempted')}
-              className={`flex items-center gap-2 px-6 py-3 rounded-xl font-medium text-sm transition-all duration-200 ${
-                filter === tab.id
-                  ? 'bg-gradient-to-r from-blue-500 to-indigo-600 text-white shadow-lg'
-                  : 'text-slate-600 hover:bg-slate-100 hover:text-slate-800'
-              }`}
+            { label: 'Toplam Sınav', counter: totalCounter, icon: Icons.scroll, accent: 'var(--rich-navy)' },
+            { label: 'Tamamlanan', counter: attemptedCounter, icon: Icons.checkCircle, accent: 'var(--forest-sage)' },
+            { label: 'Bekleyen', counter: pendingCounter, icon: Icons.clock, accent: 'var(--burnished-gold)' },
+            { label: 'Ortalama Puan', counter: avgCounter, icon: Icons.target, accent: 'var(--antique-bronze)', suffix: '%' },
+          ].map((stat, index) => (
+            <div
+              key={stat.label}
+              ref={stat.counter.ref}
+              className={`luxury-card p-6 text-center luxury-scale-reveal stagger-${index + 1}`}
             >
-              <span className="text-lg">{tab.icon}</span>
-              <span>{tab.label}</span>
-              <Badge variant="secondary" size="sm">
-                {tab.count}
-              </Badge>
-            </button>
+              <div
+                className="w-12 h-12 mx-auto mb-4 rounded-xl flex items-center justify-center"
+                style={{ backgroundColor: `color-mix(in srgb, ${stat.accent} 10%, transparent)`, color: stat.accent }}
+              >
+                {stat.icon}
+              </div>
+              <div className="stats-number luxury-count-up" style={{ animationDelay: `${(index + 1) * 150 + 300}ms` }}>
+                {stat.counter.count}{stat.suffix || ''}
+              </div>
+              <p className="font-body text-sm text-[var(--muted-slate)] mt-2 tracking-wide uppercase">
+                {stat.label}
+              </p>
+            </div>
           ))}
-        </nav>
-      </div>
+        </div>
 
-      {/* Exams Grid */}
-      {filteredExams.length === 0 ? (
-        <Card variant="glass" padding="lg" className="text-center">
-          <div className="text-slate-400 text-8xl mb-6">📝</div>
-          <h3 className="text-2xl font-bold text-slate-900 mb-4">
-            {filter === 'all' ? 'Henüz sınav eklenmemiş' : 
-             filter === 'attempted' ? 'Henüz sınav çözmediniz' : 'Tüm sınavları çözmüşsünüz'}
-          </h3>
-          <p className="text-lg text-slate-600 mb-6">
-            {filter === 'all' ? 'Yakında sınavlar eklenecek.' : 
-             filter === 'attempted' ? 'İlk sınavınızı çözmek için bir sınav seçin.' : 'Tebrikler! Tüm mevcut sınavları tamamladınız.'}
-          </p>
-          {filter !== 'all' && (
-            <Button
-              variant="primary"
-              onClick={() => setFilter('all')}
-              icon={<span>📋</span>}
-            >
-              Tüm Sınavları Görüntüle
-            </Button>
-          )}
-        </Card>
-      ) : (
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {filteredExams.map((exam) => (
-            <Card key={exam.id} variant="glass" padding="lg" hover className="group">
-              <CardHeader
-                title={exam.title}
-                subtitle={exam.description}
-                action={
-                  <div className="flex items-center gap-2">
-                    {exam.attempts && exam.attempts > 0 && (
-                      <Badge variant="success" size="sm">
-                        En İyi: {exam.bestScore}
-                      </Badge>
+        {/* Filter Tabs */}
+        <div className="mb-10 luxury-slide-in stagger-5">
+          <div className="inline-flex bg-[var(--warm-ivory)] rounded-xl p-1.5 border border-[rgba(184,134,11,0.1)] shadow-sm">
+            {[
+              { id: 'all', label: 'Tümü', count: exams.length },
+              { id: 'not-attempted', label: 'Bekleyen', count: notAttemptedCount },
+              { id: 'attempted', label: 'Tamamlanan', count: attemptedCount }
+            ].map((tab) => (
+              <button
+                key={tab.id}
+                onClick={() => setFilter(tab.id as 'all' | 'attempted' | 'not-attempted')}
+                className={`
+                  relative px-6 py-3 rounded-lg font-accent text-sm font-medium tracking-wide
+                  transition-all duration-300 ease-out
+                  ${filter === tab.id
+                    ? 'bg-[var(--rich-navy)] text-[var(--luxury-cream)] shadow-md'
+                    : 'text-[var(--muted-slate)] hover:text-[var(--rich-navy)] hover:bg-white/50'
+                  }
+                `}
+              >
+                <span>{tab.label}</span>
+                <span className={`
+                  ml-2 px-2 py-0.5 rounded-full text-xs
+                  ${filter === tab.id
+                    ? 'bg-[rgba(184,134,11,0.2)] text-[var(--burnished-gold)]'
+                    : 'bg-[var(--warm-ivory)] text-[var(--muted-slate)]'
+                  }
+                `}>
+                  {tab.count}
+                </span>
+              </button>
+            ))}
+          </div>
+        </div>
+
+        {/* Exams Grid */}
+        {filteredExams.length === 0 ? (
+          <div className="luxury-card p-16 text-center luxury-fade-up stagger-6">
+            <div className="w-24 h-24 mx-auto mb-8 rounded-full bg-[var(--warm-ivory)] flex items-center justify-center text-[var(--burnished-gold)]">
+              {Icons.scroll}
+            </div>
+            <h3 className="font-display text-2xl text-[var(--rich-navy)] mb-3">
+              {filter === 'all' ? 'Henüz sınav eklenmemiş' :
+               filter === 'attempted' ? 'Henüz sınav tamamlamadınız' : 'Tüm sınavları tamamladınız'}
+            </h3>
+            <p className="font-body text-[var(--muted-slate)] mb-8 max-w-md mx-auto">
+              {filter === 'all' ? 'Yakında yeni sınavlar eklenecektir.' :
+               filter === 'attempted' ? 'İlk sınavınıza başlamak için aşağıdan bir sınav seçin.' :
+               'Tebrikler! Mevcut tüm sınavları başarıyla tamamladınız.'}
+            </p>
+            {filter !== 'all' && (
+              <button
+                onClick={() => setFilter('all')}
+                className="luxury-btn inline-flex items-center gap-2"
+              >
+                Tüm Sınavları Görüntüle
+              </button>
+            )}
+          </div>
+        ) : (
+          <div className="grid lg:grid-cols-2 gap-8">
+            {filteredExams.map((exam, index) => (
+              <article
+                key={exam.id}
+                className={`luxury-card group luxury-scale-reveal stagger-${Math.min(index + 6, 12)}`}
+              >
+                {/* Card Header */}
+                <div className="p-6 pb-0">
+                  <div className="flex items-start justify-between gap-4 mb-4">
+                    <div className="flex-1">
+                      <h3 className="font-display text-2xl font-semibold text-[var(--rich-navy)] mb-2 group-hover:text-[var(--burnished-gold)] transition-colors duration-300">
+                        {exam.title}
+                      </h3>
+                      {exam.description && (
+                        <p className="font-body text-[var(--muted-slate)] text-sm line-clamp-2">
+                          {exam.description}
+                        </p>
+                      )}
+                    </div>
+                    {exam.attempts && exam.attempts > 0 && exam.bestScore && (
+                      <div className="flex-shrink-0">
+                        <div className={`luxury-badge-success flex items-center gap-1.5`}>
+                          {Icons.award}
+                          <span className="font-semibold">{exam.bestScore}%</span>
+                        </div>
+                      </div>
                     )}
-                    <div className="w-12 h-12 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform duration-200">
-                      <span className="text-2xl">📝</span>
-                    </div>
                   </div>
-                }
-              />
-              
-              <CardContent>
-                <div className="flex items-center gap-6 text-sm text-slate-600 mb-6">
-                  <div className="flex items-center gap-2">
-                    <span className="text-lg">📝</span>
-                    <span className="font-semibold">{exam.total_questions} Soru</span>
+
+                  {/* Exam Meta */}
+                  <div className="flex items-center gap-6 text-sm text-[var(--muted-slate)] font-body">
+                    <span className="flex items-center gap-2">
+                      {Icons.questions}
+                      <span className="font-medium">{exam.total_questions} Soru</span>
+                    </span>
+                    <span className="flex items-center gap-2">
+                      {Icons.timer}
+                      <span className="font-medium">{exam.duration_minutes} Dakika</span>
+                    </span>
                   </div>
-                  <div className="flex items-center gap-2">
-                    <span className="text-lg">⏱️</span>
-                    <span className="font-semibold">{exam.duration_minutes} Dakika</span>
-                  </div>
-                  {exam.topics && (
-                    <div className="flex items-center gap-2">
-                      <span className="text-lg">📚</span>
-                      <span className="font-semibold">{exam.topics.title}</span>
-                    </div>
-                  )}
                 </div>
 
+                <hr className="luxury-divider mx-6" />
+
+                {/* Previous Attempts (if any) */}
                 {exam.attempts && exam.attempts > 0 && (
-                  <div className="bg-gradient-to-r from-slate-50 to-blue-50 p-4 rounded-xl mb-6 border border-slate-200">
-                    <h4 className="font-semibold text-slate-900 mb-3 flex items-center gap-2">
-                      <span>📊</span>
-                      Sınav Geçmişi
-                    </h4>
-                    <div className="grid grid-cols-2 gap-4 text-sm">
-                      <div className="flex justify-between">
-                        <span className="text-slate-600">Deneme Sayısı:</span>
-                        <span className="font-semibold text-slate-900">{exam.attempts}</span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-slate-600">En İyi Puan:</span>
-                        <span className={`font-bold ${getScoreColor(exam.bestScore)}`}>
-                          {exam.bestScore}
-                        </span>
-                      </div>
-                      {exam.lastAttempt && (
-                        <div className="col-span-2 flex justify-between">
-                          <span className="text-slate-600">Son Deneme:</span>
-                          <span className="text-slate-700 font-medium">
-                            {new Date(exam.lastAttempt).toLocaleString('tr-TR')}
+                  <div className="px-6 pb-4">
+                    <div className="bg-gradient-to-r from-[var(--warm-ivory)] to-transparent p-4 rounded-xl">
+                      <div className="grid grid-cols-3 gap-4 text-sm">
+                        <div>
+                          <span className="block text-[var(--muted-slate)] font-body mb-1">Deneme</span>
+                          <span className="font-accent font-semibold text-[var(--rich-navy)]">{exam.attempts}x</span>
+                        </div>
+                        <div>
+                          <span className="block text-[var(--muted-slate)] font-body mb-1">En İyi</span>
+                          <span className={`font-accent font-semibold ${getScoreColor(exam.bestScore)}`}>
+                            {exam.bestScore}%
                           </span>
                         </div>
-                      )}
+                        {exam.lastAttempt && (
+                          <div>
+                            <span className="block text-[var(--muted-slate)] font-body mb-1">Son</span>
+                            <span className="font-accent text-[var(--rich-navy)] text-xs">
+                              {new Date(exam.lastAttempt).toLocaleDateString('tr-TR', {
+                                day: 'numeric',
+                                month: 'short'
+                              })}
+                            </span>
+                          </div>
+                        )}
+                      </div>
                     </div>
                   </div>
                 )}
 
-                <div className="flex gap-3">
+                {/* Actions */}
+                <div className="p-6 pt-2 flex gap-3">
                   <Link href={`/sinavlar/${exam.id}/baslat`} className="flex-1">
-                    <Button variant="primary" fullWidth>
-                      <span className="flex items-center gap-2">
-                        {exam.attempts && exam.attempts > 0 ? '🔄' : '▶️'}
-                        {exam.attempts && exam.attempts > 0 ? 'Tekrar Çöz' : 'Sınava Başla'}
-                      </span>
-                    </Button>
+                    <button className="luxury-btn w-full flex items-center justify-center gap-2">
+                      {exam.attempts && exam.attempts > 0 ? Icons.refresh : Icons.play}
+                      <span>{exam.attempts && exam.attempts > 0 ? 'Tekrar Çöz' : 'Sınava Başla'}</span>
+                    </button>
                   </Link>
-                  
+
                   {exam.attempts && exam.attempts > 0 && (
                     <Link href={`/sinavlar/${exam.id}/sonuclar`}>
-                      <Button variant="secondary">
-                        <span className="flex items-center gap-2">
-                          <span>📊</span>
-                          Sonuçlar
-                        </span>
-                      </Button>
+                      <button className="h-full px-5 rounded-xl border border-[rgba(184,134,11,0.2)] text-[var(--rich-navy)] hover:border-[var(--burnished-gold)] hover:text-[var(--burnished-gold)] transition-all duration-300 flex items-center gap-2">
+                        {Icons.chart}
+                      </button>
                     </Link>
                   )}
                 </div>
-              </CardContent>
-            </Card>
-          ))}
-        </div>
-      )}
+              </article>
+            ))}
+          </div>
+        )}
 
-      {/* Study Tips */}
-      <Card variant="glass" padding="lg" className="mt-8">
-        <CardHeader
-          title="💡 Sınav İpuçları"
-          subtitle="Başarılı olmak için bu ipuçlarını takip edin"
-        />
-        <CardContent>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-slate-600">
-            <div className="flex items-start gap-3">
-              <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-blue-600 font-bold text-xs">1</span>
-              </div>
-              <span>Sınavdan önce konuları gözden geçirin</span>
+        {/* Study Tips */}
+        <section className="mt-16 luxury-fade-up stagger-10">
+          <div className="luxury-card p-8 relative overflow-hidden">
+            <div className="absolute top-6 left-6 text-[var(--burnished-gold)]">
+              {Icons.quote}
             </div>
-            <div className="flex items-start gap-3">
-              <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-blue-600 font-bold text-xs">2</span>
+            <div className="relative">
+              <h3 className="font-display text-2xl text-[var(--rich-navy)] mb-6 pl-12">
+                Başarı İpuçları
+              </h3>
+              <div className="grid md:grid-cols-2 gap-x-12 gap-y-4 pl-12">
+                {[
+                  'Sınavdan önce konuları gözden geçirin',
+                  'Zaman yönetimine dikkat edin',
+                  'Önce kolay sorularla başlayın',
+                  'Cevaplarınızı mutlaka kontrol edin'
+                ].map((tip, index) => (
+                  <div key={index} className="flex items-start gap-3">
+                    <span className="w-6 h-6 rounded-full bg-gradient-to-br from-[var(--burnished-gold)] to-[var(--antique-bronze)] text-white text-xs font-accent font-bold flex items-center justify-center flex-shrink-0 mt-0.5">
+                      {index + 1}
+                    </span>
+                    <span className="font-body text-[var(--muted-slate)]">{tip}</span>
+                  </div>
+                ))}
               </div>
-              <span>Zaman yönetiminizi iyi yapın</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-blue-600 font-bold text-xs">3</span>
-              </div>
-              <span>Önce kolay soruları çözün</span>
-            </div>
-            <div className="flex items-start gap-3">
-              <div className="w-6 h-6 bg-blue-100 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
-                <span className="text-blue-600 font-bold text-xs">4</span>
-              </div>
-              <span>Cevaplarınızı kontrol etmeyi unutmayın</span>
             </div>
           </div>
-        </CardContent>
-      </Card>
+        </section>
+
+      </div>
     </div>
   )
 }
