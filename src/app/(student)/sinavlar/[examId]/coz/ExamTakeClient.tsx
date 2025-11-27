@@ -6,6 +6,108 @@ import { firebase } from '@/lib/firebase-client'
 import { Exam, Question } from '@/types'
 import Image from 'next/image'
 
+// Custom SVG Icons for Scholarly Elegance
+const Icons = {
+  clock: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 6v6l4 2" strokeLinecap="round" />
+    </svg>
+  ),
+  grid: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <rect x="3" y="3" width="7" height="7" rx="1" />
+      <rect x="14" y="3" width="7" height="7" rx="1" />
+      <rect x="3" y="14" width="7" height="7" rx="1" />
+      <rect x="14" y="14" width="7" height="7" rx="1" />
+    </svg>
+  ),
+  eye: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z" />
+      <circle cx="12" cy="12" r="3" />
+    </svg>
+  ),
+  eyeOff: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M17.94 17.94A10.07 10.07 0 0112 20c-7 0-11-8-11-8a18.45 18.45 0 015.06-5.94M9.9 4.24A9.12 9.12 0 0112 4c7 0 11 8 11 8a18.5 18.5 0 01-2.16 3.19m-6.72-1.07a3 3 0 11-4.24-4.24" />
+      <line x1="1" y1="1" x2="23" y2="23" />
+    </svg>
+  ),
+  flag: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
+      <line x1="4" y1="22" x2="4" y2="15" />
+    </svg>
+  ),
+  flagFilled: (
+    <svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z" />
+      <line x1="4" y1="22" x2="4" y2="15" />
+    </svg>
+  ),
+  check: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <polyline points="20 6 9 17 4 12" />
+    </svg>
+  ),
+  x: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <line x1="18" y1="6" x2="6" y2="18" />
+      <line x1="6" y1="6" x2="18" y2="18" />
+    </svg>
+  ),
+  chevronLeft: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <polyline points="15 18 9 12 15 6" />
+    </svg>
+  ),
+  chevronRight: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <polyline points="9 18 15 12 9 6" />
+    </svg>
+  ),
+  lightbulb: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M9 18h6M10 22h4M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0018 8 6 6 0 006 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 018.91 14" />
+    </svg>
+  ),
+  warning: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z" />
+      <line x1="12" y1="9" x2="12" y2="13" />
+      <line x1="12" y1="17" x2="12.01" y2="17" />
+    </svg>
+  ),
+  send: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <line x1="22" y1="2" x2="11" y2="13" />
+      <polygon points="22 2 15 22 11 13 2 9 22 2" />
+    </svg>
+  ),
+  close: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <line x1="18" y1="6" x2="6" y2="18" />
+      <line x1="6" y1="6" x2="18" y2="18" />
+    </svg>
+  ),
+  eraser: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M20 20H7L3 16a1 1 0 010-1.41L13.59 4a2 2 0 012.82 0L21 8.59a2 2 0 010 2.82L10 22" />
+      <line x1="18" y1="13" x2="9" y2="4" />
+    </svg>
+  ),
+  scroll: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <path d="M14.5 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V7.5L14.5 2z" />
+      <polyline points="14 2 14 8 20 8" />
+      <line x1="16" y1="13" x2="8" y2="13" />
+      <line x1="16" y1="17" x2="8" y2="17" />
+      <line x1="10" y1="9" x2="8" y2="9" />
+    </svg>
+  ),
+}
+
 interface ExamSession {
   exam: Exam
   questions: Question[]
@@ -40,15 +142,15 @@ export default function ExamTakingPage() {
     const timer = setInterval(() => {
       setSession(prev => {
         if (!prev) return null
-        
+
         const newTimeRemaining = prev.timeRemaining - 1
-        
+
         // Auto-submit when time runs out
         if (newTimeRemaining <= 0) {
           submitExam(true) // auto-submit flag
           return { ...prev, timeRemaining: 0 }
         }
-        
+
         return { ...prev, timeRemaining: newTimeRemaining }
       })
     }, 1000)
@@ -190,14 +292,14 @@ export default function ExamTakingPage() {
   const navigateQuestion = (direction: 'prev' | 'next') => {
     setSession(prev => {
       if (!prev) return null
-      
+
       let newIndex = prev.currentQuestion
       if (direction === 'prev' && newIndex > 0) {
         newIndex -= 1
       } else if (direction === 'next' && newIndex < prev.questions.length - 1) {
         newIndex += 1
       }
-      
+
       return { ...prev, currentQuestion: newIndex }
     })
   }
@@ -289,7 +391,7 @@ export default function ExamTakingPage() {
     const hours = Math.floor(seconds / 3600)
     const minutes = Math.floor((seconds % 3600) / 60)
     const secs = seconds % 60
-    
+
     if (hours > 0) {
       return `${hours}:${minutes.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`
     }
@@ -310,27 +412,43 @@ export default function ExamTakingPage() {
     return session?.flaggedQuestions.size || 0
   }
 
+  // Luxury Loading State
   if (loading) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-blue-500 mx-auto"></div>
-          <p className="mt-4 text-slate-600">Sınav hazırlanıyor...</p>
+      <div className="min-h-screen paper-texture flex items-center justify-center">
+        <div className="text-center luxury-fade-up">
+          <div className="relative w-20 h-20 mx-auto mb-6">
+            <div className="absolute inset-0 rounded-full border-2 border-[var(--luxury-gold)]/30 animate-spin" style={{ animationDuration: '3s' }} />
+            <div className="absolute inset-2 rounded-full border-2 border-t-[var(--luxury-gold)] border-r-transparent border-b-transparent border-l-transparent animate-spin" style={{ animationDuration: '1.5s' }} />
+            <div className="absolute inset-0 flex items-center justify-center text-[var(--luxury-gold)]">
+              {Icons.scroll}
+            </div>
+          </div>
+          <p className="font-body text-[var(--luxury-charcoal)]/70 text-lg">
+            Sınav hazırlanıyor...
+          </p>
         </div>
       </div>
     )
   }
 
+  // Not Found State
   if (!session) {
     return (
-      <div className="min-h-screen flex items-center justify-center bg-slate-50">
-        <div className="text-center">
-          <div className="text-6xl mb-4">⚠️</div>
-          <h1 className="text-2xl font-bold text-slate-900 mb-4">Sınav Bulunamadı</h1>
-          <p className="text-slate-600 mb-6">Bu sınav mevcut değil veya erişim yetkiniz bulunmuyor.</p>
+      <div className="min-h-screen paper-texture flex items-center justify-center">
+        <div className="text-center luxury-fade-up max-w-md mx-4">
+          <div className="w-20 h-20 mx-auto mb-6 rounded-full bg-[var(--luxury-burgundy)]/10 flex items-center justify-center">
+            <span className="text-[var(--luxury-burgundy)]">{Icons.warning}</span>
+          </div>
+          <h1 className="font-display text-3xl text-[var(--luxury-navy)] mb-4">
+            Sınav Bulunamadı
+          </h1>
+          <p className="font-body text-[var(--luxury-charcoal)]/70 mb-8">
+            Bu sınav mevcut değil veya erişim yetkiniz bulunmuyor.
+          </p>
           <button
             onClick={() => router.push('/sinavlar')}
-            className="btn-primary"
+            className="luxury-btn"
           >
             Sınavlara Dön
           </button>
@@ -342,54 +460,74 @@ export default function ExamTakingPage() {
   const currentQuestion = session.questions[session.currentQuestion]
   const isLastQuestion = session.currentQuestion === session.questions.length - 1
   const timeWarning = session.timeRemaining <= 300 // 5 minutes warning
+  const timeCritical = session.timeRemaining <= 60 // 1 minute critical
 
   return (
-    <div className="min-h-screen bg-slate-50">
-      {/* Header */}
-      <header className="bg-white shadow-sm border-b sticky top-0 z-40">
-        <div className="container mx-auto px-4 py-4">
+    <div className="min-h-screen paper-texture">
+      {/* Elegant Header */}
+      <header className="sticky top-0 z-40 backdrop-blur-md bg-[var(--luxury-cream)]/95 border-b border-[var(--luxury-gold)]/20 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
+            {/* Left: Title */}
             <div className="flex items-center gap-4">
-              <h1 className="text-xl font-bold text-slate-900">{session.exam.title}</h1>
+              <h1 className="font-display text-xl md:text-2xl text-[var(--luxury-navy)]">
+                {session.exam.title}
+              </h1>
               {session.reviewMode && (
-                <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm font-medium">
+                <span className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-[var(--luxury-sage)]/20 text-[var(--luxury-sage)] font-accent text-sm font-medium">
+                  <span className="text-[var(--luxury-sage)]">{Icons.eye}</span>
                   İnceleme Modu
                 </span>
               )}
             </div>
-            
-            <div className="flex items-center gap-4">
+
+            {/* Right: Controls */}
+            <div className="flex items-center gap-3">
               {/* Timer */}
               {!session.reviewMode && (
-                <div className={`text-lg font-mono font-bold px-3 py-1 rounded ${
-                  timeWarning ? 'text-red-600 bg-red-50' : 'text-slate-700'
+                <div className={`flex items-center gap-2 px-4 py-2 rounded-lg font-mono font-semibold transition-all duration-300 ${
+                  timeCritical
+                    ? 'bg-[var(--luxury-burgundy)] text-white animate-pulse'
+                    : timeWarning
+                    ? 'bg-[var(--luxury-burgundy)]/10 text-[var(--luxury-burgundy)]'
+                    : 'bg-[var(--luxury-navy)]/5 text-[var(--luxury-navy)]'
                 }`}>
-                  ⏰ {formatTime(session.timeRemaining)}
+                  <span className={timeCritical ? 'text-white' : timeWarning ? 'text-[var(--luxury-burgundy)]' : 'text-[var(--luxury-gold)]'}>
+                    {Icons.clock}
+                  </span>
+                  <span className="text-lg">{formatTime(session.timeRemaining)}</span>
                 </div>
               )}
 
               {/* Question Palette Toggle */}
               <button
                 onClick={() => setShowQuestionPalette(!showQuestionPalette)}
-                className="btn-secondary text-sm"
+                className={`hidden md:flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium transition-all duration-300 ${
+                  showQuestionPalette
+                    ? 'bg-[var(--luxury-gold)] text-white'
+                    : 'bg-[var(--luxury-ivory)] text-[var(--luxury-charcoal)] hover:bg-[var(--luxury-gold)]/20'
+                }`}
               >
-                Sorular ({session.currentQuestion + 1}/{session.questions.length})
+                <span className={showQuestionPalette ? 'text-white' : 'text-[var(--luxury-gold)]'}>{Icons.grid}</span>
+                <span>Soru {session.currentQuestion + 1}/{session.questions.length}</span>
               </button>
 
               {/* Review Mode Toggle */}
               {session.reviewMode ? (
                 <button
                   onClick={exitReviewMode}
-                  className="btn-secondary text-sm"
+                  className="flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium bg-[var(--luxury-sage)] text-white hover:bg-[var(--luxury-sage)]/90 transition-all duration-300"
                 >
-                  Sınava Dön
+                  <span>{Icons.eyeOff}</span>
+                  <span className="hidden sm:inline">Sınava Dön</span>
                 </button>
               ) : (
                 <button
                   onClick={enterReviewMode}
-                  className="btn-outline text-sm"
+                  className="hidden sm:flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium border border-[var(--luxury-charcoal)]/20 text-[var(--luxury-charcoal)] hover:border-[var(--luxury-gold)] hover:text-[var(--luxury-gold)] transition-all duration-300"
                 >
-                  İnceleme Modu
+                  <span>{Icons.eye}</span>
+                  <span>İnceleme</span>
                 </button>
               )}
             </div>
@@ -397,17 +535,26 @@ export default function ExamTakingPage() {
 
           {/* Progress Bar */}
           <div className="mt-4">
-            <div className="flex justify-between text-sm text-slate-600 mb-2">
-              <span>İlerleme</span>
-              <span>
-                Cevaplanan: {getAnsweredCount()} • 
-                İşaretlenen: {getFlaggedCount()} • 
-                Kalan: {session.questions.length - getAnsweredCount()}
+            <div className="flex justify-between text-sm font-body text-[var(--luxury-charcoal)]/70 mb-2">
+              <span>İlerleme Durumu</span>
+              <span className="flex items-center gap-3">
+                <span className="flex items-center gap-1">
+                  <span className="w-2 h-2 rounded-full bg-[var(--luxury-sage)]"></span>
+                  Cevaplanan: {getAnsweredCount()}
+                </span>
+                <span className="flex items-center gap-1">
+                  <span className="w-2 h-2 rounded-full bg-[var(--luxury-gold)]"></span>
+                  İşaretli: {getFlaggedCount()}
+                </span>
+                <span className="flex items-center gap-1">
+                  <span className="w-2 h-2 rounded-full bg-[var(--luxury-charcoal)]/20"></span>
+                  Kalan: {session.questions.length - getAnsweredCount()}
+                </span>
               </span>
             </div>
-            <div className="w-full bg-slate-200 rounded-full h-2">
-              <div 
-                className="bg-blue-500 h-2 rounded-full transition-all duration-300"
+            <div className="w-full h-2 bg-[var(--luxury-charcoal)]/10 rounded-full overflow-hidden">
+              <div
+                className="h-full bg-gradient-to-r from-[var(--luxury-gold)] to-[var(--luxury-sage)] rounded-full transition-all duration-500 ease-out"
                 style={{ width: `${(getAnsweredCount() / session.questions.length) * 100}%` }}
               />
             </div>
@@ -415,64 +562,66 @@ export default function ExamTakingPage() {
         </div>
       </header>
 
-      {/* Question Palette */}
+      {/* Question Palette Dropdown */}
       {showQuestionPalette && (
-        <div className="bg-white border-b shadow-sm">
-          <div className="container mx-auto px-4 py-4">
-            <div className="flex justify-between items-center mb-3">
-              <h3 className="font-semibold text-slate-900">Soru Paleti</h3>
+        <div className="sticky top-[140px] z-30 backdrop-blur-md bg-[var(--luxury-cream)]/98 border-b border-[var(--luxury-gold)]/20 shadow-lg luxury-fade-up">
+          <div className="max-w-7xl mx-auto px-4 py-6">
+            <div className="flex justify-between items-center mb-4">
+              <h3 className="font-display text-lg text-[var(--luxury-navy)]">Soru Paleti</h3>
               <button
                 onClick={() => setShowQuestionPalette(false)}
-                className="text-slate-500 hover:text-slate-700"
+                className="p-2 rounded-lg text-[var(--luxury-charcoal)]/50 hover:text-[var(--luxury-charcoal)] hover:bg-[var(--luxury-charcoal)]/5 transition-all"
               >
-                ✕
+                {Icons.close}
               </button>
             </div>
+
             <div className="grid grid-cols-10 sm:grid-cols-15 lg:grid-cols-20 gap-2">
               {session.questions.map((question, index) => {
                 const status = getQuestionStatus(question.id)
                 const isCurrent = index === session.currentQuestion
-                
+                const isFlagged = session.flaggedQuestions.has(question.id)
+
                 return (
                   <button
                     key={question.id}
                     onClick={() => goToQuestion(index)}
-                    className={`p-2 text-sm rounded font-medium transition-colors ${
-                      isCurrent 
-                        ? 'bg-blue-500 text-white' 
+                    className={`relative p-2 text-sm rounded-lg font-accent font-medium transition-all duration-200 ${
+                      isCurrent
+                        ? 'bg-[var(--luxury-navy)] text-white shadow-lg scale-110'
                         : status === 'answered'
-                        ? 'bg-green-100 text-green-700 hover:bg-green-200'
+                        ? 'bg-[var(--luxury-sage)]/20 text-[var(--luxury-sage)] hover:bg-[var(--luxury-sage)]/30'
                         : status === 'flagged'
-                        ? 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
-                        : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+                        ? 'bg-[var(--luxury-gold)]/20 text-[var(--luxury-gold)] hover:bg-[var(--luxury-gold)]/30'
+                        : 'bg-[var(--luxury-charcoal)]/5 text-[var(--luxury-charcoal)]/70 hover:bg-[var(--luxury-charcoal)]/10'
                     }`}
                   >
                     {index + 1}
-                    {session.flaggedQuestions.has(question.id) && (
-                      <span className="block text-xs">🏳️</span>
+                    {isFlagged && (
+                      <span className="absolute -top-1 -right-1 w-3 h-3 rounded-full bg-[var(--luxury-gold)] border-2 border-[var(--luxury-cream)]"></span>
                     )}
                   </button>
                 )
               })}
             </div>
-            
+
             {/* Legend */}
-            <div className="flex flex-wrap gap-4 mt-3 text-xs text-slate-600">
-              <div className="flex items-center gap-1">
-                <div className="w-3 h-3 bg-green-100 rounded"></div>
+            <div className="flex flex-wrap gap-6 mt-4 pt-4 border-t border-[var(--luxury-gold)]/10">
+              <div className="flex items-center gap-2 text-sm font-body text-[var(--luxury-charcoal)]/70">
+                <div className="w-4 h-4 rounded bg-[var(--luxury-sage)]/20"></div>
                 <span>Cevaplandı</span>
               </div>
-              <div className="flex items-center gap-1">
-                <div className="w-3 h-3 bg-yellow-100 rounded"></div>
+              <div className="flex items-center gap-2 text-sm font-body text-[var(--luxury-charcoal)]/70">
+                <div className="w-4 h-4 rounded bg-[var(--luxury-gold)]/20"></div>
                 <span>İşaretli</span>
               </div>
-              <div className="flex items-center gap-1">
-                <div className="w-3 h-3 bg-slate-100 rounded"></div>
+              <div className="flex items-center gap-2 text-sm font-body text-[var(--luxury-charcoal)]/70">
+                <div className="w-4 h-4 rounded bg-[var(--luxury-charcoal)]/5"></div>
                 <span>Cevapsız</span>
               </div>
-              <div className="flex items-center gap-1">
-                <div className="w-3 h-3 bg-blue-500 rounded"></div>
-                <span>Mevcut</span>
+              <div className="flex items-center gap-2 text-sm font-body text-[var(--luxury-charcoal)]/70">
+                <div className="w-4 h-4 rounded bg-[var(--luxury-navy)]"></div>
+                <span>Mevcut Soru</span>
               </div>
             </div>
           </div>
@@ -480,78 +629,101 @@ export default function ExamTakingPage() {
       )}
 
       {/* Main Content */}
-      <main className="container mx-auto px-4 py-6 max-w-4xl">
+      <main className="max-w-4xl mx-auto px-4 py-8">
         {/* Question Card */}
-        <div className="card p-8 mb-6">
-          <div className="flex justify-between items-start mb-6">
-            <div className="flex items-center gap-3">
-              <span className="bg-blue-100 text-blue-700 px-3 py-1 rounded-full text-sm font-medium">
-                Soru {session.currentQuestion + 1}
+        <div className="luxury-card p-8 md:p-10 mb-6 luxury-fade-up">
+          {/* Question Header */}
+          <div className="flex justify-between items-start mb-8 pb-6 border-b border-[var(--luxury-gold)]/10">
+            <div className="flex items-center gap-4">
+              <span className="inline-flex items-center justify-center w-12 h-12 rounded-full bg-[var(--luxury-navy)] text-white font-display text-lg">
+                {session.currentQuestion + 1}
               </span>
+              <div>
+                <p className="font-body text-sm text-[var(--luxury-charcoal)]/50">
+                  Soru {session.currentQuestion + 1} / {session.questions.length}
+                </p>
+                <p className="font-accent text-[var(--luxury-charcoal)]">
+                  {currentQuestion.category || 'Genel'}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-3">
+              {/* Flag Button */}
               <button
                 onClick={() => toggleFlag(currentQuestion.id)}
-                className={`p-2 rounded-lg transition-colors ${
+                className={`p-3 rounded-lg transition-all duration-300 ${
                   session.flaggedQuestions.has(currentQuestion.id)
-                    ? 'bg-yellow-100 text-yellow-700'
-                    : 'bg-slate-100 text-slate-500 hover:bg-slate-200'
+                    ? 'bg-[var(--luxury-gold)] text-white shadow-lg'
+                    : 'bg-[var(--luxury-charcoal)]/5 text-[var(--luxury-charcoal)]/50 hover:bg-[var(--luxury-gold)]/20 hover:text-[var(--luxury-gold)]'
                 }`}
                 title={session.flaggedQuestions.has(currentQuestion.id) ? 'İşareti Kaldır' : 'İşaretle'}
               >
-                🏳️
+                {session.flaggedQuestions.has(currentQuestion.id) ? Icons.flagFilled : Icons.flag}
+              </button>
+
+              {/* Explanation Toggle */}
+              <button
+                onClick={() => toggleExplanation(currentQuestion.id)}
+                className={`flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium transition-all duration-300 ${
+                  session.showExplanations[currentQuestion.id]
+                    ? 'bg-[var(--luxury-sage)] text-white'
+                    : 'border border-[var(--luxury-charcoal)]/20 text-[var(--luxury-charcoal)] hover:border-[var(--luxury-sage)] hover:text-[var(--luxury-sage)]'
+                }`}
+              >
+                <span>{Icons.lightbulb}</span>
+                <span className="hidden sm:inline">
+                  {session.showExplanations[currentQuestion.id] ? 'Gizle' : 'Açıklama'}
+                </span>
               </button>
             </div>
-            
-            {/* Show Explanation Button */}
-            <button
-              onClick={() => toggleExplanation(currentQuestion.id)}
-              className="btn-outline text-sm"
-            >
-              {session.showExplanations[currentQuestion.id] ? 'Açıklamayı Gizle' : 'Açıklamayı Göster'}
-            </button>
           </div>
 
           {/* Question Image */}
           {currentQuestion.image_url && (
-            <div className="mb-6">
+            <div className="mb-8 rounded-xl overflow-hidden border border-[var(--luxury-gold)]/20">
               <Image
                 src={currentQuestion.image_url}
                 alt="Soru görseli"
                 width={800}
                 height={400}
-                className="rounded-lg shadow-sm max-w-full h-auto"
+                className="w-full h-auto"
               />
             </div>
           )}
 
           {/* Question Text */}
-          <div className="mb-8">
-            <p className="text-lg text-slate-800 leading-relaxed whitespace-pre-wrap">
+          <div className="mb-10">
+            <p className="font-body text-lg md:text-xl text-[var(--luxury-charcoal)] leading-relaxed whitespace-pre-wrap">
               {currentQuestion.question_text}
             </p>
           </div>
 
           {/* Answer Options */}
-          <div className="space-y-3 mb-6">
-            {(['A', 'B', 'C', 'D', 'E'] as const).map((option) => {
+          <div className="space-y-4 mb-8">
+            {(['A', 'B', 'C', 'D', 'E'] as const).map((option, index) => {
               const optionText = currentQuestion[`option_${option.toLowerCase()}` as keyof Question] as string
+              if (!optionText) return null
+
               const isSelected = session.answers[currentQuestion.id] === option
               const isCorrect = currentQuestion.correct_answer === option
               const showResult = session.showExplanations[currentQuestion.id]
-              
+
               return (
                 <label
                   key={option}
-                  className={`block p-4 rounded-lg border-2 cursor-pointer transition-all ${
+                  className={`group block p-5 rounded-xl border-2 cursor-pointer transition-all duration-300 luxury-fade-up ${
                     showResult
                       ? isCorrect
-                        ? 'border-green-500 bg-green-50'
+                        ? 'border-[var(--luxury-sage)] bg-[var(--luxury-sage)]/10'
                         : isSelected && !isCorrect
-                        ? 'border-red-500 bg-red-50'
-                        : 'border-slate-200 bg-slate-50'
+                        ? 'border-[var(--luxury-burgundy)] bg-[var(--luxury-burgundy)]/10'
+                        : 'border-[var(--luxury-charcoal)]/10 bg-[var(--luxury-charcoal)]/5'
                       : isSelected
-                      ? 'border-blue-500 bg-blue-50'
-                      : 'border-slate-200 hover:border-slate-300 hover:bg-slate-50'
+                      ? 'border-[var(--luxury-gold)] bg-[var(--luxury-gold)]/10 shadow-lg'
+                      : 'border-[var(--luxury-charcoal)]/10 hover:border-[var(--luxury-gold)]/50 hover:bg-[var(--luxury-gold)]/5'
                   }`}
+                  style={{ animationDelay: `${index * 50}ms` }}
                 >
                   <input
                     type="radio"
@@ -563,20 +735,38 @@ export default function ExamTakingPage() {
                     className="sr-only"
                   />
                   <div className="flex items-center justify-between">
-                    <div className="flex items-center gap-3">
-                      <span className={`font-bold text-lg ${
-                        showResult && isCorrect ? 'text-green-600' :
-                        showResult && isSelected && !isCorrect ? 'text-red-600' :
-                        isSelected ? 'text-blue-600' : 'text-slate-700'
+                    <div className="flex items-center gap-4">
+                      <span className={`flex items-center justify-center w-10 h-10 rounded-full font-display text-lg transition-all duration-300 ${
+                        showResult && isCorrect
+                          ? 'bg-[var(--luxury-sage)] text-white'
+                          : showResult && isSelected && !isCorrect
+                          ? 'bg-[var(--luxury-burgundy)] text-white'
+                          : isSelected
+                          ? 'bg-[var(--luxury-gold)] text-white'
+                          : 'bg-[var(--luxury-charcoal)]/10 text-[var(--luxury-charcoal)] group-hover:bg-[var(--luxury-gold)]/20 group-hover:text-[var(--luxury-gold)]'
                       }`}>
-                        {option})
+                        {option}
                       </span>
-                      <span className="text-slate-800">{optionText}</span>
+                      <span className={`font-body text-base md:text-lg ${
+                        showResult && isCorrect ? 'text-[var(--luxury-sage)] font-medium' :
+                        showResult && isSelected && !isCorrect ? 'text-[var(--luxury-burgundy)]' :
+                        'text-[var(--luxury-charcoal)]'
+                      }`}>
+                        {optionText}
+                      </span>
                     </div>
                     {showResult && (
-                      <div>
-                        {isCorrect && <span className="text-green-600 text-xl">✓</span>}
-                        {isSelected && !isCorrect && <span className="text-red-600 text-xl">✗</span>}
+                      <div className="flex-shrink-0">
+                        {isCorrect && (
+                          <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--luxury-sage)] text-white">
+                            {Icons.check}
+                          </span>
+                        )}
+                        {isSelected && !isCorrect && (
+                          <span className="flex items-center justify-center w-8 h-8 rounded-full bg-[var(--luxury-burgundy)] text-white">
+                            {Icons.x}
+                          </span>
+                        )}
                       </div>
                     )}
                   </div>
@@ -585,19 +775,21 @@ export default function ExamTakingPage() {
             })}
           </div>
 
-          {/* Explanation */}
+          {/* Explanation Panel */}
           {session.showExplanations[currentQuestion.id] && (
-            <div className="mt-6 p-6 bg-blue-50 border border-blue-200 rounded-lg">
-              <div className="flex items-center gap-2 mb-3">
-                <span className="text-xl">💡</span>
-                <h4 className="font-semibold text-blue-900">Açıklama ve Çözüm</h4>
+            <div className="mt-8 p-6 rounded-xl bg-gradient-to-br from-[var(--luxury-sage)]/10 to-[var(--luxury-gold)]/5 border border-[var(--luxury-sage)]/20 luxury-fade-up">
+              <div className="flex items-center gap-3 mb-4">
+                <span className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--luxury-sage)]/20 text-[var(--luxury-sage)]">
+                  {Icons.lightbulb}
+                </span>
+                <div>
+                  <h4 className="font-display text-lg text-[var(--luxury-navy)]">Açıklama ve Çözüm</h4>
+                  <p className="font-body text-sm text-[var(--luxury-charcoal)]/70">
+                    Doğru Cevap: <span className="font-semibold text-[var(--luxury-sage)]">{currentQuestion.correct_answer}</span>
+                  </p>
+                </div>
               </div>
-              <div className="mb-4">
-                <p className="font-medium text-blue-800 mb-2">
-                  Doğru Cevap: <span className="font-bold text-lg">{currentQuestion.correct_answer}</span>
-                </p>
-              </div>
-              <div className="text-blue-800 leading-relaxed whitespace-pre-wrap">
+              <div className="font-body text-[var(--luxury-charcoal)] leading-relaxed whitespace-pre-wrap pl-[52px]">
                 {currentQuestion.explanation || 'Bu soru için henüz açıklama eklenmemiş.'}
               </div>
             </div>
@@ -605,45 +797,58 @@ export default function ExamTakingPage() {
         </div>
 
         {/* Navigation */}
-        <div className="flex justify-between items-center">
+        <div className="flex flex-col sm:flex-row justify-between items-center gap-4 luxury-fade-up" style={{ animationDelay: '200ms' }}>
           <button
             onClick={() => navigateQuestion('prev')}
             disabled={session.currentQuestion === 0}
-            className={`px-6 py-3 rounded-lg font-medium ${
+            className={`flex items-center gap-2 px-6 py-3 rounded-xl font-accent font-medium transition-all duration-300 ${
               session.currentQuestion === 0
-                ? 'bg-slate-200 text-slate-400 cursor-not-allowed'
-                : 'btn-secondary'
+                ? 'bg-[var(--luxury-charcoal)]/5 text-[var(--luxury-charcoal)]/30 cursor-not-allowed'
+                : 'bg-[var(--luxury-ivory)] text-[var(--luxury-charcoal)] hover:bg-[var(--luxury-gold)]/20 hover:text-[var(--luxury-gold)] border border-[var(--luxury-charcoal)]/10 hover:border-[var(--luxury-gold)]'
             }`}
           >
-            ← Önceki Soru
+            {Icons.chevronLeft}
+            <span>Önceki Soru</span>
           </button>
 
-          <div className="flex gap-3">
+          <div className="flex items-center gap-3">
             {/* Clear Answer */}
             {session.answers[currentQuestion.id] && !session.reviewMode && (
               <button
                 onClick={() => handleAnswerSelect(currentQuestion.id, '')}
-                className="btn-outline text-sm"
+                className="flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium border border-[var(--luxury-charcoal)]/20 text-[var(--luxury-charcoal)]/70 hover:border-[var(--luxury-burgundy)] hover:text-[var(--luxury-burgundy)] transition-all duration-300"
               >
-                Cevabı Temizle
+                <span>{Icons.eraser}</span>
+                <span className="hidden sm:inline">Temizle</span>
               </button>
             )}
+
+            {/* Mobile Question Palette */}
+            <button
+              onClick={() => setShowQuestionPalette(!showQuestionPalette)}
+              className="md:hidden flex items-center gap-2 px-4 py-2 rounded-lg font-accent text-sm font-medium bg-[var(--luxury-ivory)] text-[var(--luxury-charcoal)] border border-[var(--luxury-charcoal)]/10"
+            >
+              <span className="text-[var(--luxury-gold)]">{Icons.grid}</span>
+              <span>{session.currentQuestion + 1}/{session.questions.length}</span>
+            </button>
 
             {/* Submit or Next */}
             {isLastQuestion ? (
               <button
                 onClick={() => setShowSubmitConfirm(true)}
                 disabled={session.isSubmitting || session.reviewMode}
-                className="btn-primary px-6 py-3"
+                className="luxury-btn flex items-center gap-2 px-8"
               >
-                {session.isSubmitting ? 'Gönderiliyor...' : 'Sınavı Bitir'}
+                <span>{Icons.send}</span>
+                <span>{session.isSubmitting ? 'Gönderiliyor...' : 'Sınavı Bitir'}</span>
               </button>
             ) : (
               <button
                 onClick={() => navigateQuestion('next')}
-                className="btn-primary px-6 py-3"
+                className="luxury-btn flex items-center gap-2 px-8"
               >
-                Sonraki Soru →
+                <span>Sonraki Soru</span>
+                {Icons.chevronRight}
               </button>
             )}
           </div>
@@ -652,31 +857,51 @@ export default function ExamTakingPage() {
 
       {/* Submit Confirmation Modal */}
       {showSubmitConfirm && (
-        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
-          <div className="bg-white rounded-lg p-6 max-w-md w-full mx-4">
-            <h3 className="text-xl font-bold text-slate-900 mb-4">Sınavı Bitir</h3>
-            
-            <div className="mb-6 space-y-2 text-sm text-slate-600">
-              <p>• Toplam Soru: {session.questions.length}</p>
-              <p>• Cevaplanan: {getAnsweredCount()}</p>
-              <p>• Boş Bırakılan: {session.questions.length - getAnsweredCount()}</p>
-              <p>• Kalan Süre: {formatTime(session.timeRemaining)}</p>
+        <div className="fixed inset-0 bg-[var(--luxury-navy)]/60 backdrop-blur-sm flex items-center justify-center z-50 p-4">
+          <div className="luxury-card p-8 max-w-md w-full luxury-scale-reveal">
+            {/* Header with decorative element */}
+            <div className="text-center mb-6">
+              <div className="w-16 h-16 mx-auto mb-4 rounded-full bg-[var(--luxury-gold)]/10 flex items-center justify-center">
+                <span className="text-[var(--luxury-gold)]">{Icons.send}</span>
+              </div>
+              <h3 className="font-display text-2xl text-[var(--luxury-navy)]">Sınavı Bitir</h3>
             </div>
-            
-            <p className="text-slate-700 mb-6">
-              Sınavı bitirmek istediğinizden emin misiniz? Bu işlem geri alınamaz.
+
+            {/* Stats Summary */}
+            <div className="grid grid-cols-2 gap-4 mb-6 p-4 rounded-xl bg-[var(--luxury-ivory)]">
+              <div className="text-center">
+                <p className="font-display text-2xl text-[var(--luxury-sage)]">{getAnsweredCount()}</p>
+                <p className="font-body text-sm text-[var(--luxury-charcoal)]/70">Cevaplanan</p>
+              </div>
+              <div className="text-center">
+                <p className="font-display text-2xl text-[var(--luxury-burgundy)]">{session.questions.length - getAnsweredCount()}</p>
+                <p className="font-body text-sm text-[var(--luxury-charcoal)]/70">Boş</p>
+              </div>
+              <div className="text-center">
+                <p className="font-display text-2xl text-[var(--luxury-navy)]">{session.questions.length}</p>
+                <p className="font-body text-sm text-[var(--luxury-charcoal)]/70">Toplam Soru</p>
+              </div>
+              <div className="text-center">
+                <p className="font-display text-2xl text-[var(--luxury-gold)]">{formatTime(session.timeRemaining)}</p>
+                <p className="font-body text-sm text-[var(--luxury-charcoal)]/70">Kalan Süre</p>
+              </div>
+            </div>
+
+            <p className="font-body text-[var(--luxury-charcoal)]/80 text-center mb-8">
+              Sınavı bitirmek istediğinizden emin misiniz?<br />
+              <span className="text-[var(--luxury-burgundy)] text-sm">Bu işlem geri alınamaz.</span>
             </p>
-            
-            <div className="flex gap-3">
+
+            <div className="flex gap-4">
               <button
                 onClick={() => setShowSubmitConfirm(false)}
-                className="btn-secondary flex-1"
+                className="flex-1 px-6 py-3 rounded-xl font-accent font-medium bg-[var(--luxury-ivory)] text-[var(--luxury-charcoal)] hover:bg-[var(--luxury-charcoal)]/10 transition-all duration-300 border border-[var(--luxury-charcoal)]/10"
               >
                 İptal
               </button>
               <button
                 onClick={() => submitExam()}
-                className="btn-primary flex-1"
+                className="flex-1 luxury-btn"
               >
                 Evet, Bitir
               </button>
@@ -685,14 +910,20 @@ export default function ExamTakingPage() {
         </div>
       )}
 
-      {/* Time Warning */}
+      {/* Time Warning Toast */}
       {timeWarning && !session.reviewMode && (
-        <div className="fixed bottom-4 right-4 bg-red-500 text-white p-4 rounded-lg shadow-lg">
-          <div className="flex items-center gap-2">
-            <span className="text-xl">⚠️</span>
+        <div className={`fixed bottom-6 right-6 p-4 rounded-xl shadow-2xl luxury-fade-up transition-all duration-500 ${
+          timeCritical
+            ? 'bg-[var(--luxury-burgundy)] text-white animate-pulse'
+            : 'bg-gradient-to-r from-[var(--luxury-burgundy)] to-[var(--luxury-gold)] text-white'
+        }`}>
+          <div className="flex items-center gap-3">
+            <span className="text-white/90">{Icons.warning}</span>
             <div>
-              <p className="font-bold">Süre Azalıyor!</p>
-              <p className="text-sm">Kalan: {formatTime(session.timeRemaining)}</p>
+              <p className="font-accent font-semibold">
+                {timeCritical ? 'Son Dakika!' : 'Süre Azalıyor!'}
+              </p>
+              <p className="font-mono text-lg">{formatTime(session.timeRemaining)}</p>
             </div>
           </div>
         </div>

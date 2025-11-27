@@ -7,6 +7,85 @@ import { DemoDataStore } from '@/lib/demo-data'
 import Link from 'next/link'
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts'
 
+// Custom SVG Icons for Scholarly Elegance
+const Icons = {
+  back: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <polyline points="15 18 9 12 15 6" />
+    </svg>
+  ),
+  chart: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M18 20V10M12 20V4M6 20v-6" strokeLinecap="round" />
+    </svg>
+  ),
+  pieChart: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M21.21 15.89A10 10 0 118 2.83M22 12A10 10 0 0012 2v10z" />
+    </svg>
+  ),
+  check: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <polyline points="20 6 9 17 4 12" />
+    </svg>
+  ),
+  x: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="w-5 h-5">
+      <line x1="18" y1="6" x2="6" y2="18" />
+      <line x1="6" y1="6" x2="18" y2="18" />
+    </svg>
+  ),
+  clock: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 6v6l4 2" strokeLinecap="round" />
+    </svg>
+  ),
+  target: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <circle cx="12" cy="12" r="10" />
+      <circle cx="12" cy="12" r="6" />
+      <circle cx="12" cy="12" r="2" />
+    </svg>
+  ),
+  lightbulb: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M9 18h6M10 22h4M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0018 8 6 6 0 006 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 018.91 14" />
+    </svg>
+  ),
+  book: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M4 19.5A2.5 2.5 0 016.5 17H20M4 4.5A2.5 2.5 0 016.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15z" />
+    </svg>
+  ),
+  refresh: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M23 4v6h-6M1 20v-6h6" />
+      <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15" />
+    </svg>
+  ),
+  messageCircle: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z" />
+    </svg>
+  ),
+  scroll: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-6 h-6">
+      <path d="M14.5 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V7.5L14.5 2z" />
+      <polyline points="14 2 14 8 20 8" />
+      <line x1="16" y1="13" x2="8" y2="13" />
+      <line x1="16" y1="17" x2="8" y2="17" />
+      <line x1="10" y1="9" x2="8" y2="9" />
+    </svg>
+  ),
+  award: (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="w-5 h-5">
+      <circle cx="12" cy="8" r="7" />
+      <polyline points="8.21 13.89 7 23 12 20 17 23 15.79 13.88" />
+    </svg>
+  ),
+}
+
 interface DetailedResult {
   examTitle: string
   totalQuestions: number
@@ -32,6 +111,14 @@ interface DetailedResult {
     percentage: number
   }>
   recommendations: string[]
+}
+
+// Custom chart colors matching Scholarly Elegance theme
+const CHART_COLORS = {
+  correct: '#4A6741', // luxury-sage
+  wrong: '#7D2E2E', // luxury-burgundy
+  empty: '#B8860B', // luxury-gold
+  bar: '#1A2744', // luxury-navy
 }
 
 export default function ExamAnalysisPage() {
@@ -81,7 +168,7 @@ export default function ExamAnalysisPage() {
       const questionAnalysis = questions.map(question => {
         const userAnswer = examResult.answers[question.id] || ''
         const isCorrect = userAnswer === question.correct_answer
-        
+
         return {
           questionId: question.id,
           questionText: question.question_text,
@@ -150,7 +237,7 @@ export default function ExamAnalysisPage() {
 
   const generateRecommendations = (questionAnalysis: any[], categoryBreakdown: any[]): string[] => {
     const recommendations = []
-    
+
     // Category-based recommendations
     const weakCategories = categoryBreakdown.filter(cat => cat.percentage < 70)
     weakCategories.forEach(cat => {
@@ -184,201 +271,334 @@ export default function ExamAnalysisPage() {
     return recommendations
   }
 
-  const COLORS = ['#10B981', '#EF4444', '#F59E0B']
-
+  // Luxury Loading State
   if (loading) {
     return (
-      <div className="flex items-center justify-center py-12">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-8 w-8 border-b-2 border-blue-500 mx-auto"></div>
-          <p className="mt-4">Analiz hazırlanıyor...</p>
+      <div className="min-h-screen paper-texture flex items-center justify-center">
+        <div className="text-center luxury-fade-up">
+          <div className="relative w-20 h-20 mx-auto mb-6">
+            <div className="absolute inset-0 rounded-full border-2 border-[var(--luxury-gold)]/30 animate-spin" style={{ animationDuration: '3s' }} />
+            <div className="absolute inset-2 rounded-full border-2 border-t-[var(--luxury-gold)] border-r-transparent border-b-transparent border-l-transparent animate-spin" style={{ animationDuration: '1.5s' }} />
+            <div className="absolute inset-0 flex items-center justify-center text-[var(--luxury-gold)]">
+              {Icons.chart}
+            </div>
+          </div>
+          <p className="font-body text-[var(--luxury-charcoal)]/70 text-lg">
+            Analiz hazırlanıyor...
+          </p>
         </div>
       </div>
     )
   }
 
+  // Not Found State
   if (!analysis) {
     return (
-      <div className="text-center py-12">
-        <p>Analiz bulunamadı.</p>
-        <Link href="/sinavlar" className="btn-primary mt-4">
-          Sınavlara Dön
-        </Link>
+      <div className="min-h-screen paper-texture flex items-center justify-center">
+        <div className="text-center luxury-fade-up max-w-md mx-4">
+          <div className="w-20 h-20 mx-auto mb-6 rounded-full bg-[var(--luxury-burgundy)]/10 flex items-center justify-center">
+            <span className="text-[var(--luxury-burgundy)]">{Icons.x}</span>
+          </div>
+          <h1 className="font-display text-3xl text-[var(--luxury-navy)] mb-4">
+            Analiz Bulunamadı
+          </h1>
+          <p className="font-body text-[var(--luxury-charcoal)]/70 mb-8">
+            Bu sınav için henüz bir analiz bulunmuyor.
+          </p>
+          <Link href="/sinavlar" className="luxury-btn inline-flex items-center gap-2">
+            {Icons.back}
+            <span>Sınavlara Dön</span>
+          </Link>
+        </div>
       </div>
     )
   }
 
+  const pieData = [
+    { name: 'Doğru', value: analysis.correctAnswers, color: CHART_COLORS.correct },
+    { name: 'Yanlış', value: analysis.wrongAnswers, color: CHART_COLORS.wrong },
+    { name: 'Boş', value: analysis.emptyAnswers, color: CHART_COLORS.empty }
+  ]
+
   return (
-    <div className="container mx-auto py-8 max-w-6xl">
-      <div className="flex items-center justify-between mb-8">
-        <div>
-          <h1 className="text-3xl font-bold text-slate-900 mb-2">Sınav Analizi</h1>
-          <p className="text-slate-600">{analysis.examTitle}</p>
-        </div>
-        <Link href={`/sinavlar/${examId}/sonuclar`} className="btn-secondary">
-          ← Sonuçlara Dön
-        </Link>
-      </div>
-
-      {/* Overview Cards */}
-      <div className="grid md:grid-cols-4 gap-6 mb-8">
-        <div className="card p-6 text-center">
-          <div className="text-3xl font-bold text-blue-500 mb-2">{analysis.score}%</div>
-          <div className="text-sm text-slate-600">Genel Başarı</div>
-        </div>
-        <div className="card p-6 text-center">
-          <div className="text-3xl font-bold text-green-500 mb-2">{analysis.correctAnswers}</div>
-          <div className="text-sm text-slate-600">Doğru Cevap</div>
-        </div>
-        <div className="card p-6 text-center">
-          <div className="text-3xl font-bold text-red-500 mb-2">{analysis.wrongAnswers}</div>
-          <div className="text-sm text-slate-600">Yanlış Cevap</div>
-        </div>
-        <div className="card p-6 text-center">
-          <div className="text-3xl font-bold text-slate-500 mb-2">{analysis.timeSpent} dk</div>
-          <div className="text-sm text-slate-600">Süre</div>
-        </div>
-      </div>
-
-      {/* Charts */}
-      <div className="grid lg:grid-cols-2 gap-8 mb-8">
-        {/* Score Distribution */}
-        <div className="card p-6">
-          <h3 className="text-lg font-semibold mb-4">Cevap Dağılımı</h3>
-          <div className="h-64">
-            <ResponsiveContainer width="100%" height="100%">
-              <PieChart>
-                <Pie
-                  data={[
-                    { name: 'Doğru', value: analysis.correctAnswers, color: '#10B981' },
-                    { name: 'Yanlış', value: analysis.wrongAnswers, color: '#EF4444' },
-                    { name: 'Boş', value: analysis.emptyAnswers, color: '#F59E0B' }
-                  ]}
-                  cx="50%"
-                  cy="50%"
-                  labelLine={false}
-                  label={({ name, value }) => `${name}: ${value}`}
-                  outerRadius={80}
-                  fill="#8884d8"
-                  dataKey="value"
-                >
-                  {[{ color: '#10B981' }, { color: '#EF4444' }, { color: '#F59E0B' }].map((entry, index) => (
-                    <Cell key={`cell-${index}`} fill={entry.color} />
-                  ))}
-                </Pie>
-                <Tooltip />
-              </PieChart>
-            </ResponsiveContainer>
+    <div className="min-h-screen paper-texture py-8 px-4">
+      <div className="max-w-6xl mx-auto">
+        {/* Header */}
+        <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-6 mb-8 luxury-fade-up">
+          <div>
+            <Link
+              href={`/sinavlar/${examId}/sonuclar`}
+              className="inline-flex items-center gap-2 font-accent text-[var(--luxury-charcoal)]/70 hover:text-[var(--luxury-gold)] transition-colors mb-4"
+            >
+              {Icons.back}
+              <span>Sonuçlara Dön</span>
+            </Link>
+            <h1 className="font-display text-3xl md:text-4xl text-[var(--luxury-navy)]">Sınav Analizi</h1>
+            <p className="font-body text-[var(--luxury-charcoal)]/70 mt-2">{analysis.examTitle}</p>
           </div>
         </div>
 
-        {/* Category Performance */}
-        <div className="card p-6">
-          <h3 className="text-lg font-semibold mb-4">Konu Bazlı Performans</h3>
-          <div className="h-64">
-            <ResponsiveContainer width="100%" height="100%">
-              <BarChart data={analysis.categoryBreakdown}>
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis 
-                  dataKey="category" 
-                  angle={-45}
-                  textAnchor="end"
-                  height={100}
-                  fontSize={12}
-                />
-                <YAxis domain={[0, 100]} />
-                <Tooltip formatter={(value) => [`${value}%`, 'Başarı Oranı']} />
-                <Bar dataKey="percentage" fill="#3B82F6" />
-              </BarChart>
-            </ResponsiveContainer>
-          </div>
-        </div>
-      </div>
-
-      {/* Recommendations */}
-      <div className="card p-6 mb-8">
-        <h3 className="text-lg font-semibold mb-4">📚 Kişiselleştirilmiş Öneriler</h3>
-        <div className="space-y-3">
-          {analysis.recommendations.map((rec, index) => (
-            <div key={index} className="flex items-start gap-3 p-3 bg-blue-50 rounded-lg">
-              <span className="text-blue-500 font-bold">{index + 1}.</span>
-              <p className="text-blue-800">{rec}</p>
+        {/* Overview Cards */}
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+          <div className="luxury-card p-6 text-center luxury-fade-up stagger-1">
+            <div className="flex items-center justify-center w-12 h-12 rounded-full bg-[var(--luxury-gold)]/10 mx-auto mb-4">
+              <span className="text-[var(--luxury-gold)]">{Icons.award}</span>
             </div>
-          ))}
-        </div>
-      </div>
+            <div className="font-display text-4xl text-[var(--luxury-gold)] mb-1">{analysis.score}%</div>
+            <div className="font-body text-sm text-[var(--luxury-charcoal)]/70">Genel Başarı</div>
+          </div>
 
-      {/* Detailed Question Analysis */}
-      <div className="card p-6">
-        <h3 className="text-lg font-semibold mb-6">Soru Bazlı Detaylı Analiz</h3>
-        <div className="space-y-6">
-          {analysis.questionAnalysis.map((qa, index) => (
-            <div key={qa.questionId} className="border-l-4 border-slate-200 pl-4">
-              <div className="flex items-start justify-between mb-2">
-                <div className="flex items-center gap-3">
-                  <span className="font-semibold text-slate-600">Soru {index + 1}</span>
-                  <span className={`px-2 py-1 rounded text-xs font-medium ${
-                    qa.isCorrect ? 'bg-green-100 text-green-800' : 'bg-red-100 text-red-800'
+          <div className="luxury-card p-6 text-center luxury-fade-up stagger-2">
+            <div className="flex items-center justify-center w-12 h-12 rounded-full bg-[var(--luxury-sage)]/10 mx-auto mb-4">
+              <span className="text-[var(--luxury-sage)]">{Icons.check}</span>
+            </div>
+            <div className="font-display text-4xl text-[var(--luxury-sage)] mb-1">{analysis.correctAnswers}</div>
+            <div className="font-body text-sm text-[var(--luxury-charcoal)]/70">Doğru Cevap</div>
+          </div>
+
+          <div className="luxury-card p-6 text-center luxury-fade-up stagger-3">
+            <div className="flex items-center justify-center w-12 h-12 rounded-full bg-[var(--luxury-burgundy)]/10 mx-auto mb-4">
+              <span className="text-[var(--luxury-burgundy)]">{Icons.x}</span>
+            </div>
+            <div className="font-display text-4xl text-[var(--luxury-burgundy)] mb-1">{analysis.wrongAnswers}</div>
+            <div className="font-body text-sm text-[var(--luxury-charcoal)]/70">Yanlış Cevap</div>
+          </div>
+
+          <div className="luxury-card p-6 text-center luxury-fade-up stagger-4">
+            <div className="flex items-center justify-center w-12 h-12 rounded-full bg-[var(--luxury-navy)]/10 mx-auto mb-4">
+              <span className="text-[var(--luxury-navy)]">{Icons.clock}</span>
+            </div>
+            <div className="font-display text-4xl text-[var(--luxury-navy)] mb-1">{analysis.timeSpent}</div>
+            <div className="font-body text-sm text-[var(--luxury-charcoal)]/70">Dakika</div>
+          </div>
+        </div>
+
+        {/* Charts */}
+        <div className="grid lg:grid-cols-2 gap-8 mb-8">
+          {/* Score Distribution Pie Chart */}
+          <div className="luxury-card p-8 luxury-fade-up stagger-5">
+            <div className="flex items-center gap-3 mb-6">
+              <span className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--luxury-gold)]/10 text-[var(--luxury-gold)]">
+                {Icons.pieChart}
+              </span>
+              <h3 className="font-display text-xl text-[var(--luxury-navy)]">Cevap Dağılımı</h3>
+            </div>
+            <div className="h-72">
+              <ResponsiveContainer width="100%" height="100%">
+                <PieChart>
+                  <Pie
+                    data={pieData}
+                    cx="50%"
+                    cy="50%"
+                    labelLine={false}
+                    label={({ name, value }) => `${name}: ${value}`}
+                    outerRadius={100}
+                    fill="#8884d8"
+                    dataKey="value"
+                    strokeWidth={2}
+                    stroke="var(--luxury-cream)"
+                  >
+                    {pieData.map((entry, index) => (
+                      <Cell key={`cell-${index}`} fill={entry.color} />
+                    ))}
+                  </Pie>
+                  <Tooltip
+                    contentStyle={{
+                      backgroundColor: 'var(--luxury-cream)',
+                      border: '1px solid var(--luxury-gold)',
+                      borderRadius: '8px',
+                      fontFamily: 'var(--font-body)'
+                    }}
+                  />
+                </PieChart>
+              </ResponsiveContainer>
+            </div>
+            {/* Legend */}
+            <div className="flex justify-center gap-6 mt-4">
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 rounded-full" style={{ backgroundColor: CHART_COLORS.correct }}></div>
+                <span className="font-body text-sm text-[var(--luxury-charcoal)]">Doğru</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 rounded-full" style={{ backgroundColor: CHART_COLORS.wrong }}></div>
+                <span className="font-body text-sm text-[var(--luxury-charcoal)]">Yanlış</span>
+              </div>
+              <div className="flex items-center gap-2">
+                <div className="w-3 h-3 rounded-full" style={{ backgroundColor: CHART_COLORS.empty }}></div>
+                <span className="font-body text-sm text-[var(--luxury-charcoal)]">Boş</span>
+              </div>
+            </div>
+          </div>
+
+          {/* Category Performance Bar Chart */}
+          <div className="luxury-card p-8 luxury-fade-up stagger-6">
+            <div className="flex items-center gap-3 mb-6">
+              <span className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--luxury-navy)]/10 text-[var(--luxury-navy)]">
+                {Icons.chart}
+              </span>
+              <h3 className="font-display text-xl text-[var(--luxury-navy)]">Konu Bazlı Performans</h3>
+            </div>
+            <div className="h-72">
+              <ResponsiveContainer width="100%" height="100%">
+                <BarChart data={analysis.categoryBreakdown} margin={{ bottom: 60 }}>
+                  <CartesianGrid strokeDasharray="3 3" stroke="var(--luxury-charcoal)" opacity={0.1} />
+                  <XAxis
+                    dataKey="category"
+                    angle={-45}
+                    textAnchor="end"
+                    height={80}
+                    fontSize={11}
+                    tick={{ fill: 'var(--luxury-charcoal)' }}
+                  />
+                  <YAxis
+                    domain={[0, 100]}
+                    tick={{ fill: 'var(--luxury-charcoal)' }}
+                    fontSize={12}
+                  />
+                  <Tooltip
+                    formatter={(value) => [`${value}%`, 'Başarı Oranı']}
+                    contentStyle={{
+                      backgroundColor: 'var(--luxury-cream)',
+                      border: '1px solid var(--luxury-gold)',
+                      borderRadius: '8px',
+                      fontFamily: 'var(--font-body)'
+                    }}
+                  />
+                  <Bar dataKey="percentage" fill={CHART_COLORS.bar} radius={[4, 4, 0, 0]} />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+        </div>
+
+        {/* Recommendations */}
+        <div className="luxury-card p-8 mb-8 luxury-fade-up stagger-7">
+          <div className="flex items-center gap-3 mb-6">
+            <span className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--luxury-gold)]/10 text-[var(--luxury-gold)]">
+              {Icons.lightbulb}
+            </span>
+            <h3 className="font-display text-xl text-[var(--luxury-navy)]">Kişiselleştirilmiş Öneriler</h3>
+          </div>
+          <div className="space-y-4">
+            {analysis.recommendations.map((rec, index) => (
+              <div
+                key={index}
+                className="flex items-start gap-4 p-4 rounded-xl bg-gradient-to-r from-[var(--luxury-gold)]/10 to-[var(--luxury-sage)]/5 border border-[var(--luxury-gold)]/20 luxury-fade-up"
+                style={{ animationDelay: `${(index + 7) * 50}ms` }}
+              >
+                <span className="flex-shrink-0 flex items-center justify-center w-8 h-8 rounded-full bg-[var(--luxury-gold)] text-white font-display text-sm">
+                  {index + 1}
+                </span>
+                <p className="font-body text-[var(--luxury-charcoal)] leading-relaxed">{rec}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Detailed Question Analysis */}
+        <div className="luxury-card p-8 mb-8 luxury-fade-up stagger-8">
+          <div className="flex items-center gap-3 mb-8 pb-6 border-b border-[var(--luxury-gold)]/10">
+            <span className="flex items-center justify-center w-10 h-10 rounded-full bg-[var(--luxury-navy)]/10 text-[var(--luxury-navy)]">
+              {Icons.scroll}
+            </span>
+            <h3 className="font-display text-xl text-[var(--luxury-navy)]">Soru Bazlı Detaylı Analiz</h3>
+          </div>
+
+          <div className="space-y-6">
+            {analysis.questionAnalysis.map((qa, index) => (
+              <div
+                key={qa.questionId}
+                className={`p-6 rounded-xl border-l-4 transition-all duration-300 ${
+                  qa.isCorrect
+                    ? 'border-l-[var(--luxury-sage)] bg-[var(--luxury-sage)]/5'
+                    : qa.userAnswer
+                      ? 'border-l-[var(--luxury-burgundy)] bg-[var(--luxury-burgundy)]/5'
+                      : 'border-l-[var(--luxury-gold)] bg-[var(--luxury-gold)]/5'
+                }`}
+              >
+                <div className="flex flex-wrap items-center gap-3 mb-4">
+                  <span className="font-display text-lg text-[var(--luxury-navy)]">Soru {index + 1}</span>
+                  <span className={`px-3 py-1 rounded-full text-xs font-accent font-medium text-white ${
+                    qa.isCorrect ? 'bg-[var(--luxury-sage)]' : 'bg-[var(--luxury-burgundy)]'
                   }`}>
                     {qa.isCorrect ? 'Doğru' : 'Yanlış'}
                   </span>
-                  <span className="px-2 py-1 bg-slate-100 text-slate-700 rounded text-xs">
+                  <span className="px-3 py-1 bg-[var(--luxury-navy)]/10 text-[var(--luxury-navy)] rounded-full text-xs font-accent">
                     {qa.category}
                   </span>
-                  <span className={`px-2 py-1 rounded text-xs font-medium ${
-                    qa.difficulty === 'Easy' ? 'bg-green-100 text-green-700' :
-                    qa.difficulty === 'Medium' ? 'bg-yellow-100 text-yellow-700' :
-                    'bg-red-100 text-red-700'
+                  <span className={`px-3 py-1 rounded-full text-xs font-accent font-medium ${
+                    qa.difficulty === 'Easy'
+                      ? 'bg-[var(--luxury-sage)]/20 text-[var(--luxury-sage)]'
+                      : qa.difficulty === 'Medium'
+                        ? 'bg-[var(--luxury-gold)]/20 text-[var(--luxury-gold)]'
+                        : 'bg-[var(--luxury-burgundy)]/20 text-[var(--luxury-burgundy)]'
                   }`}>
-                    {qa.difficulty}
+                    {qa.difficulty === 'Easy' ? 'Kolay' : qa.difficulty === 'Medium' ? 'Orta' : 'Zor'}
                   </span>
                 </div>
+
+                <p className="font-body text-[var(--luxury-charcoal)] mb-4 leading-relaxed">
+                  {qa.questionText.length > 200
+                    ? qa.questionText.substring(0, 200) + '...'
+                    : qa.questionText
+                  }
+                </p>
+
+                <div className="grid md:grid-cols-2 gap-4 mb-4">
+                  <div className="flex items-center gap-2 p-3 rounded-lg bg-white/50">
+                    <span className="font-body text-[var(--luxury-charcoal)]/70">Cevabınız:</span>
+                    <span className={`font-accent font-semibold ${
+                      qa.isCorrect ? 'text-[var(--luxury-sage)]' : 'text-[var(--luxury-burgundy)]'
+                    }`}>
+                      {qa.userAnswer || 'Boş'}
+                    </span>
+                  </div>
+                  <div className="flex items-center gap-2 p-3 rounded-lg bg-white/50">
+                    <span className="font-body text-[var(--luxury-charcoal)]/70">Doğru Cevap:</span>
+                    <span className="font-accent font-semibold text-[var(--luxury-sage)]">{qa.correctAnswer}</span>
+                  </div>
+                </div>
+
+                {!qa.isCorrect && qa.explanation && (
+                  <div className="p-4 rounded-xl bg-gradient-to-br from-[var(--luxury-gold)]/10 to-[var(--luxury-sage)]/5 border border-[var(--luxury-gold)]/20">
+                    <div className="flex items-center gap-2 mb-2">
+                      <span className="text-[var(--luxury-gold)]">{Icons.lightbulb}</span>
+                      <span className="font-accent font-medium text-[var(--luxury-navy)]">Açıklama</span>
+                    </div>
+                    <p className="font-body text-sm text-[var(--luxury-charcoal)]/80 pl-7">
+                      {qa.explanation}
+                    </p>
+                  </div>
+                )}
               </div>
-
-              <p className="text-slate-700 mb-3 text-sm leading-relaxed">
-                {qa.questionText.length > 150 
-                  ? qa.questionText.substring(0, 150) + '...'
-                  : qa.questionText
-                }
-              </p>
-
-              <div className="grid md:grid-cols-2 gap-4 text-sm">
-                <div>
-                  <span className="font-medium">Sizin Cevabınız: </span>
-                  <span className={qa.isCorrect ? 'text-green-600' : 'text-red-600'}>
-                    {qa.userAnswer || 'Boş'}
-                  </span>
-                </div>
-                <div>
-                  <span className="font-medium">Doğru Cevap: </span>
-                  <span className="text-green-600">{qa.correctAnswer}</span>
-                </div>
-              </div>
-
-              {!qa.isCorrect && (
-                <div className="mt-3 p-3 bg-slate-50 rounded">
-                  <p className="text-sm text-slate-700">
-                    <span className="font-medium">Açıklama: </span>
-                    {qa.explanation}
-                  </p>
-                </div>
-              )}
-            </div>
-          ))}
+            ))}
+          </div>
         </div>
-      </div>
 
-      {/* Action Buttons */}
-      <div className="flex gap-4 mt-8">
-        <Link href={`/sinavlar/${examId}/coz`} className="btn-primary">
-          🔄 Sınavı Tekrar Çöz
-        </Link>
-        <Link href="/konular" className="btn-secondary">
-          📚 Konuları İncele
-        </Link>
-        <Link href="/egitmene-sor" className="btn-secondary">
-          💬 Eğitmene Sor
-        </Link>
+        {/* Action Buttons */}
+        <div className="flex flex-wrap gap-4 luxury-fade-up stagger-9">
+          <Link
+            href={`/sinavlar/${examId}/coz`}
+            className="luxury-btn inline-flex items-center gap-2"
+          >
+            {Icons.refresh}
+            <span>Sınavı Tekrar Çöz</span>
+          </Link>
+          <Link
+            href="/konular"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-accent font-medium border border-[var(--luxury-charcoal)]/20 text-[var(--luxury-charcoal)] hover:border-[var(--luxury-gold)] hover:text-[var(--luxury-gold)] transition-all duration-300"
+          >
+            {Icons.book}
+            <span>Konuları İncele</span>
+          </Link>
+          <Link
+            href="/egitmene-sor"
+            className="inline-flex items-center gap-2 px-6 py-3 rounded-xl font-accent font-medium border border-[var(--luxury-charcoal)]/20 text-[var(--luxury-charcoal)] hover:border-[var(--luxury-gold)] hover:text-[var(--luxury-gold)] transition-all duration-300"
+          >
+            {Icons.messageCircle}
+            <span>Eğitmene Sor</span>
+          </Link>
+        </div>
       </div>
     </div>
   )
